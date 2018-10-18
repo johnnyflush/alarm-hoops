@@ -1,67 +1,181 @@
 ,Fuel,VegasTotal,DvP_5,Fuel_Projection,Fuel_Value,RG,DvP,DvPRank,Opponent,PMIN,Player,Position,RG_Projection,RG_Value,Salary,Team,Total
-0,Joel Embiid,103,7th,48.5,5.511363636363636,Joel Embiid,220.5,220.5,@ BOS,33.00,Joel Embiid,C,47.03,5.34,8800.0,PHI,103
-1,S. Curry,116.5,26th,47.5,5.523255813953488,Stephen Curry,O/U,211,OKC,34.00,Stephen Curry,PG/SG,47.65,5.54,8600.0,GSW,117
-2,K. Durant,116.5,11th,45.8,5.088888888888889,,,,,,,,,,,,
-3,D. Saric,103,30th,28.3,5.1454545454545455,,,,,,,,,,,,
-4,D. Jones,116.5,26th,12.0,4.0,,,,,,,,,,,,
-5,H. Diallo,103.5,1st,10.8,3.4838709677419355,,,,,,,,,,,,
-6,D. Theis,,,,,,,,,,,,,,,,
-7,T. Ulis,,,,,,,,,,,,,,,,
-8,D. House,,,,,,,,,,,,,,,,
-9,D. Lee,,,,,,,,,,,,,,,,
-10,R. Williams,,,,,,,,,,,,,,,,
-11,A. Gaddy,,,,,,,,,,,,,,,,
-12,T. Davis,,,,,,,,,,,,,,,,
-13,L. Shamet,,,,,,,,,,,,,,,,
-14,J. Evans III,,,,,,,,,,,,,,,,
-15,M. Derrickson,,,,,,,,,,,,,,,,
-16,Brad Wanamaker,,,,,,,,,,,,,,,,
-17,D. Burton,,,,,,,,,,,,,,,,
-18,K. Nunn,,,,,,,,,,,,,,,,
-19,N. Pelle,,,,,,,,,,,,,,,,
-20,B. Alford,,,,,,,,,,,,,,,,
-21,S. Milton,,,,,,,,,,,,,,,,
-22,J. Bolden,,,,,,,,,,,,,,,,
-23,R. Solomon,,,,,,,,,,,,,,,,
-24,Jeff Roberson,,,,,,,,,,,,,,,,
-25,Nick King,,,,,,,,,,,,,,,,
-26,Ben Simmons,103,2nd,44.5,5.2976190476190474,Ben Simmons,211,211,@ BOS,35.00,Ben Simmons,PG/SF,40.74,4.85,8400.0,PHI,103
-27,Paul George,103.5,17th,40.5,5.0625,Paul George,211,211,@ GSW,36.00,Paul George,SF/PF,41.43,5.18,8000.0,OKC,103.5
-28,K. Irving,108,20th,38.0,5.0,Kyrie Irving,220.5,220.5,PHI,33.00,Kyrie Irving,PG,38.32,5.04,7600.0,BOS,108
-29,D. Schroder,103.5,28th,33.8,5.365079365079365,Dennis Schroder,211,220.5,@ GSW,33.00,Dennis Schroder,PG/SG,32.43,5.15,6300.0,OKC,103.5
-30,D. Green,116.5,4th,32.0,4.383561643835616,Draymond Green,211,220.5,OKC,28.00,Draymond Green,PF/C,31.07,4.26,7300.0,GSW,117
-31,G. Hayward,108,5th,31.3,4.815384615384615,Gordon Hayward,220.5,211,PHI,25.00,Gordon Hayward,SG/SF,25.19,3.88,6500.0,BOS,108
-32,Al Horford,108,9th,28.8,4.721311475409837,Al Horford,211,220.5,PHI,32.00,Al Horford,PF/C,32.86,5.39,6100.0,BOS,108
-33,Klay Thompson,116.5,6th,28.8,4.881355932203389,Klay Thompson,220.5,211,OKC,34.00,Klay Thompson,SG,30.93,5.24,5900.0,GSW,117
-34,J. Tatum,108,23rd,27.5,4.910714285714286,Jayson Tatum,220.5,220.5,PHI,32.00,Jayson Tatum,SF/PF,28.48,5.09,5600.0,BOS,108
-35,M. Fultz,103,2nd,27.3,5.46,Markelle Fultz,211,220.5,@ BOS,28.00,Markelle Fultz,PG/SG,26.23,5.25,5000.0,PHI,103
-36,S. Adams,103.5,13th,27.0,4.655172413793103,Steven Adams,220.5,211,@ GSW,32.00,Steven Adams,C,30.66,5.29,5800.0,OKC,103.5
-37,J. Brown,108,5th,25.8,4.867924528301887,Jaylen Brown,220.5,211,PHI,32.00,Jaylen Brown,SG/SF,26.45,4.99,5300.0,BOS,108
-38,R. Covington,103,30th,25.5,5.425531914893617,Robert Covington,                                        DvPRank,                                        Vegas Lines,@ BOS,33.00,Robert Covington,SF/PF,28.24,6.01,4700.0,PHI,103
-39,JJ Redick,103,8th,21.3,4.346938775510204,J.J. Redick,211,220.5,@ BOS,29.00,J.J. Redick,SG/SF,22.81,4.66,4900.0,PHI,103
-40,M. Morris,108,23rd,20.0,4.761904761904762,Marcus Morris,220.5,220.5,PHI,20.00,Marcus Morris,SF/PF,17.49,4.16,4200.0,BOS,108
-41,J. Grant,103.5,17th,19.0,4.4186046511627906,Jerami Grant,211,211,@ GSW,23.00,Jerami Grant,SF/PF,18.52,4.31,4300.0,OKC,103.5
-42,M. Smart,108,20th,19.0,4.3181818181818175,Marcus Smart,220.5,220.5,PHI,23.00,Marcus Smart,PG/SG,19.32,4.39,4400.0,BOS,108
-43,J. Bell,116.5,4th,17.5,4.2682926829268295,Jordan Bell,220.5,211,OKC,18.00,Jordan Bell,PF/C,18.7,4.56,4100.0,GSW,117
-44,T. Rozier,108,20th,17.0,3.7777777777777777,Terry Rozier,220.5,220.5,PHI,20.00,Terry Rozier,PG/SG,17.66,3.92,4500.0,BOS,108
-45,A. Iguodala,116.5,6th,16.8,4.2,Andre Iguodala,211,211,OKC,26.00,Andre Iguodala,SG/SF,18.86,4.72,4000.0,GSW,117
-46,N. Noel,103.5,13th,15.3,4.25,Nerlens Noel,211,211,@ GSW,16.00,Nerlens Noel,C,15.56,4.32,3600.0,OKC,103.5
-47,P. Patterson,103.5,2nd,13.5,3.5526315789473686,Patrick Patterson,220.5,220.5,@ GSW,26.00,Patrick Patterson,PF/C,15.91,4.19,3800.0,OKC,103.5
-48,Aron Baynes,108,8th,13.5,3.4615384615384617,Aron Baynes,220.5,220.5,PHI,16.00,Aron Baynes,C,13.28,3.41,3900.0,BOS,108
-49,S. Livingston,116.5,26th,12.8,3.6571428571428575,Shaun Livingston,211,220.5,OKC,14.00,Shaun Livingston,PG,10.25,2.93,3500.0,GSW,117
-50,R. Felton,103.5,28th,12.5,3.378378378378378,Raymond Felton,211,211,@ GSW,15.00,Raymond Felton,PG/SG,14.16,3.83,3700.0,OKC,103.5
-51,K. Looney,116.5,4th,8.5,2.361111111111111,Kevon Looney,211,211,OKC,20.00,Kevon Looney,PF/C,16.86,4.68,3600.0,GSW,117
-52,T.J. McConnell,,,,,T.J. McConnell,220.5,211,@ BOS,19.00,T.J. McConnell,PG/SG,13.81,4.32,3200.0,PHI,103
-53,Mike Muscala,,,,,Mike Muscala,,,,,,,,,,,
-54,J. Jerebko,,,,,Jonas Jerebko,,,,,,,,,,,
-55,T. Ferguson,,,,,Terrance Ferguson,220.5,211,@ GSW,23.00,Terrance Ferguson,SG/SF,10.21,3.09,3300.0,OKC,103.5
-56,T. Luwawu-Cabarrot,,,,,Timothe Luwawu-Cabarrot,,,,,,,,,,,
-57,Q. Cook,,,,,Quinn Cook,211,211,OKC,16.00,Quinn Cook,PG,11.62,3.63,3200.0,GSW,117
-58,,,,,,Alex Abrines,211,211,@ GSW,18.00,Alex Abrines,SG/SF,9.84,3.08,3200.0,OKC,103.5
-59,,,,,,Amir Johnson,211,220.5,@ BOS,16.00,Amir Johnson,PF/C,13.92,4.49,3100.0,PHI,103
-60,,,,,,Damian Jones,220.5,220.5,OKC,15.00,Damian Jones,C,8.39,2.8,3000.0,GSW,117
-61,,,,,,Dario Saric,211,211,@ BOS,33.00,Dario Saric,SF/PF,29.03,5.28,5500.0,PHI,103
-62,,,,,,Kevin Durant,                                        Vegas Lines,O/U,OKC,35.00,Kevin Durant,SF/PF,50.19,5.58,9000.0,GSW,117
-63,,,,,,Russell Westbrook,,,,,,,,,,,
-64,,,,,,,220.5,220.5,@ GSW,18.00,Hamidou Diallo,SG/SF,14.16,4.57,3100.0,OKC,103.5
-65,,,,,,,211,220.5,@ BOS,14.00,Landry Shamet,PG/SG,10.59,3.53,3000.0,PHI,103
+0,Joel Embiid,116,23rd,51.5,5.309278350515465,Joel Embiid,213.5,223.5,CHI,35.00,Joel Embiid,C,52.43,5.41,9700.0,PHI,116
+1,L. James,110,3rd,50.3,4.6574074074074066,,,,,,,,,,,,
+2,D. Lillard,113.5,23rd,47.3,5.5,,,,,,,,,,,,
+3,John Wall,109.8,7th,42.5,5.182926829268293,,,,,,,,,,,,
+4,H. Whiteside,104.3,16th,41.8,5.971428571428571,,,,,,,,,,,,
+5,B. Beal,109.8,21st,36.3,5.338235294117647,,,,,,,,,,,,
+6,J. Nurkic,113.5,24th,36.0,5.714285714285714,,,,,,,,,,,,
+7,CJ McCollum,113.5,23rd,34.3,4.830985915492958,,,,,,,,,,,,
+8,Zach LaVine,104,14th,33.3,5.203124999999999,,,,,,,,,,,,
+9,B. Ingram,110,28th,31.5,4.846153846153846,,,,,,,,,,,,
+10,D. Howard,109.8,22nd,31.3,5.305084745762712,,,,,,,,,,,,
+11,Kris Dunn,104,14th,31.3,4.742424242424243,,,,,,,,,,,,
+12,Josh Richardson,104.3,22nd,29.5,4.758064516129032,,,,,,,,,,,,
+13,G. Dragic,104.3,20th,29.0,4.833333333333333,,,,,,,,,,,,
+14,R. Rondo,110,28th,28.3,4.879310344827586,,,,,,,,,,,,
+15,J. Parker,104,27th,27.3,5.25,,,,,,,,,,,,
+16,C. Payne,104,14th,27.0,7.5,,,,,,,,,,,,
+17,B. Portis,104,9th,26.8,4.701754385964913,,,,,,,,,,,,
+18,D. Saric,116,9th,26.5,4.818181818181818,,,,,,,,,,,,
+19,Kyle Kuzma,110,3rd,26.5,4.818181818181818,,,,,,,,,,,,
+20,L. Ball,110,28th,26.3,4.87037037037037,,,,,,,,,,,,
+21,Otto Porter Jr.,109.8,25th,26.0,4.642857142857143,,,,,,,,,,,,
+22,A. Aminu,113.5,14th,24.0,4.897959183673469,,,,,,,,,,,,
+23,D. Wade,104.3,20th,23.3,4.854166666666667,,,,,,,,,,,,
+24,J. McGee,110,13th,22.8,5.066666666666666,,,,,,,,,,,,
+25,K. Caldwell-Pope,110,2nd,22.0,4.583333333333334,,,,,,,,,,,,
+26,Josh Hart,110,2nd,21.8,5.069767441860465,,,,,,,,,,,,
+27,Bam Adebayo,104.3,16th,21.8,4.448979591836735,,,,,,,,,,,,
+28,A. Rivers,109.8,7th,21.5,4.886363636363636,,,,,,,,,,,,
+29,J. Holiday,104,7th,20.8,4.837209302325582,,,,,,,,,,,,
+30,Ian Mahinmi,109.8,22nd,20.5,4.4565217391304355,,,,,,,,,,,,
+31,D. Valentine,104,7th,20.0,4.651162790697675,,,,,,,,,,,,
+32,K. Oubre Jr.,109.8,21st,19.8,4.714285714285714,,,,,,,,,,,,
+33,J. Winslow,104.3,1st,19.5,4.875,,,,,,,,,,,,
+34,Evan Turner,113.5,17th,19.5,4.642857142857142,,,,,,,,,,,,
+35,K. Olynyk,104.3,17th,19.5,3.19672131147541,,,,,,,,,,,,
+36,Moe Harkless,113.5,14th,19.5,4.75609756097561,,,,,,,,,,,,
+37,L. Stephenson,110,28th,18.5,4.625,,,,,,,,,,,,
+38,T. Johnson,104.3,20th,18.3,4.463414634146342,,,,,,,,,,,,
+39,Seth Curry,113.5,23rd,18.3,4.815789473684211,,,,,,,,,,,,
+40,W. Carter Jr.,104,9th,16.5,3.9285714285714284,,,,,,,,,,,,
+41,Jeff Green,109.8,25th,16.5,4.45945945945946,,,,,,,,,,,,
+42,R. McGruder,104.3,22nd,16.5,4.230769230769231,,,,,,,,,,,,
+43,Zach Collins,113.5,12th,16.3,4.527777777777778,,,,,,,,,,,,
+44,R. Lopez,104,9th,16.3,4.527777777777778,,,,,,,,,,,,
+45,A. Blakeney,104,14th,16.0,4.705882352941177,,,,,,,,,,,,
+46,I. Zubac,110,13th,16.0,4.705882352941177,,,,,,,,,,,,
+47,W. Ellington,104.3,22nd,15.8,4.514285714285714,,,,,,,,,,,,
+48,M. Leonard,113.5,24th,15.5,4.428571428571429,,,,,,,,,,,,
+49,Jake Layman,113.5,12th,14.8,4.0,,,,,,,,,,,,
+50,C. Felicio,104,9th,14.5,4.833333333333333,,,,,,,,,,,,
+51,T. Bryant,109.8,22nd,14.0,4.242424242424242,,,,,,,,,,,,
+52,D. Jones Jr.,104.3,1st,14.0,4.11764705882353,,,,,,,,,,,,
+53,Amir Johnson,116,24th,13.8,4.058823529411765,,,,,,,,,,,,
+54,Alex Caruso,110,2nd,13.8,4.6000000000000005,,,,,,,,,,,,
+55,C. Swanigan,113.5,12th,13.8,4.058823529411765,,,,,,,,,,,,
+56,Ryan Arcidiacono,104,14th,13.5,4.5,,,,,,,,,,,,
+57,Nik Stauskas,113.5,17th,13.5,4.354838709677419,,,,,,,,,,,,
+58,S. Mykhailiuk,110,2nd,13.3,3.6944444444444446,,,,,,,,,,,,
+59,Wade Baldwin IV,113.5,23rd,12.8,4.129032258064516,,,,,,,,,,,,
+60,T. Wear,110,30th,12.5,4.166666666666667,,,,,,,,,,,,
+61,C. Hutchison,104,7th,12.3,3.61764705882353,,,,,,,,,,,,
+62,T. Satoransky,109.8,7th,11.8,3.9333333333333336,,,,,,,,,,,,
+63,A. Simons,113.5,17th,11.3,3.53125,,,,,,,,,,,,
+64,I. Bonga,110,13th,10.3,3.4333333333333336,,,,,,,,,,,,
+65,R. Alkins,104,14th,10.3,3.4333333333333336,,,,,,,,,,,,
+66,Troy Brown,109.8,25th,10.3,3.4333333333333336,,,,,,,,,,,,
+67,M. Beasley,110,3rd,6.5,1.911764705882353,,,,,,,,,,,,
+68,F. Korkmaz,116,30th,4.0,1.3333333333333333,,,,,,,,,,,,
+69,D. Theis,,,,,,,,,,,,,,,,
+70,T. Ulis,,,,,,,,,,,,,,,,
+71,D. House,,,,,,,,,,,,,,,,
+72,D. Lee,,,,,,,,,,,,,,,,
+73,R. Williams,,,,,,,,,,,,,,,,
+74,H. Diallo,,,,,,,,,,,,,,,,
+75,A. Gaddy,,,,,,,,,,,,,,,,
+76,T. Davis,,,,,,,,,,,,,,,,
+77,L. Shamet,,,,,,,,,,,,,,,,
+78,J. Evans III,,,,,,,,,,,,,,,,
+79,M. Derrickson,,,,,,,,,,,,,,,,
+80,Brad Wanamaker,,,,,,,,,,,,,,,,
+81,D. Burton,,,,,,,,,,,,,,,,
+82,K. Nunn,,,,,,,,,,,,,,,,
+83,N. Pelle,,,,,,,,,,,,,,,,
+84,B. Alford,,,,,,,,,,,,,,,,
+85,S. Milton,,,,,,,,,,,,,,,,
+86,J. Bolden,,,,,,,,,,,,,,,,
+87,R. Solomon,,,,,,,,,,,,,,,,
+88,Jeff Roberson,,,,,,,,,,,,,,,,
+89,Nick King,,,,,,,,,,,,,,,,
+90,Ben Simmons,116,13th,45.3,4.768421052631578,Ben Simmons,220,223.5,CHI,37.50,Ben Simmons,PG/SF,53.05,5.58,9500.0,PHI,116
+91,JJ Redick,116,30th,27.0,5.294117647058824,J.J. Redick,223.5,220,CHI,30.00,J.J. Redick,SG/SF,27.54,5.4,5100.0,PHI,116
+92,M. Fultz,116,13th,25.3,5.622222222222223,Markelle Fultz,220,213.5,CHI,25.50,Markelle Fultz,PG/SG,23.41,5.2,4500.0,PHI,116
+93,R. Covington,116,9th,24.8,5.276595744680851,Robert Covington,220,213.5,CHI,33.50,Robert Covington,SF/PF,25.54,5.43,4700.0,PHI,116
+94,M. Morris,109.8,25th,23.0,4.6,Marcus Morris,,,,,,,,,,,
+95,T.J. McConnell,116,13th,15.5,4.696969696969697,T.J. McConnell,220,213.5,CHI,21.00,T.J. McConnell,PG/SG,16,4.85,3300.0,PHI,116
+96,Mike Muscala,116,24th,10.0,2.9411764705882355,Mike Muscala,,,,,,,,,,,
+97,S. Curry,,,,,Stephen Curry,,,,,,,,,,,
+98,Paul George,,,,,Paul George,,,,,,,,,,,
+99,K. Irving,,,,,Kyrie Irving,,,,,,,,,,,
+100,D. Green,,,,,Draymond Green,,,,,,,,,,,
+101,G. Hayward,,,,,Gordon Hayward,,,,,,,,,,,
+102,D. Schroder,,,,,Dennis Schroder,,,,,,,,,,,
+103,Al Horford,,,,,Al Horford,,,,,,,,,,,
+104,Klay Thompson,,,,,Klay Thompson,,,,,,,,,,,
+105,S. Adams,,,,,Steven Adams,,,,,,,,,,,
+106,J. Tatum,,,,,Jayson Tatum,,,,,,,,,,,
+107,J. Brown,,,,,Jaylen Brown,,,,,,,,,,,
+108,T. Rozier,,,,,Terry Rozier,,,,,,,,,,,
+109,M. Smart,,,,,Marcus Smart,,,,,,,,,,,
+110,J. Grant,,,,,Jerami Grant,,,,,,,,,,,
+111,A. Iguodala,,,,,Andre Iguodala,,,,,,,,,,,
+112,J. Bell,,,,,Jordan Bell,,,,,,,,,,,
+113,Aron Baynes,,,,,Aron Baynes,,,,,,,,,,,
+114,N. Noel,,,,,Nerlens Noel,,,,,,,,,,,
+115,R. Felton,,,,,Raymond Felton,,,,,,,,,,,
+116,K. Looney,,,,,Kevon Looney,,,,,,,,,,,
+117,P. Patterson,,,,,Patrick Patterson,,,,,,,,,,,
+118,S. Livingston,,,,,Shaun Livingston,,,,,,,,,,,
+119,J. Jerebko,,,,,Jonas Jerebko,,,,,,,,,,,
+120,T. Ferguson,,,,,Terrance Ferguson,,,,,,,,,,,
+121,T. Luwawu-Cabarrot,,,,,Timothe Luwawu-Cabarrot,,,,,,,,,,,
+122,Q. Cook,,,,,Quinn Cook,,,,,,,,,,,
+123,,,,,,Alex Abrines,,,,,,,,,,,
+124,,,,,,Amir Johnson,213.5,220,CHI,12.50,Amir Johnson,PF/C,11.38,3.35,3400.0,PHI,116
+125,,,,,,Damian Jones,,,,,,,,,,,
+126,,,,,,Dario Saric,220,213.5,CHI,31.00,Dario Saric,SF/PF,31.56,5.74,5500.0,PHI,116
+127,,,,,,Kevin Durant,,,,,,,,,,,
+128,,,,,,Russell Westbrook,,,,,,,,,,,
+129,,,,,,,                                                             DvPRank,                                                             Vegas Lines,@ PHI,30.00,Cameron Payne,PG/SG,26.32,7.31,3600.0,CHI,104
+130,,,,,,,                                                             Vegas Lines,O/U,@ WAS,32.00,Hassan Whiteside,C,43.02,6.15,7000.0,MIA,104
+131,,,,,,,O/U,220,LAL,29.00,Jusuf Nurkic,C,37.35,5.93,6300.0,POR,113.5
+132,,,,,,,213.5,223.5,LAL,38.00,Damian Lillard,PG,48.98,5.7,8600.0,POR,113.5
+133,,,,,,,223.5,220,@ PHI,26.00,Wendell Carter,C,23.82,5.67,4200.0,CHI,104
+134,,,,,,,223.5,220,MIA,36.00,Bradley Beal,SG,37.6,5.53,6800.0,WAS,109.5
+135,,,,,,,220,220,LAL,32.50,Al-Farouq Aminu,SF/PF,26.6,5.43,4900.0,POR,113.5
+136,,,,,,,220,220,MIA,36.00,John Wall,PG,44.15,5.38,8200.0,WAS,109.5
+137,,,,,,,220,220,MIA,27.50,Dwight Howard,C,31.27,5.3,5900.0,WAS,109.5
+138,,,,,,,213.5,213.5,@ WAS,32.00,Goran Dragic,PG,31.15,5.19,6000.0,MIA,104
+139,,,,,,,213.5,220,@ PHI,26.00,Bobby Portis,PF/C,29.45,5.17,5700.0,CHI,104
+140,,,,,,,220,213.5,@ PHI,19.00,Antonio Blakeney,PG,17.47,5.14,3400.0,CHI,104
+141,,,,,,,213.5,220,@ PHI,28.00,Jabari Parker,SF/PF,26.55,5.11,5200.0,CHI,104
+142,,,,,,,220,220,LAL,37.50,C.J. McCollum,PG/SG,35.97,5.07,7100.0,POR,113.5
+143,,,,,,,220,220,@ WAS,35.00,Josh Richardson,SG/SF,31.32,5.05,6200.0,MIA,104
+144,,,,,,,220,223.5,@ WAS,24.00,Derrick Jones,SF,17.1,5.03,3400.0,MIA,104
+145,,,,,,,223.5,213.5,@ PHI,22.00,Robin Lopez,C,17.99,5,3600.0,CHI,104
+146,,,,,,,213.5,213.5,@ WAS,24.00,Tyler Johnson,PG/SG,20.3,4.95,4100.0,MIA,104
+147,,,,,,,213.5,220,@ PHI,32.00,Zach LaVine,PG/SG,31.3,4.89,6400.0,CHI,104
+148,,,,,,,213.5,220,@ POR,30.00,Kyle Kuzma,SF/PF,26.55,4.83,5500.0,LAL,110
+149,,,,,,,220,220,MIA,33.00,Otto Porter,SF/PF,26.99,4.82,5600.0,WAS,109.5
+150,,,,,,,220,223.5,MIA,25.00,Kelly Oubre,SG/SF,20.12,4.79,4200.0,WAS,109.5
+151,,,,,,,223.5,213.5,@ POR,35.00,Brandon Ingram,PG/SF,31.03,4.77,6500.0,LAL,110
+152,,,,,,,213.5,213.5,@ POR,20.00,JaVale McGee,C,21.44,4.76,4500.0,LAL,110
+153,,,,,,,213.5,223.5,@ POR,30.50,Kentavious Caldwell-Pope,SG/SF,22.73,4.74,4800.0,LAL,110
+154,,,,,,,223.5,223.5,@ PHI,29.00,Justin Holiday,SG/SF,20.23,4.7,4300.0,CHI,104
+155,,,,,,,223.5,223.5,@ POR,35.50,LeBron James,SF/PF,50.4,4.67,10800.0,LAL,110
+156,,,,,,,223.5,220,@ POR,27.00,Josh Hart,SG,20.05,4.66,4300.0,LAL,110
+157,,,,,,,220,223.5,@ POR,28.00,Lonzo Ball,PG,25.19,4.66,5400.0,LAL,110
+158,,,,,,,223.5,223.5,MIA,27.50,Markieff Morris,SF/PF,23.09,4.62,5000.0,WAS,109.5
+159,,,,,,,223.5,223.5,LAL,19.00,Zach Collins,PF,16.29,4.53,3600.0,POR,113.5
+160,,,,,,,223.5,213.5,LAL,24.00,Evan Turner,SG/SF,18.24,4.34,4200.0,POR,113.5
+161,,,,,,,213.5,223.5,@ WAS,21.00,Dwyane Wade,PG/SG,20.56,4.28,4800.0,MIA,104
+162,,,,,,,223.5,223.5,@ WAS,22.00,Bam Adebayo,C,20.41,4.17,4900.0,MIA,104
+163,,,,,,,223.5,213.5,LAL,18.00,Seth Curry,PG/SG,15.05,3.96,3800.0,POR,113.5
+164,,,,,,,213.5,213.5,@ WAS,22.00,Kelly Olynyk,PF/C,23.41,3.84,6100.0,MIA,104
+165,,,,,,,213.5,223.5,CHI,14.00,Landry Shamet,PG,10.8,3.6,3000.0,PHI,116
+166,,,,,,,223.5,213.5,MIA,13.00,Tomas Satoransky,PG/SG,10.73,3.58,3000.0,WAS,109.5
+167,,,,,,,213.5,220,@ PHI,14.00,Chandler Hutchison,SG,11.94,3.51,3400.0,CHI,104
+168,,,,,,,220,213.5,@ POR,22.00,Rajon Rondo,PG,20.07,3.46,5800.0,LAL,110
+169,,,,,,,220,223.5,MIA,17.00,Austin Rivers,PG/SG,14.05,3.19,4400.0,WAS,109.5
+170,,,,,,,223.5,220,MIA,15.00,Jeff Green,SF/PF,11.58,3.13,3700.0,WAS,109.5
+171,,,,,,,220,213.5,LAL,18.00,Maurice Harkless,SF/PF,12.67,3.09,4100.0,POR,113.5
+172,,,,,,,213.5,213.5,@ WAS,14.00,Wayne Ellington,SG/SF,10.7,3.06,3500.0,MIA,104
+173,,,,,,,213.5,223.5,LAL,15.00,Jake Layman,PF,10.68,2.89,3700.0,POR,113.5
+174,,,,,,,223.5,213.5,@ WAS,14.00,Rodney McGruder,SG/SF,9.78,2.51,3900.0,MIA,104
+175,,,,,,,213.5,223.5,@ PHI,8.00,Tyler Ulis,PG,7.02,2.34,3000.0,CHI,104
+176,,,,,,,223.5,213.5,LAL,9.00,Nik Stauskas,SG/SF,6.24,2.01,3100.0,POR,113.5
+177,,,,,,,213.5,220,MIA,10.00,Ian Mahinmi,C,8.88,1.93,4600.0,WAS,109.5
+178,,,,,,,220,223.5,@ POR,6.00,Michael Beasley,SF/PF,6.46,1.9,3400.0,LAL,110
+179,,,,,,,223.5,213.5,@ POR,6.00,Lance Stephenson,PG/SG,5.58,1.4,4000.0,LAL,110
