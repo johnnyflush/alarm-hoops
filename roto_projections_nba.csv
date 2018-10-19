@@ -1,181 +1,505 @@
-,Fuel,VegasTotal,DvP_5,Fuel_Projection,Fuel_Value,RG,DvP,DvPRank,Opponent,PMIN,Player,Position,RG_Projection,RG_Value,Salary,Team,Total
-0,Joel Embiid,116,23rd,51.5,5.309278350515465,Joel Embiid,213.5,223.5,CHI,35.00,Joel Embiid,C,52.43,5.41,9700.0,PHI,116
-1,L. James,110,3rd,50.3,4.6574074074074066,,,,,,,,,,,,
-2,D. Lillard,113.5,23rd,47.3,5.5,,,,,,,,,,,,
-3,John Wall,109.8,7th,42.5,5.182926829268293,,,,,,,,,,,,
-4,H. Whiteside,104.3,16th,41.8,5.971428571428571,,,,,,,,,,,,
-5,B. Beal,109.8,21st,36.3,5.338235294117647,,,,,,,,,,,,
-6,J. Nurkic,113.5,24th,36.0,5.714285714285714,,,,,,,,,,,,
-7,CJ McCollum,113.5,23rd,34.3,4.830985915492958,,,,,,,,,,,,
-8,Zach LaVine,104,14th,33.3,5.203124999999999,,,,,,,,,,,,
-9,B. Ingram,110,28th,31.5,4.846153846153846,,,,,,,,,,,,
-10,D. Howard,109.8,22nd,31.3,5.305084745762712,,,,,,,,,,,,
-11,Kris Dunn,104,14th,31.3,4.742424242424243,,,,,,,,,,,,
-12,Josh Richardson,104.3,22nd,29.5,4.758064516129032,,,,,,,,,,,,
-13,G. Dragic,104.3,20th,29.0,4.833333333333333,,,,,,,,,,,,
-14,R. Rondo,110,28th,28.3,4.879310344827586,,,,,,,,,,,,
-15,J. Parker,104,27th,27.3,5.25,,,,,,,,,,,,
-16,C. Payne,104,14th,27.0,7.5,,,,,,,,,,,,
-17,B. Portis,104,9th,26.8,4.701754385964913,,,,,,,,,,,,
-18,D. Saric,116,9th,26.5,4.818181818181818,,,,,,,,,,,,
-19,Kyle Kuzma,110,3rd,26.5,4.818181818181818,,,,,,,,,,,,
-20,L. Ball,110,28th,26.3,4.87037037037037,,,,,,,,,,,,
-21,Otto Porter Jr.,109.8,25th,26.0,4.642857142857143,,,,,,,,,,,,
-22,A. Aminu,113.5,14th,24.0,4.897959183673469,,,,,,,,,,,,
-23,D. Wade,104.3,20th,23.3,4.854166666666667,,,,,,,,,,,,
-24,J. McGee,110,13th,22.8,5.066666666666666,,,,,,,,,,,,
-25,K. Caldwell-Pope,110,2nd,22.0,4.583333333333334,,,,,,,,,,,,
-26,Josh Hart,110,2nd,21.8,5.069767441860465,,,,,,,,,,,,
-27,Bam Adebayo,104.3,16th,21.8,4.448979591836735,,,,,,,,,,,,
-28,A. Rivers,109.8,7th,21.5,4.886363636363636,,,,,,,,,,,,
-29,J. Holiday,104,7th,20.8,4.837209302325582,,,,,,,,,,,,
-30,Ian Mahinmi,109.8,22nd,20.5,4.4565217391304355,,,,,,,,,,,,
-31,D. Valentine,104,7th,20.0,4.651162790697675,,,,,,,,,,,,
-32,K. Oubre Jr.,109.8,21st,19.8,4.714285714285714,,,,,,,,,,,,
-33,J. Winslow,104.3,1st,19.5,4.875,,,,,,,,,,,,
-34,Evan Turner,113.5,17th,19.5,4.642857142857142,,,,,,,,,,,,
-35,K. Olynyk,104.3,17th,19.5,3.19672131147541,,,,,,,,,,,,
-36,Moe Harkless,113.5,14th,19.5,4.75609756097561,,,,,,,,,,,,
-37,L. Stephenson,110,28th,18.5,4.625,,,,,,,,,,,,
-38,T. Johnson,104.3,20th,18.3,4.463414634146342,,,,,,,,,,,,
-39,Seth Curry,113.5,23rd,18.3,4.815789473684211,,,,,,,,,,,,
-40,W. Carter Jr.,104,9th,16.5,3.9285714285714284,,,,,,,,,,,,
-41,Jeff Green,109.8,25th,16.5,4.45945945945946,,,,,,,,,,,,
-42,R. McGruder,104.3,22nd,16.5,4.230769230769231,,,,,,,,,,,,
-43,Zach Collins,113.5,12th,16.3,4.527777777777778,,,,,,,,,,,,
-44,R. Lopez,104,9th,16.3,4.527777777777778,,,,,,,,,,,,
-45,A. Blakeney,104,14th,16.0,4.705882352941177,,,,,,,,,,,,
-46,I. Zubac,110,13th,16.0,4.705882352941177,,,,,,,,,,,,
-47,W. Ellington,104.3,22nd,15.8,4.514285714285714,,,,,,,,,,,,
-48,M. Leonard,113.5,24th,15.5,4.428571428571429,,,,,,,,,,,,
-49,Jake Layman,113.5,12th,14.8,4.0,,,,,,,,,,,,
-50,C. Felicio,104,9th,14.5,4.833333333333333,,,,,,,,,,,,
-51,T. Bryant,109.8,22nd,14.0,4.242424242424242,,,,,,,,,,,,
-52,D. Jones Jr.,104.3,1st,14.0,4.11764705882353,,,,,,,,,,,,
-53,Amir Johnson,116,24th,13.8,4.058823529411765,,,,,,,,,,,,
-54,Alex Caruso,110,2nd,13.8,4.6000000000000005,,,,,,,,,,,,
-55,C. Swanigan,113.5,12th,13.8,4.058823529411765,,,,,,,,,,,,
-56,Ryan Arcidiacono,104,14th,13.5,4.5,,,,,,,,,,,,
-57,Nik Stauskas,113.5,17th,13.5,4.354838709677419,,,,,,,,,,,,
-58,S. Mykhailiuk,110,2nd,13.3,3.6944444444444446,,,,,,,,,,,,
-59,Wade Baldwin IV,113.5,23rd,12.8,4.129032258064516,,,,,,,,,,,,
-60,T. Wear,110,30th,12.5,4.166666666666667,,,,,,,,,,,,
-61,C. Hutchison,104,7th,12.3,3.61764705882353,,,,,,,,,,,,
-62,T. Satoransky,109.8,7th,11.8,3.9333333333333336,,,,,,,,,,,,
-63,A. Simons,113.5,17th,11.3,3.53125,,,,,,,,,,,,
-64,I. Bonga,110,13th,10.3,3.4333333333333336,,,,,,,,,,,,
-65,R. Alkins,104,14th,10.3,3.4333333333333336,,,,,,,,,,,,
-66,Troy Brown,109.8,25th,10.3,3.4333333333333336,,,,,,,,,,,,
-67,M. Beasley,110,3rd,6.5,1.911764705882353,,,,,,,,,,,,
-68,F. Korkmaz,116,30th,4.0,1.3333333333333333,,,,,,,,,,,,
-69,D. Theis,,,,,,,,,,,,,,,,
-70,T. Ulis,,,,,,,,,,,,,,,,
-71,D. House,,,,,,,,,,,,,,,,
-72,D. Lee,,,,,,,,,,,,,,,,
-73,R. Williams,,,,,,,,,,,,,,,,
-74,H. Diallo,,,,,,,,,,,,,,,,
-75,A. Gaddy,,,,,,,,,,,,,,,,
-76,T. Davis,,,,,,,,,,,,,,,,
-77,L. Shamet,,,,,,,,,,,,,,,,
-78,J. Evans III,,,,,,,,,,,,,,,,
-79,M. Derrickson,,,,,,,,,,,,,,,,
-80,Brad Wanamaker,,,,,,,,,,,,,,,,
-81,D. Burton,,,,,,,,,,,,,,,,
-82,K. Nunn,,,,,,,,,,,,,,,,
-83,N. Pelle,,,,,,,,,,,,,,,,
-84,B. Alford,,,,,,,,,,,,,,,,
-85,S. Milton,,,,,,,,,,,,,,,,
-86,J. Bolden,,,,,,,,,,,,,,,,
-87,R. Solomon,,,,,,,,,,,,,,,,
-88,Jeff Roberson,,,,,,,,,,,,,,,,
-89,Nick King,,,,,,,,,,,,,,,,
-90,Ben Simmons,116,13th,45.3,4.768421052631578,Ben Simmons,220,223.5,CHI,37.50,Ben Simmons,PG/SF,53.05,5.58,9500.0,PHI,116
-91,JJ Redick,116,30th,27.0,5.294117647058824,J.J. Redick,223.5,220,CHI,30.00,J.J. Redick,SG/SF,27.54,5.4,5100.0,PHI,116
-92,M. Fultz,116,13th,25.3,5.622222222222223,Markelle Fultz,220,213.5,CHI,25.50,Markelle Fultz,PG/SG,23.41,5.2,4500.0,PHI,116
-93,R. Covington,116,9th,24.8,5.276595744680851,Robert Covington,220,213.5,CHI,33.50,Robert Covington,SF/PF,25.54,5.43,4700.0,PHI,116
-94,M. Morris,109.8,25th,23.0,4.6,Marcus Morris,,,,,,,,,,,
-95,T.J. McConnell,116,13th,15.5,4.696969696969697,T.J. McConnell,220,213.5,CHI,21.00,T.J. McConnell,PG/SG,16,4.85,3300.0,PHI,116
-96,Mike Muscala,116,24th,10.0,2.9411764705882355,Mike Muscala,,,,,,,,,,,
-97,S. Curry,,,,,Stephen Curry,,,,,,,,,,,
-98,Paul George,,,,,Paul George,,,,,,,,,,,
-99,K. Irving,,,,,Kyrie Irving,,,,,,,,,,,
-100,D. Green,,,,,Draymond Green,,,,,,,,,,,
-101,G. Hayward,,,,,Gordon Hayward,,,,,,,,,,,
-102,D. Schroder,,,,,Dennis Schroder,,,,,,,,,,,
-103,Al Horford,,,,,Al Horford,,,,,,,,,,,
-104,Klay Thompson,,,,,Klay Thompson,,,,,,,,,,,
-105,S. Adams,,,,,Steven Adams,,,,,,,,,,,
-106,J. Tatum,,,,,Jayson Tatum,,,,,,,,,,,
-107,J. Brown,,,,,Jaylen Brown,,,,,,,,,,,
-108,T. Rozier,,,,,Terry Rozier,,,,,,,,,,,
-109,M. Smart,,,,,Marcus Smart,,,,,,,,,,,
-110,J. Grant,,,,,Jerami Grant,,,,,,,,,,,
-111,A. Iguodala,,,,,Andre Iguodala,,,,,,,,,,,
-112,J. Bell,,,,,Jordan Bell,,,,,,,,,,,
-113,Aron Baynes,,,,,Aron Baynes,,,,,,,,,,,
-114,N. Noel,,,,,Nerlens Noel,,,,,,,,,,,
-115,R. Felton,,,,,Raymond Felton,,,,,,,,,,,
-116,K. Looney,,,,,Kevon Looney,,,,,,,,,,,
-117,P. Patterson,,,,,Patrick Patterson,,,,,,,,,,,
-118,S. Livingston,,,,,Shaun Livingston,,,,,,,,,,,
-119,J. Jerebko,,,,,Jonas Jerebko,,,,,,,,,,,
-120,T. Ferguson,,,,,Terrance Ferguson,,,,,,,,,,,
-121,T. Luwawu-Cabarrot,,,,,Timothe Luwawu-Cabarrot,,,,,,,,,,,
-122,Q. Cook,,,,,Quinn Cook,,,,,,,,,,,
-123,,,,,,Alex Abrines,,,,,,,,,,,
-124,,,,,,Amir Johnson,213.5,220,CHI,12.50,Amir Johnson,PF/C,11.38,3.35,3400.0,PHI,116
-125,,,,,,Damian Jones,,,,,,,,,,,
-126,,,,,,Dario Saric,220,213.5,CHI,31.00,Dario Saric,SF/PF,31.56,5.74,5500.0,PHI,116
-127,,,,,,Kevin Durant,,,,,,,,,,,
-128,,,,,,Russell Westbrook,,,,,,,,,,,
-129,,,,,,,                                                             DvPRank,                                                             Vegas Lines,@ PHI,30.00,Cameron Payne,PG/SG,26.32,7.31,3600.0,CHI,104
-130,,,,,,,                                                             Vegas Lines,O/U,@ WAS,32.00,Hassan Whiteside,C,43.02,6.15,7000.0,MIA,104
-131,,,,,,,O/U,220,LAL,29.00,Jusuf Nurkic,C,37.35,5.93,6300.0,POR,113.5
-132,,,,,,,213.5,223.5,LAL,38.00,Damian Lillard,PG,48.98,5.7,8600.0,POR,113.5
-133,,,,,,,223.5,220,@ PHI,26.00,Wendell Carter,C,23.82,5.67,4200.0,CHI,104
-134,,,,,,,223.5,220,MIA,36.00,Bradley Beal,SG,37.6,5.53,6800.0,WAS,109.5
-135,,,,,,,220,220,LAL,32.50,Al-Farouq Aminu,SF/PF,26.6,5.43,4900.0,POR,113.5
-136,,,,,,,220,220,MIA,36.00,John Wall,PG,44.15,5.38,8200.0,WAS,109.5
-137,,,,,,,220,220,MIA,27.50,Dwight Howard,C,31.27,5.3,5900.0,WAS,109.5
-138,,,,,,,213.5,213.5,@ WAS,32.00,Goran Dragic,PG,31.15,5.19,6000.0,MIA,104
-139,,,,,,,213.5,220,@ PHI,26.00,Bobby Portis,PF/C,29.45,5.17,5700.0,CHI,104
-140,,,,,,,220,213.5,@ PHI,19.00,Antonio Blakeney,PG,17.47,5.14,3400.0,CHI,104
-141,,,,,,,213.5,220,@ PHI,28.00,Jabari Parker,SF/PF,26.55,5.11,5200.0,CHI,104
-142,,,,,,,220,220,LAL,37.50,C.J. McCollum,PG/SG,35.97,5.07,7100.0,POR,113.5
-143,,,,,,,220,220,@ WAS,35.00,Josh Richardson,SG/SF,31.32,5.05,6200.0,MIA,104
-144,,,,,,,220,223.5,@ WAS,24.00,Derrick Jones,SF,17.1,5.03,3400.0,MIA,104
-145,,,,,,,223.5,213.5,@ PHI,22.00,Robin Lopez,C,17.99,5,3600.0,CHI,104
-146,,,,,,,213.5,213.5,@ WAS,24.00,Tyler Johnson,PG/SG,20.3,4.95,4100.0,MIA,104
-147,,,,,,,213.5,220,@ PHI,32.00,Zach LaVine,PG/SG,31.3,4.89,6400.0,CHI,104
-148,,,,,,,213.5,220,@ POR,30.00,Kyle Kuzma,SF/PF,26.55,4.83,5500.0,LAL,110
-149,,,,,,,220,220,MIA,33.00,Otto Porter,SF/PF,26.99,4.82,5600.0,WAS,109.5
-150,,,,,,,220,223.5,MIA,25.00,Kelly Oubre,SG/SF,20.12,4.79,4200.0,WAS,109.5
-151,,,,,,,223.5,213.5,@ POR,35.00,Brandon Ingram,PG/SF,31.03,4.77,6500.0,LAL,110
-152,,,,,,,213.5,213.5,@ POR,20.00,JaVale McGee,C,21.44,4.76,4500.0,LAL,110
-153,,,,,,,213.5,223.5,@ POR,30.50,Kentavious Caldwell-Pope,SG/SF,22.73,4.74,4800.0,LAL,110
-154,,,,,,,223.5,223.5,@ PHI,29.00,Justin Holiday,SG/SF,20.23,4.7,4300.0,CHI,104
-155,,,,,,,223.5,223.5,@ POR,35.50,LeBron James,SF/PF,50.4,4.67,10800.0,LAL,110
-156,,,,,,,223.5,220,@ POR,27.00,Josh Hart,SG,20.05,4.66,4300.0,LAL,110
-157,,,,,,,220,223.5,@ POR,28.00,Lonzo Ball,PG,25.19,4.66,5400.0,LAL,110
-158,,,,,,,223.5,223.5,MIA,27.50,Markieff Morris,SF/PF,23.09,4.62,5000.0,WAS,109.5
-159,,,,,,,223.5,223.5,LAL,19.00,Zach Collins,PF,16.29,4.53,3600.0,POR,113.5
-160,,,,,,,223.5,213.5,LAL,24.00,Evan Turner,SG/SF,18.24,4.34,4200.0,POR,113.5
-161,,,,,,,213.5,223.5,@ WAS,21.00,Dwyane Wade,PG/SG,20.56,4.28,4800.0,MIA,104
-162,,,,,,,223.5,223.5,@ WAS,22.00,Bam Adebayo,C,20.41,4.17,4900.0,MIA,104
-163,,,,,,,223.5,213.5,LAL,18.00,Seth Curry,PG/SG,15.05,3.96,3800.0,POR,113.5
-164,,,,,,,213.5,213.5,@ WAS,22.00,Kelly Olynyk,PF/C,23.41,3.84,6100.0,MIA,104
-165,,,,,,,213.5,223.5,CHI,14.00,Landry Shamet,PG,10.8,3.6,3000.0,PHI,116
-166,,,,,,,223.5,213.5,MIA,13.00,Tomas Satoransky,PG/SG,10.73,3.58,3000.0,WAS,109.5
-167,,,,,,,213.5,220,@ PHI,14.00,Chandler Hutchison,SG,11.94,3.51,3400.0,CHI,104
-168,,,,,,,220,213.5,@ POR,22.00,Rajon Rondo,PG,20.07,3.46,5800.0,LAL,110
-169,,,,,,,220,223.5,MIA,17.00,Austin Rivers,PG/SG,14.05,3.19,4400.0,WAS,109.5
-170,,,,,,,223.5,220,MIA,15.00,Jeff Green,SF/PF,11.58,3.13,3700.0,WAS,109.5
-171,,,,,,,220,213.5,LAL,18.00,Maurice Harkless,SF/PF,12.67,3.09,4100.0,POR,113.5
-172,,,,,,,213.5,213.5,@ WAS,14.00,Wayne Ellington,SG/SF,10.7,3.06,3500.0,MIA,104
-173,,,,,,,213.5,223.5,LAL,15.00,Jake Layman,PF,10.68,2.89,3700.0,POR,113.5
-174,,,,,,,223.5,213.5,@ WAS,14.00,Rodney McGruder,SG/SF,9.78,2.51,3900.0,MIA,104
-175,,,,,,,213.5,223.5,@ PHI,8.00,Tyler Ulis,PG,7.02,2.34,3000.0,CHI,104
-176,,,,,,,223.5,213.5,LAL,9.00,Nik Stauskas,SG/SF,6.24,2.01,3100.0,POR,113.5
-177,,,,,,,213.5,220,MIA,10.00,Ian Mahinmi,C,8.88,1.93,4600.0,WAS,109.5
-178,,,,,,,220,223.5,@ POR,6.00,Michael Beasley,SF/PF,6.46,1.9,3400.0,LAL,110
-179,,,,,,,223.5,213.5,@ POR,6.00,Lance Stephenson,PG/SG,5.58,1.4,4000.0,LAL,110
+,Fuel,VegasTotal,DvP_5,Fuel_Projection,Fuel_Value,RG,Guru,DvP,DvPRank,Opponent,PMIN,Player,Position,RG_Projection,RG_Value,Salary,Team,Total
+0,A. Davis,121.8,19th,57.3,4.939655172413793,Anthony Davis,"Davis, Anthony",214,217,SAC,37.00,Anthony Davis,PF/C,57.43,4.95,11600.0,NOP,121.5
+1,G. Antetokounmpo,109,29th,55.3,5.027272727272727,Giannis Antetokounmpo,"Antetokounmpo, Giannis",217,223.5,IND,36.00,Giannis Antetokounmpo,SF/PF,55.85,5.08,11000.0,MIL,109.25
+2,K. Towns,116,3rd,48.5,5.32967032967033,Karl-Anthony Towns,"Towns, Karl-Anthony",217,232,CLE,37.00,Karl-Anthony Towns,C,50.45,5.54,9100.0,MIN,116
+3,R. Westbrook,106.5,24th,47.0,4.519230769230769,Russell Westbrook,"Westbrook, Russell",,,,,,,,,,,
+4,S. Curry,110,30th,46.8,4.824742268041237,Stephen Curry,"Curry, Stephen",219,213.5,@ UTA,35.00,Stephen Curry,PG/SG,46.06,4.75,9700.0,GSW,109.75
+5,Paul George,106.5,9th,44.8,5.149425287356322,Paul George,"George, Paul",219,217,@ LAC,37.00,Paul George,SF/PF,45.02,5.17,8700.0,OKC,107
+6,K. Durant,110,20th,44.3,4.614583333333333,Kevin Durant,"Durant, Kevin",214,209,@ UTA,35.00,Kevin Durant,SF/PF,44.82,4.67,9600.0,GSW,109.75
+7,K. Leonard,105.5,5th,43.3,5.094117647058823,Kawhi Leonard,"Leonard, Kawhi",215,215,BOS,37.00,Kawhi Leonard,SG/SF,43.11,5.07,8500.0,TOR,105.75
+8,V. Oladipo,106,20th,40.8,4.857142857142857,Victor Oladipo,"Oladipo, Victor",217,217,@ MIL,35.00,Victor Oladipo,PG/SG,40.13,4.78,8400.0,IND,105.75
+9,K. Walker,109.5,17th,39.3,4.734939759036144,Kemba Walker,"Walker, Kemba",223.5,217,@ ORL,36.50,Kemba Walker,PG,40.02,4.82,8300.0,CHA,109.5
+10,J. Butler,116,13th,38.8,4.790123456790123,Jimmy Butler,"Butler, Jimmy",214,232,CLE,36.00,Jimmy Butler,SG/SF,41.47,5.12,8100.0,MIN,116
+11,D. Mitchell,107.5,27th,38.0,4.871794871794872,Donovan Mitchell,"Mitchell, Donovan",232,209,GSW,36.00,Donovan Mitchell,PG/SG,39.11,5.01,7800.0,UTA,107.25
+12,Marc Gasol,110.5,12th,38.0,5.277777777777778,Marc Gasol,"Gasol, Marc",232,215,ATL,33.00,Marc Gasol,C,39.91,5.54,7200.0,MEM,110.5
+13,A. Gordon,107.5,5th,38.0,4.634146341463415,Aaron Gordon,"Gordon, Aaron",214,223.5,CHA,36.00,Aaron Gordon,SF/PF,39.81,4.85,8200.0,ORL,107.5
+14,Rudy Gobert,107.5,21st,37.5,4.746835443037974,Rudy Gobert,"Gobert, Rudy",217,217,GSW,35.00,Rudy Gobert,C,37.92,4.8,7900.0,UTA,107.25
+15,D. Schroder,106.5,24th,37.3,4.844155844155844,Dennis Schroder,"Schroder, Dennis",219,217,@ LAC,34.00,Dennis Schroder,PG/SG,36.55,4.75,7700.0,OKC,107
+16,K. Love,107.5,3rd,37.0,4.625,Kevin Love,"Love, Kevin",232,215,@ MIN,33.00,Kevin Love,PF/C,42.92,5.37,8000.0,CLE,107.5
+17,K. Middleton,109,14th,36.8,4.842105263157895,Khris Middleton,"Middleton, Khris",217,223.5,IND,35.00,Khris Middleton,SG/SF,35.07,4.61,7600.0,MIL,109.25
+18,Jrue Holiday,121.8,3rd,36.8,5.111111111111111,Jrue Holiday,"Holiday, Jrue",209,217,SAC,37.00,Jrue Holiday,PG/SG,38.84,5.39,7200.0,NOP,121.5
+19,Kyle Lowry,105.5,2nd,36.8,4.906666666666666,Kyle Lowry,"Lowry, Kyle",215,213.5,BOS,36.00,Kyle Lowry,PG,37.98,5.06,7500.0,TOR,105.75
+20,Enes Kanter,107.5,18th,35.3,4.770270270270269,Enes Kanter,"Kanter, Enes",232,219,@ BKN,29.00,Enes Kanter,C,38.41,5.19,7400.0,NYK,107.75
+21,N. Vucevic,107.5,2nd,35.3,4.706666666666666,Nikola Vucevic,"Vucevic, Nikola",223.5,217,CHA,30.00,Nikola Vucevic,C,39.38,5.25,7500.0,ORL,107.5
+22,W. Cauley-Stein,110.3,6th,35.0,5.555555555555555,Willie Cauley-Stein,"Cauley-Stein, Willie",215,223.5,@ NOP,34.00,Willie Cauley-Stein,C,34.83,5.53,6300.0,SAC,110.5
+23,T. Harris,107.5,15th,34.8,4.702702702702702,Tobias Harris,"Harris, Tobias",214,217,OKC,38.00,Tobias Harris,SF/PF,39.11,5.29,7400.0,LAC,107
+24,Tim Hardaway Jr.,107.5,12th,34.5,4.726027397260274,Tim Hardaway Jr.,"Hardaway Jr., Tim",219,217,@ BKN,32.00,Tim Hardaway Jr.,SG/SF,32.33,4.43,7300.0,NYK,107.75
+25,E. Payton,121.8,3rd,33.8,5.827586206896552,Elfrid Payton,"Payton, Elfrid",                                                                                                                                                                                   Vegas Lines,O/U,SAC,34.50,Elfrid Payton,PG,34.41,5.93,5800.0,NOP,121.5
+26,N. Mirotic,121.8,2nd,33.5,4.785714285714286,Nikola Mirotic,"Mirotic, Nikola",217,214,SAC,31.00,Nikola Mirotic,SF/PF,34.8,4.97,7000.0,NOP,121.5
+27,J. Randle,121.8,19th,33.5,4.71830985915493,Julius Randle,"Randle, Julius",209,213.5,SAC,30.00,Julius Randle,PF/C,35.69,5.03,7100.0,NOP,121.5
+28,D. Green,110,1st,33.3,4.970149253731343,Draymond Green,"Green, Draymond",215,219,@ UTA,33.00,Draymond Green,PF/C,30.64,4.57,6700.0,GSW,109.75
+29,D. Green,105.5,5th,20.0,4.444444444444445,Draymond Green,"Green, Draymond",215,219,@ UTA,33.00,Draymond Green,PF/C,30.64,4.57,6700.0,GSW,109.75
+30,D. Green,110,1st,33.3,4.970149253731343,Danny Green,"Green, Danny",217,217,BOS,30.00,Danny Green,SG/SF,21.66,4.81,4500.0,TOR,105.75
+31,D. Green,105.5,5th,20.0,4.444444444444445,Danny Green,"Green, Danny",217,217,BOS,30.00,Danny Green,SG/SF,21.66,4.81,4500.0,TOR,105.75
+32,S. Adams,106.5,25th,32.8,4.753623188405796,Steven Adams,"Adams, Steven",209,217,@ LAC,36.00,Steven Adams,C,34.34,4.98,6900.0,OKC,107
+33,K. Irving,103,22nd,31.8,4.818181818181818,Kyrie Irving,"Irving, Kyrie",232,219,@ TOR,31.50,Kyrie Irving,PG,35.89,5.44,6600.0,BOS,103.25
+34,D. Fox,110.3,26th,31.5,4.846153846153846,De'Aaron Fox,"Fox, De'Aaron",213.5,214,@ NOP,35.00,De'Aaron Fox,PG,34.43,5.3,6500.0,SAC,110.5
+35,Mike Conley,110.5,7th,31.5,4.632352941176471,Mike Conley,"Conley, Mike",213.5,232,ATL,32.00,Mike Conley,PG,37.41,5.5,6800.0,MEM,110.5
+36,J. Tatum,103,11th,31.5,4.846153846153846,Jayson Tatum,"Tatum, Jayson",217,232,@ TOR,31.50,Jayson Tatum,SF/PF,26.62,4.1,6500.0,BOS,103.25
+37,T. Prince,103,18th,30.8,4.967741935483871,Taurean Prince,"Prince, Taurean",213.5,223.5,@ MEM,34.00,Taurean Prince,SF,32.75,5.28,6200.0,ATL,103
+38,Jeff Teague,116,12th,30.8,4.8125,Jeff Teague,"Teague, Jeff",213.5,219,CLE,32.00,Jeff Teague,PG,30.38,4.75,6400.0,MIN,116
+39,Eric Bledsoe,109,1st,30.8,4.666666666666667,Eric Bledsoe,"Bledsoe, Eric",215,223.5,IND,34.00,Eric Bledsoe,PG/SG,35.36,5.36,6600.0,MIL,109.25
+40,R. Rubio,107.5,27th,30.5,4.841269841269842,Ricky Rubio,"Rubio, Ricky",219,214,GSW,29.00,Ricky Rubio,PG,29.39,4.67,6300.0,UTA,107.25
+41,D. Russell,111,5th,30.3,4.734375,D'Angelo Russell,"Russell, D'Angelo",217,219,NYK,29.00,D'Angelo Russell,PG/SG,33.33,5.21,6400.0,BKN,111.25
+42,T. Evans,106,11th,30.0,4.918032786885246,Tyreke Evans,"Evans, Tyreke",219,232,@ MIL,29.00,Tyreke Evans,SG/SF,31.75,5.2,6100.0,IND,105.75
+43,A. Wiggins,116,13th,29.5,4.758064516129032,Andrew Wiggins,"Wiggins, Andrew",217,217,CLE,37.00,Andrew Wiggins,SG/SF,28.62,4.62,6200.0,MIN,116
+44,C. LeVert,111,13th,29.5,4.682539682539683,Caris LeVert,"LeVert, Caris",217,213.5,NYK,32.00,Caris LeVert,SF,33.03,5.24,6300.0,BKN,111.25
+45,Joe Ingles,107.5,1st,29.3,4.803278688524591,Joe Ingles,"Ingles, Joe",223.5,214,GSW,34.00,Joe Ingles,SG/SF,29.93,4.91,6100.0,UTA,107.25
+46,Klay Thompson,110,3rd,29.3,4.725806451612903,Klay Thompson,"Thompson, Klay",213.5,217,@ UTA,35.00,Klay Thompson,SG,27.84,4.49,6200.0,GSW,109.75
+47,Al Horford,103,20th,28.8,4.721311475409837,Al Horford,"Horford, Al",217,217,@ TOR,31.50,Al Horford,PF/C,31.37,5.14,6100.0,BOS,103.25
+48,S. Dinwiddie,111,5th,28.5,4.830508474576271,Spencer Dinwiddie,"Dinwiddie, Spencer",213.5,215,NYK,25.00,Spencer Dinwiddie,PG/SG,25.49,4.32,5900.0,BKN,111.25
+49,J. Allen,111,11th,28.3,4.716666666666667,Jarrett Allen,"Allen, Jarrett",217,209,NYK,28.00,Jarrett Allen,C,26.89,4.48,6000.0,BKN,111.25
+50,G. Hayward,103,17th,28.0,4.827586206896552,Gordon Hayward,"Hayward, Gordon",215,213.5,@ TOR,26.00,Gordon Hayward,SG/SF,26.02,4.49,5800.0,BOS,103.25
+51,D. Sabonis,106,17th,28.0,4.745762711864407,Domantas Sabonis,"Sabonis, Domantas",223.5,219,@ MIL,21.00,Domantas Sabonis,PF/C,21.46,3.64,5900.0,IND,105.75
+52,D. Gallinari,107.5,15th,27.5,4.661016949152542,Danilo Gallinari,"Gallinari, Danilo",223.5,215,OKC,34.00,Danilo Gallinari,SF/PF,31.49,5.34,5900.0,LAC,107
+53,Lou Williams,107.5,25th,27.5,4.741379310344827,Louis Williams,"Williams, Louis",,,,,,,,,,,
+54,N. Batum,109.5,26th,27.5,4.583333333333333,Nicolas Batum,"Batum, Nicolas",214,213.5,@ ORL,32.00,Nicolas Batum,SG/SF,31.7,5.28,6000.0,CHA,109.5
+55,Trey Burke,107.5,14th,27.0,4.7368421052631575,Trey Burke,"Burke, Trey",215,217,@ BKN,27.00,Trey Burke,PG/SG,25.83,4.53,5700.0,NYK,107.75
+56,B. Hield,110.3,9th,27.0,4.821428571428572,Buddy Hield,"Hield, Buddy",219,213.5,@ NOP,31.00,Buddy Hield,SG/SF,30.39,5.43,5600.0,SAC,110.5
+57,R. Hollis-Jefferson,111,13th,26.8,4.620689655172414,Rondae Hollis-Jefferson,"Hollis-Jefferson, Rondae",213.5,219,NYK,25.00,Rondae Hollis-Jefferson,PF/C,23.12,3.99,5800.0,BKN,111.25
+58,M. Turner,106,4th,26.8,4.620689655172414,,,,,,,,,,,,,
+59,L. Nance Jr.,107.5,3rd,23.3,4.568627450980393,,,,,,,,,,,,,
+60,J. Jackson,110.3,27th,16.5,4.45945945945946,,,,,,,,,,,,,
+61,W. Selden Jr.,110.5,27th,13.3,3.6944444444444446,,,,,,,,,,,,,
+62,J. Valanciunas,105.5,9th,26.3,4.962264150943397,Jonas Valanciunas,"Valanciunas, Jonas",217,219,BOS,20.00,Jonas Valanciunas,C,23.6,4.45,5300.0,TOR,105.75
+63,Kent Bazemore,103,25th,26.0,4.7272727272727275,Kent Bazemore,"Bazemore, Kent",215,217,@ MEM,31.00,Kent Bazemore,SG/SF,26.18,4.76,5500.0,ATL,103
+64,J. Brown,103,17th,26.0,4.814814814814815,Jaylen Brown,"Brown, Jaylen",217,213.5,@ TOR,31.00,Jaylen Brown,SG/SF,24.41,4.52,5400.0,BOS,103.25
+65,D. Favors,107.5,2nd,25.8,4.526315789473684,Derrick Favors,"Favors, Derrick",219,219,GSW,26.00,Derrick Favors,PF/C,24.26,4.26,5700.0,UTA,107.25
+66,J. Lamb,109.5,26th,24.8,4.509090909090909,Jeremy Lamb,"Lamb, Jeremy",217,215,@ ORL,28.00,Jeremy Lamb,SG/SF,26.26,4.77,5500.0,CHA,109.5
+67,Alex Len,103,24th,24.8,4.862745098039216,Alex Len,"Len, Alex",217,232,@ MEM,29.00,Alex Len,C,27,5.29,5100.0,ATL,103
+68,Evan Fournier,107.5,23rd,24.5,4.711538461538462,Evan Fournier,"Fournier, Evan",213.5,232,CHA,31.00,Evan Fournier,SG/SF,30.53,5.87,5200.0,ORL,107.5
+69,T. Young,106,21st,24.5,4.9,Thaddeus Young,"Young, Thaddeus",209,217,@ MIL,31.00,Thaddeus Young,SF/PF,23.91,4.78,5000.0,IND,105.75
+70,Cedi Osman,107.5,8th,24.3,4.5,Cedi Osman,"Osman, Cedi",232,214,@ MIN,33.50,Cedi Osman,SF,28.55,5.29,5400.0,CLE,107.5
+71,S. Ibaka,105.5,14th,24.3,4.584905660377359,Serge Ibaka,"Ibaka, Serge",223.5,214,BOS,26.00,Serge Ibaka,PF/C,22.39,4.22,5300.0,TOR,105.75
+72,Trae Young,103,13th,23.5,4.196428571428572,Trae Young,"Young, Trae",O/U,213.5,@ MEM,34.00,Trae Young,PG,32.97,5.89,5600.0,ATL,103
+73,G. Hill,107.5,28th,23.3,4.66,George Hill,"Hill, George",217,232,@ MIN,31.50,George Hill,PG/SG,24.72,4.94,5000.0,CLE,107.5
+74,M. Monk,109.5,26th,23.3,4.957446808510638,Malik Monk,"Monk, Malik",219,215,@ ORL,27.50,Malik Monk,SG,24.37,5.19,4700.0,CHA,109.5
+75,G. Hernangomez,109.5,26th,23.3,4.854166666666667,Guillermo Hernangomez,"Hernangomez, Guillermo",213.5,223.5,@ ORL,16.00,Guillermo Hernangomez,C,18.6,3.88,4800.0,CHA,109.5
+76,J. Green,110.5,14th,22.8,4.851063829787234,JaMychal Green,"Green, JaMychal",213.5,209,ATL,27.00,JaMychal Green,SF/PF,23.74,5.05,4700.0,MEM,110.5
+77,F. Ntilikina,107.5,14th,22.8,4.851063829787234,Frank Ntilikina,"Ntilikina, Frank",223.5,223.5,@ BKN,32.00,Frank Ntilikina,PG,21.64,4.6,4700.0,NYK,107.75
+78,D. Collison,106,20th,22.5,4.6875,Darren Collison,"Collison, Darren",219,214,@ MIL,27.00,Darren Collison,PG,21.89,4.56,4800.0,IND,105.75
+79,S. Mack,110.5,7th,22.5,6.61764705882353,Shelvin Mack,"Mack, Shelvin",                                                                                                                                                                                   DvPRank,                                                                                                                                                                                   Vegas Lines,ATL,22.00,Shelvin Mack,PG,20.19,5.94,3400.0,MEM,110.5
+80,B. Lopez,109,20th,22.5,4.591836734693877,Brook Lopez,"Lopez, Brook",232,217,IND,24.00,Brook Lopez,C,24.95,5.09,4900.0,MIL,109.25
+81,M. Brogdon,109,1st,22.3,4.551020408163265,Malcolm Brogdon,"Brogdon, Malcolm",217,213.5,IND,35.00,Malcolm Brogdon,PG/SG,26.37,5.38,4900.0,MIL,109.25
+82,M. Hezonja,107.5,19th,22.3,4.847826086956522,Mario Hezonja,"Hezonja, Mario",223.5,214,@ BKN,19.00,Mario Hezonja,SF/PF,15.99,3.48,4600.0,NYK,107.75
+83,P. Beverley,107.5,25th,22.0,4.680851063829787,Patrick Beverley,"Beverley, Patrick",209,209,OKC,28.00,Patrick Beverley,PG/SG,23.69,5.04,4700.0,LAC,107
+84,T. Thompson,107.5,3rd,22.0,4.680851063829787,Tristan Thompson,"Thompson, Tristan",217,223.5,@ MIN,28.00,Tristan Thompson,PF/C,22.24,4.73,4700.0,CLE,107.5
+85,Joe Harris,111,22nd,22.0,4.888888888888889,Joe Harris,"Harris, Joe",209,213.5,NYK,24.00,Joe Harris,SG/SF,18.31,4.07,4500.0,BKN,111.25
+86,T. Rozier,103,22nd,22.0,5.0,Terry Rozier,"Rozier, Terry",213.5,209,@ TOR,25.00,Terry Rozier,PG/SG,23.8,5.41,4400.0,BOS,103.25
+87,M. Harrell,107.5,6th,21.8,4.844444444444445,Montrezl Harrell,"Harrell, Montrezl",217,223.5,OKC,17.00,Montrezl Harrell,PF/C,19.03,4.23,4500.0,LAC,107
+88,M. Williams,109.5,16th,21.5,5.0,Marvin Williams,"Williams, Marvin",217,209,@ ORL,26.00,Marvin Williams,SF/PF,20.57,4.78,4300.0,CHA,109.5
+89,B. Bogdanovic,106,11th,21.5,4.574468085106383,Bojan Bogdanovic,"Bogdanovic, Bojan",223.5,214,@ MIL,30.00,Bojan Bogdanovic,SG/SF,22.14,4.71,4700.0,IND,105.75
+90,B. Bogdanovic,106,11th,21.5,4.574468085106383,Bogdan Bogdanovic,"Bogdanovic, Bogdan",,,,,,,,,,,
+91,Jae Crowder,107.5,23rd,21.5,4.673913043478262,Jae Crowder,"Crowder, Jae",215,219,GSW,32.00,Jae Crowder,SF/PF,23.82,5.18,4600.0,UTA,107.25
+92,J. Simmons,107.5,23rd,21.3,4.840909090909091,Jonathon Simmons,"Simmons, Jonathon",215,213.5,CHA,27.00,Jonathon Simmons,SG/SF,23.44,5.33,4400.0,ORL,107.5
+93,R. Hood,107.5,4th,21.3,4.4375,Rodney Hood,"Hood, Rodney",232,223.5,@ MIN,28.00,Rodney Hood,SG/SF,23.61,4.92,4800.0,CLE,107.5
+94,N. Bjelica,110.3,27th,21.0,4.565217391304349,Nemanja Bjelica,"Bjelica, Nemanja",209,214,@ NOP,27.00,Nemanja Bjelica,SF/PF,23.54,5.12,4600.0,SAC,110.5
+95,A. Crabbe,111,22nd,21.0,5.0,Allen Crabbe,"Crabbe, Allen",217,213.5,NYK,27.00,Allen Crabbe,SG/SF,22.95,5.46,4200.0,BKN,111.25
+96,M. Morris,103,11th,21.0,4.7727272727272725,Markieff Morris,"Morris, Markieff",,,,,,,,,,,
+97,M. Morris,103,11th,21.0,4.7727272727272725,Marcus Morris,"Morris, Marcus",219,215,@ TOR,19.00,Marcus Morris,SF/PF,17.32,3.94,4400.0,BOS,103.25
+98,J. Lin,103,13th,21.0,5.0,Jeremy Lin,"Lin, Jeremy",215,219,@ MEM,16.00,Jeremy Lin,PG/SG,16.46,3.92,4200.0,ATL,103
+99,E. Ilyasova,109,15th,20.8,4.727272727272727,Ersan Ilyasova,"Ilyasova, Ersan",213.5,217,IND,28.00,Ersan Ilyasova,PF/C,24.4,5.55,4400.0,MIL,109.25
+100,Fred VanVleet,105.5,2nd,20.8,4.521739130434783,Fred VanVleet,"VanVleet, Fred",213.5,214,BOS,25.00,Fred VanVleet,PG/SG,23.07,5.02,4600.0,TOR,105.75
+101,M. Brooks,110.5,27th,20.8,4.837209302325582,MarShon Brooks,"Brooks, MarShon",217,209,ATL,21.00,MarShon Brooks,SG,18.87,4.39,4300.0,MEM,110.5
+102,J. Isaac,107.5,25th,20.5,4.659090909090908,Jonathan Isaac,"Isaac, Jonathan",214,214,CHA,25.00,Jonathan Isaac,PF,22.51,5.12,4400.0,ORL,107.5
+103,E. Moore,121.8,30th,20.5,4.767441860465117,E'Twaun Moore,"Moore, E'Twaun",232,213.5,SAC,33.50,E'Twaun Moore,SG/SF,24.21,5.63,4300.0,NOP,121.5
+104,M. Smart,103,22nd,20.5,4.8809523809523805,Marcus Smart,"Smart, Marcus",215,219,@ TOR,25.50,Marcus Smart,PG/SG,19.67,4.68,4200.0,BOS,103.25
+105,M. Gortat,107.5,19th,20.5,4.659090909090908,Marcin Gortat,"Gortat, Marcin",214,217,OKC,21.00,Marcin Gortat,C,18.6,4.23,4400.0,LAC,107
+106,D.J. Augustin,107.5,15th,20.3,4.613636363636363,D.J. Augustin,"Augustin, D.J.",209,232,CHA,27.00,D.J. Augustin,PG,23.75,5.4,4400.0,ORL,107.5
+107,Alec Burks,107.5,1st,20.3,4.951219512195123,Alec Burks,"Burks, Alec",217,214,GSW,16.00,Alec Burks,SG,13.25,3.23,4100.0,UTA,107.25
+108,J. Clarkson,107.5,28th,20.3,4.319148936170213,Jordan Clarkson,"Clarkson, Jordan",219,214,@ MIN,22.00,Jordan Clarkson,PG/SG,19.95,4.24,4700.0,CLE,107.5
+109,K. Looney,110,1st,20.3,4.511111111111111,Kevon Looney,"Looney, Kevon",219,232,@ UTA,17.00,Kevon Looney,PF/C,15.05,3.34,4500.0,GSW,109.75
+110,Taj Gibson,116,9th,20.0,4.347826086956522,Taj Gibson,"Gibson, Taj",209,217,CLE,27.00,Taj Gibson,PF,21.29,4.63,4600.0,MIN,116
+111,A. Bradley,107.5,7th,19.5,4.534883720930233,Avery Bradley,"Bradley, Avery",223.5,215,OKC,28.00,Avery Bradley,SG,20.24,4.71,4300.0,LAC,107
+112,M. Bagley III,110.3,27th,19.5,4.0625,Marvin Bagley,"Bagley, Marvin",,,,,,,,,,,
+113,Noah Vonleh,107.5,24th,19.5,4.75609756097561,Noah Vonleh,"Vonleh, Noah",219,217,@ BKN,14.00,Noah Vonleh,PF/C,13.39,3.27,4100.0,NYK,107.75
+114,D. Exum,107.5,27th,19.3,4.488372093023256,Dante Exum,"Exum, Dante",209,215,GSW,23.00,Dante Exum,PG/SG,19.36,4.5,4300.0,UTA,107.25
+115,M. Bamba,107.5,2nd,19.0,4.042553191489362,Mohamed Bamba,"Bamba, Mohamed",214,214,CHA,22.00,Mohamed Bamba,C,19.81,4.21,4700.0,ORL,107.5
+116,Zach Randolph,110.3,27th,19.0,4.75,Zach Randolph,"Randolph, Zach",,,,,,,,,,,
+117,Cody Zeller,109.5,26th,19.0,4.4186046511627906,Cody Zeller,"Zeller, Cody",223.5,213.5,@ ORL,24.00,Cody Zeller,C,23.79,5.53,4300.0,CHA,109.5
+118,Kyle Anderson,110.5,14th,19.0,4.4186046511627906,Kyle Anderson,"Anderson, Kyle",217,215,ATL,22.00,Kyle Anderson,SF/PF,19.51,4.54,4300.0,MEM,110.5
+119,D. Brooks,110.5,27th,19.0,4.75,Dillon Brooks,"Brooks, Dillon",219,217,ATL,6.00,Dillon Brooks,SG,4.82,1.21,4000.0,MEM,110.5
+120,J. Jackson Jr.,110.5,18th,18.5,4.021739130434783,Jaren Jackson,"Jackson, Jaren",213.5,232,ATL,25.00,Jaren Jackson,PF,25.06,5.45,4600.0,MEM,110.5
+121,D. Bembry,103,18th,18.5,4.743589743589744,DeAndre Bembry,"Bembry, DeAndre",209,209,@ MEM,22.00,DeAndre Bembry,SF,15.93,4.08,3900.0,ATL,103
+122,P. Siakam,105.5,14th,18.5,4.404761904761904,Pascal Siakam,"Siakam, Pascal",213.5,219,BOS,22.00,Pascal Siakam,PF,18.99,4.52,4200.0,TOR,105.75
+123,B. Marjanovic,107.5,19th,18.5,4.743589743589744,Boban Marjanovic,"Marjanovic, Boban",232,219,OKC,10.00,Boban Marjanovic,C,12.91,3.31,3900.0,LAC,107
+124,J. Grant,106.5,9th,18.3,4.463414634146342,Jerian Grant,"Grant, Jerian",217,217,CHA,20.00,Jerian Grant,PG,17.43,4.98,3500.0,ORL,107.5
+125,J. Grant,107.5,15th,16.5,4.714285714285714,Jerian Grant,"Grant, Jerian",217,217,CHA,20.00,Jerian Grant,PG,17.43,4.98,3500.0,ORL,107.5
+126,J. Grant,106.5,9th,18.3,4.463414634146342,Jerami Grant,"Grant, Jerami",232,232,@ LAC,27.00,Jerami Grant,SF/PF,20.2,4.93,4100.0,OKC,107
+127,J. Grant,107.5,15th,16.5,4.714285714285714,Jerami Grant,"Grant, Jerami",232,232,@ LAC,27.00,Jerami Grant,SF/PF,20.2,4.93,4100.0,OKC,107
+128,A. Iguodala,110,3rd,18.3,4.575,Andre Iguodala,"Iguodala, Andre",214,217,@ UTA,25.00,Andre Iguodala,SG/SF,18.21,4.55,4000.0,GSW,109.75
+129,D. Rose,116,12th,18.0,4.615384615384616,Derrick Rose,"Rose, Derrick",213.5,232,CLE,25.00,Derrick Rose,PG,20.94,5.37,3900.0,MIN,116
+130,K. Knox,107.5,19th,18.0,4.0,Kevin Knox,"Knox, Kevin",214,223.5,@ BKN,24.00,Kevin Knox,SF,21.19,4.71,4500.0,NYK,107.75
+131,C. Sexton,107.5,28th,18.0,4.0,Collin Sexton,"Sexton, Collin",223.5,209,@ MIN,17.00,Collin Sexton,PG,13.67,3.04,4500.0,CLE,107.5
+132,N. Noel,106.5,25th,17.8,4.68421052631579,Nerlens Noel,"Noel, Nerlens",217,214,@ LAC,14.00,Nerlens Noel,C,14.4,3.79,3800.0,OKC,107
+133,Yogi Ferrell,110.3,26th,17.8,4.45,Yogi Ferrell,"Ferrell, Yogi",232,217,@ NOP,29.00,Yogi Ferrell,PG/SG,21.89,5.47,4000.0,SAC,110.5
+134,D. Wright,105.5,2nd,17.8,4.45,Delon Wright,"Wright, Delon",,,,,,,,,,,
+135,Cory Joseph,106,20th,17.3,4.552631578947369,Cory Joseph,"Joseph, Cory",213.5,213.5,@ MIL,22.00,Cory Joseph,PG,15.36,4.04,3800.0,IND,105.75
+136,J. Bell,110,1st,17.0,4.3589743589743595,Jordan Bell,"Bell, Jordan",214,209,@ UTA,7.00,Jordan Bell,PF,6.39,1.64,3900.0,GSW,109.75
+137,M. Teodosic,107.5,25th,17.0,4.857142857142857,Milos Teodosic,"Teodosic, Milos",,,,,,,,,,,
+138,Ed Davis,111,13th,17.0,4.3589743589743595,Ed Davis,"Davis, Ed",219,213.5,NYK,18.00,Ed Davis,PF/C,16.91,4.34,3900.0,BKN,111.25
+139,Aron Baynes,103,7th,17.0,4.473684210526316,Aron Baynes,"Baynes, Aron",209,213.5,@ TOR,16.00,Aron Baynes,C,14.8,3.89,3800.0,BOS,103.25
+140,M. Kidd-Gilchrist,109.5,16th,17.0,4.473684210526316,Michael Kidd-Gilchrist,"Kidd-Gilchrist, Michael",214,232,@ ORL,20.00,Michael Kidd-Gilchrist,SF/PF,14.38,3.78,3800.0,CHA,109.5
+141,John Henson,109,20th,17.0,4.722222222222222,John Henson,"Henson, John",217,223.5,IND,12.00,John Henson,C,11,3.06,3600.0,MIL,109.25
+142,T. Ross,107.5,23rd,16.8,4.666666666666667,Terrence Ross,"Ross, Terrence",209,217,CHA,22.00,Terrence Ross,SG/SF,16.09,4.47,3600.0,ORL,107.5
+143,A. Harrison,110.5,7th,16.8,4.8,Andrew Harrison,"Harrison, Andrew",,,,,,,,,,,
+144,C. Parsons,110.5,14th,16.5,4.45945945945946,Chandler Parsons,"Parsons, Chandler",223.5,223.5,ATL,25.00,Chandler Parsons,SF/PF,19.77,5.34,3700.0,MEM,110.5
+145,Tony Parker,109.5,17th,16.3,4.527777777777778,Tony Parker,"Parker, Tony",232,214,@ ORL,16.00,Tony Parker,PG,13.51,3.75,3600.0,CHA,109.5
+146,C.J. Miles,105.5,5th,16.3,4.6571428571428575,C.J Miles,"Miles, C.J",,,,,,,,,,,
+147,Skal Labissiere,110.3,27th,16.3,4.6571428571428575,Skal Labissiere,"Labissiere, Skal",,,,,,,,,,,
+148,V. Carter,103,25th,16.0,4.444444444444445,Vince Carter,"Carter, Vince",223.5,215,@ MEM,25.00,Vince Carter,SG/SF,18.27,5.08,3600.0,ATL,103
+149,G. Temple,110.5,27th,16.0,4.444444444444445,Garrett Temple,"Temple, Garrett",232,209,ATL,27.00,Garrett Temple,SG/SF,19.43,5.4,3600.0,MEM,110.5
+150,G. Dieng,116,9th,16.0,4.444444444444445,Gorgui Dieng,"Dieng, Gorgui",215,223.5,CLE,13.00,Gorgui Dieng,PF/C,12.8,3.56,3600.0,MIN,116
+151,F. Kaminsky,109.5,7th,16.0,4.571428571428571,Frank Kaminsky,"Kaminsky, Frank",,,,,,,,,,,
+152,D. Jones,110,29th,16.0,4.2105263157894735,Damian Jones,"Jones, Damian",214,232,@ UTA,25.00,Damian Jones,C,19.02,5.01,3800.0,GSW,109.75
+153,T. Dorsey,103,13th,16.0,4.705882352941177,Tyler Dorsey,"Dorsey, Tyler",232,209,@ MEM,17.00,Tyler Dorsey,PG,13.9,4.09,3400.0,ATL,103
+154,R. Felton,106.5,24th,15.8,4.388888888888889,Raymond Felton,"Felton, Raymond",232,215,@ LAC,14.00,Raymond Felton,PG/SG,12.96,3.6,3600.0,OKC,107
+155,M. Bridges,109.5,16th,15.5,3.875,Miles Bridges,"Bridges, Miles",215,217,@ ORL,14.00,Miles Bridges,SF,11.14,2.79,4000.0,CHA,109.5
+156,M. Bridges,109.5,16th,15.5,3.875,Mikal Bridges,"Bridges, Mikal",,,,,,,,,,,
+157,Kyle O'Quinn,106,17th,15.5,4.696969696969697,Kyle O'Quinn,"O'Quinn, Kyle",,,,,,,,,,,
+158,H. Giles,110.3,27th,15.5,3.875,Harry Giles,"Giles, Harry",217,213.5,@ NOP,12.00,Harry Giles,PF,11.06,2.77,4000.0,SAC,110.5
+159,Doug McDermott,106,21st,15.5,4.428571428571429,Doug McDermott,"McDermott, Doug",209,215,@ MIL,18.00,Doug McDermott,SF/PF,10.6,3.03,3500.0,IND,105.75
+160,P. Patterson,106.5,22nd,15.5,4.189189189189189,Patrick Patterson,"Patterson, Patrick",223.5,209,@ LAC,20.00,Patrick Patterson,PF/C,14.29,3.86,3700.0,OKC,107
+161,Thon Maker,109,15th,15.5,4.5588235294117645,Thon Maker,"Maker, Thon",,,,,,,,,,,
+162,A. Tolliver,116,17th,15.5,4.696969696969697,Anthony Tolliver,"Tolliver, Anthony",219,209,CLE,18.00,Anthony Tolliver,SF/PF,12.9,3.91,3300.0,MIN,116
+163,Ian Clark,121.8,3rd,15.3,4.636363636363637,Ian Clark,"Clark, Ian",,,,,,,,,,,
+164,D. Theis,103,20th,15.3,4.371428571428572,Daniel Theis,"Theis, Daniel",213.5,217,@ TOR,3.00,Daniel Theis,PF/C,2.79,0.8,3500.0,BOS,103.25
+165,F. Mason III,110.3,26th,15.3,4.25,Frank Mason III,"Mason III, Frank",,,,,,,,,,,
+166,Alex Abrines,106.5,16th,15.3,4.5,Alex Abrines,"Abrines, Alex",215,219,@ LAC,21.00,Alex Abrines,SG/SF,14.54,4.28,3400.0,OKC,107
+167,R. O'Neale,107.5,23rd,15.0,4.545454545454546,Royce O'Neale,"O'Neale, Royce",217,215,GSW,9.00,Royce O'Neale,SF,7.05,2.14,3300.0,UTA,107.25
+168,OG Anunoby,105.5,30th,15.0,4.285714285714286,OG Anunoby,"Anunoby, OG",209,217,BOS,24.00,OG Anunoby,SF,14.43,4.12,3500.0,TOR,105.75
+169,Kyle Korver,107.5,4th,15.0,4.411764705882353,Kyle Korver,"Korver, Kyle",214,219,@ MIN,14.00,Kyle Korver,SG/SF,10.43,3.07,3400.0,CLE,107.5
+170,K. Faried,111,13th,14.8,4.228571428571429,Kenneth Faried,"Faried, Kenneth",,,,,,,,,,,
+171,L. Thomas,107.5,19th,14.5,4.264705882352941,Lance Thomas,"Thomas, Lance",217,217,@ BKN,20.00,Lance Thomas,SF/PF,12.62,3.71,3400.0,NYK,107.75
+172,Ante Zizic,107.5,28th,14.5,4.142857142857143,Ante Zizic,"Zizic, Ante",213.5,217,@ MIN,9.00,Ante Zizic,C,9.3,2.66,3500.0,CLE,107.5
+173,Greg Monroe,105.5,9th,14.5,4.142857142857143,Greg Monroe,"Monroe, Greg",,,,,,,,,,,
+174,Mike Scott,107.5,15th,14.5,4.3939393939393945,Mike Scott,"Scott, Mike",217,223.5,OKC,3.00,Mike Scott,SF/PF,2.52,0.76,3300.0,LAC,107
+175,J. Dudley,111,13th,14.5,4.3939393939393945,Jared Dudley,"Dudley, Jared",223.5,219,NYK,16.00,Jared Dudley,SF/PF,11.22,3.4,3300.0,BKN,111.25
+176,Shai Gilgeous-Alexander,107.5,25th,14.3,3.7631578947368425,Shai Gilgeous-Alexander,"Gilgeous-Alexander, Shai",214,209,OKC,24.00,Shai Gilgeous-Alexander,PG,19.53,5.14,3800.0,LAC,107
+177,O. Spellman,103,4th,14.3,3.7631578947368425,Omari Spellman,"Spellman, Omari",,,,,,,,,,,
+178,S. Livingston,110,30th,14.3,4.205882352941177,Shaun Livingston,"Livingston, Shaun",217,232,@ UTA,12.00,Shaun Livingston,PG,8.5,2.5,3400.0,GSW,109.75
+179,Alex Poythress,103,18th,14.0,4.0,Alex Poythress,"Poythress, Alex",209,209,@ MEM,20.00,Alex Poythress,SF,15.74,4.5,3500.0,ATL,103
+180,Sam Dekker,107.5,8th,14.0,4.375,Sam Dekker,"Dekker, Sam",219,213.5,@ MIN,4.00,Sam Dekker,SF/PF,3.02,0.94,3200.0,CLE,107.5
+181,D. Nwaba,107.5,4th,14.0,4.516129032258064,David Nwaba,"Nwaba, David",,,,,,,,,,,
+182,Tyus Jones,116,12th,13.8,4.1818181818181825,Tyus Jones,"Jones, Tyus",214,217,CLE,15.00,Tyus Jones,PG/SG,12.26,3.72,3300.0,MIN,116
+183,D. Miller,121.8,2nd,13.8,4.058823529411765,Darius Miller,"Miller, Darius",214,209,SAC,22.00,Darius Miller,SF/PF,14.16,4.16,3400.0,NOP,121.5
+184,M. Plumlee,103,24th,13.5,4.090909090909091,Miles Plumlee,"Plumlee, Miles",223.5,215,@ MEM,12.00,Miles Plumlee,C,9.34,2.83,3300.0,ATL,103
+185,M. Plumlee,103,24th,13.5,4.090909090909091,Mason Plumlee,"Plumlee, Mason",,,,,,,,,,,
+186,F. Jackson,121.8,3rd,13.5,4.090909090909091,Frank Jackson,"Jackson, Frank",,,,,,,,,,,
+187,J. Jerebko,110,20th,13.3,4.030303030303031,Jonas Jerebko,"Jerebko, Jonas",217,219,@ UTA,4.00,Jonas Jerebko,SF/PF,3.31,1,3300.0,GSW,109.75
+188,N. Powell,105.5,5th,13.0,3.9393939393939394,Norman Powell,"Powell, Norman",219,217,BOS,12.00,Norman Powell,SG/SF,10.09,3.06,3300.0,TOR,105.75
+189,D. DiVincenzo,109,14th,12.8,3.6571428571428575,Donte DiVincenzo,"DiVincenzo, Donte",219,209,IND,23.00,Donte DiVincenzo,SG,15.77,4.51,3500.0,MIL,109.25
+190,A. Trier,107.5,14th,12.3,3.61764705882353,Allonzo Trier,"Trier, Allonzo",217,219,@ BKN,19.00,Allonzo Trier,PG,16.16,4.75,3400.0,NYK,107.75
+191,C. Wood,109,20th,12.0,4.0,Christian Wood,"Wood, Christian",,,,,,,,,,,
+192,A. Holiday,106,20th,11.8,3.575757575757576,Aaron Holiday,"Holiday, Aaron",,,,,,,,,,,
+193,H. Diallo,106.5,16th,11.8,3.575757575757576,Hamidou Diallo,"Diallo, Hamidou",232,217,@ LAC,10.00,Hamidou Diallo,SG,6.84,2.07,3300.0,OKC,107
+194,S. Hill,121.8,2nd,8.5,2.65625,Solomon Hill,"Hill, Solomon",214,223.5,SAC,15.00,Solomon Hill,SF/PF,11.03,3.45,3200.0,NOP,121.5
+195,Q. Cook,110,30th,7.5,2.34375,Quinn Cook,"Cook, Quinn",215,223.5,@ UTA,12.00,Quinn Cook,PG,9.34,2.92,3200.0,GSW,109.75
+196,Tony Snell,109,14th,7.3,2.28125,Tony Snell,"Snell, Tony",232,223.5,IND,13.00,Tony Snell,SG/SF,7.1,2.22,3200.0,MIL,109.25
+197,J. Okafor,121.8,13th,6.8,2.2666666666666666,Jahlil Okafor,"Okafor, Jahlil",,,,,,,,,,,
+198,T. Ferguson,106.5,9th,6.3,1.9687499999999998,Terrance Ferguson,"Ferguson, Terrance",223.5,215,@ LAC,27.00,Terrance Ferguson,SF,14.64,4.58,3200.0,OKC,107
+199,Ron Baker,107.5,14th,6.3,1.9687499999999998,Ron Baker,"Baker, Ron",215,215,@ BKN,22.00,Ron Baker,PG/SG,15.23,4.76,3200.0,NYK,107.75
+200,T. Graham,111,22nd,5.8,1.9333333333333333,Treveon Graham,"Graham, Treveon",214,214,NYK,10.00,Treveon Graham,SG/SF,5.87,1.96,3000.0,BKN,111.25
+201,Iman Shumpert,110.3,9th,5.8,1.9333333333333333,Iman Shumpert,"Shumpert, Iman",217,223.5,@ NOP,16.00,Iman Shumpert,SG/SF,10.97,3.66,3000.0,SAC,110.5
+202,C. Diallo,121.8,19th,4.8,1.4999999999999998,Cheick Diallo,"Diallo, Cheick",,,,,,,,,,,
+203,Semi Ojeleye,103,20th,4.5,1.5,Semi Ojeleye,"Ojeleye, Semi",,,,,,,,,,,
+204,G. Niang,107.5,2nd,4.5,1.5,Georges Niang,"Niang, Georges",,,,,,,,,,,
+205,G. Yabusele,103,20th,4.3,1.4333333333333333,Guerschon Yabusele,"Yabusele, Guerschon",,,,,,,,,,,
+206,L. Mbah a Moute,107.5,15th,4.3,1.4333333333333333,Luc Mbah a Moute,"Mbah a Moute, Luc",,,,,,,,,,,
+207,A. McKinnie,110,1st,4.0,1.3333333333333333,Alfonzo McKinnie,"McKinnie, Alfonzo",,,,,,,,,,,
+208,E. Sumner,106,20th,3.5,1.1666666666666667,Edmond Sumner,"Sumner, Edmond",,,,,,,,,,,
+209,A. Aminu,,,,,Al-Farouq Aminu,"Aminu, Al-Farouq",,,,,,,,,,,
+210,A. Blakeney,,,,,Antonio Blakeney,"Blakeney, Antonio",,,,,,,,,,,
+211,A. Drummond,,,,,Andre Drummond,"Drummond, Andre",,,,,,,,,,,
+212,A. Rivers,,,,,Austin Rivers,"Rivers, Austin",,,,,,,,,,,
+213,A. Simons,,,,,Anfernee Simons,"Simons, Anfernee",,,,,,,,,,,
+214,Alex Caruso,,,,,Alex Caruso,"Caruso, Alex",,,,,,,,,,,
+215,Amir Johnson,,,,,Amir Johnson,"Johnson, Amir",,,,,,,,,,,
+216,B. Beal,,,,,Bradley Beal,"Beal, Bradley",,,,,,,,,,,
+217,B. Griffin,,,,,Blake Griffin,"Griffin, Blake",,,,,,,,,,,
+218,B. Ingram,,,,,Brandon Ingram,"Ingram, Brandon",,,,,,,,,,,
+219,B. Portis,,,,,Bobby Portis,"Portis, Bobby",,,,,,,,,,,
+220,Bam Adebayo,,,,,Bam Adebayo,"Adebayo, Bam",,,,,,,,,,,
+221,Ben Simmons,,,,,Ben Simmons,"Simmons, Ben",,,,,,,,,,,
+222,Brad Wanamaker,,,,,Brad Wanamaker,"Wanamaker, Brad",,,,,,,,,,,
+223,Bryn Forbes,,,,,Bryn Forbes,"Forbes, Bryn",,,,,,,,,,,
+224,C. Anthony,,,,,Carmelo Anthony,"Anthony, Carmelo",,,,,,,,,,,
+225,C. Capela,,,,,Clint Capela,"Capela, Clint",,,,,,,,,,,
+226,C. Felicio,,,,,Cristiano Felicio,"Felicio, Cristiano",,,,,,,,,,,
+227,C. Hutchison,,,,,Chandler Hutchison,"Hutchison, Chandler",,,,,,,,,,,
+228,C. Paul,,,,,Chris Paul,"Paul, Chris",,,,,,,,,,,
+229,C. Payne,,,,,Cameron Payne,"Payne, Cameron",,,,,,,,,,,
+230,C. Swanigan,,,,,Caleb Swanigan,"Swanigan, Caleb",,,,,,,,,,,
+231,CJ McCollum,,,,,C.J. McCollum,"McCollum, C.J.",,,,,,,,,,,
+232,D. Bertans,,,,,Davis Bertans,"Bertans, Davis",,,,,,,,,,,
+233,D. Booker,,,,,Devin Booker,"Booker, Devin",,,,,,,,,,,
+234,D. Burton,,,,,Deonte Burton,"Burton, Deonte",,,,,,,,,,,
+235,D. Cunningham,,,,,Dante Cunningham,"Cunningham, Dante",,,,,,,,,,,
+236,D. DeRozan,,,,,DeMar DeRozan,"DeRozan, DeMar",,,,,,,,,,,
+237,D. Finney-Smith,,,,,Dorian Finney-Smith,"Finney-Smith, Dorian",,,,,,,,,,,
+238,D. Harris,,,,,Devin Harris,"Harris, Devin",,,,,,,,,,,
+239,D. Howard,,,,,Dwight Howard,"Howard, Dwight",,,,,,,,,,,
+240,D. Jones Jr.,,,,,Derrick Jones,"Jones, Derrick",,,,,,,,,,,
+241,D. Jordan,,,,,DeAndre Jordan,"Jordan, DeAndre",,,,,,,,,,,
+242,D. Lee,,,,,Damion Lee,"Lee, Damion",,,,,,,,,,,
+243,D. Lillard,,,,,Damian Lillard,"Lillard, Damian",,,,,,,,,,,
+244,D. Powell,,,,,Dwight Powell,"Powell, Dwight",,,,,,,,,,,
+245,D. Saric,,,,,Dario Saric,"Saric, Dario",,,,,,,,,,,
+246,D. Smith Jr.,,,,,Dennis Smith Jr.,"Smith Jr., Dennis",,,,,,,,,,,
+247,D. Valentine,,,,,Denzel Valentine,"Valentine, Denzel",,,,,,,,,,,
+248,D. Wade,,,,,Dwyane Wade,"Wade, Dwyane",,,,,,,,,,,
+249,Eric Gordon,,,,,Eric Gordon,"Gordon, Eric",,,,,,,,,,,
+250,Evan Turner,,,,,Evan Turner,"Turner, Evan",,,,,,,,,,,
+251,F. Korkmaz,,,,,Furkan Korkmaz,"Korkmaz, Furkan",,,,,,,,,,,
+252,G. Dragic,,,,,Goran Dragic,"Dragic, Goran",,,,,,,,,,,
+253,G. Green,,,,,Gerald Green,"Green, Gerald",,,,,,,,,,,
+254,G. Robinson III,,,,,Glenn Robinson III,"Robinson III, Glenn",,,,,,,,,,,
+255,Gary Harris,,,,,Gary Harris,"Harris, Gary",,,,,,,,,,,
+256,H. Whiteside,,,,,Hassan Whiteside,"Whiteside, Hassan",,,,,,,,,,,
+257,I. Bonga,,,,,Isaac Bonga,"Bonga, Isaac",,,,,,,,,,,
+258,I. Canaan,,,,,Isaiah Canaan,"Canaan, Isaiah",,,,,,,,,,,
+259,I. Zubac,,,,,Ivica Zubac,"Zubac, Ivica",,,,,,,,,,,
+260,Ian Mahinmi,,,,,Ian Mahinmi,"Mahinmi, Ian",,,,,,,,,,,
+261,Ish Smith,,,,,Ishmael Smith,"Smith, Ishmael",,,,,,,,,,,
+262,J. Bolden,,,,,Jonah Bolden,"Bolden, Jonah",,,,,,,,,,,
+263,J. Evans III,,,,,Jacob Evans III,"Evans III, Jacob",,,,,,,,,,,
+264,J. Harden,,,,,James Harden,"Harden, James",,,,,,,,,,,
+265,J. Hernangomez,,,,,Juan Hernangomez,"Hernangomez, Juan",,,,,,,,,,,
+266,J. McGee,,,,,JaVale McGee,"McGee, JaVale",,,,,,,,,,,
+267,J. Murray,,,,,Jamal Murray,"Murray, Jamal",,,,,,,,,,,
+268,J. Nurkic,,,,,Jusuf Nurkic,"Nurkic, Jusuf",,,,,,,,,,,
+269,J. Parker,,,,,Jabari Parker,"Parker, Jabari",,,,,,,,,,,
+270,J. Poeltl,,,,,Jakob Poeltl,"Poeltl, Jakob",,,,,,,,,,,
+271,J. Winslow,,,,,Justise Winslow,"Winslow, Justise",,,,,,,,,,,
+272,J.J. Barea,,,,,Jose Barea,"Barea, Jose",,,,,,,,,,,
+273,Jake Layman,,,,,Jake Layman,"Layman, Jake",,,,,,,,,,,
+274,Jeff Green,,,,,Jeff Green,"Green, Jeff",,,,,,,,,,,
+275,JJ Redick,,,,,J.J Redick,"Redick, J.J",,,,,,,,,,,
+276,Joel Embiid,,,,,Joel Embiid,"Embiid, Joel",,,,,,,,,,,
+277,John Wall,,,,,John Wall,"Wall, John",,,,,,,,,,,
+278,Josh Hart,,,,,Josh Hart,"Hart, Josh",,,,,,,,,,,
+279,Josh Jackson,,,,,Josh Jackson,"Jackson, Josh",,,,,,,,,,,
+280,Josh Richardson,,,,,Josh Richardson,"Richardson, Josh",,,,,,,,,,,
+281,K. Caldwell-Pope,,,,,Kentavious Caldwell-Pope,"Caldwell-Pope, Kentavious",,,,,,,,,,,
+282,K. Olynyk,,,,,Kelly Olynyk,"Olynyk, Kelly",,,,,,,,,,,
+283,Kris Dunn,,,,,Kris Dunn,"Dunn, Kris",,,,,,,,,,,
+284,Kyle Kuzma,,,,,Kyle Kuzma,"Kuzma, Kyle",,,,,,,,,,,
+285,L. Aldridge,,,,,LaMarcus Aldridge,"Aldridge, LaMarcus",,,,,,,,,,,
+286,L. Ball,,,,,Lonzo Ball,"Ball, Lonzo",,,,,,,,,,,
+287,L. Brown,,,,,Lorenzo Brown,"Brown, Lorenzo",,,,,,,,,,,
+288,L. Galloway,,,,,Langston Galloway,"Galloway, Langston",,,,,,,,,,,
+289,L. James,,,,,LeBron James,"James, LeBron",,,,,,,,,,,
+290,L. Shamet,,,,,Landry Shamet,"Shamet, Landry",,,,,,,,,,,
+291,L. Stephenson,,,,,Lance Stephenson,"Stephenson, Lance",,,,,,,,,,,
+292,Luke Kennard,,,,,Luke Kennard,"Kennard, Luke",,,,,,,,,,,
+293,M. Beasley,,,,,Michael Beasley,"Beasley, Michael",,,,,,,,,,,
+294,M. Beasley,,,,,Malik Beasley,"Beasley, Malik",,,,,,,,,,,
+295,M. Belinelli,,,,,Marco Belinelli,"Belinelli, Marco",,,,,,,,,,,
+296,M. Carter-Williams,,,,,Michael Carter-Williams,"Carter-Williams, Michael",,,,,,,,,,,
+297,M. Derrickson,,,,,Marcus Derrickson,"Derrickson, Marcus",,,,,,,,,,,
+298,M. Fultz,,,,,Markelle Fultz,"Fultz, Markelle",,,,,,,,,,,
+299,M. Leonard,,,,,Meyers Leonard,"Leonard, Meyers",,,,,,,,,,,
+300,Maxi Kleber,,,,,Maxi Kleber,"Kleber, Maxi",,,,,,,,,,,
+301,Mike Muscala,,,,,Mike Muscala,"Muscala, Mike",,,,,,,,,,,
+302,Moe Harkless,,,,,Maurice Harkless,"Harkless, Maurice",,,,,,,,,,,
+303,N. Jokic,,,,,Nikola Jokic,"Jokic, Nikola",,,,,,,,,,,
+304,Nick King,,,,,George King,"King, George",,,,,,,,,,,
+305,Nik Stauskas,,,,,Nik Stauskas,"Stauskas, Nik",,,,,,,,,,,
+306,P. Mills,,,,,Patty Mills,"Mills, Patty",,,,,,,,,,,
+307,P.J. Tucker,,,,,P.J. Tucker,"Tucker, P.J.",,,,,,,,,,,
+308,Pau Gasol,,,,,Pau Gasol,"Gasol, Pau",,,,,,,,,,,
+309,Paul Millsap,,,,,Paul Millsap,"Millsap, Paul",,,,,,,,,,,
+310,R. Alkins,,,,,Rawle Alkins,"Alkins, Rawle",,,,,,,,,,,
+311,R. Covington,,,,,Robert Covington,"Covington, Robert",,,,,,,,,,,
+312,R. Jackson,,,,,Reggie Jackson,"Jackson, Reggie",,,,,,,,,,,
+313,R. Lopez,,,,,Robin Lopez,"Lopez, Robin",,,,,,,,,,,
+314,R. McGruder,,,,,Rodney McGruder,"McGruder, Rodney",,,,,,,,,,,
+315,R. Rondo,,,,,Rajon Rondo,"Rondo, Rajon",,,,,,,,,,,
+316,R. Williams,,,,,Robert Williams,"Williams, Robert",,,,,,,,,,,
+317,Rudy Gay,,,,,Rudy Gay,"Gay, Rudy",,,,,,,,,,,
+318,Ryan Anderson,,,,,Ryan Anderson,"Anderson, Ryan",,,,,,,,,,,
+319,Ryan Arcidiacono,,,,,Ryan Arcidiacono,"Arcidiacono, Ryan",,,,,,,,,,,
+320,S. Milton,,,,,Shake Milton,"Milton, Shake",,,,,,,,,,,
+321,S. Mykhailiuk,,,,,Sviatoslav Mykhailiuk,"Mykhailiuk, Sviatoslav",,,,,,,,,,,
+322,Seth Curry,,,,,Seth Curry,"Curry, Seth",,,,,,,,,,,
+323,T. Ariza,,,,,Trevor Ariza,"Ariza, Trevor",,,,,,,,,,,
+324,T. Bryant,,,,,Thomas Bryant,"Bryant, Thomas",,,,,,,,,,,
+325,T. Chandler,,,,,Tyson Chandler,"Chandler, Tyson",,,,,,,,,,,
+326,T. Davis,,,,,Tyler Davis,"Davis, Tyler",,,,,,,,,,,
+327,T. Johnson,,,,,Tyler Johnson,"Johnson, Tyler",,,,,,,,,,,
+328,T. Satoransky,,,,,Tomas Satoransky,"Satoransky, Tomas",,,,,,,,,,,
+329,T. Ulis,,,,,Tyler Ulis,"Ulis, Tyler",,,,,,,,,,,
+330,T. Wear,,,,,Travis Wear,"Wear, Travis",,,,,,,,,,,
+331,T.J. McConnell,,,,,T.J McConnell,"McConnell, T.J",,,,,,,,,,,
+332,T.J. Warren,,,,,T.J Warren,"Warren, T.J",,,,,,,,,,,
+333,Trey Lyles,,,,,Trey Lyles,"Lyles, Trey",,,,,,,,,,,
+334,Troy Brown,,,,,Troy Brown Jr.,"Brown Jr., Troy",,,,,,,,,,,
+335,Troy Daniels,,,,,Troy Daniels,"Daniels, Troy",,,,,,,,,,,
+336,W. Carter Jr.,,,,,Wendell Carter Jr.,"Carter Jr., Wendell",,,,,,,,,,,
+337,W. Ellington,,,,,Wayne Ellington,"Ellington, Wayne",,,,,,,,,,,
+338,W. Matthews,,,,,Wes Matthews,"Matthews, Wes",,,,,,,,,,,
+339,Will Barton,,,,,Will Barton,"Barton, Will",,,,,,,,,,,
+340,Zach Collins,,,,,Zach Collins,"Collins, Zach",,,,,,,,,,,
+341,Zach LaVine,,,,,Zach LaVine,"LaVine, Zach",,,,,,,,,,,
+342,Zaza Pachulia,,,,,Zaza Pachulia,"Pachulia, Zaza",,,,,,,,,,,
+343,,,,,,Jaylen Adams,"Adams, Jaylen",,,,,,,,,,,
+344,,,,,,DeVaughn Akoon-Purcell,"Akoon-Purcell, DeVaughn",,,,,,,,,,,
+345,,,,,,Grayson Allen,"Allen, Grayson",,,,,,,,,,,
+346,,,,,,Justin Anderson,"Anderson, Justin",,,,,,,,,,,
+347,,,,,,Ike Anigbogu,"Anigbogu, Ike",,,,,,,,,,,
+348,,,,,,Kostas Antetokounmpo,"Antetokounmpo, Kostas",,,,,,,,,,,
+349,,,,,,Omer Asik,"Asik, Omer",,,,,,,,,,,
+350,,,,,,Deandre Ayton,"Ayton, Deandre",,,,,,,,,,,
+351,,,,,,Dwayne Bacon,"Bacon, Dwayne",,,,,,,,,,,
+352,,,,,,Wade Baldwin,"Baldwin, Wade",,,,,,,,,,,
+353,,,,,,Harrison Barnes,"Barnes, Harrison",,,,,,,,,,,
+354,,,,,,Keita Bates-Diop,"Bates-Diop, Keita",,,,,,,,,,,
+355,,,,,,Jerryd Bayless,"Bayless, Jerryd",,,,,,,,,,,
+356,,,,,,Dragan Bender,"Bender, Dragan",,,,,,,,,,,
+357,,,,,,Khem Birch,"Birch, Khem",,,,,,,,,,,
+358,,,,,,Jabari Bird,"Bird, Jabari",,,,,,,,,,,
+359,,,,,,Bismack Biyombo,"Biyombo, Bismack",,,,,,,,,,,
+360,,,,,,Trevon Bluiett,"Bluiett, Trevon",,,,,,,,,,,
+361,,,,,,Chris Boucher,"Boucher, Chris",,,,,,,,,,,
+362,,,,,,Tony Bradley,"Bradley, Tony",,,,,,,,,,,
+363,,,,,,Isaiah Briscoe,"Briscoe, Isaiah",,,,,,,,,,,
+364,,,,,,Ryan Broekhoff,"Broekhoff, Ryan",,,,,,,,,,,
+365,,,,,,Sterling Brown,"Brown, Sterling",,,,,,,,,,,
+366,,,,,,Bruce Brown,"Brown, Bruce",,,,,,,,,,,
+367,,,,,,Jalen Brunson,"Brunson, Jalen",,,,,,,,,,,
+368,,,,,,Reggie Bullock,"Bullock, Reggie",,,,,,,,,,,
+369,,,,,,Jose Calderon,"Calderon, Jose",,,,,,,,,,,
+370,,,,,,DeMarre Carroll,"Carroll, DeMarre",,,,,,,,,,,
+371,,,,,,Jevon Carter,"Carter, Jevon",,,,,,,,,,,
+372,,,,,,Omri Casspi,"Casspi, Omri",,,,,,,,,,,
+373,,,,,,Troy Caupain,"Caupain, Troy",,,,,,,,,,,
+374,,,,,,Tyler Cavanaugh,"Cavanaugh, Tyler",,,,,,,,,,,
+375,,,,,,Wilson Chandler,"Chandler, Wilson",,,,,,,,,,,
+376,,,,,,Joe Chealey,"Chealey, Joe",,,,,,,,,,,
+377,,,,,,Marquese Chriss,"Chriss, Marquese",,,,,,,,,,,
+378,,,,,,Gary Clark,"Clark, Gary",,,,,,,,,,,
+379,,,,,,John Collins,"Collins, John",,,,,,,,,,,
+380,,,,,,Pat Connaughton,"Connaughton, Pat",,,,,,,,,,,
+381,,,,,,DeMarcus Cousins,"Cousins, DeMarcus",,,,,,,,,,,
+382,,,,,,Torrey Craig,"Craig, Torrey",,,,,,,,,,,
+383,,,,,,Dewayne Dedmon,"Dedmon, Dewayne",,,,,,,,,,,
+384,,,,,,Angel Delgado,"Delgado, Angel",,,,,,,,,,,
+385,,,,,,Matthew Dellavedova,"Dellavedova, Matthew",,,,,,,,,,,
+386,,,,,,Luol Deng,"Deng, Luol",,,,,,,,,,,
+387,,,,,,Luka Doncic,"Doncic, Luka",,,,,,,,,,,
+388,,,,,,Damyean Dotson,"Dotson, Damyean",,,,,,,,,,,
+389,,,,,,PJ Dozier,"Dozier, PJ",,,,,,,,,,,
+390,,,,,,Vincent Edwards,"Edwards, Vincent",,,,,,,,,,,
+391,,,,,,Henry Ellenson,"Ellenson, Henry",,,,,,,,,,,
+392,,,,,,James Ennis,"Ennis, James",,,,,,,,,,,
+393,,,,,,Drew Eubanks,"Eubanks, Drew",,,,,,,,,,,
+394,,,,,,Keenan Evans,"Evans, Keenan",,,,,,,,,,,
+395,,,,,,Melvin Frazier,"Frazier, Melvin",,,,,,,,,,,
+396,,,,,,Channing Frye,"Frye, Channing",,,,,,,,,,,
+397,,,,,,Wenyen Gabriel,"Gabriel, Wenyen",,,,,,,,,,,
+398,,,,,,Devonte Graham,"Graham, Devonte",,,,,,,,,,,
+399,,,,,,Daniel Hamilton,"Hamilton, Daniel",,,,,,,,,,,
+400,,,,,,Isaiah Hartenstein,"Hartenstein, Isaiah",,,,,,,,,,,
+401,,,,,,Udonis Haslem,"Haslem, Udonis",,,,,,,,,,,
+402,,,,,,Isaiah Hicks,"Hicks, Isaiah",,,,,,,,,,,
+403,,,,,,Nene Hilario,"Hilario, Nene",,,,,,,,,,,
+404,,,,,,Justin Holiday,"Holiday, Justin",,,,,,,,,,,
+405,,,,,,John Holland,"Holland, John",,,,,,,,,,,
+406,,,,,,Richaun Holmes,"Holmes, Richaun",,,,,,,,,,,
+407,,,,,,Kevin Huerter,"Huerter, Kevin",,,,,,,,,,,
+408,,,,,,Wes Iwundu,"Iwundu, Wes",,,,,,,,,,,
+409,,,,,,Justin Jackson,"Jackson, Justin",213.5,217,@ NOP,30.00,Justin Jackson,SF,19.37,5.24,3700.0,SAC,110.5
+410,,,,,,Demetrius Jackson,"Jackson, Demetrius",,,,,,,,,,,
+411,,,,,,Amile Jefferson,"Jefferson, Amile",,,,,,,,,,,
+412,,,,,,Wesley Johnson,"Johnson, Wesley",,,,,,,,,,,
+413,,,,,,Stanley Johnson,"Johnson, Stanley",,,,,,,,,,,
+414,,,,,,James Johnson,"Johnson, James",,,,,,,,,,,
+415,,,,,,Alize Johnson,"Johnson, Alize",,,,,,,,,,,
+416,,,,,,Brandon Knight,"Knight, Brandon",,,,,,,,,,,
+417,,,,,,Luke Kornet,"Kornet, Luke",,,,,,,,,,,
+418,,,,,,Kosta Koufos,"Koufos, Kosta",,,,,,,,,,,
+419,,,,,,Rodions Kurucs,"Kurucs, Rodions",209,219,NYK,6.00,Rodions Kurucs,PF,4.5,1.45,3100.0,BKN,111.25
+420,,,,,,TJ Leaf,"Leaf, TJ",,,,,,,,,,,
+421,,,,,,Courtney Lee,"Lee, Courtney",,,,,,,,,,,
+422,,,,,,Walter Lemon Jr.,"Lemon Jr., Walter",,,,,,,,,,,
+423,,,,,,Jon Leuer,"Leuer, Jon",,,,,,,,,,,
+424,,,,,,Zach Lofton,"Lofton, Zach",,,,,,,,,,,
+425,,,,,,Jordan Loyd,"Loyd, Jordan",,,,,,,,,,,
+426,,,,,,Timothe Luwawu-Cabarrot,"Luwawu, Timothe",,,,,,,,,,,
+427,,,,,,Tyler Lydon,"Lydon, Tyler",,,,,,,,,,,
+428,,,,,,Daryl Macon,"Macon, Daryl",,,,,,,,,,,
+429,,,,,,J.P Macura,"Macura, J.P",,,,,,,,,,,
+430,,,,,,Lauri Markkanen,"Markkanen, Lauri",,,,,,,,,,,
+431,,,,,,Jarell Martin,"Martin, Jarell",,,,,,,,,,,
+432,,,,,,Yante Maten,"Maten, Yante",,,,,,,,,,,
+433,,,,,,Ben McLemore,"McLemore, Ben",,,,,,,,,,,
+434,,,,,,Jordan McRae,"McRae, Jordan",,,,,,,,,,,
+435,,,,,,Jodie Meeks,"Meeks, Jodie",,,,,,,,,,,
+436,,,,,,Salah Mejri,"Mejri, Salah",,,,,,,,,,,
+437,,,,,,De'Anthony Melton,"Melton, De'Anthony",,,,,,,,,,,
+438,,,,,,Chimezie Metu,"Metu, Chimezie",,,,,,,,,,,
+439,,,,,,Nazareth Mitrou-Long,"Mitrou-Long, Nazareth",,,,,,,,,,,
+440,,,,,,Ben Moore,"Moore, Ben",,,,,,,,,,,
+441,,,,,,Monte Morris,"Morris, Monte",,,,,,,,,,,
+442,,,,,,Jaylen Morris,"Morris, Jaylen",,,,,,,,,,,
+443,,,,,,Johnathan Motley,"Motley, Johnathan",,,,,,,,,,,
+444,,,,,,Timofey Mozgov,"Mozgov, Timofey",,,,,,,,,,,
+445,,,,,,Emmanuel Mudiay,"Mudiay, Emmanuel",,,,,,,,,,,
+446,,,,,,Dejounte Murray,"Murray, Dejounte",,,,,,,,,,,
+447,,,,,,Dzanan Musa,"Musa, Dzanan",,,,,,,,,,,
+448,,,,,,Abdel Nader,"Nader, Abdel",,,,,,,,,,,
+449,,,,,,Larry Nance,"Nance, Larry",219,232,@ MIN,20.00,Larry Nance,PF/C,18.35,3.6,5100.0,CLE,107.5
+450,,,,,,Shabazz Napier,"Napier, Shabazz",,,,,,,,,,,
+451,,,,,,Raul Neto,"Neto, Raul",,,,,,,,,,,
+452,,,,,,Dirk Nowitzki,"Nowitzki, Dirk",,,,,,,,,,,
+453,,,,,,James Nunnally,"Nunnally, James",,,,,,,,,,,
+454,,,,,,Elie Okobo,"Okobo, Elie",,,,,,,,,,,
+455,,,,,,Josh Okogie,"Okogie, Josh",,,,,,,,,,,
+456,,,,,,Kelly Oubre,"Oubre, Kelly",,,,,,,,,,,
+457,,,,,,Justin Patton,"Patton, Justin",,,,,,,,,,,
+458,,,,,,Theo Pinson,"Pinson, Theo",,,,,,,,,,,
+459,,,,,,Quincy Pondexter,"Pondexter, Quincy",,,,,,,,,,,
+460,,,,,,Otto Porter,"Porter, Otto",,,,,,,,,,,
+461,,,,,,Michael Porter,"Porter, Michael",,,,,,,,,,,
+462,,,,,,Kristaps Porzingis,"Porzingis, Kristaps",,,,,,,,,,,
+463,,,,,,Billy Preston,"Preston, Billy",,,,,,,,,,,
+464,,,,,,Zhou Qi,"Qi, Zhou",,,,,,,,,,,
+465,,,,,,Ivan Rabb,"Rabb, Ivan",,,,,,,,,,,
+466,,,,,,Malachi Richardson,"Richardson, Malachi",,,,,,,,,,,
+467,,,,,,Andre Roberson,"Roberson, Andre",,,,,,,,,,,
+468,,,,,,Mitchell Robinson,"Robinson, Mitchell",,,,,,,,,,,
+469,,,,,,Jerome Robinson,"Robinson, Jerome",,,,,,,,,,,
+470,,,,,,Duncan Robinson,"Robinson, Duncan",,,,,,,,,,,
+471,,,,,,Devin Robinson,"Robinson, Devin",,,,,,,,,,,
+472,,,,,,Thabo Sefolosha,"Sefolosha, Thabo",,,,,,,,,,,
+473,,,,,,Wayne Selden,"Selden, Wayne",,,,,,,,,,,
+474,,,,,,Zhaire Smith,"Smith, Zhaire",,,,,,,,,,,
+475,,,,,,Jason Smith,"Smith, Jason",,,,,,,,,,,
+476,,,,,,J.R Smith,"Smith, J.R",,,,,,,,,,,
+477,,,,,,Ray Spalding,"Spalding, Ray",,,,,,,,,,,
+478,,,,,,D.J Stephens,"Stephens, D.J",,,,,,,,,,,
+479,,,,,,Jared Terrell,"Terrell, Jared",,,,,,,,,,,
+480,,,,,,Khyri Thomas,"Thomas, Khyri",,,,,,,,,,,
+481,,,,,,Isaiah Thomas,"Thomas, Isaiah",,,,,,,,,,,
+482,,,,,,Sindarius Thornwell,"Thornwell, Sindarius",,,,,,,,,,,
+483,,,,,,Gary Trent Jr.,"Trent Jr., Gary",,,,,,,,,,,
+484,,,,,,Myles Turner,"Turner, Myles",209,219,@ MIL,27.00,Myles Turner,C,25.25,4.35,5800.0,IND,105.75
+485,,,,,,Ekpe Udoh,"Udoh, Ekpe",,,,,,,,,,,
+486,,,,,,Jarred Vanderbilt,"Vanderbilt, Jarred",,,,,,,,,,,
+487,,,,,,Moritz Wagner,"Wagner, Moritz",,,,,,,,,,,
+488,,,,,,Dion Waiters,"Waiters, Dion",,,,,,,,,,,
+489,,,,,,Lonnie Walker,"Walker, Lonnie",,,,,,,,,,,
+490,,,,,,Tyrone Wallace,"Wallace, Tyrone",,,,,,,,,,,
+491,,,,,,Yuta Watanabe,"Watanabe, Yuta",,,,,,,,,,,
+492,,,,,,Thomas Welsh,"Welsh, Thomas",,,,,,,,,,,
+493,,,,,,Derrick White,"White, Derrick",,,,,,,,,,,
+494,,,,,,C.J Wilcox,"Wilcox, C.J",,,,,,,,,,,
+495,,,,,,Kenrich Williams,"Williams, Kenrich",,,,,,,,,,,
+496,,,,,,C.J Williams,"Williams, C.J",,,,,,,,,,,
+497,,,,,,Alan Williams,"Williams, Alan",,,,,,,,,,,
+498,,,,,,D.J Wilson,"Wilson, D.J",,,,,,,,,,,
+499,,,,,,,,217,214,OKC,28.00,Lou Williams,PG/SG,29.81,5.14,5800.0,LAC,107
+500,,,,,,,,209,217,@ NOP,18.00,Marvin Bagley III,PF,18.48,3.85,4800.0,SAC,110.5
+501,,,,,,,,223.5,217,@ NOP,8.00,Frank Mason,PG,7.96,2.21,3600.0,SAC,110.5
+502,,,,,,,,215,232,OKC,9.00,Luc Richard Mbah a Moute,SF/PF,6.34,2.11,3000.0,LAC,107
+503,,,,,,,,217,214,BOS,8.00,C.J. Miles,SG/SF,6.94,1.98,3500.0,TOR,105.75
