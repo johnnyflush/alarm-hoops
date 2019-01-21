@@ -1,8 +1,10 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
 0,atp1,Borna Coric,-355,Lucas Pouille,+300
 1,atp3,Kei Nishikori,-448,Pablo Carreno-Busta,+378
-2,atp5,Novak Djokovic,-757,Daniil Medvedev,+592
-3,wta1,Karolina Pliskova,-150,Garbine Muguruza Blanco,+130
-4,wta3,Serena Williams,-285,Simona Halep,+240
-5,wta5,Anastasia Pavlyuchenkova,-127,Danielle Collins,+107
-6,wta8,Petra Kvitova,-167,Ashleigh Barty,+147
+2,atp5,Novak Djokovic,-686,Daniil Medvedev,+536
+3,atp7,Roberto Bautista-Agut,-110,Stefanos Tsitsipas,-110
+4,atp10,Rafael Nadal,-2200,Francis Tiafoe,+1375
+5,wta1,Karolina Pliskova,-150,Garbine Muguruza Blanco,+130
+6,wta3,Serena Williams,-285,Simona Halep,+240
+7,wta5,Anastasia Pavlyuchenkova,-122,Danielle Collins,+102
+8,wta8,Petra Kvitova,-167,Ashleigh Barty,+147
