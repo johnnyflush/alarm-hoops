@@ -1,15 +1,8 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Borna Coric,-580,Filip Krajinovic,+475
-1,atp3,Alexander Zverev,-1597,Alex Bolt,+1047
-2,atp5,Lucas Pouille,-195,Alexei Popyrin,+170
-3,atp7,Grigor Dimitrov,-225,Francis Tiafoe,+195
-4,atp9,Rafael Nadal,-537,Tomas Berdych,+442
-5,atp12,Marin Cilic,-140,Roberto Bautista-Agut,+120
-6,atp14,Roger Federer,-569,Stefanos Tsitsipas,+464
-7,wta1,Simona Halep,-232,Venus Williams,+202
-8,wta3,Garbine Muguruza Blanco,-301,Timea Bacsinszky,+256
-9,wta5,Karolina Pliskova,-175,Camila Giorgi,+155
-10,wta7,Petra Kvitova,-165,Amanda Anisimova,+145
-11,wta9,Ashleigh Barty,-132,Maria Sharapova,+112
-12,wta11,Angelique Kerber,-646,Danielle Collins,+521
-13,wta14,Sloane Stephens,-163,Anastasia Pavlyuchenkova,+143
+0,atp1,Borna Coric,-355,Lucas Pouille,+300
+1,atp3,Kei Nishikori,-448,Pablo Carreno-Busta,+378
+2,atp5,Novak Djokovic,-757,Daniil Medvedev,+592
+3,wta1,Karolina Pliskova,-150,Garbine Muguruza Blanco,+130
+4,wta3,Serena Williams,-285,Simona Halep,+240
+5,wta5,Anastasia Pavlyuchenkova,-127,Danielle Collins,+107
+6,wta8,Petra Kvitova,-167,Ashleigh Barty,+147
