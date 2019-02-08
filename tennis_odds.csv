@@ -1,21 +1,15 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Martin Klizan,-227,Daniel Brands,+175
-1,atp3,Marton Fucsovics,-278,Yannick Maden,+210
-2,atp5,Fernando Verdasco,-154,Marius Copil,+120
-3,atp8,Denis Shapovalov,-333,Marcel Granollers,+240
-4,atp11,Daniil Medvedev,-400,Robin Haase,+280
-5,atp14,Ernests Gulbis,-167,Radu Albot,+130
-6,atp17,Gael Monfils,-250,Mikhail Kukushkin,+190
-7,atp19,Stefanos Tsitsipas,-200,Jan-Lennard Struff,+155
-8,atp22,Pierre-Hugues Herbert,-400,Ilya Ivashka,+275
-9,atp25,Federico Del Bonis,-222,Roberto Carballes Baena,+170
-10,atp27,Marco Cecchinato,-120,Jaume Munar,-105
-11,atp30,Lucas Pouille,-200,Marcos Baghdatis,+155
-12,atp33,Fabio Fognini,-200,Aljaz Bedene,+155
-13,atp35,Pablo Cuevas,,Malek Jaziri,
-14,atp37,Diego Schwartzman,-833,Alessandro Giannessi,+500
-15,atp39,Guido Pella,-227,Albert Ramos,+175
-16,atp42,Roberto Bautista-Agut,,Marton Fucsovics,
-17,atp44,Fernando Verdasco,,Matteo Berrettini,
-18,atp46,Martin Klizan,,Daniil Medvedev,
-19,atp48,Stefanos Tsitsipas,,Gael Monfils,
+0,atp1,Roberto Bautista-Agut,-400,Marton Fucsovics,+275
+1,atp3,Fernando Verdasco,-167,Matteo Berrettini,+130
+2,atp6,Tomas Berdych,-278,Filip Krajinovic,+210
+3,atp8,Denis Shapovalov,-154,Pierre-Hugues Herbert,+120
+4,atp11,Daniil Medvedev,-357,Martin Klizan,+255
+5,atp13,Stefanos Tsitsipas,-133,Gael Monfils,+105
+6,atp16,Marcos Baghdatis,-118,Radu Albot,-111
+7,atp19,Federico Del Bonis,-143,Jaume Munar,+110
+8,atp22,Jo-Wilfried Tsonga,-200,Jeremy Chardy,+155
+9,atp25,Juan Ignacio Londero,-133,Pedro Cachin,+105
+10,atp27,Diego Schwartzman,-200,Guido Pella,+155
+11,atp29,Pablo Cuevas,-143,Aljaz Bedene,+110
+12,atp32,Matteo Berrettini,-154,Marton Fucsovics,+120
+13,atp34,Gael Monfils,,Daniil Medvedev,
