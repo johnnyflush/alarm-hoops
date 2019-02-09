@@ -1,15 +1,10 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Roberto Bautista-Agut,-400,Marton Fucsovics,+275
-1,atp3,Fernando Verdasco,-167,Matteo Berrettini,+130
-2,atp6,Tomas Berdych,-278,Filip Krajinovic,+210
-3,atp8,Denis Shapovalov,-154,Pierre-Hugues Herbert,+120
-4,atp11,Daniil Medvedev,-357,Martin Klizan,+255
-5,atp13,Stefanos Tsitsipas,-133,Gael Monfils,+105
-6,atp16,Marcos Baghdatis,-118,Radu Albot,-111
-7,atp19,Federico Del Bonis,-143,Jaume Munar,+110
-8,atp22,Jo-Wilfried Tsonga,-200,Jeremy Chardy,+155
-9,atp25,Juan Ignacio Londero,-133,Pedro Cachin,+105
-10,atp27,Diego Schwartzman,-200,Guido Pella,+155
-11,atp29,Pablo Cuevas,-143,Aljaz Bedene,+110
-12,atp32,Matteo Berrettini,-154,Marton Fucsovics,+120
-13,atp34,Gael Monfils,,Daniil Medvedev,
+0,atp1,Matteo Berrettini,-154,Marton Fucsovics,+120
+1,atp4,Tomas Berdych,-175,Pierre-Hugues Herbert,+135
+2,atp6,Jo-Wilfried Tsonga,-500,Radu Albot,+350
+3,atp9,Daniil Medvedev,-149,Gael Monfils,+115
+4,atp12,Pablo Cuevas,-143,Aljaz Bedene,+110
+5,atp14,Federico Del Bonis,-357,Juan Ignacio Londero,+255
+6,atp16,Guido Pella,,Pablo Cuevas,
+7,atp19,Jo-Wilfried Tsonga,-200,Pierre-Hugues Herbert,+155
+8,atp22,Daniil Medvedev,-556,Marton Fucsovics,+375
