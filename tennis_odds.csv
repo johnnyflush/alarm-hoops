@@ -1,31 +1,20 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Milos Raonic,-400,Philipp Kohlschreiber,+275
-1,atp3,Ernests Gulbis,-133,Marius Copil,+105
-2,atp5,Denis Shapovalov,-556,Franko Skugor,+375
-3,atp7,Fernando Verdasco,-303,Matthew Ebden,+220
-4,atp9,Gael Monfils,-118,David Goffin,-111
-5,atp11,Tomas Berdych,-175,Gilles Simon,+135
-6,atp14,Reilly Opelka,-154,Adrian Mannarino,+120
-7,atp16,Christopher Eubanks,-143,Adrian Menendez-Maceiras,+110
-8,atp19,Leonardo Mayer,-133,Dusan Lajovic,+105
-9,atp21,Pablo Cuevas,-556,Marcelo Arevalo,+375
-10,atp23,Roberto Carballes Baena,-143,Taro Daniel,+110
-11,atp26,Bradley Klahn,-161,Guillermo Garcia-Lopez,+125
-12,atp28,Ramkumar Ramanathan,-143,Jason Jung,+110
-13,atp30,Alexei Popyrin,-154,Guillermo Garcia-Lopez,+120
-14,atp33,Kei Nishikori,-278,Pierre-Hugues Herbert,+210
-15,atp36,Jaume Munar,-114,Federico Del Bonis,-114
-16,atp38,Aljaz Bedene,-278,Guido Andreozzi,+210
-17,atp41,Ryan Harrison,-227,Peter Polansky,+175
-18,atp44,Karen Khachanov,-1250,Tallon Griekspoor,+650
-19,atp47,Joao Sousa,-167,Juan Ignacio Londero,+130
-20,atp49,David Ferrer,-227,Malek Jaziri,+175
-21,atp52,Sam Querrey,-227,Lloyd Harris,+175
-22,wta1,Elina Svitolina,-357,Jelena Ostapenko,+255
-23,wta3,Su-Wei Hsieh,-161,Karolina Muchova,+125
-24,wta5,Barbora Zahlavova Strycova,-161,Anna Blinkova,+125
-25,wta7,Karolina Pliskova,-222,Elise Mertens,+170
-26,wta9,Kiki Bertens,-278,Carla Suarez Navarro,+210
-27,wta11,Julia Goerges,,Alison Riske,
-28,wta13,Simona Halep,-500,Lesia Tsurenko,+350
-29,wta15,Angelique Kerber,-189,Anett Kontaveit,+145
+0,atp1,Mikhail Kukushkin,-120,Damir Dzumhur,-105
+1,atp3,Daniil Medvedev,-333,Fernando Verdasco,+240
+2,atp5,Jo-Wilfried Tsonga,-1250,Tallon Griekspoor,+650
+3,atp8,John Millman,-303,Guillermo Garcia-Lopez,+220
+4,atp11,Pablo Cuevas,-200,Joao Sousa,+155
+5,atp14,Reilly Opelka,-120,Denis Istomin,-105
+6,atp17,Kei Nishikori,-357,Ernests Gulbis,+255
+7,atp20,David Ferrer,-133,Albert Ramos,+105
+8,atp23,Sam Querrey,-303,Radu Albot,+220
+9,atp26,Marton Fucsovics,-125,Nikoloz Basilashvili,+100
+10,atp29,Dominic Thiem,-625,Maximilian Marterer,+400
+11,atp31,Diego Schwartzman,-227,Aljaz Bedene,+175
+12,atp34,Francis Tiafoe,-714,Jason Jung,+450
+13,atp37,Damir Dzumhur,,Gael Monfils,
+14,atp39,Daniil Medvedev,,Jo-Wilfried Tsonga,
+15,atp41,Stanislas Wawrinka,,Denis Shapovalov,
+16,atp43,Marton Fucsovics,,Kei Nishikori,
+17,wta1,Simona Halep,-133,Elina Svitolina,+105
+18,wta3,Angelique Kerber,-189,Elise Mertens,+145
