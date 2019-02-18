@@ -1,32 +1,32 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
 0,atp1,Filip Krajinovic,-227,Hubert Hurkacz,+175
-1,atp4,Yosuke Watanuki,,Lukas Lacko,
+1,atp4,Yosuke Watanuki,-278,Lukas Lacko,+210
 2,atp7,Gilles Simon,-303,Antoine Hoang,+220
 3,atp10,Denis Istomin,-143,Feliciano Lopez,+110
-4,atp13,Nicolas Jarry,,Roberto Carballes Baena,
+4,atp13,Nicolas Jarry,-125,Roberto Carballes Baena,+100
 5,atp15,Federico Del Bonis,,Malek Jaziri,
 6,atp18,Mikhail Kukushkin,-200,Denis Kudla,+155
 7,atp21,Dusan Lajovic,,Cameron Norrie,
-8,atp23,Guido Andreozzi,,Hugo Dellien,
+8,atp23,Guido Andreozzi,-133,Hugo Dellien,+105
 9,atp25,Felix Auger-Aliassime,,Fabio Fognini,
-10,atp28,Lloyd Harris,,Darian King,
-11,atp31,Elias Ymer,,Juan Ignacio Londero,
+10,atp28,Lloyd Harris,-161,Darian King,+125
+11,atp31,Juan Ignacio Londero,-167,Elias Ymer,+130
 12,atp33,Taro Daniel,,Thiago Seyboth Wild,
 13,atp36,Nick Kyrgios,,John Millman,
-14,wta1,Donna Vekic,-303,Ons Jabeur,+220
-15,wta3,Sofia Kenin,-200,Mihaela Buzarnescu,+155
-16,wta5,Zarina Diyas,-556,Dalila Jakupovic,+375
+14,wta1,Donna Vekic,-357,Ons Jabeur,+255
+15,wta3,Sofia Kenin,-222,Mihaela Buzarnescu,+170
+16,wta5,Zarina Diyas,-625,Dalila Jakupovic,+400
 17,wta7,Julia Goerges,-278,Alison Riske,+210
-18,wta9,Petra Martic,,Katerina Siniakova,
-19,wta11,Anett Kontaveit,,Shuai Zhang,
-20,wta13,Jennifer Brady,,Jelena Ostapenko,
-21,wta15,Barbora Zahlavova Strycova,,Carla Suarez Navarro,
-22,wta17,Elise Mertens,,Lin Zhu,
+18,wta9,Petra Martic,-118,Katerina Siniakova,-111
+19,wta11,Anett Kontaveit,-182,Shuai Zhang,+140
+20,wta13,Jelena Ostapenko,-149,Jennifer Brady,+115
+21,wta15,Carla Suarez Navarro,-143,Barbora Zahlavova Strycova,+110
+22,wta17,Elise Mertens,-303,Lin Zhu,+220
 23,wta20,Andrea Petkovic,-250,Ana Bogdan,+190
-24,wta22,Arantxa Rus,-167,Fiona Ferro,+130
+24,wta22,Arantxa Rus,-154,Fiona Ferro,+120
 25,wta25,Caroline Wozniacki,-556,Stefanie Voegele,+375
 26,wta27,Dominika Cibulkova,-400,Lara Arruabarrena-Vecino,+280
 27,wta30,Anastasia Potapova,-200,Heather Watson,+155
-28,wta33,Caroline Garcia,-114,Anastasia Pavlyuchenkova,-114
-29,wta36,Aleksandra Krunic,-333,Tamara Korpatsch,+240
+28,wta33,Anastasia Pavlyuchenkova,-118,Caroline Garcia,-111
+29,wta36,Aleksandra Krunic,-357,Tamara Korpatsch,+255
 30,wta38,Pauline Parmentier,-114,Ana Konjuh,-114
