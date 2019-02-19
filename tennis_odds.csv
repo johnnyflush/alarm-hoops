@@ -1,37 +1,58 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Filip Krajinovic,-227,Hubert Hurkacz,+175
-1,atp4,Yosuke Watanuki,-278,Lukas Lacko,+210
-2,atp7,Gilles Simon,-303,Antoine Hoang,+220
-3,atp10,Denis Istomin,-133,Feliciano Lopez,+105
-4,atp13,Mikhail Kukushkin,-200,Denis Kudla,+155
-5,atp16,Nicolas Jarry,-133,Roberto Carballes Baena,+105
-6,atp18,Federico Del Bonis,-400,Malek Jaziri,+280
-7,atp20,Fabio Fognini,-278,Felix Auger-Aliassime,+210
-8,atp22,Dusan Lajovic,-189,Cameron Norrie,+145
-9,atp24,Guido Andreozzi,-143,Hugo Dellien,+110
-10,atp27,Lloyd Harris,-154,Darian King,+120
-11,atp30,Taro Daniel,-200,Thiago Seyboth Wild,+155
-12,atp32,Juan Ignacio Londero,-250,Elias Ymer,+190
-13,atp35,Nick Kyrgios,-149,John Millman,+115
-14,wta1,Petra Kvitova,-303,Katerina Siniakova,+220
-15,wta3,Kiki Bertens,-455,Viktoria Kuzmova,+320
-16,wta5,Su-Wei Hsieh,-200,Aliaksandra Sasnovich,+155
-17,wta7,Sofia Kenin,-250,Darya Kasatkina,+190
-18,wta9,Elina Svitolina,-500,Ons Jabeur,+350
-19,wta11,Garbine Muguruza Blanco,-714,Saisai Zheng,+450
-20,wta13,Alize Cornet,-118,Alison Riske,-111
-21,wta15,Carla Suarez Navarro,-133,Shuai Zhang,+105
-22,wta18,Johanna Larsson,,Kateryna Kozlova,
-23,wta20,Iga Swiatek,-250,Olga Danilovic,+190
-24,wta23,Simona Halep,-500,Eugenie Bouchard,+350
-25,wta25,Caroline Garcia,,Jennifer Brady,
-26,wta27,Belinda Bencic,,Stefanie Voegele,
-27,wta29,Lesia Tsurenko,,Lin Zhu,
-28,wta32,Kirsten Flipkens,,Evgeniya Rodina,
-29,wta35,Angelique Kerber,-1429,Dalila Jakupovic,+700
-30,wta37,Aryna Sabalenka,-556,Ivana Jorovic,+375
-31,wta40,Anna Blinkova,-114,Natalia Vikhlyantseva,-114
-32,wta42,Ysaline Bonaventure,-161,Tereza Smitkova,+125
-33,wta45,Naomi Osaka,-833,Kristina Mladenovic,+500
-34,wta48,Anna Bondar,,Sorana Cirstea,
-35,wta51,Dominika Cibulkova,,Karolina Pliskova,
+0,atp1,Sergiy Stakhovsky,-114,Constant Lestienne,-114
+1,atp3,Damir Dzumhur,-133,Peter Gojowczyk,+105
+2,atp5,Benoit Paire,-200,Simone Bolelli,+155
+3,atp7,Fernando Verdasco,-278,Egor Gerasimov,+210
+4,atp10,Dusan Lajovic,-200,Cameron Norrie,+155
+5,atp12,Joao Sousa,-125,Guido Pella,+100
+6,atp14,Casper Ruud,-167,Pablo Andujar,+130
+7,atp16,Leonardo Mayer,-118,Jaume Munar,-111
+8,atp19,Taylor Fritz,-182,Mackenzie McDonald,+140
+9,atp21,Ivo Karlovic,-125,Radu Albot,+100
+10,atp23,Guillermo Garcia-Lopez,-227,Jared Donaldson,+175
+11,atp25,Steve Johnson,-303,Jason Jung,+220
+12,atp28,Nicolas Jarry,-133,Roberto Carballes Baena,+105
+13,atp30,Federico Del Bonis,-400,Malek Jaziri,+280
+14,atp32,Guido Andreozzi,-143,Hugo Dellien,+110
+15,atp35,Jo-Wilfried Tsonga,-400,Andrey Rublev,+275
+16,atp38,Albert Ramos,-149,Lorenzo Sonego,+115
+17,atp41,Jordan Thompson,-167,Marcel Granollers,+130
+18,atp43,Tim Smyczek,-118,Paolo Lorenzi,-111
+19,atp46,Matteo Berrettini,-114,Jeremy Chardy,-114
+20,atp49,John Isner,-833,Peter Polansky,+500
+21,atp52,Thiago Monteiro,-250,Pedro Sousa,+190
+22,atp54,Marco Cecchinato,-161,Aljaz Bedene,+125
+23,atp56,Maximilian Marterer,-125,Christian Garin,+100
+24,atp59,Andreas Seppi,-167,Bernard Tomic,+130
+25,atp61,Adrian Mannarino,-278,Brayden Schnur,+210
+26,atp64,Fabio Fognini,-227,Felix Auger-Aliassime,+175
+27,atp66,Juan Ignacio Londero,-250,Elias Ymer,+190
+28,atp68,Dominic Thiem,-714,Laslo Djere,+450
+29,atp71,Tennys Sandgren,-161,Reilly Opelka,+125
+30,atp73,Francis Tiafoe,-182,Daniel Evans,+140
+31,atp76,Taro Daniel,-200,Thiago Seyboth Wild,+155
+32,atp78,Pablo Cuevas,-149,Diego Schwartzman,+115
+33,atp81,Juan Martin del Potro,-278,Yoshihito Nishioka,+210
+34,wta1,Petra Kvitova,-333,Katerina Siniakova,+240
+35,wta3,Kiki Bertens,-455,Viktoria Kuzmova,+320
+36,wta5,Su-Wei Hsieh,-200,Aliaksandra Sasnovich,+155
+37,wta7,Sofia Kenin,-250,Darya Kasatkina,+190
+38,wta9,Elina Svitolina,-500,Ons Jabeur,+350
+39,wta11,Garbine Muguruza Blanco,-714,Saisai Zheng,+450
+40,wta13,Alison Riske,-118,Alize Cornet,-111
+41,wta15,Carla Suarez Navarro,-133,Shuai Zhang,+105
+42,wta18,Johanna Larsson,-133,Kateryna Kozlova,+105
+43,wta20,Iga Swiatek,-250,Olga Danilovic,+190
+44,wta23,Simona Halep,-556,Eugenie Bouchard,+375
+45,wta25,Caroline Garcia,-222,Jennifer Brady,+170
+46,wta27,Belinda Bencic,-357,Stefanie Voegele,+255
+47,wta29,Lesia Tsurenko,-333,Lin Zhu,+240
+48,wta32,Kirsten Flipkens,-182,Evgeniya Rodina,+140
+49,wta34,Viktoriya Tomova,,Evgeniya Rodina,
+50,wta37,Angelique Kerber,-1429,Dalila Jakupovic,+700
+51,wta39,Aryna Sabalenka,-556,Ivana Jorovic,+375
+52,wta42,Anna Blinkova,-125,Natalia Vikhlyantseva,+100
+53,wta44,Ysaline Bonaventure,-167,Tereza Smitkova,+130
+54,wta47,Naomi Osaka,-714,Kristina Mladenovic,+450
+55,wta50,Sorana Cirstea,-149,Anna Bondar,+115
+56,wta53,Karolina Pliskova,-333,Dominika Cibulkova,+240
