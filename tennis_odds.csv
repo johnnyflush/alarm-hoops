@@ -1,33 +1,23 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Gregoire Barrere,-167,Jiri Vesely,+130
-1,atp3,Matthias Bachinger,-118,Steve Darcis,-111
-2,atp5,Ernests Gulbis,-114,Ugo Humbert,-114
-3,atp7,Denis Shapovalov,-227,Mikhail Kukushkin,+175
-4,atp10,Andreas Seppi,-200,Jordan Thompson,+155
-5,atp12,Adrian Mannarino,-149,Denis Istomin,+115
-6,atp15,Stefanos Tsitsipas,-303,Hubert Hurkacz,+220
-7,atp18,Taro Daniel,-200,Thiago Seyboth Wild,+155
-8,atp20,Pablo Cuevas,-120,Diego Schwartzman,-105
-9,atp23,Gilles Simon,-200,Peter Gojowczyk,+155
-10,atp26,Daniel Evans,-149,Lloyd Harris,+115
-11,atp29,Jaume Munar,-227,Cameron Norrie,+175
-12,atp31,Hugo Dellien,,Roberto Carballes Baena,
-13,atp33,Aljaz Bedene,,Thiago Monteiro,
-14,atp36,John Isner,-833,Lukas Lacko,+500
-15,atp39,Felix Auger-Aliassime,,Christian Garin,
-16,wta1,Petra Kvitova,-357,Jennifer Brady,+255
-17,wta3,Sofia Kenin,-154,Viktoria Kuzmova,+120
-18,wta5,Simona Halep,-625,Lesia Tsurenko,+400
-19,wta7,Angelique Kerber,-189,Su-Wei Hsieh,+145
-20,wta10,Ekaterina Alexandrova,-1000,Greta Arn,+550
-21,wta12,Irina-Camelia Begu,-114,Mona Barthel,-114
-22,wta15,Carla Suarez Navarro,-278,Kristina Mladenovic,+210
-23,wta18,Marketa Vondrousova,-227,Georgina Garcia Perez,+175
-24,wta20,Andrea Petkovic,-167,Anastasia Potapova,+130
-25,wta23,Karolina Pliskova,-357,Alison Riske,+255
-26,wta26,Alison Van Uytvanck,-154,Vera Zvonareva,+120
-27,wta29,Elina Svitolina,-167,Garbine Muguruza Blanco,+130
-28,wta32,Madison Brengle,-182,Fanny Stollar,+140
-29,wta35,Aryna Sabalenka,-303,Belinda Bencic,+220
-30,wta38,Aleksandra Krunic,-175,Sorana Cirstea,+135
-31,wta40,Pauline Parmentier,-125,Tereza Smitkova,+100
+0,atp1,Matteo Berrettini,-133,Andrey Rublev,+105
+1,atp3,Fernando Verdasco,-303,Matthias Bachinger,+220
+2,atp5,Borna Coric,-222,Ugo Humbert,+170
+3,atp8,Steve Johnson,-250,Paolo Lorenzi,+190
+4,atp11,David Goffin,-200,Benoit Paire,+155
+5,atp13,Gregoire Barrere,-161,Sergiy Stakhovsky,+125
+6,atp16,Nick Kyrgios,,Radu Albot,
+7,atp19,Federico Del Bonis,-161,Albert Ramos,+125
+8,atp21,Laslo Djere,-167,Taro Daniel,+130
+9,atp23,Joao Sousa,-149,Casper Ruud,+115
+10,atp25,Pablo Cuevas,-278,Juan Ignacio Londero,+210
+11,atp28,Mackenzie McDonald,-227,Guillermo Garcia-Lopez,+175
+12,atp30,Juan Martin del Potro,-250,Reilly Opelka,+190
+13,wta1,Karolina Pliskova,-222,Su-Wei Hsieh,+170
+14,wta4,Ekaterina Alexandrova,-357,Arantxa Rus,+255
+15,wta7,Petra Kvitova,-357,Viktoria Kuzmova,+255
+16,wta10,Evgeniya Rodina,,Irina-Camelia Begu,
+17,wta13,Simona Halep,-357,Belinda Bencic,+255
+18,wta16,Marketa Vondrousova,-143,Anna Blinkova,+110
+19,wta19,Elina Svitolina,-333,Carla Suarez Navarro,+240
+20,wta22,Alison Van Uytvanck,-154,Iga Swiatek,+120
+21,wta24,Madison Brengle,-125,Kateryna Kozlova,+100
