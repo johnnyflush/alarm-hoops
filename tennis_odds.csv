@@ -1,19 +1,15 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
 0,atp1,Andrey Rublev,-133,Mikhail Kukushkin,+105
 1,atp3,Ugo Humbert,-227,Matthias Bachinger,+175
-2,atp6,Daniel Evans,-118,Andreas Seppi,-111
+2,atp6,Andreas Seppi,-125,Daniel Evans,+100
 3,atp9,Stefanos Tsitsipas,-625,Sergiy Stakhovsky,+400
-4,atp12,Hugo Dellien,,Aljaz Bedene,
+4,atp12,Aljaz Bedene,-250,Hugo Dellien,+190
 5,atp15,John Isner,-400,Adrian Mannarino,+280
-6,atp18,David Goffin,-161,Gilles Simon,+125
-7,atp21,Laslo Djere,-120,Casper Ruud,-105
-8,atp23,Jaume Munar,,Felix Auger-Aliassime,
-9,atp26,Steve Johnson,-189,Radu Albot,+145
-10,atp29,Pablo Cuevas,-303,Albert Ramos,+220
-11,atp32,Juan Martin del Potro,-333,Mackenzie McDonald,+240
-12,wta1,Ekaterina Alexandrova,-333,Pauline Parmentier,+240
-13,wta4,Petra Kvitova,-400,Su-Wei Hsieh,+280
-14,wta7,Marketa Vondrousova,-175,Irina-Camelia Begu,+135
-15,wta10,Elina Svitolina,-303,Belinda Bencic,+220
-16,wta13,Anastasia Potapova,-200,Sorana Cirstea,+155
-17,wta15,Alison Van Uytvanck,-200,Kateryna Kozlova,+155
+6,atp18,David Goffin,-154,Gilles Simon,+120
+7,atp21,Laslo Djere,-143,Casper Ruud,+110
+8,atp23,Jaume Munar,-143,Felix Auger-Aliassime,+110
+9,atp26,Steve Johnson,-167,Radu Albot,+130
+10,atp29,Pablo Cuevas,-333,Albert Ramos,+240
+11,atp32,Juan Martin del Potro,-278,Mackenzie McDonald,+210
+12,atp35,Ugo Humbert,-118,Mikhail Kukushkin,-111
+13,wta1,Petra Kvitova,,Belinda Bencic,
