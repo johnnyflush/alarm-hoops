@@ -1,24 +1,19 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Matteo Berrettini,-133,Andrey Rublev,+105
-1,atp3,Fernando Verdasco,-303,Matthias Bachinger,+220
-2,atp5,Borna Coric,-222,Ugo Humbert,+170
-3,atp8,Steve Johnson,-278,Paolo Lorenzi,+210
-4,atp11,David Goffin,-200,Benoit Paire,+155
-5,atp13,Gregoire Barrere,-154,Sergiy Stakhovsky,+120
-6,atp16,Nick Kyrgios,-227,Radu Albot,+175
-7,atp19,Federico Del Bonis,-189,Albert Ramos,+145
-8,atp21,Laslo Djere,-189,Taro Daniel,+145
-9,atp23,Joao Sousa,-133,Casper Ruud,+105
-10,atp25,Pablo Cuevas,-278,Juan Ignacio Londero,+210
-11,atp28,Mackenzie McDonald,-189,Guillermo Garcia-Lopez,+145
-12,atp30,Juan Martin del Potro,-250,Reilly Opelka,+190
-13,atp33,Andrey Rublev,-133,Mikhail Kukushkin,+105
-14,atp35,Ugo Humbert,-250,Matthias Bachinger,+190
-15,atp37,Sergiy Stakhovsky,,Stefanos Tsitsipas,
-16,atp39,David Goffin,,Gilles Simon,
-17,wta1,Ekaterina Alexandrova,-303,Pauline Parmentier,+220
-18,wta4,Petra Kvitova,-333,Su-Wei Hsieh,+240
-19,wta7,Marketa Vondrousova,-161,Irina-Camelia Begu,+125
-20,wta10,Elina Svitolina,,Belinda Bencic,
-21,wta13,Anastasia Potapova,,Sorana Cirstea,
-22,wta15,Kateryna Kozlova,,Alison Van Uytvanck,
+0,atp1,Andrey Rublev,-133,Mikhail Kukushkin,+105
+1,atp3,Ugo Humbert,-227,Matthias Bachinger,+175
+2,atp6,Daniel Evans,-118,Andreas Seppi,-111
+3,atp9,Stefanos Tsitsipas,-625,Sergiy Stakhovsky,+400
+4,atp12,Hugo Dellien,,Aljaz Bedene,
+5,atp15,John Isner,-400,Adrian Mannarino,+280
+6,atp18,David Goffin,-161,Gilles Simon,+125
+7,atp21,Laslo Djere,-120,Casper Ruud,-105
+8,atp23,Jaume Munar,,Felix Auger-Aliassime,
+9,atp26,Steve Johnson,-189,Radu Albot,+145
+10,atp29,Pablo Cuevas,-303,Albert Ramos,+220
+11,atp32,Juan Martin del Potro,-333,Mackenzie McDonald,+240
+12,wta1,Ekaterina Alexandrova,-333,Pauline Parmentier,+240
+13,wta4,Petra Kvitova,-400,Su-Wei Hsieh,+280
+14,wta7,Marketa Vondrousova,-175,Irina-Camelia Begu,+135
+15,wta10,Elina Svitolina,-303,Belinda Bencic,+220
+16,wta13,Anastasia Potapova,-200,Sorana Cirstea,+155
+17,wta15,Alison Van Uytvanck,-200,Kateryna Kozlova,+155
