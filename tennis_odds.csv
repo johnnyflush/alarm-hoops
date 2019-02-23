@@ -1,15 +1,10 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Andrey Rublev,-133,Mikhail Kukushkin,+105
-1,atp3,Ugo Humbert,-227,Matthias Bachinger,+175
-2,atp6,Andreas Seppi,-125,Daniel Evans,+100
-3,atp9,Stefanos Tsitsipas,-625,Sergiy Stakhovsky,+400
-4,atp12,Aljaz Bedene,-250,Hugo Dellien,+190
-5,atp15,John Isner,-400,Adrian Mannarino,+280
-6,atp18,David Goffin,-154,Gilles Simon,+120
-7,atp21,Laslo Djere,-143,Casper Ruud,+110
-8,atp23,Jaume Munar,-143,Felix Auger-Aliassime,+110
-9,atp26,Steve Johnson,-167,Radu Albot,+130
-10,atp29,Pablo Cuevas,-333,Albert Ramos,+240
-11,atp32,Juan Martin del Potro,-278,Mackenzie McDonald,+210
-12,atp35,Ugo Humbert,-118,Mikhail Kukushkin,-111
-13,wta1,Petra Kvitova,,Belinda Bencic,
+0,atp1,Ugo Humbert,-133,Mikhail Kukushkin,+105
+1,atp3,Stefanos Tsitsipas,-120,David Goffin,-105
+2,atp6,Laslo Djere,-133,Aljaz Bedene,+105
+3,atp9,John Isner,-222,Daniel Evans,+170
+4,atp12,Pablo Cuevas,-250,Felix Auger-Aliassime,+190
+5,atp15,Mackenzie McDonald,-133,Radu Albot,+105
+6,wta1,Petra Kvitova,-250,Belinda Bencic,+190
+7,wta4,Ekaterina Alexandrova,-161,Alison Van Uytvanck,+125
+8,wta6,Marketa Vondrousova,-200,Anastasia Potapova,+155
