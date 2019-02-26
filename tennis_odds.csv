@@ -1,21 +1,38 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Fernando Verdasco,,Thomas Fabbiano,
-1,atp3,Marton Fucsovics,,Damir Dzumhur,
-2,atp5,Nikoloz Basilashvili,,Karen Khachanov,
-3,atp7,Milos Raonic,,Jan-Lennard Struff,
-4,atp9,Philipp Kohlschreiber,,Roger Federer,
-5,atp12,Pedro Sousa,,Christian Garin,
-6,atp15,Roberto Bautista-Agut,,Ramkumar Ramanathan,
-7,atp18,Roberto Carballes Baena,,Maximilian Marterer,
-8,atp20,Marco Trungelliti,,Taro Daniel,
-9,atp23,Gerardo Lopez Villasenor,,Steve Johnson,
-10,atp26,Federico Del Bonis,,Lorenzo Sonego,
-11,atp29,John Millman,,Marcel Granollers,
-12,atp31,Federico Gaio,,Peter Gojowczyk,
-13,atp33,Ryan Harrison,,Stanislas Wawrinka,
-14,atp35,Francis Tiafoe,,Jordan Thompson,
-15,wta1,Maria Sakkari,-133,Monica Puig,+105
-16,wta3,Yafan Wang,-167,Marie Bouzkova,+130
-17,wta5,Conny Perrin,,Katie Boulter,
-18,wta7,Donna Vekic,-400,Misaki Doi,+275
-19,wta9,Beatriz Haddad Maia,,Irina Maria Bara,
+0,atp1,Daniil Medvedev,,Richard Berankis,
+1,atp3,Robin Haase,,Egor Gerasimov,
+2,atp5,Matteo Berrettini,,Denis Kudla,
+3,atp7,Benoit Paire,,Kei Nishikori,
+4,atp9,Mohamed Safwat,,Marcos Baghdatis,
+5,atp11,Corentin Moutet,,Hubert Hurkacz,
+6,atp13,Tomas Berdych,,Ilya Ivashka,
+7,atp16,Pedro Sakamoto,,Jaume Munar,
+8,atp19,Gael Monfils,,Marin Cilic,
+9,atp21,Borna Coric,,Mikhail Kukushkin,
+10,atp24,Paolo Lorenzi,,Juan Ignacio Londero,
+11,atp26,Pedro Martinez,,Hugo Dellien,
+12,atp29,Matthew Ebden,,Stefanos Tsitsipas,
+13,atp32,Albert Ramos,,Facundo Bagnis,
+14,atp35,Adrian Mannarino,,John Isner,
+15,atp37,Diego Schwartzman,,Marius Copil,
+16,atp39,Yoshihito Nishioka,,Cameron Norrie,
+17,atp42,Elias Ymer,,Thiago Seyboth Wild,
+18,atp45,Alexander Zverev,,Alexei Popyrin,
+19,atp47,Andreas Seppi,,Nick Kyrgios,
+20,atp49,Taylor Fritz,,Sam Querrey,
+21,atp52,Thiago Monteiro,,Casper Ruud,
+22,atp55,Mischa Zverev,,Rafael Nadal,
+23,atp57,Alex De Minaur,,Nicolas Jarry,
+24,atp59,David Ferrer,,Tennys Sandgren,
+25,atp61,Dusan Lajovic,,Feliciano Lopez,
+26,wta1,Sloane Stephens,-500,Pauline Parmentier,+350
+27,wta3,Daria Gavrilova,-149,Mihaela Buzarnescu,+115
+28,wta5,Stefanie Voegele,-149,Tatjana Malek,+115
+29,wta7,Johanna Konta,-303,Laura Siegemund,+220
+30,wta9,Timea Babos,-120,Dalila Jakupovic,-105
+31,wta11,Christina McHale,-125,Ysaline Bonaventure,+100
+32,wta13,Victoria Azarenka,-125,Danielle Collins,+100
+33,wta15,Saisai Zheng,-400,Renata Zarazua,+275
+34,wta17,Bianca Andreescu,-500,Jill Belen Teichmann,+350
+35,wta19,Amanda Anisimova,-303,Varvara Flink,+220
+36,wta21,Sofia Kenin,-200,Rebecca Peterson,+155
