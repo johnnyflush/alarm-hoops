@@ -1,31 +1,35 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Kei Nishikori,-833,Hubert Hurkacz,+500
-1,atp3,Richard Berankis,-182,Denis Kudla,+140
-2,atp5,Roberto Bautista-Agut,-278,Nikoloz Basilashvili,+210
-3,atp7,Marton Fucsovics,-154,Jan-Lennard Struff,+120
-4,atp9,Gael Monfils,-714,Marcos Baghdatis,+450
-5,atp11,Stefanos Tsitsipas,-455,Egor Gerasimov,+320
+0,atp1,Hubert Hurkacz,,Kei Nishikori,
+1,atp3,Denis Kudla,,Richard Berankis,
+2,atp5,Nikoloz Basilashvili,,Roberto Bautista-Agut,
+3,atp7,Marton Fucsovics,,Jan-Lennard Struff,
+4,atp9,Marcos Baghdatis,,Gael Monfils,
+5,atp11,Egor Gerasimov,,Stefanos Tsitsipas,
 6,atp13,Fernando Verdasco,,Roger Federer,
-7,atp16,Jaume Munar,-149,Christian Garin,+115
-8,atp18,Laslo Djere,-161,Alessandro Giannessi,+125
-9,atp21,Tomas Berdych,-161,Borna Coric,+125
-10,atp24,Leonardo Mayer,-133,Lorenzo Sonego,+105
-11,atp26,Guido Pella,-149,Roberto Carballes Baena,+115
+7,atp16,Jaume Munar,,Christian Garin,
+8,atp18,Alessandro Giannessi,,Laslo Djere,
+9,atp21,Tomas Berdych,,Borna Coric,
+10,atp24,Leonardo Mayer,,Lorenzo Sonego,
+11,atp26,Guido Pella,,Roberto Carballes Baena,
 12,atp29,Sam Querrey,,John Isner,
 13,atp31,John Millman,,Peter Gojowczyk,
 14,atp34,Felix Auger-Aliassime,,Pablo Cuevas,
-15,atp37,Stanislas Wawrinka,-333,Steve Johnson,+240
+15,atp37,Stanislas Wawrinka,,Steve Johnson,
 16,atp39,Mackenzie McDonald,,Francis Tiafoe,
-17,atp42,Marco Trungelliti,-161,Thiago Seyboth Wild,+125
-18,atp45,Rafael Nadal,-455,Nick Kyrgios,+320
-19,atp47,Diego Schwartzman,-133,Cameron Norrie,+105
-20,atp49,Alexander Zverev,-400,David Ferrer,+280
-21,atp51,Alex De Minaur,-333,Feliciano Lopez,+240
-22,wta1,Sloane Stephens,-500,Beatriz Haddad Maia,+350
-23,wta3,Saisai Zheng,-120,Timea Babos,-105
-24,wta5,Donna Vekic,-333,Christina McHale,+240
-25,wta7,Bianca Andreescu,-189,Mihaela Buzarnescu,+145
-26,wta9,Victoria Azarenka,-500,Tatjana Malek,+350
-27,wta11,Monica Puig,,Yafan Wang,
-28,wta13,Johanna Konta,-400,Varvara Flink,+280
-29,wta15,Sofia Kenin,-227,Katie Boulter,+175
+17,atp42,Thiago Seyboth Wild,,Marco Trungelliti,
+18,atp45,Nick Kyrgios,,Rafael Nadal,
+19,atp47,Cameron Norrie,,Diego Schwartzman,
+20,atp49,Alexander Zverev,,David Ferrer,
+21,atp51,Feliciano Lopez,,Alex De Minaur,
+22,atp54,Gael Monfils,,Richard Berankis,
+23,atp56,Hubert Hurkacz,,Stefanos Tsitsipas,
+24,atp58,Marton Fucsovics,,Roger Federer,
+25,atp60,Nikoloz Basilashvili,,Borna Coric,
+26,wta1,Sloane Stephens,-455,Beatriz Haddad Maia,+320
+27,wta3,Saisai Zheng,-154,Timea Babos,+120
+28,wta5,Donna Vekic,-357,Christina McHale,+255
+29,wta7,Bianca Andreescu,-222,Mihaela Buzarnescu,+170
+30,wta9,Victoria Azarenka,-556,Tatjana Malek,+375
+31,wta11,Monica Puig,-133,Yafan Wang,+105
+32,wta13,Johanna Konta,-400,Varvara Flink,+280
+33,wta15,Sofia Kenin,-250,Katie Boulter,+190
