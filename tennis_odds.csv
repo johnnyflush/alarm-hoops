@@ -1,17 +1,19 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Gael Monfils,-625,Richard Berankis,+400
+0,atp1,Gael Monfils,-556,Richard Berankis,+375
 1,atp3,Stefanos Tsitsipas,-500,Hubert Hurkacz,+350
 2,atp5,Roger Federer,-625,Marton Fucsovics,+400
-3,atp8,Hugo Dellien,,Juan Ignacio Londero,
-4,atp11,Nikoloz Basilashvili,-118,Borna Coric,-111
-5,atp14,Casper Ruud,-114,Joao Sousa,-114
-6,atp16,Albert Ramos,-114,Felix Auger-Aliassime,-114
-7,atp18,Laslo Djere,-200,Malek Jaziri,+155
-8,atp21,Mackenzie McDonald,,Cameron Norrie,
-9,atp23,Alexander Zverev,,Alex De Minaur,
-10,atp25,Stanislas Wawrinka,,Nick Kyrgios,
+3,atp8,Juan Ignacio Londero,-175,Hugo Dellien,+135
+4,atp11,Borna Coric,-120,Nikoloz Basilashvili,-105
+5,atp14,Casper Ruud,-118,Joao Sousa,-111
+6,atp16,Felix Auger-Aliassime,-143,Albert Ramos,+110
+7,atp18,Laslo Djere,-303,Malek Jaziri,+220
+8,atp21,Cameron Norrie,-154,Mackenzie McDonald,+120
+9,atp23,Alexander Zverev,-333,Alex De Minaur,+240
+10,atp25,Stanislas Wawrinka,-200,Nick Kyrgios,+155
 11,atp27,John Isner,-154,John Millman,+120
-12,wta1,Beatriz Haddad Maia,-133,Yafan Wang,+105
-13,wta3,Johanna Konta,-133,Donna Vekic,+105
-14,wta5,Victoria Azarenka,-200,Sofia Kenin,+155
-15,wta7,Bianca Andreescu,-278,Saisai Zheng,+210
+12,atp30,Gael Monfils,-133,Stefanos Tsitsipas,+105
+13,atp32,Roger Federer,,Borna Coric,
+14,wta1,Beatriz Haddad Maia,-133,Yafan Wang,+105
+15,wta3,Johanna Konta,-143,Donna Vekic,+110
+16,wta5,Victoria Azarenka,-222,Sofia Kenin,+170
+17,wta7,Bianca Andreescu,-303,Saisai Zheng,+220
