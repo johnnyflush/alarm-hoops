@@ -1,35 +1,17 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Hubert Hurkacz,,Kei Nishikori,
-1,atp3,Denis Kudla,,Richard Berankis,
-2,atp5,Nikoloz Basilashvili,,Roberto Bautista-Agut,
-3,atp7,Marton Fucsovics,,Jan-Lennard Struff,
-4,atp9,Marcos Baghdatis,,Gael Monfils,
-5,atp11,Egor Gerasimov,,Stefanos Tsitsipas,
-6,atp13,Fernando Verdasco,,Roger Federer,
-7,atp16,Jaume Munar,,Christian Garin,
-8,atp18,Alessandro Giannessi,,Laslo Djere,
-9,atp21,Tomas Berdych,,Borna Coric,
-10,atp24,Leonardo Mayer,,Lorenzo Sonego,
-11,atp26,Guido Pella,,Roberto Carballes Baena,
-12,atp29,Sam Querrey,,John Isner,
-13,atp31,John Millman,,Peter Gojowczyk,
-14,atp34,Felix Auger-Aliassime,,Pablo Cuevas,
-15,atp37,Stanislas Wawrinka,,Steve Johnson,
-16,atp39,Mackenzie McDonald,,Francis Tiafoe,
-17,atp42,Thiago Seyboth Wild,,Marco Trungelliti,
-18,atp45,Nick Kyrgios,,Rafael Nadal,
-19,atp47,Cameron Norrie,,Diego Schwartzman,
-20,atp49,Alexander Zverev,,David Ferrer,
-21,atp51,Feliciano Lopez,,Alex De Minaur,
-22,atp54,Gael Monfils,,Richard Berankis,
-23,atp56,Hubert Hurkacz,,Stefanos Tsitsipas,
-24,atp58,Marton Fucsovics,,Roger Federer,
-25,atp60,Nikoloz Basilashvili,,Borna Coric,
-26,wta1,Sloane Stephens,-455,Beatriz Haddad Maia,+320
-27,wta3,Saisai Zheng,-154,Timea Babos,+120
-28,wta5,Donna Vekic,-357,Christina McHale,+255
-29,wta7,Bianca Andreescu,-222,Mihaela Buzarnescu,+170
-30,wta9,Victoria Azarenka,-556,Tatjana Malek,+375
-31,wta11,Monica Puig,-133,Yafan Wang,+105
-32,wta13,Johanna Konta,-400,Varvara Flink,+280
-33,wta15,Sofia Kenin,-250,Katie Boulter,+190
+0,atp1,Gael Monfils,-625,Richard Berankis,+400
+1,atp3,Stefanos Tsitsipas,-500,Hubert Hurkacz,+350
+2,atp5,Roger Federer,-625,Marton Fucsovics,+400
+3,atp8,Hugo Dellien,,Juan Ignacio Londero,
+4,atp11,Nikoloz Basilashvili,-118,Borna Coric,-111
+5,atp14,Casper Ruud,-114,Joao Sousa,-114
+6,atp16,Albert Ramos,-114,Felix Auger-Aliassime,-114
+7,atp18,Laslo Djere,-200,Malek Jaziri,+155
+8,atp21,Mackenzie McDonald,,Cameron Norrie,
+9,atp23,Alexander Zverev,,Alex De Minaur,
+10,atp25,Stanislas Wawrinka,,Nick Kyrgios,
+11,atp27,John Isner,-154,John Millman,+120
+12,wta1,Beatriz Haddad Maia,-133,Yafan Wang,+105
+13,wta3,Johanna Konta,-133,Donna Vekic,+105
+14,wta5,Victoria Azarenka,-200,Sofia Kenin,+155
+15,wta7,Bianca Andreescu,-278,Saisai Zheng,+210
