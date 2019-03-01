@@ -1,19 +1,11 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Gael Monfils,-556,Richard Berankis,+375
-1,atp3,Stefanos Tsitsipas,-500,Hubert Hurkacz,+350
-2,atp5,Roger Federer,-625,Marton Fucsovics,+400
-3,atp8,Juan Ignacio Londero,-175,Hugo Dellien,+135
-4,atp11,Borna Coric,-120,Nikoloz Basilashvili,-105
-5,atp14,Casper Ruud,-118,Joao Sousa,-111
-6,atp16,Felix Auger-Aliassime,-143,Albert Ramos,+110
-7,atp18,Laslo Djere,-303,Malek Jaziri,+220
-8,atp21,Cameron Norrie,-154,Mackenzie McDonald,+120
-9,atp23,Alexander Zverev,-333,Alex De Minaur,+240
-10,atp25,Stanislas Wawrinka,-200,Nick Kyrgios,+155
-11,atp27,John Isner,-154,John Millman,+120
-12,atp30,Gael Monfils,-133,Stefanos Tsitsipas,+105
-13,atp32,Roger Federer,,Borna Coric,
-14,wta1,Beatriz Haddad Maia,-133,Yafan Wang,+105
-15,wta3,Johanna Konta,-143,Donna Vekic,+110
-16,wta5,Victoria Azarenka,-222,Sofia Kenin,+170
-17,wta7,Bianca Andreescu,-303,Saisai Zheng,+220
+0,atp1,Gael Monfils,-133,Stefanos Tsitsipas,+105
+1,atp3,Roger Federer,-278,Borna Coric,+210
+2,atp6,Leonardo Mayer,-133,Christian Garin,+105
+3,atp8,Casper Ruud,-200,Hugo Dellien,+155
+4,atp10,Guido Pella,-556,Marco Trungelliti,+375
+5,atp12,Felix Auger-Aliassime,-143,Laslo Djere,+110
+6,atp15,Alexander Zverev,-500,Cameron Norrie,+350
+7,atp17,Nick Kyrgios,-133,John Isner,+105
+8,wta1,Donna Vekic,-250,Yafan Wang,+190
+9,wta3,Bianca Andreescu,-143,Sofia Kenin,+110
