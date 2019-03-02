@@ -1,11 +1,6 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Gael Monfils,-133,Stefanos Tsitsipas,+105
-1,atp3,Roger Federer,-278,Borna Coric,+210
-2,atp6,Leonardo Mayer,-133,Christian Garin,+105
-3,atp8,Casper Ruud,-200,Hugo Dellien,+155
-4,atp10,Guido Pella,-556,Marco Trungelliti,+375
-5,atp12,Felix Auger-Aliassime,-143,Laslo Djere,+110
-6,atp15,Alexander Zverev,-500,Cameron Norrie,+350
-7,atp17,Nick Kyrgios,-133,John Isner,+105
-8,wta1,Donna Vekic,-250,Yafan Wang,+190
-9,wta3,Bianca Andreescu,-143,Sofia Kenin,+110
+0,atp1,Roger Federer,-303,Stefanos Tsitsipas,+220
+1,atp4,Casper Ruud,-154,Christian Garin,+120
+2,atp6,Guido Pella,-200,Laslo Djere,+155
+3,atp9,Alexander Zverev,-200,Nick Kyrgios,+155
+4,wta1,Sofia Kenin,-189,Yafan Wang,+145
