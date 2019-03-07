@@ -1,17 +1,29 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,wta1,Johanna Konta,-556,Pauline Parmentier,+375
-1,wta3,Anna Schmiedlova,-114,Lauren Davis,-114
-2,wta5,Petra Martic,-222,Magda Linette,+170
-3,wta7,Marketa Vondrousova,-357,Laura Siegemund,+255
-4,wta9,Shuai Zhang,-133,Viktoria Kuzmova,+105
-5,wta11,Amanda Anisimova,-303,Aleksandra Krunic,+220
-6,wta13,Bianca Andreescu,,Irina-Camelia Begu,
-7,wta15,Katerina Siniakova,-222,Kateryna Kozlova,+170
-8,wta17,Sofia Kenin,-175,Yafan Wang,+135
-9,wta19,Stefanie Voegele,-161,Sachia Vickery,+125
-10,wta21,Dayana Yastremska,-333,Daria Gavrilova,+240
-11,wta23,Barbora Zahlavova Strycova,-154,Viktorija Golubic,+120
-12,wta25,Tatjana Malek,-167,Magdalena Rybarikova,+130
-13,wta27,Bernarda Pera,,Catherine McNally,
-14,wta29,Jennifer Brady,,Nao Hibino,
-15,wta31,Victoria Azarenka,-625,Vera Lapko,+400
+0,atp1,Cameron Norrie,,Felix Auger-Aliassime,
+1,atp3,Mischa Zverev,,Martin Klizan,
+2,atp5,Ilya Ivashka,,Guido Andreozzi,
+3,atp7,Pierre-Hugues Herbert,,Philipp Kohlschreiber,
+4,atp9,Damir Dzumhur,-118,Albert Ramos,-111
+5,atp11,Ivo Karlovic,,Matthew Ebden,
+6,atp13,Matteo Berrettini,,Sam Querrey,
+7,atp15,Yoshihito Nishioka,,Denis Kudla,
+8,atp17,Federico Del Bonis,,Jordan Thompson,
+9,atp19,Bradley Klahn,,Malek Jaziri,
+10,atp21,John Millman,,Jan-Lennard Struff,
+11,atp23,Reilly Opelka,,Leonardo Mayer,
+12,wta1,Kristina Mladenovic,,Saisai Zheng,
+13,wta3,Madison Brengle,,Samantha Stosur,
+14,wta5,Timea Babos,,Yulia Putintseva,
+15,wta7,Misaki Doi,,Ons Jabeur,
+16,wta9,Ekaterina Alexandrova,-182,Rebecca Peterson,+140
+17,wta11,Andrea Petkovic,,Venus Williams,
+18,wta13,Alison Riske,,Alison Van Uytvanck,
+19,wta15,Lin Zhu,,Mona Barthel,
+20,wta17,Priscilla Hon,,Natalia Vikhlyantseva,
+21,wta19,Ajla Tomljanovic,,Alize Cornet,
+22,wta21,Kaia Kanepi,,Johanna Larsson,
+23,wta23,Taylor Townsend,,Ysaline Bonaventure,
+24,wta25,Monica Puig,-278,Evgeniya Rodina,+210
+25,wta27,Eugenie Bouchard,,Kirsten Flipkens,
+26,wta29,Zarina Diyas,,Jessica Pegula,
+27,wta31,Christina McHale,,Maria Sakkari,
