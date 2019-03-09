@@ -1,33 +1,17 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Tomas Berdych,-625,Feliciano Lopez,+400
-1,atp3,Hubert Hurkacz,-200,Donald Young,+155
-2,atp5,Andreas Seppi,-189,Peter Gojowczyk,+145
-3,atp7,Radu Albot,-227,Marius Copil,+175
-4,atp9,Daniel Evans,,Stanislas Wawrinka,
-5,atp11,Dusan Lajovic,-161,Taro Daniel,+125
-6,atp13,Alexei Popyrin,-114,Jaume Munar,-114
-7,atp15,Ernests Gulbis,-154,Alex Bolt,+120
-8,atp17,Denis Istomin,-154,Robin Haase,+120
-9,atp19,Taylor Fritz,-125,Steve Johnson,+100
-10,atp21,Jared Donaldson,-125,Tatsuma Ito,+100
-11,atp23,Filip Krajinovic,-143,Mikhail Kukushkin,+110
-12,atp25,Adrian Mannarino,-125,Tennys Sandgren,+100
-13,atp27,Mackenzie McDonald,-133,Joao Sousa,+105
-14,atp29,Ryan Harrison,-333,Roberto Carballes Baena,+240
-15,atp31,Francis Tiafoe,,Nicolas Jarry,
-16,wta1,Garbine Muguruza Blanco,-556,Lauren Davis,+375
-17,wta3,Jennifer Brady,-125,Caroline Garcia,+100
-18,wta5,Marketa Vondrousova,-133,Darya Kasatkina,+105
-19,wta7,Sloane Stephens,-400,Stefanie Voegele,+280
-20,wta9,Shuai Zhang,-222,Jelena Ostapenko,+170
-21,wta11,Johanna Konta,-118,Su-Wei Hsieh,-111
-22,wta13,Simona Halep,-556,Barbora Zahlavova Strycova,+375
-23,wta15,Ashleigh Barty,-833,Tatjana Malek,+500
-24,wta17,Daria Gavrilova,-120,Mihaela Buzarnescu,-105
-25,wta19,Qiang Wang,-278,Bernarda Pera,+210
-26,wta21,Amanda Anisimova,-133,Elise Mertens,+105
-27,wta23,Bianca Andreescu,-189,Dominika Cibulkova,+145
-28,wta25,Aliaksandra Sasnovich,-154,Kateryna Kozlova,+120
-29,wta27,Serena Williams,-200,Victoria Azarenka,+155
-30,wta29,Kiki Bertens,-625,Magda Linette,+400
-31,wta31,Elina Svitolina,-303,Sofia Kenin,+220
+0,wta1,Angelique Kerber,-278,Yulia Putintseva,+210
+1,wta3,Ajla Tomljanovic,,Aryna Sabalenka,
+2,wta5,Donna Vekic,,Ysaline Bonaventure,
+3,wta7,Carla Suarez Navarro,-200,Natalia Vikhlyantseva,+155
+4,wta9,Madison Brengle,,Anastasija Sevastova,
+5,wta11,Anett Kontaveit,-133,Monica Puig,+105
+6,wta13,Madison Keys,,Mona Barthel,
+7,wta15,Jessica Pegula,,Lesia Tsurenko,
+8,wta17,Petra Kvitova,,Venus Williams,
+9,wta19,Karolina Pliskova,,Misaki Doi,
+10,wta21,Christina McHale,,Anastasia Pavlyuchenkova,
+11,wta23,Kirsten Flipkens,,Danielle Collins,
+12,wta25,Alison Van Uytvanck,,Belinda Bencic,
+13,wta27,Ekaterina Alexandrova,,Caroline Wozniacki,
+14,wta29,Kaia Kanepi,,Julia Goerges,
+15,wta31,Naomi Osaka,-357,Kristina Mladenovic,+255
