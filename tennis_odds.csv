@@ -1,11 +1,11 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
 0,atp1,Felix Auger-Aliassime,,Stefanos Tsitsipas,
-1,atp3,Alex De Minaur,-500,Marcos Giron,+350
-2,atp5,Maximilian Marterer,-149,Miomir Kecmanovic,+115
-3,atp7,Laslo Djere,-200,Guido Andreozzi,+155
+1,atp3,Marcos Giron,,Alex De Minaur,
+2,atp5,Miomir Kecmanovic,,Maximilian Marterer,
+3,atp7,Laslo Djere,,Guido Andreozzi,
 4,atp9,Gael Monfils,,Leonardo Mayer,
-5,atp11,Milos Raonic,-200,Sam Querrey,+155
-6,atp13,Marco Cecchinato,-125,Albert Ramos,+100
+5,atp11,Sam Querrey,,Milos Raonic,
+6,atp13,Albert Ramos,,Marco Cecchinato,
 7,atp15,Ivo Karlovic,,Borna Coric,
 8,atp17,Malek Jaziri,,Gilles Simon,
 9,atp19,Jan-Lennard Struff,,Richard Berankis,
@@ -14,11 +14,11 @@
 12,atp25,Alexander Zverev,,Martin Klizan,
 13,atp27,Novak Djokovic,,Bjorn Fratangelo,
 14,atp29,Roberto Bautista-Agut,,Yoshihito Nishioka,
-15,atp31,Dominic Thiem,-303,Jordan Thompson,+220
+15,atp31,Dominic Thiem,,Jordan Thompson,
 16,wta1,Angelique Kerber,-278,Yulia Putintseva,+210
 17,wta3,Ajla Tomljanovic,,Aryna Sabalenka,
 18,wta5,Donna Vekic,-333,Ysaline Bonaventure,+240
-19,wta7,Carla Suarez Navarro,-200,Natalia Vikhlyantseva,+155
+19,wta7,Carla Suarez Navarro,-189,Natalia Vikhlyantseva,+145
 20,wta9,Madison Brengle,,Anastasija Sevastova,
 21,wta11,Anett Kontaveit,-133,Monica Puig,+105
 22,wta13,Madison Keys,,Mona Barthel,
