@@ -1,25 +1,9 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Adrian Mannarino,,Kei Nishikori,
-1,atp3,Kyle Edmund,-303,Nicolas Jarry,+220
-2,atp5,Andrey Rublev,-161,Robin Haase,+125
-3,atp7,David Goffin,-222,Filip Krajinovic,+170
-4,atp9,Roger Federer,,Peter Gojowczyk,
-5,atp11,Dusan Lajovic,,Marin Cilic,
-6,atp13,Mackenzie McDonald,,Daniil Medvedev,
-7,atp15,Roberto Carballes Baena,,Diego Schwartzman,
-8,atp17,John Isner,,Alexei Popyrin,
-9,atp19,Steve Johnson,,Denis Shapovalov,
-10,atp21,Radu Albot,-125,Fabio Fognini,+100
-11,atp23,Marton Fucsovics,,Stanislas Wawrinka,
-12,atp25,Alex Bolt,,Guido Pella,
-13,atp27,Rafael Nadal,-2000,Jared Donaldson,+800
-14,atp29,Karen Khachanov,,Feliciano Lopez,
-15,atp31,Lucas Pouille,-118,Hubert Hurkacz,-111
-16,wta1,Kateryna Kozlova,,Simona Halep,
-17,wta3,Elise Mertens,-149,Qiang Wang,+115
-18,wta5,Kiki Bertens,-154,Johanna Konta,+120
-19,wta7,Serena Williams,-278,Garbine Muguruza Blanco,+210
-20,wta9,Marketa Vondrousova,-161,Jelena Ostapenko,+125
-21,wta11,Bianca Andreescu,,Stefanie Voegele,
-22,wta13,Elina Svitolina,,Daria Gavrilova,
-23,wta15,Ashleigh Barty,-200,Jennifer Brady,+155
+0,wta1,Kateryna Kozlova,,Simona Halep,
+1,wta3,Elise Mertens,,Qiang Wang,
+2,wta5,Johanna Konta,,Kiki Bertens,
+3,wta7,Garbine Muguruza Blanco,,Serena Williams,
+4,wta9,Marketa Vondrousova,,Jelena Ostapenko,
+5,wta11,Bianca Andreescu,,Stefanie Voegele,
+6,wta13,Elina Svitolina,,Daria Gavrilova,
+7,wta15,Ashleigh Barty,,Jennifer Brady,
