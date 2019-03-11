@@ -1,27 +1,33 @@
 Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
-P,Roger Federer (11970066),Roger Federer,11970066,P,10700,Federer@Fritz 01/17/2019 09:00PM ET,Federer,75.08
-P,Angelique Kerber (11970088),Angelique Kerber,11970088,P,10500,Kerber@Birrell 01/18/2019 05:00AM ET,Kerber,58.2
-P,Grigor Dimitrov (11970070),Grigor Dimitrov,11970070,P,10400,Fabbiano@Dimitrov 01/17/2019 10:15PM ET,Dimitrov,60.7
-P,Rafael Nadal (11970072),Rafael Nadal,11970072,P,10300,Nadal@De Minaur 01/18/2019 03:00AM ET,Nadal,78.05
-P,Petra Kvitova (11970084),Petra Kvitova,11970084,P,9500,Bencic@Kvitova 01/18/2019 01:00AM ET,Kvitova,65.06
-P,Marin Cilic (11970074),Marin Cilic,11970074,P,9300,Verdasco@Cilic 01/18/2019 04:15AM ET,Cilic,76.28
-P,Sloane Stephens (11970080),Sloane Stephens,11970080,P,9000,Martic@Stephens 01/17/2019 10:15PM ET,Stephens,49.25
-P,Aryna Sabalenka (11970078),Aryna Sabalenka,11970078,P,8700,Sabalenka@Anisimova 01/17/2019 09:00PM ET,Sabalenka,64.66
-P,Caroline Garcia (11970086),Caroline Garcia,11970086,P,8500,Garcia@Collins 01/18/2019 03:00AM ET,Garcia,47.82
-P,Karen Khachanov (11970069),Karen Khachanov,11970069,P,8200,Khachanov@Bautista-Agut 01/17/2019 09:35PM ET,Khachanov,59.38
-P,Caroline Wozniacki (11970082),Caroline Wozniacki,11970082,P,7900,Wozniacki@Sharapova 01/17/2019 11:30PM ET,Wozniacki,63.55
-P,Aliaksandra Sasnovich (11970077),Aliaksandra Sasnovich,11970077,P,7700,Pavlyuchenkova@Sasnovich 01/17/2019 09:00PM ET,Sasnovich,54.09
-P,Frances Tiafoe (11970065),Frances Tiafoe,11970065,P,7400,Seppi@Tiafoe 01/17/2019 08:20PM ET,Tiafoe,61.05
-P,Andreas Seppi (11970064),Andreas Seppi,11970064,P,7200,Seppi@Tiafoe 01/17/2019 08:20PM ET,Seppi,55.15
-P,Maria Sharapova (11970083),Maria Sharapova,11970083,P,6900,Wozniacki@Sharapova 01/17/2019 11:30PM ET,Sharapova,62.25
-P,Anastasia Pavlyuchenkova (11970076),Anastasia Pavlyuchenkova,11970076,P,6700,Pavlyuchenkova@Sasnovich 01/17/2019 09:00PM ET,Pavlyuchenkova,55.37
-P,Roberto Bautista-Agut (11970068),Roberto Bautista-Agut,11970068,P,6300,Khachanov@Bautista-Agut 01/17/2019 09:35PM ET,Bautista-Agut,70.37
-P,Danielle Rose Collins (11970087),Danielle Rose Collins,11970087,P,6000,Garcia@Collins 01/18/2019 03:00AM ET,Collins,45.81
-P,Amanda Anisimova (11970079),Amanda Anisimova,11970079,P,5800,Sabalenka@Anisimova 01/17/2019 09:00PM ET,Anisimova,66.33
-P,Petra Martic (11970081),Petra Martic,11970081,P,5600,Martic@Stephens 01/17/2019 10:15PM ET,Martic,63.98
-P,Fernando Verdasco (11970075),Fernando Verdasco,11970075,P,5300,Verdasco@Cilic 01/18/2019 04:15AM ET,Verdasco,66.81
-P,Belinda Bencic (11970085),Belinda Bencic,11970085,P,5000,Bencic@Kvitova 01/18/2019 01:00AM ET,Bencic,58.63
-P,Alex De Minaur (11970073),Alex De Minaur,11970073,P,4500,Nadal@De Minaur 01/18/2019 03:00AM ET,De Minaur,67.12
-P,Kimberly Birrell (11970089),Kimberly Birrell,11970089,P,4300,Kerber@Birrell 01/18/2019 05:00AM ET,Birrell,51.26
-P,Thomas Fabbiano (11970071),Thomas Fabbiano,11970071,P,4100,Fabbiano@Dimitrov 01/17/2019 10:15PM ET,Fabbiano,58.92
-P,Taylor Fritz (11970067),Taylor Fritz,11970067,P,4000,Federer@Fritz 01/17/2019 09:00PM ET,Fritz,57.79
+P,Novak Djokovic (12224961),Novak Djokovic,12224961,P,10800,Kohlschreiber@Djokovic 03/11/2019 11:00PM ET,Djokovic,73.72
+P,Gael Monfils (12224954),Gael Monfils,12224954,P,10300,Ramos-Vinolas@Monfils 03/11/2019 04:30PM ET,Monfils,63.67
+P,Karolina Pliskova (12224969),Karolina Pliskova,12224969,P,10200,Pliskova@Bonaventure 03/11/2019 03:15PM ET,Pliskova,67.25
+P,Alexander Zverev (12224949),Alexander Zverev,12224949,P,10100,Struff@Zverev 03/11/2019 03:20PM ET,Zverev,60.94
+P,Milos Raonic (12224947),Milos Raonic,12224947,P,10000,Raonic@Giron 03/11/2019 02:00PM ET,Raonic,64.02
+P,Naomi Osaka (12224977),Naomi Osaka,12224977,P,9600,Collins@Osaka 03/11/2019 09:00PM ET,Osaka,62.87
+P,Julia Goerges (12224971),Julia Goerges,12224971,P,9500,Goerges@Barthel 03/11/2019 04:30PM ET,Goerges,57.36
+P,Angelique Kerber (12224963),Angelique Kerber,12224963,P,9400,Kerber@Vikhlyantseva 03/11/2019 02:00PM ET,Kerber,54.8
+P,Aryna Sabalenka (12224968),Aryna Sabalenka,12224968,P,9300,Tsurenko@Sabalenka 03/11/2019 03:15PM ET,Sabalenka,58.97
+P,Dominic Thiem (12224959),Dominic Thiem,12224959,P,9000,Thiem@Simon 03/11/2019 05:50PM ET,Thiem,41.72
+P,Belinda Bencic (12224975),Belinda Bencic,12224975,P,8900,Alexandrova@Bencic 03/11/2019 06:00PM ET,Bencic,57.32
+P,Venus Williams (12224973),Venus Williams,12224973,P,8800,Mchale@Williams 03/11/2019 04:40PM ET,Williams,50.38
+P,Ivo Karlovic (12224951),Ivo Karlovic,12224951,P,8500,Gunneswaran@Karlovic 03/11/2019 03:20PM ET,Karlovic,61.24
+P,Felix Auger Aliassime (12224957),Felix Auger Aliassime,12224957,P,8100,Nishioka@Auger Aliassime 03/11/2019 05:50PM ET,Auger Aliassime,54.93
+P,Anastasija Sevastova (12224965),Anastasija Sevastova,12224965,P,7900,Kontaveit@Sevastova 03/11/2019 02:00PM ET,Sevastova,54.16
+P,Miomir Kecmanovic (12224956),Miomir Kecmanovic,12224956,P,7600,Kecmanovic@Djere 03/11/2019 04:40PM ET,Kecmanovic,48.79
+P,Laslo Djere (12224955),Laslo Djere,12224955,P,7200,Kecmanovic@Djere 03/11/2019 04:40PM ET,Djere,52.76
+P,Anett Kontaveit (12224966),Anett Kontaveit,12224966,P,7000,Kontaveit@Sevastova 03/11/2019 02:00PM ET,Kontaveit,46.87
+P,Yoshihito Nishioka (12224958),Yoshihito Nishioka,12224958,P,6700,Nishioka@Auger Aliassime 03/11/2019 05:50PM ET,Nishioka,46.34
+P,Prajnesh Gunneswaran (12224952),Prajnesh Gunneswaran,12224952,P,6300,Gunneswaran@Karlovic 03/11/2019 03:20PM ET,Gunneswaran,41.01
+P,Christina Mchale (12224974),Christina Mchale,12224974,P,6000,Mchale@Williams 03/11/2019 04:40PM ET,Mchale,53.44
+P,Ekaterina Alexandrova (12224976),Ekaterina Alexandrova,12224976,P,5900,Alexandrova@Bencic 03/11/2019 06:00PM ET,Alexandrova,52.8
+P,Gilles Simon (12224960),Gilles Simon,12224960,P,5800,Thiem@Simon 03/11/2019 05:50PM ET,Simon,47.5
+P,Lesia Tsurenko (12224967),Lesia Tsurenko,12224967,P,5500,Tsurenko@Sabalenka 03/11/2019 03:15PM ET,Tsurenko,54.34
+P,Natalia Vikhlyantseva (12224964),Natalia Vikhlyantseva,12224964,P,5400,Kerber@Vikhlyantseva 03/11/2019 02:00PM ET,Vikhlyantseva,55.79
+P,Mona Barthel (12224972),Mona Barthel,12224972,P,5400,Goerges@Barthel 03/11/2019 04:30PM ET,Barthel,38.58
+P,Danielle Rose Collins (12224978),Danielle Rose Collins,12224978,P,5300,Collins@Osaka 03/11/2019 09:00PM ET,Collins,50.08
+P,Jan-Lennard Struff (12224950),Jan-Lennard Struff,12224950,P,4800,Struff@Zverev 03/11/2019 03:20PM ET,Struff,52.84
+P,Marcos Giron (12224948),Marcos Giron,12224948,P,4700,Raonic@Giron 03/11/2019 02:00PM ET,Giron,56.7
+P,Ysaline Bonaventure (12224970),Ysaline Bonaventure,12224970,P,4700,Pliskova@Bonaventure 03/11/2019 03:15PM ET,Bonaventure,38.47
+P,Albert Ramos-Vinolas (12224953),Albert Ramos-Vinolas,12224953,P,4600,Ramos-Vinolas@Monfils 03/11/2019 04:30PM ET,Ramos-Vinolas,47.22
+P,Philipp Kohlschreiber (12224962),Philipp Kohlschreiber,12224962,P,4100,Kohlschreiber@Djokovic 03/11/2019 11:00PM ET,Kohlschreiber,50.28
