@@ -1,9 +1,17 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,wta1,Kateryna Kozlova,,Simona Halep,
-1,wta3,Elise Mertens,,Qiang Wang,
-2,wta5,Johanna Konta,,Kiki Bertens,
-3,wta7,Garbine Muguruza Blanco,,Serena Williams,
-4,wta9,Marketa Vondrousova,,Jelena Ostapenko,
-5,wta11,Bianca Andreescu,,Stefanie Voegele,
-6,wta13,Elina Svitolina,,Daria Gavrilova,
-7,wta15,Ashleigh Barty,,Jennifer Brady,
+0,atp1,Milos Raonic,-714,Marcos Giron,+450
+1,atp3,Jan-Lennard Struff,,Alexander Zverev,
+2,atp5,Ivo Karlovic,-182,Prajnesh Gunneswaran,+140
+3,atp7,Gael Monfils,-833,Albert Ramos,+500
+4,atp9,Laslo Djere,-114,Miomir Kecmanovic,-114
+5,atp11,Felix Auger-Aliassime,-154,Yoshihito Nishioka,+120
+6,atp13,Dominic Thiem,,Gilles Simon,
+7,atp15,Philipp Kohlschreiber,,Novak Djokovic,
+8,wta1,Angelique Kerber,,Natalia Vikhlyantseva,
+9,wta3,Anastasija Sevastova,-143,Anett Kontaveit,+110
+10,wta5,Lesia Tsurenko,,Aryna Sabalenka,
+11,wta7,Ysaline Bonaventure,,Karolina Pliskova,
+12,wta9,Christina McHale,,Venus Williams,
+13,wta11,Julia Goerges,,Mona Barthel,
+14,wta13,Belinda Bencic,,Ekaterina Alexandrova,
+15,wta15,Danielle Collins,,Naomi Osaka,
