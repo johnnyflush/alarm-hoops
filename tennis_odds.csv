@@ -1,17 +1,18 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Milos Raonic,,Marcos Giron,
-1,atp3,Jan-Lennard Struff,,Alexander Zverev,
-2,atp5,Prajnesh Gunneswaran,,Ivo Karlovic,
-3,atp7,Albert Ramos,,Gael Monfils,
-4,atp9,Laslo Djere,,Miomir Kecmanovic,
-5,atp11,Dominic Thiem,,Gilles Simon,
-6,atp13,Yoshihito Nishioka,,Felix Auger-Aliassime,
-7,atp15,Philipp Kohlschreiber,,Novak Djokovic,
-8,wta1,Angelique Kerber,-333,Natalia Vikhlyantseva,+240
-9,wta3,Anastasija Sevastova,-161,Anett Kontaveit,+125
-10,wta5,Aryna Sabalenka,-278,Lesia Tsurenko,+210
-11,wta7,Karolina Pliskova,-714,Ysaline Bonaventure,+450
-12,wta9,Julia Goerges,,Mona Barthel,
-13,wta11,Venus Williams,-222,Christina McHale,+170
-14,wta13,Belinda Bencic,-227,Ekaterina Alexandrova,+175
-15,wta15,Naomi Osaka,-357,Danielle Collins,+255
+0,atp1,Kei Nishikori,,Hubert Hurkacz,
+1,atp3,Daniil Medvedev,-333,Filip Krajinovic,+240
+2,atp5,Diego Schwartzman,,Rafael Nadal,
+3,atp7,Marin Cilic,-182,Denis Shapovalov,+140
+4,atp9,Novak Djokovic,-1667,Philipp Kohlschreiber,+750
+5,atp11,John Isner,-455,Guido Pella,+320
+6,atp13,Karen Khachanov,,Andrey Rublev,
+7,atp15,Kyle Edmund,,Radu Albot,
+8,atp17,Roger Federer,-333,Stanislas Wawrinka,+240
+9,wta1,Kiki Bertens,-133,Garbine Muguruza Blanco,+105
+10,wta3,Bianca Andreescu,-133,Qiang Wang,+105
+11,wta5,Simona Halep,-357,Marketa Vondrousova,+255
+12,wta7,Elina Svitolina,-149,Ashleigh Barty,+115
+13,wta9,Venus Williams,-333,Mona Barthel,+240
+14,wta11,Karolina Pliskova,,Anett Kontaveit,
+15,wta13,Naomi Osaka,-200,Belinda Bencic,+155
+16,wta15,Aryna Sabalenka,-143,Angelique Kerber,+110
