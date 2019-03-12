@@ -1,18 +1,18 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Kei Nishikori,,Hubert Hurkacz,
-1,atp3,Daniil Medvedev,-333,Filip Krajinovic,+240
-2,atp5,Diego Schwartzman,,Rafael Nadal,
-3,atp7,Marin Cilic,-182,Denis Shapovalov,+140
+0,atp1,Kei Nishikori,-303,Hubert Hurkacz,+220
+1,atp3,Daniil Medvedev,-303,Filip Krajinovic,+220
+2,atp5,Rafael Nadal,-1250,Diego Schwartzman,+650
+3,atp7,Marin Cilic,-175,Denis Shapovalov,+135
 4,atp9,Novak Djokovic,-1667,Philipp Kohlschreiber,+750
-5,atp11,John Isner,-455,Guido Pella,+320
-6,atp13,Karen Khachanov,,Andrey Rublev,
-7,atp15,Kyle Edmund,,Radu Albot,
+5,atp11,John Isner,-400,Guido Pella,+275
+6,atp13,Karen Khachanov,-189,Andrey Rublev,+145
+7,atp15,Kyle Edmund,-278,Radu Albot,+210
 8,atp17,Roger Federer,-333,Stanislas Wawrinka,+240
-9,wta1,Kiki Bertens,-133,Garbine Muguruza Blanco,+105
-10,wta3,Bianca Andreescu,-133,Qiang Wang,+105
+9,wta1,Kiki Bertens,-125,Garbine Muguruza Blanco,+100
+10,wta3,Bianca Andreescu,-149,Qiang Wang,+115
 11,wta5,Simona Halep,-357,Marketa Vondrousova,+255
-12,wta7,Elina Svitolina,-149,Ashleigh Barty,+115
-13,wta9,Venus Williams,-333,Mona Barthel,+240
-14,wta11,Karolina Pliskova,,Anett Kontaveit,
-15,wta13,Naomi Osaka,-200,Belinda Bencic,+155
-16,wta15,Aryna Sabalenka,-143,Angelique Kerber,+110
+12,wta7,Elina Svitolina,-125,Ashleigh Barty,+100
+13,wta9,Venus Williams,-303,Mona Barthel,+220
+14,wta11,Karolina Pliskova,-250,Anett Kontaveit,+190
+15,wta13,Naomi Osaka,-189,Belinda Bencic,+145
+16,wta15,Aryna Sabalenka,-133,Angelique Kerber,+105
