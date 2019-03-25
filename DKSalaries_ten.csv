@@ -1,41 +1,27 @@
 Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame,ML,ProbWin,DK_Pts,ProbLose,ActualPoints,Opponent,OpponentPoints,OpponentOdds,LosePoints,ProbPoints,Value
-P,Petra Kvitova (12287293),Petra Kvitova,12287293,P,10300,Sakkari@Kvitova 03/21/2019 04:00PM ET,Kvitova,59.84,-435,0.813084112,70,0.186915888,36.35,Sakkari,#N/A,0.186915888,20,60.65420561,0.005888758
-P,Donna Vekic (12287289),Donna Vekic,12287289,P,10100,Vekic@Sorribes Tormo 03/21/2019 04:45PM ET,Vekic,56.02,-397.5,,,,,,,,,,
-P,Ivo Karlovic (12287279),Ivo Karlovic,12287279,P,10000,Karlovic@Andujar 03/21/2019 06:00PM ET,Karlovic,59.1,-316,,,,,,,,,,
-P,Madison Keys (12287303),Madison Keys,12287303,P,9900,Keys@Stosur 03/21/2019 07:30PM ET,Keys,59.79,,,,,,,,,,,
-P,Joao Sousa (12287267),Joao Sousa,12287267,P,9800,Tseng@Sousa 03/21/2019 02:20PM ET,Sousa,41.98,,,,,,,,,,,
-P,Kiki Bertens (12287301),Kiki Bertens,12287301,P,9400,Bertens@Wang 03/21/2019 05:00PM ET,Bertens,56.28,,,,,,,,,,,
-P,Adrian Mannarino (12287281),Adrian Mannarino,12287281,P,9300,Bedene@Mannarino 03/21/2019 05:15PM ET,Mannarino,39.83,,,,,,,,,,,
-P,Monica Niculescu (12287287),Monica Niculescu,12287287,P,9200,Zidansek@Niculescu 03/21/2019 02:45PM ET,Niculescu,53.19,,,,,,,,,,,
-P,Filip Krajinovic (12287273),Filip Krajinovic,12287273,P,9100,Krajinovic@Herbert 03/21/2019 04:40PM ET,Krajinovic,55.59,,,,,,,,,,,
-P,Magdalena Rybarikova (12287300),Magdalena Rybarikova,12287300,P,9000,Goerges@Rybarikova 03/21/2019 04:00PM ET,Rybarikova,10.07,,,,,,,,,,,
-P,Prajnesh Gunneswaran (12287270),Prajnesh Gunneswaran,12287270,P,8900,Gunneswaran@Munar Clar 03/21/2019 02:55PM ET,Gunneswaran,36.83,,,,,,,,,,,
-P,Karolina Muchova (12287292),Karolina Muchova,12287292,P,8800,Hibino@Muchova 03/21/2019 03:25PM ET,Muchova,44.68,,,,,,,,,,,
-P,Sam Querrey (12287285),Sam Querrey,12287285,P,8700,Ferrer@Querrey 03/21/2019 09:00PM ET,Querrey,53.12,,,,,,,,,,,
-P,Miomir Kecmanovic (12287284),Miomir Kecmanovic,12287284,P,8600,Kecmanovic@Gulbis 03/21/2019 07:00PM ET,Kecmanovic,49.61,,,,,,,,,,,
-P,Victoria Azarenka (12287298),Victoria Azarenka,12287298,P,8500,Azarenka@Garcia 03/21/2019 05:00PM ET,Azarenka,49.61,,,,,,,,,,,
-P,Malek Jaziri (12287265),Malek Jaziri,12287265,P,8400,Jaziri@Evans 03/21/2019 03:10PM ET,Jaziri,32.1
-P,Jan-Lennard Struff (12287275),Jan-Lennard Struff,12287275,P,8300,Struff@Opelka 03/21/2019 03:40PM ET,Struff,52.42
-P,Ashleigh Barty (12287295),Ashleigh Barty,12287295,P,8200,Yastremska@Barty 03/21/2019 04:30PM ET,Barty,65.04
-P,Mackenzie Mcdonald (12287277),Mackenzie Mcdonald,12287277,P,7900,Humbert@Mcdonald 03/21/2019 05:45PM ET,Mcdonald,42.42
-P,Feliciano Lopez (12287272),Feliciano Lopez,12287272,P,7700,Paire@Lopez 03/21/2019 03:15PM ET,Lopez,42.4
-P,Benoit Paire (12287271),Benoit Paire,12287271,P,7600,Paire@Lopez 03/21/2019 03:15PM ET,Paire,36.84
-P,Ugo Humbert (12287278),Ugo Humbert,12287278,P,7500,Humbert@Mcdonald 03/21/2019 05:45PM ET,Humbert,46.99
-P,Dayana Yastremska (12287296),Dayana Yastremska,12287296,P,7200,Yastremska@Barty 03/21/2019 04:30PM ET,Yastremska,54.55
-P,Reilly Opelka (12287276),Reilly Opelka,12287276,P,7100,Struff@Opelka 03/21/2019 03:40PM ET,Opelka,61.55
-P,Caroline Garcia (12287297),Caroline Garcia,12287297,P,7000,Azarenka@Garcia 03/21/2019 05:00PM ET,Garcia,39.61
-P,Ernests Gulbis (12287283),Ernests Gulbis,12287283,P,6900,Kecmanovic@Gulbis 03/21/2019 07:00PM ET,Gulbis,45.94
-P,Daniel Evans (12287266),Daniel Evans,12287266,P,6800,Jaziri@Evans 03/21/2019 03:10PM ET,Evans,55.63
-P,David Ferrer (12287286),David Ferrer,12287286,P,6700,Ferrer@Querrey 03/21/2019 09:00PM ET,Ferrer,49.01
-P,Nao Hibino (12287291),Nao Hibino,12287291,P,6600,Hibino@Muchova 03/21/2019 03:25PM ET,Hibino,18.7
-P,Jaume Antoni Munar Clar (12287269),Jaume Antoni Munar Clar,12287269,P,6500,Gunneswaran@Munar Clar 03/21/2019 02:55PM ET,Munar Clar,50.12
-P,Julia Goerges (12287299),Julia Goerges,12287299,P,6200,Goerges@Rybarikova 03/21/2019 04:00PM ET,Goerges,55.96
-P,Tamara Zidansek (12287288),Tamara Zidansek,12287288,P,6100,Zidansek@Niculescu 03/21/2019 02:45PM ET,Zidansek,46.14
-P,Pierre-Hugues Herbert (12287274),Pierre-Hugues Herbert,12287274,P,6000,Krajinovic@Herbert 03/21/2019 04:40PM ET,Herbert,49.96
-P,Aljaz Bedene (12287282),Aljaz Bedene,12287282,P,5900,Bedene@Mannarino 03/21/2019 05:15PM ET,Bedene,47.82
-P,Xiyu Wang (12287302),Xiyu Wang,12287302,P,5800,Bertens@Wang 03/21/2019 05:00PM ET,Wang,0
-P,Samantha Stosur (12287304),Samantha Stosur,12287304,P,5600,Keys@Stosur 03/21/2019 07:30PM ET,Stosur,24.76
-P,Chun Hsin Tseng (12287268),Chun Hsin Tseng,12287268,P,5500,Tseng@Sousa 03/21/2019 02:20PM ET,Tseng,0
-P,Sara Sorribes Tormo (12287290),Sara Sorribes Tormo,12287290,P,5400,Vekic@Sorribes Tormo 03/21/2019 04:45PM ET,Sorribes Tormo,30.34
-P,Pablo Andujar (12287280),Pablo Andujar,12287280,P,5300,Karlovic@Andujar 03/21/2019 06:00PM ET,Andujar,14.93
-P,Maria Sakkari (12287294),Maria Sakkari,12287294,P,5100,Sakkari@Kvitova 03/21/2019 04:00PM ET,Sakkari,34.45
+P,Kevin Anderson (12308991),Kevin Anderson,12308991,P,8100,Sousa@Anderson 03/25/2019 12:00PM ET,Anderson,67.37,-165,0.622641509,70,0.377358491,36.35,Sousa,#N/A,0.377358491,20,51.13207547,0.006312602
+P,David Ferrer (12309003),David Ferrer,12309003,P,7600,Ferrer@Tiafoe 03/25/2019 07:30PM ET,Ferrer,53.72,-122,0.54954955,70,0.45045045,36.35,Tiafoe,#N/A,0.45045045,20,47.47747748,0.006247037
+P,Denis Shapovalov (12308997),Denis Shapovalov,12308997,P,8300,Rublev@Shapovalov 03/25/2019 02:35PM ET,Shapovalov,53.09,-170,0.62962963,70,0.37037037,36.35,Rublev,#N/A,0.37037037,20,51.48148148,0.006202588
+P,Marco Cecchinato (12309000),Marco Cecchinato,12309000,P,5100,Goffin@Cecchinato 03/25/2019 02:55PM ET,Cecchinato,49.02,,0.229885057,70,0.770114943,36.35,Goffin,#N/A,0.770114943,20,31.49425287,0.006175344
+P,Daniil Medvedev (12308995),Daniil Medvedev,12308995,P,9500,Opelka@Medvedev 03/25/2019 01:35PM ET,Medvedev,63.64,-325,0.764705882,70,0.235294118,36.35,Opelka,#N/A,0.235294118,20,58.23529412,0.006130031
+P,Petra Kvitova (12309006),Petra Kvitova,12309006,P,8400,Garcia@Kvitova 03/25/2019 12:00PM ET,Kvitova,60.22,-170,0.62962963,70,0.37037037,36.35,Garcia,#N/A,0.37037037,20,51.48148148,0.006128748
+P,Qiang Wang (12309013),Qiang Wang,12309013,P,8500,Wang@Wang 03/25/2019 04:15PM ET,Wang,52.76,-175,0.636363636,70,0.363636364,36.35,Wang,#N/A,0.363636364,20,51.81818182,0.006096257
+P,Joao Sousa (12308992),Joao Sousa,12308992,P,6400,Sousa@Anderson 03/25/2019 12:00PM ET,Sousa,46.05,,0.377358491,70,0.622641509,36.35,Anderson,#N/A,0.622641509,20,38.86792453,0.006073113
+P,Filip Krajinovic (12308994),Filip Krajinovic,12308994,P,4800,Federer@Krajinovic 03/25/2019 01:00PM ET,Krajinovic,57.42,,0.181818182,70,0.818181818,36.35,Federer,#N/A,0.818181818,20,29.09090909,0.006060606
+P,Stefanos Tsitsipas (12309001),Stefanos Tsitsipas,12309001,P,9700,Mayer@Tsitsipas 03/25/2019 03:55PM ET,Tsitsipas,57.28,-335,0.770114943,70,0.229885057,36.35,Mayer,#N/A,0.229885057,20,58.50574713,0.00603152
+P,Caroline Wozniacki (12309009),Caroline Wozniacki,12309009,P,8700,Wozniacki@Hsieh 03/25/2019 02:00PM ET,Wozniacki,58.69,-185,0.649122807,70,0.350877193,36.35,Hsieh,#N/A,0.350877193,20,52.45614035,0.006029441
+P,Bianca Vanessa Andreescu (12309008),Bianca Vanessa Andreescu,12309008,P,8900,Andreescu@Kontaveit 03/25/2019 12:20PM ET,Andreescu,64.1,-205,0.672131148,70,0.327868852,36.35,Kontaveit,#N/A,0.327868852,20,53.60655738,0.006023209
+P,Reilly Opelka (12308996),Reilly Opelka,12308996,P,5300,Opelka@Medvedev 03/25/2019 01:35PM ET,Opelka,61.98,,0.235294118,70,0.764705882,36.35,Medvedev,#N/A,0.764705882,20,31.76470588,0.005993341
+P,Venus Williams (12309012),Venus Williams,12309012,P,6100,Halep@Williams 03/25/2019 04:00PM ET,Williams,55.08,,0.324675325,70,0.675324675,36.35,Halep,#N/A,0.675324675,20,36.23376623,0.005939962
+P,David Goffin (12308999),David Goffin,12308999,P,9900,Goffin@Cecchinato 03/25/2019 02:55PM ET,Goffin,48.19,-335,0.770114943,70,0.229885057,36.35,Cecchinato,#N/A,0.229885057,20,58.50574713,0.005909671
+P,Simona Halep (12309011),Simona Halep,12309011,P,9100,Halep@Williams 03/25/2019 04:00PM ET,Halep,56.6,-208,0.675324675,70,0.324675325,36.35,Williams,#N/A,0.324675325,20,53.76623377,0.005908377
+P,Frances Tiafoe (12309004),Frances Tiafoe,12309004,P,7200,Ferrer@Tiafoe 03/25/2019 07:30PM ET,Tiafoe,49.4,,0.45045045,70,0.54954955,36.35,Ferrer,#N/A,0.54954955,20,42.52252252,0.005905906
+P,Anett Kontaveit (12309007),Anett Kontaveit,12309007,P,6200,Andreescu@Kontaveit 03/25/2019 12:20PM ET,Kontaveit,47.77,,0.327868852,70,0.672131148,36.35,Andreescu,#N/A,0.672131148,20,36.39344262,0.00586991
+P,Andrey Rublev (12308998),Andrey Rublev,12308998,P,6600,Rublev@Shapovalov 03/25/2019 02:35PM ET,Rublev,45.84,,0.37037037,70,0.62962963,36.35,Shapovalov,#N/A,0.62962963,20,38.51851852,0.005836139
+P,Su-Wei Hsieh (12309010),Su-Wei Hsieh,12309010,P,6500,Wozniacki@Hsieh 03/25/2019 02:00PM ET,Hsieh,53.21,,0.350877193,70,0.649122807,36.35,Wozniacki,#N/A,0.649122807,20,37.54385965,0.005775978
+P,Caroline Garcia (12309005),Caroline Garcia,12309005,P,6700,Garcia@Kvitova 03/25/2019 12:00PM ET,Garcia,46.83,,0.37037037,70,0.62962963,36.35,Kvitova,#N/A,0.62962963,20,38.51851852,0.005749033
+P,Roger Federer (12308993),Roger Federer,12308993,P,10600,Federer@Krajinovic 03/25/2019 01:00PM ET,Federer,67.85,-450,0.818181818,70,0.181818182,36.35,Krajinovic,#N/A,0.181818182,20,60.90909091,0.005746141
+P,Karolina Pliskova (12309015),Karolina Pliskova,12309015,P,10300,Putintseva@Pliskova 03/25/2019 09:00PM ET,Pliskova,66.29,-320,0.761904762,70,0.238095238,36.35,Putintseva,#N/A,0.238095238,20,58.0952381,0.005640314
+P,Leonardo Mayer (12309002),Leonardo Mayer,12309002,P,5600,Mayer@Tsitsipas 03/25/2019 03:55PM ET,Mayer,45.56,,0.229885057,70,0.770114943,36.35,Tsitsipas,#N/A,0.770114943,20,31.49425287,0.005623974
+P,Yafan Wang (12309014),Yafan Wang,12309014,P,6800,Wang@Wang 03/25/2019 04:15PM ET,Wang,56.36,,0.363636364,70,0.636363636,36.35,Wang,#N/A,0.636363636,20,38.18181818,0.005614973
+P,Yulia Putintseva (12309016),Yulia Putintseva,12309016,P,5900,Putintseva@Pliskova 03/25/2019 09:00PM ET,Putintseva,45.59,,0.238095238,70,0.761904762,36.35,Pliskova,#N/A,0.761904762,20,31.9047619,0.005407587
