@@ -1,17 +1,11 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Grigor Dimitrov,-250,Jordan Thompson,+190
-1,atp3,Kevin Anderson,-189,Joao Sousa,+145
-2,atp5,Roger Federer,-556,Filip Krajinovic,+375
-3,atp7,Daniil Medvedev,-357,Reilly Opelka,+255
-4,atp9,Denis Shapovalov,-143,Andrey Rublev,+110
-5,atp11,David Goffin,-357,Marco Cecchinato,+255
-6,atp13,Stefanos Tsitsipas,-357,Leonardo Mayer,+255
-7,atp15,David Ferrer,-133,Francis Tiafoe,+105
-8,wta1,Ashleigh Barty,-189,Kiki Bertens,+145
-9,wta3,Petra Kvitova,-182,Caroline Garcia,+140
-10,wta5,Bianca Andreescu,-222,Anett Kontaveit,+170
-11,wta7,Caroline Wozniacki,-182,Su-Wei Hsieh,+140
-12,wta9,Simona Halep,-250,Venus Williams,+190
-13,wta11,Marketa Vondrousova,-400,Tatjana Malek,+275
-14,wta13,Qiang Wang,-189,Yafan Wang,+145
-15,wta15,Karolina Pliskova,-357,Yulia Putintseva,+255
+0,atp1,John Isner,-118,Kyle Edmund,-111
+1,atp3,Felix Auger-Aliassime,-118,Nikoloz Basilashvili,-111
+2,atp5,Nick Kyrgios,-167,Borna Coric,+130
+3,atp7,Kevin Anderson,-250,Jordan Thompson,+190
+4,atp9,Novak Djokovic,-500,Roberto Bautista-Agut,+350
+5,atp11,David Goffin,-182,Francis Tiafoe,+140
+6,atp13,Stefanos Tsitsipas,-133,Denis Shapovalov,+105
+7,atp15,Roger Federer,-303,Daniil Medvedev,+220
+8,wta1,Su-Wei Hsieh,-114,Anett Kontaveit,-114
+9,wta3,Petra Kvitova,-167,Ashleigh Barty,+130
