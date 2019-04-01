@@ -1,17 +1,22 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Roger Federer,-400,John Isner,+280
-1,wta1,Sabine Lisicki,,Sofia Kenin,
-2,wta3,Irina Khromacheva,,Jessica Pegula,
-3,wta5,Sara Sorribes Tormo,,Fanny Stollar,
-4,wta7,Tamara Zidansek,,Anna-Lena Friedsam,
-5,wta9,Johanna Larsson,,Jelena Ostapenko,
-6,wta11,Monica Puig,,Sara Errani,
-7,wta13,Natalia Vikhlyantseva,,Tatjana Malek,
-8,wta15,Anna Schmiedlova,,Mandy Minella,
-9,wta17,Belinda Bencic,,Aiava Destanee,
-10,wta19,Magda Linette,,Ajla Tomljanovic,
-11,wta21,Alexandra Kiick,,Pauline Parmentier,
-12,wta23,Nadiya Kichenok,,Martina Trevisan,
-13,wta25,Evgeniya Rodina,,Shelby Rogers,
-14,wta27,Taylor Townsend,,Astra Sharma,
-15,wta29,Francesca Di Lorenzo,,Aliona Bolsova,
+0,wta1,Sofia Kenin,-625,Sabine Lisicki,+400
+1,wta3,Jessica Pegula,-303,Irina Khromacheva,+220
+2,wta5,Sara Sorribes Tormo,-250,Fanny Stollar,+190
+3,wta7,Tamara Zidansek,-357,Anna-Lena Friedsam,+255
+4,wta9,Jelena Ostapenko,-357,Johanna Larsson,+255
+5,wta11,Monica Puig,-167,Sara Errani,+130
+6,wta13,Tatjana Malek,-120,Natalia Vikhlyantseva,-105
+7,wta15,Anna Schmiedlova,-133,Mandy Minella,+105
+8,wta17,Belinda Bencic,-400,Aiava Destanee,+280
+9,wta19,Ajla Tomljanovic,-250,Magda Linette,+190
+10,wta21,Alexandra Kiick,-118,Pauline Parmentier,-111
+11,wta23,Martina Trevisan,-400,Nadiya Kichenok,+275
+12,wta26,Kirsten Flipkens,-114,Olga Danilovic,-114
+13,wta29,Evgeniya Rodina,-154,Shelby Rogers,+120
+14,wta31,Taylor Townsend,-182,Astra Sharma,+140
+15,wta33,Francesca Di Lorenzo,-133,Aliona Bolsova,+105
+16,wta36,Nao Hibino,-357,Giuliana Olmos,+255
+17,wta38,Misaki Doi,-120,Magdalena Rybarikova,-105
+18,wta40,Margarita Gasparyan,-833,Victoria Rodriguez,+500
+19,wta42,Stefanie Voegele,-222,Ana Bogdan,+170
+20,wta44,Timea Babos,-114,Ivana Jorovic,-114
