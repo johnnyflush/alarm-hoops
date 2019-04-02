@@ -1,35 +1,31 @@
 Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame,ML,ProbWin,DK_Pts,ProbLose,ActualPoints,Opponent,OpponentPoints,OpponentOdds,LosePoints,ProbPoints,Value
-P,Margarita Gasparyan (12361278),Margarita Gasparyan,12361278,P,10600,Gasparyan@Rodriguez 04/01/2019 04:00PM ET,Gasparyan,29.28,-600,0.857142857,70,0.142857143,36.35,Rodriguez,#N/A,0.142857143,20,62.85714286,0.005929919
-P,Jelena Ostapenko (12361245),Jelena Ostapenko,12361245,P,10100,Larsson@Ostapenko 04/01/2019 11:15AM ET,Ostapenko,28.24,-365,,,,,,,,,,
-P,Nao Hibino (12361275),Nao Hibino,12361275,P,9900,Olmos@Hibino 04/01/2019 04:00PM ET,Hibino,14.6,-325,,,,,,,,,,
-P,Belinda Bencic (12361257),Belinda Bencic,12361257,P,9700,Bencic@Aiava 04/01/2019 12:30PM ET,Bencic,55.03,,,,,,,,,,,
-P,Martina Trevisan (12361259),Martina Trevisan,12361259,P,9400,Kichenok@Trevisan 04/01/2019 12:30PM ET,Trevisan,14,,,,,,,,,,,
-P,Ajla Tomljanovic (12361253),Ajla Tomljanovic,12361253,P,9200,Tomljanovic@Linette 04/01/2019 12:30PM ET,Tomljanovic,50.86,-248,,,,,,,,,,
-P,Stefanie Voegele (12361274),Stefanie Voegele,12361274,P,9000,Voegele@Bogdan 04/01/2019 04:00PM ET,Voegele,36.08,-208,,,,,,,,,,
-P,Monica Puig (12361249),Monica Puig,12361249,P,8700,Puig@Errani 04/01/2019 11:15AM ET,Puig,38.29,-156,,,,,,,,,,
-P,Taylor Townsend (12361263),Taylor Townsend,12361263,P,8500,Townsend@Sharma 04/01/2019 01:45PM ET,Townsend,31.25,,,,,,,,,,,
-P,Evgeniya Rodina (12361261),Evgeniya Rodina,12361261,P,8300,Rodina@Rogers 04/01/2019 01:45PM ET,Rodina,25.7,-145,,,,,,,,,,
-P,Anna-Karolina Schmiedlova (12361251),Anna-Karolina Schmiedlova,12361251,P,8200,Schmiedlova@Minella 04/01/2019 11:15AM ET,Schmiedlova,34.83,,,,,,,,,,,
-P,Timea Babos (12361269),Timea Babos,12361269,P,8100,Jorovic@Babos 04/01/2019 04:00PM ET,Babos,26.26,-121,,,,,,,,,,
-P,Tatjana Maria (12361247),Tatjana Maria,12361247,P,8000,Maria@Vikhlyantseva 04/01/2019 11:15AM ET,Maria,43,-116,,,,,,,,,,
-P,Olga Danilovic (12361268),Olga Danilovic,12361268,P,7900,Flipkens@Danilovic 04/01/2019 04:00PM ET,Danilovic,12.7,-110,,,,,,,,,,
-P,Misaki Doi (12361272),Misaki Doi,12361272,P,7900,Doi@Rybarikova 04/01/2019 04:00PM ET,Doi,28.51,-100,,,,,,,,,,
-P,Magdalena Rybarikova (12361271),Magdalena Rybarikova,12361271,P,7800,Doi@Rybarikova 04/01/2019 04:00PM ET,Rybarikova,20.13
-P,Aliona Bolsova Zadoinov (12361266),Aliona Bolsova Zadoinov,12361266,P,7800,Bolsova Zadoinov@Di Lorenzo 04/01/2019 01:45PM ET,Bolsova Zadoinov,0
-P,Francesca Di Lorenzo (12361265),Francesca Di Lorenzo,12361265,P,7700,Bolsova Zadoinov@Di Lorenzo 04/01/2019 01:45PM ET,Di Lorenzo,0
-P,Pauline Parmentier (12361255),Pauline Parmentier,12361255,P,7600,Kiick@Parmentier 04/01/2019 12:30PM ET,Parmentier,35.82
-P,Astra Sharma (12361264),Astra Sharma,12361264,P,7600,Townsend@Sharma 04/01/2019 01:45PM ET,Sharma,40.05
-P,Ivana Jorovic (12361270),Ivana Jorovic,12361270,P,7500,Jorovic@Babos 04/01/2019 04:00PM ET,Jorovic,41.34
-P,Allie Kiick (12361256),Allie Kiick,12361256,P,7400,Kiick@Parmentier 04/01/2019 12:30PM ET,Kiick,0
-P,Kirsten Flipkens (12361267),Kirsten Flipkens,12361267,P,7300,Flipkens@Danilovic 04/01/2019 04:00PM ET,Flipkens,40.79
-P,Natalia Vikhlyantseva (12361248),Natalia Vikhlyantseva,12361248,P,7200,Maria@Vikhlyantseva 04/01/2019 11:15AM ET,Vikhlyantseva,48.25
-P,Mandy Minella (12361252),Mandy Minella,12361252,P,7100,Schmiedlova@Minella 04/01/2019 11:15AM ET,Minella,30
-P,Shelby Rogers (12361262),Shelby Rogers,12361262,P,7000,Rodina@Rogers 04/01/2019 01:45PM ET,Rogers,0
-P,Sara Errani (12361250),Sara Errani,12361250,P,6800,Puig@Errani 04/01/2019 11:15AM ET,Errani,20.75
-P,Ana Bogdan (12361273),Ana Bogdan,12361273,P,6400,Voegele@Bogdan 04/01/2019 04:00PM ET,Bogdan,14.14
-P,Magda Linette (12361254),Magda Linette,12361254,P,6000,Tomljanovic@Linette 04/01/2019 12:30PM ET,Linette,41.76
-P,Nadiia Kichenok (12361260),Nadiia Kichenok,12361260,P,5800,Kichenok@Trevisan 04/01/2019 12:30PM ET,Kichenok,0
-P,Giuliana Olmos (12361276),Giuliana Olmos,12361276,P,5500,Olmos@Hibino 04/01/2019 04:00PM ET,Olmos,0
-P,Destanee Aiava (12361258),Destanee Aiava,12361258,P,5400,Bencic@Aiava 04/01/2019 12:30PM ET,Aiava,26.92
-P,Johanna Larsson (12361246),Johanna Larsson,12361246,P,5200,Larsson@Ostapenko 04/01/2019 11:15AM ET,Larsson,16.99
-P,Victoria Rodriguez (12361277),Victoria Rodriguez,12361277,P,4700,Gasparyan@Rodriguez 04/01/2019 04:00PM ET,Rodriguez,0
+P,Kiki Bertens (12368998),Kiki Bertens,12368998,P,10300,Bertens@Trevisan 04/02/2019 08:15PM ET,Bertens,57,,1,70,0,36.35,Trevisan,#N/A,0,20,70,0.006796117
+P,Angelique Kerber (12369016),Angelique Kerber,12369016,P,10200,Kucova@Kerber 04/02/2019 09:00PM ET,Kerber,55.1,,,,,,,,,,,
+P,Laura Siegemund (12368996),Laura Siegemund,12368996,P,10100,Navarro@Siegemund 04/02/2019 07:00PM ET,Siegemund,23.09,,,,,,,,,,,
+P,Garbine Muguruza (12369018),Garbine Muguruza,12369018,P,9800,Muguruza@Ruse 04/02/2019 10:15PM ET,Muguruza,51.83,,,,,,,,,,,
+P,Victoria Azarenka (12369014),Victoria Azarenka,12369014,P,9600,Azarenka@Kato 04/02/2019 05:15PM ET,Azarenka,47.66,,,,,,,,,,,
+P,Karolina Muchova (12369010),Karolina Muchova,12369010,P,9200,Muchova@Xu 04/02/2019 03:50PM ET,Muchova,47.81,,,,,,,,,,,
+P,Lara Arruabarrena-Vecino (12369008),Lara Arruabarrena-Vecino,12369008,P,9000,Arruabarrena-Vecino@Arn 04/02/2019 01:15PM ET,Arruabarrena-Vecino,10.35,,,,,,,,,,,
+P,Alison Riske (12369004),Alison Riske,12369004,P,8900,Riske@Vickery 04/02/2019 12:00PM ET,Riske,50.74,,,,,,,,,,,
+P,Zarina Diyas (12369002),Zarina Diyas,12369002,P,8800,Diyas@Zarazua 04/02/2019 12:00PM ET,Diyas,24.22,,,,,,,,,,,
+P,Anastasia Pavlyuchenkova (12369012),Anastasia Pavlyuchenkova,12369012,P,8700,Blinkova@Pavlyuchenkova 04/02/2019 04:00PM ET,Pavlyuchenkova,48.5,,,,,,,,,,,
+P,Sloane Stephens (12368990),Sloane Stephens,12368990,P,8600,Sorribes Tormo@Stephens 04/02/2019 12:30PM ET,Stephens,45.12,,,,,,,,,,,
+P,Danielle Rose Collins (12368994),Danielle Rose Collins,12368994,P,8400,Brengle@Collins 04/02/2019 01:45PM ET,Collins,46.39,,,,,,,,,,,
+P,Maria Sakkari (12368992),Maria Sakkari,12368992,P,8200,Perrin@Sakkari 04/02/2019 12:30PM ET,Sakkari,33.52,,,,,,,,,,,
+P,Kristina Mladenovic (12369006),Kristina Mladenovic,12369006,P,7900,Haddad Maia@Mladenovic 04/02/2019 01:15PM ET,Mladenovic,38,,,,,,,,,,,
+P,Dalila Jakupovic (12369000),Dalila Jakupovic,12369000,P,7600,Jakupovic@Dart 04/02/2019 12:00PM ET,Jakupovic,23.59,,,,,,,,,,,
+P,Harriet Dart (12369001),Harriet Dart,12369001,P,7100,Jakupovic@Dart 04/02/2019 12:00PM ET,Dart,18.53
+P,Beatriz Haddad Maia (12369007),Beatriz Haddad Maia,12369007,P,6800,Haddad Maia@Mladenovic 04/02/2019 01:15PM ET,Haddad Maia,48.91
+P,Madison Brengle (12368995),Madison Brengle,12368995,P,6400,Brengle@Collins 04/02/2019 01:45PM ET,Brengle,38.3
+P,Conny Perrin (12368993),Conny Perrin,12368993,P,6200,Perrin@Sakkari 04/02/2019 12:30PM ET,Perrin,27.95
+P,Sara Sorribes Tormo (12368991),Sara Sorribes Tormo,12368991,P,6000,Sorribes Tormo@Stephens 04/02/2019 12:30PM ET,Sorribes Tormo,33.6
+P,Anna Blinkova (12369013),Anna Blinkova,12369013,P,5800,Blinkova@Pavlyuchenkova 04/02/2019 04:00PM ET,Blinkova,37.28
+P,Greta Arn (12369009),Greta Arn,12369009,P,5600,Arruabarrena-Vecino@Arn 04/02/2019 01:15PM ET,Arn,22.15
+P,Shilin Xu (12369011),Shilin Xu,12369011,P,5400,Muchova@Xu 04/02/2019 03:50PM ET,Xu,0
+P,Sachia Vickery (12369005),Sachia Vickery,12369005,P,5200,Riske@Vickery 04/02/2019 12:00PM ET,Vickery,23.09
+P,Renata Zarazua (12369003),Renata Zarazua,12369003,P,4900,Diyas@Zarazua 04/02/2019 12:00PM ET,Zarazua,34.4
+P,Elena-Gabriela Ruse (12369019),Elena-Gabriela Ruse,12369019,P,4600,Muguruza@Ruse 04/02/2019 10:15PM ET,Ruse,0
+P,Kristina Kucova (12369017),Kristina Kucova,12369017,P,4400,Kucova@Kerber 04/02/2019 09:00PM ET,Kucova,0
+P,Miyu Kato (12369015),Miyu Kato,12369015,P,4300,Azarenka@Kato 04/02/2019 05:15PM ET,Kato,0
+P,Martina Trevisan (12368999),Martina Trevisan,12368999,P,4100,Bertens@Trevisan 04/02/2019 08:15PM ET,Trevisan,14
+P,Emma Navarro (12368997),Emma Navarro,12368997,P,4000,Navarro@Siegemund 04/02/2019 07:00PM ET,Navarro,0
