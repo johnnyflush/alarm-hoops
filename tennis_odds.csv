@@ -1,21 +1,22 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,wta1,Andrea Petkovic,-154,Varvara Lepchenko,+120
-1,wta3,Kateryna Kozlova,-143,Kristyna Pliskova,+110
-2,wta5,Ysaline Bonaventure,-120,Lauren Davis,-105
-3,wta7,Mihaela Buzarnescu,-143,Magdalena Frech,+110
-4,wta9,Amanda Anisimova,-133,Petra Martic,+105
-5,wta11,Kaia Kanepi,-189,Veronika Kudermetova,+145
-6,wta14,Renata Zarazua,,Zarina Diyas,
-7,wta16,Alison Riske,-278,Sachia Vickery,+210
-8,wta18,Dalila Jakupovic,-182,Harriet Dart,+140
-9,wta21,Sloane Stephens,-250,Sara Sorribes Tormo,+190
-10,wta23,Maria Sakkari,-227,Conny Perrin,+175
-11,wta26,Beatriz Haddad Maia,-143,Kristina Mladenovic,+110
-12,wta28,Lara Arruabarrena-Vecino,-133,Greta Arn,+105
-13,wta31,Danielle Collins,,Madison Brengle,
-14,wta34,Anastasia Pavlyuchenkova,-250,Anna Blinkova,+190
-15,wta36,Miyu Kato,,Victoria Azarenka,
-16,wta38,Karolina Muchova,-500,Shilin Xu,+350
-17,wta41,Kiki Bertens,-1250,Martina Trevisan,+650
-18,wta44,Angelique Kerber,-714,Kristina Kucova,+450
-19,wta46,Elena Ruse,,Garbine Muguruza Blanco,
+0,wta1,Zarina Diyas,-357,Renata Zarazua,+255
+1,wta3,Alison Riske,-303,Sachia Vickery,+220
+2,wta5,Dalila Jakupovic,-167,Harriet Dart,+130
+3,wta8,Andrea Petkovic,-161,Varvara Lepchenko,+125
+4,wta10,Kateryna Kozlova,-149,Kristyna Pliskova,+115
+5,wta12,Lauren Davis,-114,Ysaline Bonaventure,-114
+6,wta15,Beatriz Haddad Maia,-167,Kristina Mladenovic,+130
+7,wta17,Lara Arruabarrena-Vecino,-125,Greta Arn,+100
+8,wta20,Amanda Anisimova,-143,Petra Martic,+110
+9,wta22,Kaia Kanepi,-222,Veronika Kudermetova,+170
+10,wta24,Mihaela Buzarnescu,-125,Magdalena Frech,+100
+11,wta27,Anastasia Pavlyuchenkova,-250,Anna Blinkova,+190
+12,wta30,Sloane Stephens,-250,Sara Sorribes Tormo,+190
+13,wta32,Maria Sakkari,-278,Conny Perrin,+210
+14,wta35,Victoria Azarenka,-1429,Miyu Kato,+700
+15,wta37,Karolina Muchova,-625,Shilin Xu,+400
+16,wta40,Danielle Collins,-222,Madison Brengle,+170
+17,wta42,Laura Siegemund,-1250,Emma Navarro,+650
+18,wta44,Kiki Bertens,-1429,Martina Trevisan,+700
+19,wta47,Angelique Kerber,-714,Kristina Kucova,+450
+20,wta49,Garbine Muguruza Blanco,-1000,Elena Ruse,+550
