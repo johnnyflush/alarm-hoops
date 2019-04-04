@@ -1,13 +1,13 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,wta1,Belinda Bencic,-357,Taylor Townsend,+255
+0,wta1,Belinda Bencic,-400,Taylor Townsend,+280
 1,wta3,Petra Martic,-182,Jessica Pegula,+140
-2,wta5,Maria Sakkari,,Kiki Bertens,
-3,wta7,Monica Puig,,Aryna Sabalenka,
-4,wta10,Kristina Mladenovic,,Greta Arn,
+2,wta5,Kiki Bertens,-556,Maria Sakkari,+375
+3,wta7,Aryna Sabalenka,-175,Monica Puig,+135
+4,wta10,Kristina Mladenovic,-400,Greta Arn,+275
 5,wta13,Caroline Wozniacki,-303,Mihaela Buzarnescu,+220
-6,wta15,Kaia Kanepi,-120,Danielle Collins,-105
-7,wta17,Madison Keys,-189,Jelena Ostapenko,+145
-8,wta20,Garbine Muguruza Blanco,-333,Margarita Gasparyan,+240
-9,wta23,Sloane Stephens,-161,Ajla Tomljanovic,+125
-10,wta26,Zarina Diyas,,Victoria Azarenka,
-11,wta28,Angelique Kerber,,Karolina Muchova,
+6,wta15,Kaia Kanepi,-133,Danielle Collins,+105
+7,wta17,Madison Keys,-167,Jelena Ostapenko,+130
+8,wta20,Garbine Muguruza Blanco,-278,Margarita Gasparyan,+210
+9,wta23,Sloane Stephens,-167,Ajla Tomljanovic,+130
+10,wta26,Victoria Azarenka,-556,Zarina Diyas,+375
+11,wta28,Angelique Kerber,-303,Karolina Muchova,+220
