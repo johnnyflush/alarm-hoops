@@ -1,18 +1,22 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
 0,atp1,Albert Ramos,-175,Guido Andreozzi,+135
-1,atp3,Jozef Kovalik,,Gilles Simon,
+1,atp3,Gilles Simon,-250,Jozef Kovalik,+190
 2,atp5,Taro Daniel,,Mischa Zverev,
 3,atp7,Ugo Humbert,,Kyle Edmund,
-4,atp9,Jo-Wilfried Tsonga,,Cedrik-Marcel Stebe,
-5,atp12,Ryan Harrison,,Ivo Karlovic,
-6,atp14,Casper Ruud,-250,Hugo Dellien,+190
+4,atp9,Jo-Wilfried Tsonga,-1000,Cedrik-Marcel Stebe,+550
+5,atp12,Ivo Karlovic,-149,Ryan Harrison,+115
+6,atp14,Casper Ruud,-222,Hugo Dellien,+170
 7,atp16,Pablo Cuevas,,Christian Garin,
-8,atp18,Taylor Fritz,,Marcel Granollers,
+8,atp18,Taylor Fritz,-143,Marcel Granollers,+110
 9,atp20,Bernard Tomic,,Denis Kudla,
-10,wta1,Caroline Wozniacki,-133,Madison Keys,+105
-11,wta4,Victoria Azarenka,-167,Garbine Muguruza Blanco,+130
-12,wta7,Ekaterina Alexandrova,,Svetlana Kuznetsova,
-13,wta9,Mona Barthel,,Sorana Cirstea,
-14,wta11,Alison Van Uytvanck,,Tereza Smitkova,
-15,wta13,Viktorija Golubic,,Arantxa Rus,
-16,wta15,Timea Bacsinszky,,Tamara Korpatsch,
+10,wta1,Ekaterina Alexandrova,-175,Svetlana Kuznetsova,+135
+11,wta3,Mona Barthel,-125,Sorana Cirstea,+100
+12,wta5,Alison Van Uytvanck,-250,Tereza Smitkova,+190
+13,wta7,Viktorija Golubic,-227,Arantxa Rus,+175
+14,wta9,Timea Bacsinszky,-333,Tamara Korpatsch,+240
+15,wta12,Anna Schmiedlova,-182,Ysaline Bonaventure,+140
+16,wta14,Conny Perrin,-200,Maria Camila Osorio Serrano,+155
+17,wta16,Jasmine Paolini,,Francesca Di Lorenzo,
+18,wta18,Laura Siegemund,,Beatriz Haddad Maia,
+19,wta20,Elitsa Kostova,,Varvara Lepchenko,
+20,wta22,Amanda Anisimova,-625,Sabine Lisicki,+400

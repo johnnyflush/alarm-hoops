@@ -1,25 +1,23 @@
-Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
-P,Victoria Azarenka (12386033),Victoria Azarenka,12386033,P,10200,Azarenka@Diyas 04/04/2019 06:15PM ET,Azarenka,49.7
-P,Kristina Mladenovic (12386028),Kristina Mladenovic,12386028,P,10000,Arn@Mladenovic 04/04/2019 01:00PM ET,Mladenovic,38.78
-P,Kiki Bertens (12386018),Kiki Bertens,12386018,P,9800,Bertens@Sakkari 04/04/2019 12:15PM ET,Bertens,58.25
-P,Angelique Kerber (12386034),Angelique Kerber,12386034,P,9500,Muchova@Kerber 04/04/2019 09:00PM ET,Kerber,55.98
-P,Garbine Muguruza (12386030),Garbine Muguruza,12386030,P,9400,Muguruza@Gasparyan 04/04/2019 05:00PM ET,Muguruza,52.78
-P,Caroline Wozniacki (12386022),Caroline Wozniacki,12386022,P,9300,Buzarnescu@Wozniacki 04/04/2019 01:30PM ET,Wozniacki,57.56
-P,Belinda Bencic (12386014),Belinda Bencic,12386014,P,9200,Bencic@Townsend 04/04/2019 11:00AM ET,Bencic,58.12
-P,Petra Martic (12386012),Petra Martic,12386012,P,8500,Pegula@Martic 04/04/2019 11:00AM ET,Martic,49.96
-P,Aryna Sabalenka (12386016),Aryna Sabalenka,12386016,P,8400,Puig@Sabalenka 04/04/2019 12:15PM ET,Sabalenka,55.45
-P,Sloane Stephens (12386026),Sloane Stephens,12386026,P,8200,Tomljanovic@Stephens 04/04/2019 07:00PM ET,Stephens,46.76
-P,Madison Keys (12386024),Madison Keys,12386024,P,7900,Keys@Ostapenko 04/04/2019 02:45PM ET,Keys,56.06
-P,Kaia Kanepi (12386021),Kaia Kanepi,12386021,P,7800,Kanepi@Collins 04/04/2019 01:30PM ET,Kanepi,45
-P,Danielle Rose Collins (12386020),Danielle Rose Collins,12386020,P,7300,Kanepi@Collins 04/04/2019 01:30PM ET,Collins,50.17
-P,Jelena Ostapenko (12386025),Jelena Ostapenko,12386025,P,7100,Keys@Ostapenko 04/04/2019 02:45PM ET,Ostapenko,33.74
-P,Ajla Tomljanovic (12386027),Ajla Tomljanovic,12386027,P,6800,Tomljanovic@Stephens 04/04/2019 07:00PM ET,Tomljanovic,53.22
-P,Monica Puig (12386017),Monica Puig,12386017,P,6600,Puig@Sabalenka 04/04/2019 12:15PM ET,Puig,46.28
-P,Jessica Pegula (12386013),Jessica Pegula,12386013,P,6500,Pegula@Martic 04/04/2019 11:00AM ET,Pegula,51.62
-P,Margarita Gasparyan (12386031),Margarita Gasparyan,12386031,P,5800,Muguruza@Gasparyan 04/04/2019 05:00PM ET,Gasparyan,40.95
-P,Karolina Muchova (12386035),Karolina Muchova,12386035,P,5700,Muchova@Kerber 04/04/2019 09:00PM ET,Muchova,49.86
-P,Mihaela Buzarnescu (12386023),Mihaela Buzarnescu,12386023,P,5600,Buzarnescu@Wozniacki 04/04/2019 01:30PM ET,Buzarnescu,28.72
-P,Taylor Townsend (12386015),Taylor Townsend,12386015,P,5500,Bencic@Townsend 04/04/2019 11:00AM ET,Townsend,40.89
-P,Zarina Diyas (12386032),Zarina Diyas,12386032,P,5100,Azarenka@Diyas 04/04/2019 06:15PM ET,Diyas,32.91
-P,Greta Arn (12386029),Greta Arn,12386029,P,5000,Arn@Mladenovic 04/04/2019 01:00PM ET,Arn,41.7
-P,Maria Sakkari (12386019),Maria Sakkari,12386019,P,4900,Bertens@Sakkari 04/04/2019 12:15PM ET,Sakkari,40.4
+Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame,ML,ProbWin,DK_Pts,ProbLose,ActualPoints,Opponent,OpponentPoints,OpponentOdds,LosePoints,ProbPoints,Value
+P,Sabine Lisicki (12419195),Sabine Lisicki,12419195,P,4400,Anisimova@Lisicki 04/08/2019 08:00PM ET,Lisicki,17.15,,0.168067227,70,0.831932773,36.35,Anisimova,#N/A,0.831932773,20,28.40336134,0.006455309
+P,Jasmine Paolini (12419188),Jasmine Paolini,12419188,P,7600,Di Lorenzo@Paolini 04/08/2019 01:00PM ET,Paolini,0,-131,0.567099567,70,0.432900433,36.35,Di Lorenzo,#N/A,0.432900433,20,48.35497835,0.006362497
+P,Laura Siegemund (12419193),Laura Siegemund,12419193,P,8000,Siegemund@Haddad Maia 04/08/2019 02:15PM ET,Siegemund,26.9,-132,0.568965517,70,0.431034483,36.35,Haddad Maia,#N/A,0.431034483,20,48.44827586,0.006056034
+P,Ivo Karlovic (12419177),Ivo Karlovic,12419177,P,8300,Karlovic@Harrison 04/08/2019 04:00PM ET,Karlovic,56.93,-144,0.590163934,70,0.409836066,36.35,Harrison,#N/A,0.409836066,20,49.50819672,0.005964843
+P,Elitsa Kostova (12419191),Elitsa Kostova,12419191,P,6700,Lepchenko@Kostova 04/08/2019 02:15PM ET,Kostova,0,,0.386100386,70,0.613899614,36.35,Lepchenko,#N/A,0.613899614,20,39.30501931,0.005866421
+P,Conny Perrin (12419186),Conny Perrin,12419186,P,9200,Osorio Serrano@Perrin 04/08/2019 01:00PM ET,Perrin,29.27,-210,0.677419355,70,0.322580645,36.35,Osorio Serrano,#N/A,0.322580645,20,53.87096774,0.00585554
+P,Pablo Cuevas (12419178),Pablo Cuevas,12419178,P,8600,Cuevas@Garin 04/08/2019 05:20PM ET,Cuevas,53.34,-154,0.606299213,70,0.393700787,36.35,Garin,#N/A,0.393700787,20,50.31496063,0.005850577
+P,Maria Camila Osorio Serrano (12419187),Maria Camila Osorio Serrano,12419187,P,6200,Osorio Serrano@Perrin 04/08/2019 01:00PM ET,Osorio Serrano,0,,0.322580645,70,0.677419355,36.35,Perrin,#N/A,0.677419355,20,36.12903226,0.005827263
+P,Casper Ruud (12419175),Casper Ruud,12419175,P,9500,Dellien@Ruud 04/08/2019 04:00PM ET,Ruud,53.42,-239,0.705014749,70,0.294985251,36.35,Dellien,#N/A,0.294985251,20,55.25073746,0.005815867
+P,Denis Kudla (12419182),Denis Kudla,12419182,P,8500,Kudla@Tomic 04/08/2019 08:20PM ET,Kudla,28.67,-143,0.588477366,70,0.411522634,36.35,Tomic,#N/A,0.411522634,20,49.42386831,0.005814573
+P,Taylor Fritz (12419180),Taylor Fritz,12419180,P,8400,Fritz@Granollers 04/08/2019 07:00PM ET,Fritz,45.31,-136,0.576271186,70,0.423728814,36.35,Granollers,#N/A,0.423728814,20,48.81355932,0.005811138
+P,Varvara Lepchenko (12419190),Varvara Lepchenko,12419190,P,8800,Lepchenko@Kostova 04/08/2019 02:15PM ET,Lepchenko,16.78,-159,0.613899614,70,0.386100386,36.35,Kostova,#N/A,0.386100386,20,50.69498069,0.005760793
+P,Anna-Karolina Schmiedlova (12419184),Anna-Karolina Schmiedlova,12419184,P,8700,Bonaventure@Schmiedlova 04/08/2019 12:00PM ET,Schmiedlova,33.76,-151,0.601593625,70,0.398406375,36.35,Bonaventure,#N/A,0.398406375,20,50.07968127,0.005756285
+P,Christian Garin (12419179),Christian Garin,12419179,P,6900,Cuevas@Garin 04/08/2019 05:20PM ET,Garin,44.67,,0.393700787,70,0.606299213,36.35,Cuevas,#N/A,0.606299213,20,39.68503937,0.005751455
+P,Ryan Harrison (12419176),Ryan Harrison,12419176,P,7200,Karlovic@Harrison 04/08/2019 04:00PM ET,Harrison,40.62,,0.409836066,70,0.590163934,36.35,Karlovic,#N/A,0.590163934,20,40.49180328,0.005623862
+P,Ysaline Bonaventure (12419185),Ysaline Bonaventure,12419185,P,7100,Bonaventure@Schmiedlova 04/08/2019 12:00PM ET,Bonaventure,34.77,,0.398406375,70,0.601593625,36.35,Schmiedlova,#N/A,0.601593625,20,39.92031873,0.00562258
+P,Amanda Anisimova (12419194),Amanda Anisimova,12419194,P,11000,Anisimova@Lisicki 04/08/2019 08:00PM ET,Anisimova,51.61,-495,0.831932773,70,0.168067227,36.35,Lisicki,#N/A,0.168067227,20,61.59663866,0.005599694
+P,Marcel Granollers (12419181),Marcel Granollers,12419181,P,7400,Fritz@Granollers 04/08/2019 07:00PM ET,Granollers,27.09,,0.423728814,70,0.576271186,36.35,Fritz,#N/A,0.576271186,20,41.18644068,0.005565735
+P,Bernard Tomic (12419183),Bernard Tomic,12419183,P,7300,Kudla@Tomic 04/08/2019 08:20PM ET,Tomic,42.65,,0.411522634,70,0.588477366,36.35,Kudla,#N/A,0.588477366,20,40.57613169,0.005558374
+P,Hugo Dellien (12419174),Hugo Dellien,12419174,P,6400,Dellien@Ruud 04/08/2019 04:00PM ET,Dellien,50.23,,0.294985251,70,0.705014749,36.35,Ruud,#N/A,0.705014749,20,34.74926254,0.005429572
+P,Francesca Di Lorenzo (12419189),Francesca Di Lorenzo,12419189,P,7800,Di Lorenzo@Paolini 04/08/2019 01:00PM ET,Di Lorenzo,18.5,,0.432900433,70,0.567099567,36.35,Paolini,#N/A,0.567099567,20,41.64502165,0.005339105
+P,Beatriz Haddad Maia (12419192),Beatriz Haddad Maia,12419192,P,8200,Siegemund@Haddad Maia 04/08/2019 02:15PM ET,Haddad Maia,48.02,,0.431034483,70,0.568965517,36.35,Siegemund,#N/A,0.568965517,20,41.55172414,0.005067283
