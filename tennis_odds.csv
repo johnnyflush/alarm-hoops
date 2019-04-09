@@ -1,22 +1,39 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Albert Ramos,-175,Guido Andreozzi,+135
-1,atp3,Gilles Simon,-250,Jozef Kovalik,+190
-2,atp5,Taro Daniel,,Mischa Zverev,
-3,atp7,Ugo Humbert,,Kyle Edmund,
-4,atp9,Jo-Wilfried Tsonga,-1000,Cedrik-Marcel Stebe,+550
-5,atp12,Ivo Karlovic,-149,Ryan Harrison,+115
-6,atp14,Casper Ruud,-222,Hugo Dellien,+170
-7,atp16,Pablo Cuevas,,Christian Garin,
-8,atp18,Taylor Fritz,-143,Marcel Granollers,+110
-9,atp20,Bernard Tomic,,Denis Kudla,
-10,wta1,Ekaterina Alexandrova,-175,Svetlana Kuznetsova,+135
-11,wta3,Mona Barthel,-125,Sorana Cirstea,+100
-12,wta5,Alison Van Uytvanck,-250,Tereza Smitkova,+190
-13,wta7,Viktorija Golubic,-227,Arantxa Rus,+175
-14,wta9,Timea Bacsinszky,-333,Tamara Korpatsch,+240
-15,wta12,Anna Schmiedlova,-182,Ysaline Bonaventure,+140
-16,wta14,Conny Perrin,-200,Maria Camila Osorio Serrano,+155
-17,wta16,Jasmine Paolini,,Francesca Di Lorenzo,
-18,wta18,Laura Siegemund,,Beatriz Haddad Maia,
-19,wta20,Elitsa Kostova,,Varvara Lepchenko,
-20,wta22,Amanda Anisimova,-625,Sabine Lisicki,+400
+0,atp1,Fernando Verdasco,-556,Adrian Menendez-Maceiras,+375
+1,atp3,Aljaz Bedene,-125,Benoit Paire,+100
+2,atp5,Pierre-Hugues Herbert,-167,Thomas Fabbiano,+130
+3,atp7,Juan Ignacio Londero,-200,Carlos Berlocq,+155
+4,atp9,Robin Haase,-227,Malek Jaziri,+175
+5,atp11,Philipp Kohlschreiber,-189,Alejandro Davidovich Fokina,+145
+6,atp13,Jaume Munar,-303,Facundo Bagnis,+220
+7,atp15,Laslo Djere,-154,Lorenzo Sonego,+120
+8,atp17,Fabio Fognini,-161,Jiri Vesely,+125
+9,atp19,Federico Del Bonis,-175,Pablo Andujar,+135
+10,atp21,Alexander Zverev,,Denis Istomin,
+11,atp24,Paolo Lorenzi,-143,Daniel Elahi Galan,+110
+12,atp26,Henri Laaksonen,-133,Mackenzie McDonald,+105
+13,atp28,Guillermo Garcia-Lopez,-189,Noah Rubin,+145
+14,atp30,Santiago Giraldo,-149,Bradley Klahn,+115
+15,atp32,Jordan Thompson,-189,Pedja Krstin,+145
+16,atp34,Sam Querrey,-143,Bjorn Fratangelo,+110
+17,atp36,Tennys Sandgren,-161,Janko Tipsarevic,+125
+18,wta1,Carla Suarez Navarro,-200,Polona Hercog,+155
+19,wta3,Viktoria Kuzmova,-250,Giulia Gatto-Monticone,+190
+20,wta5,Iga Swiatek,-333,Katarina Zavatska,+240
+21,wta7,Timea Bacsinszky,-357,Tamara Korpatsch,+255
+22,wta9,Kristyna Pliskova,-222,Ylena In-Albon,+170
+23,wta11,Mandy Minella,-118,Fiona Ferro,-111
+24,wta13,Stefanie Voegele,-161,Pauline Parmentier,+125
+25,wta15,Vera Lapko,-167,Reka-Luca Jani,+130
+26,wta17,Rebecca Peterson,-133,Magdalena Frech,+105
+27,wta20,Sara Errani,,Irina Maria Bara,
+28,wta22,Chloe Paquet,,Ana Bogdan,
+29,wta25,Belinda Bencic,-625,Antonia Lottner,+400
+30,wta28,Sara Sorribes Tormo,-189,Christina McHale,+145
+31,wta30,Bibiane Schoofs,-714,Emiliana Arango,+450
+32,wta32,Magda Linette,-125,Aliona Bolsova,+100
+33,wta34,Shelby Rogers,-149,Astra Sharma,+115
+34,wta36,Irina Khromacheva,,Tamara Zidansek,
+35,wta38,Lara Arruabarrena-Vecino,-200,Timea Babos,+155
+36,wta40,Sachia Vickery,,Hiroko Kuwata,
+37,wta42,Jelena Ostapenko,,Kristie Haerim Ahn,
