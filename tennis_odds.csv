@@ -1,43 +1,21 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Fernando Verdasco,-556,Adrian Menendez-Maceiras,+375
-1,atp3,Aljaz Bedene,-125,Benoit Paire,+100
-2,atp5,Pierre-Hugues Herbert,-167,Thomas Fabbiano,+130
-3,atp7,Juan Ignacio Londero,-200,Carlos Berlocq,+155
-4,atp9,Robin Haase,-222,Malek Jaziri,+170
-5,atp11,Philipp Kohlschreiber,-189,Alejandro Davidovich Fokina,+145
-6,atp13,Jaume Munar,-303,Facundo Bagnis,+220
-7,atp15,Laslo Djere,-149,Lorenzo Sonego,+115
-8,atp17,Fabio Fognini,-167,Jiri Vesely,+130
-9,atp19,Federico Del Bonis,-161,Pablo Andujar,+125
-10,atp21,Alexander Zverev,-1000,Denis Istomin,+550
-11,atp24,Paolo Lorenzi,-133,Daniel Elahi Galan,+105
-12,atp26,Henri Laaksonen,-133,Mackenzie McDonald,+105
-13,atp28,Guillermo Garcia-Lopez,-175,Noah Rubin,+135
-14,atp30,Santiago Giraldo,-200,Bradley Klahn,+155
-15,atp32,Jordan Thompson,-175,Pedja Krstin,+135
-16,atp34,Sam Querrey,-143,Bjorn Fratangelo,+110
-17,atp36,Tennys Sandgren,-200,Janko Tipsarevic,+155
-18,atp39,Lorenzo Sonego,-143,Robin Haase,+110
-19,atp41,Taro Daniel,,Adrian Menendez-Maceiras,
-20,atp43,Gilles Simon,-149,Guido Andreozzi,+115
-21,atp45,Kyle Edmund,,Jo-Wilfried Tsonga,
-22,wta1,Carla Suarez Navarro,-200,Polona Hercog,+155
-23,wta3,Viktoria Kuzmova,-250,Giulia Gatto-Monticone,+190
-24,wta5,Iga Swiatek,-333,Katarina Zavatska,+240
-25,wta7,Timea Bacsinszky,-357,Tamara Korpatsch,+255
-26,wta9,Kristyna Pliskova,-222,Ylena In-Albon,+170
-27,wta11,Mandy Minella,-118,Fiona Ferro,-111
-28,wta13,Stefanie Voegele,-167,Pauline Parmentier,+130
-29,wta15,Vera Lapko,-175,Reka-Luca Jani,+135
-30,wta17,Rebecca Peterson,-149,Magdalena Frech,+115
-31,wta20,Sara Errani,-120,Irina Maria Bara,-105
-32,wta22,Ana Bogdan,-222,Chloe Paquet,+170
-33,wta25,Belinda Bencic,-714,Antonia Lottner,+450
-34,wta28,Sara Sorribes Tormo,-222,Christina McHale,+170
-35,wta30,Bibiane Schoofs,-625,Emiliana Arango,+400
-36,wta32,Magda Linette,-125,Aliona Bolsova,+100
-37,wta34,Shelby Rogers,-167,Astra Sharma,+130
-38,wta36,Irina Khromacheva,,Tamara Zidansek,
-39,wta38,Lara Arruabarrena-Vecino,-189,Timea Babos,+145
-40,wta40,Sachia Vickery,-500,Hiroko Kuwata,+350
-41,wta42,Jelena Ostapenko,,Kristie Haerim Ahn,
+0,atp1,Lorenzo Sonego,-154,Robin Haase,+120
+1,atp3,Taro Daniel,,Adrian Menendez-Maceiras,
+2,atp5,Gilles Simon,-167,Guido Andreozzi,+130
+3,atp7,Kyle Edmund,-200,Jo-Wilfried Tsonga,+155
+4,atp10,Marcel Granollers,-154,Bernard Tomic,+120
+5,atp12,Ryan Harrison,-118,Henri Laaksonen,-111
+6,atp14,Christian Garin,,Jeremy Chardy,
+7,atp16,Reilly Opelka,-118,Casper Ruud,-111
+8,wta1,Veronika Kudermetova,-143,Jill Belen Teichmann,+110
+9,wta3,Alison Van Uytvanck,-143,Fiona Ferro,+110
+10,wta5,Polona Hercog,-167,Sorana Cirstea,+130
+11,wta7,Stefanie Voegele,-125,Viktorija Golubic,+100
+12,wta10,Tamara Zidansek,-278,Irina Khromacheva,+210
+13,wta12,Sachia Vickery,-556,Hiroko Kuwata,+375
+14,wta15,Timea Bacsinszky,-200,Svetlana Kuznetsova,+155
+15,wta18,Beatriz Haddad Maia,-167,Anna Schmiedlova,+130
+16,wta20,Sara Sorribes Tormo,-222,Ana Bogdan,+170
+17,wta22,Shelby Rogers,-175,Astra Sharma,+135
+18,wta24,Kristie Haerim Ahn,-250,Maria Camila Osorio Serrano,+190
+19,wta26,Amanda Anisimova,-333,Varvara Lepchenko,+240
