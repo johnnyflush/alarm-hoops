@@ -1,25 +1,21 @@
 Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
-P,Sachia Vickery (12434889),Sachia Vickery,12434889,P,10400,Vickery@Kuwata 04/10/2019 11:30AM ET,Vickery,32.86
-P,Amanda Anisimova (12434898),Amanda Anisimova,12434898,P,9700,Anisimova@Lepchenko 04/10/2019 08:00PM ET,Anisimova,52.36
-P,Tamara Zidansek (12434887),Tamara Zidansek,12434887,P,9500,Khromacheva@Zidansek 04/10/2019 11:30AM ET,Zidansek,41.1
-P,Sara Sorribes Tormo (12434894),Sara Sorribes Tormo,12434894,P,9200,Sorribes Tormo@Bogdan 04/10/2019 01:00PM ET,Sorribes Tormo,38.18
-P,Kyle Edmund (12434885),Kyle Edmund,12434885,P,9000,Tsonga@Edmund 04/10/2019 11:30AM ET,Edmund,51.17
-P,Timea Bacsinszky (12434900),Timea Bacsinszky,12434900,P,8800,Kuznetsova@Bacsinszky 04/10/2019 12:00PM ET,Bacsinszky,46.15
-P,Beatriz Haddad Maia (12434892),Beatriz Haddad Maia,12434892,P,8700,Haddad Maia@Schmiedlova 04/10/2019 12:00PM ET,Haddad Maia,51.81
-P,Maria Camila Osorio Serrano (12434896),Maria Camila Osorio Serrano,12434896,P,8600,Osorio Serrano@Ahn 04/10/2019 03:00PM ET,Osorio Serrano,68.3
-P,Marcel Granollers (12434877),Marcel Granollers,12434877,P,8500,Granollers@Tomic 04/10/2019 01:00PM ET,Granollers,33.58
-P,Christian Garin (12434882),Christian Garin,12434882,P,8200,Chardy@Garin 04/10/2019 03:40PM ET,Garin,46.56
-P,Reilly Opelka (12434884),Reilly Opelka,12434884,P,8000,Ruud@Opelka 04/10/2019 07:00PM ET,Opelka,60.87
-P,Ryan Harrison (12434879),Ryan Harrison,12434879,P,7800,Harrison@Laaksonen 04/10/2019 02:20PM ET,Harrison,44.07
-P,Casper Ruud (12434883),Casper Ruud,12434883,P,7700,Ruud@Opelka 04/10/2019 07:00PM ET,Ruud,54.75
-P,Henri Laaksonen (12434880),Henri Laaksonen,12434880,P,7600,Harrison@Laaksonen 04/10/2019 02:20PM ET,Laaksonen,52.4
-P,Jeremy Chardy (12434881),Jeremy Chardy,12434881,P,7500,Chardy@Garin 04/10/2019 03:40PM ET,Chardy,47.44
-P,Bernard Tomic (12434878),Bernard Tomic,12434878,P,7100,Granollers@Tomic 04/10/2019 01:00PM ET,Tomic,46.94
-P,Kristie Haerim Ahn (12434895),Kristie Haerim Ahn,12434895,P,6800,Osorio Serrano@Ahn 04/10/2019 03:00PM ET,Ahn,0
-P,Anna-Karolina Schmiedlova (12434891),Anna-Karolina Schmiedlova,12434891,P,6700,Haddad Maia@Schmiedlova 04/10/2019 12:00PM ET,Schmiedlova,37.63
-P,Svetlana Kuznetsova (12434899),Svetlana Kuznetsova,12434899,P,6600,Kuznetsova@Bacsinszky 04/10/2019 12:00PM ET,Kuznetsova,59.05
-P,Jo-Wilfried Tsonga (12434886),Jo-Wilfried Tsonga,12434886,P,6400,Tsonga@Edmund 04/10/2019 11:30AM ET,Tsonga,61.68
-P,Ana Bogdan (12434893),Ana Bogdan,12434893,P,6200,Sorribes Tormo@Bogdan 04/10/2019 01:00PM ET,Bogdan,15.09
-P,Irina Khromacheva (12434888),Irina Khromacheva,12434888,P,6000,Khromacheva@Zidansek 04/10/2019 11:30AM ET,Khromacheva,32.05
-P,Varvara Lepchenko (12434897),Varvara Lepchenko,12434897,P,5800,Anisimova@Lepchenko 04/10/2019 08:00PM ET,Lepchenko,36.63
-P,Hiroko Kuwata (12434890),Hiroko Kuwata,12434890,P,5200,Vickery@Kuwata 04/10/2019 11:30AM ET,Kuwata,0
+P,Amanda Anisimova (12451313),Amanda Anisimova,12451313,P,10900,Anisimova@Osorio Serrano 04/12/2019 03:30PM ET,Anisimova,53.15
+P,Sam Querrey (12451299),Sam Querrey,12451299,P,9500,Tipsarevic@Querrey 04/12/2019 02:20PM ET,Querrey,53.11
+P,Jo-Wilfried Tsonga (12451305),Jo-Wilfried Tsonga,12451305,P,9300,Sonego@Tsonga 04/12/2019 11:30AM ET,Tsonga,62.3
+P,Christian Garin (12451298),Christian Garin,12451298,P,9100,Garin@Laaksonen 04/12/2019 01:00PM ET,Garin,47.18
+P,Tamara Zidansek (12451308),Tamara Zidansek,12451308,P,8800,Arruabarrena-Vecino@Zidansek 04/12/2019 12:00PM ET,Zidansek,46.76
+P,Jordan Thompson (12451303),Jordan Thompson,12451303,P,8700,Thompson@Galan 04/12/2019 07:00PM ET,Thompson,52.67
+P,Casper Ruud (12451302),Casper Ruud,12451302,P,8600,Granollers@Ruud 04/12/2019 03:40PM ET,Ruud,54.84
+P,Svetlana Kuznetsova (12451315),Svetlana Kuznetsova,12451315,P,8500,Kuznetsova@Pliskova 04/12/2019 12:00PM ET,Kuznetsova,60.22
+P,Sara Errani (12451311),Sara Errani,12451311,P,8300,Errani@Sharma 04/12/2019 02:15PM ET,Errani,39.56
+P,Beatriz Haddad Maia (12451310),Beatriz Haddad Maia,12451310,P,8200,Sorribes Tormo@Haddad Maia 04/12/2019 01:00PM ET,Haddad Maia,52.79
+P,Astra Sharma (12451312),Astra Sharma,12451312,P,7600,Errani@Sharma 04/12/2019 02:15PM ET,Sharma,48.18
+P,Sara Sorribes Tormo (12451309),Sara Sorribes Tormo,12451309,P,7400,Sorribes Tormo@Haddad Maia 04/12/2019 01:00PM ET,Sorribes Tormo,41.51
+P,Kristyna Pliskova (12451316),Kristyna Pliskova,12451316,P,7300,Kuznetsova@Pliskova 04/12/2019 12:00PM ET,Pliskova,41.83
+P,Daniel Elahi Galan (12451304),Daniel Elahi Galan,12451304,P,7200,Thompson@Galan 04/12/2019 07:00PM ET,Galan,74.82
+P,Marcel Granollers (12451301),Marcel Granollers,12451301,P,7000,Granollers@Ruud 04/12/2019 03:40PM ET,Granollers,39.72
+P,Lara Arruabarrena-Vecino (12451307),Lara Arruabarrena-Vecino,12451307,P,6900,Arruabarrena-Vecino@Zidansek 04/12/2019 12:00PM ET,Arruabarrena-Vecino,32.24
+P,Henri Laaksonen (12451297),Henri Laaksonen,12451297,P,6600,Garin@Laaksonen 04/12/2019 01:00PM ET,Laaksonen,61.49
+P,Lorenzo Sonego (12451306),Lorenzo Sonego,12451306,P,6500,Sonego@Tsonga 04/12/2019 11:30AM ET,Sonego,46.66
+P,Janko Tipsarevic (12451300),Janko Tipsarevic,12451300,P,6300,Tipsarevic@Querrey 04/12/2019 02:20PM ET,Tipsarevic,51.89
+P,Maria Camila Osorio Serrano (12451314),Maria Camila Osorio Serrano,12451314,P,4900,Anisimova@Osorio Serrano 04/12/2019 03:30PM ET,Osorio Serrano,63.98

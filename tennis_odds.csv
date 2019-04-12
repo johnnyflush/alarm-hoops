@@ -1,29 +1,17 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Lorenzo Sonego,-154,Robin Haase,+120
-1,atp3,Taro Daniel,-303,Adrian Menendez-Maceiras,+220
-2,atp5,Gilles Simon,-167,Guido Andreozzi,+130
-3,atp7,Kyle Edmund,-222,Jo-Wilfried Tsonga,+170
-4,atp10,Marcel Granollers,-167,Bernard Tomic,+130
-5,atp12,Ryan Harrison,-118,Henri Laaksonen,-111
-6,atp14,Christian Garin,-125,Jeremy Chardy,+100
-7,atp16,Reilly Opelka,-118,Casper Ruud,-111
-8,atp19,Jiri Vesely,-120,Juan Ignacio Londero,-105
-9,atp21,Philipp Kohlschreiber,,Pablo Andujar,
-10,atp23,Benoit Paire,,Pierre-Hugues Herbert,
-11,atp25,Alexander Zverev,,Jaume Munar,
-12,wta1,Veronika Kudermetova,-143,Jill Belen Teichmann,+110
-13,wta3,Alison Van Uytvanck,-143,Fiona Ferro,+110
-14,wta5,Polona Hercog,-167,Sorana Cirstea,+130
-15,wta8,Tamara Zidansek,-278,Irina Khromacheva,+210
-16,wta10,Sachia Vickery,-556,Hiroko Kuwata,+375
-17,wta12,Beatriz Haddad Maia,-189,Anna Schmiedlova,+145
-18,wta14,Sara Sorribes Tormo,-227,Ana Bogdan,+175
-19,wta16,Shelby Rogers,-175,Astra Sharma,+135
-20,wta18,Kristie Haerim Ahn,-133,Maria Camila Osorio Serrano,+105
-21,wta20,Amanda Anisimova,-400,Varvara Lepchenko,+280
-22,wta23,Iga Swiatek,,Viktoria Kuzmova,
-23,wta25,Evgeniya Rodina,,Vera Lapko,
-24,wta27,Stefanie Voegele,-114,Viktorija Golubic,-114
-25,wta29,Rebecca Peterson,-167,Veronika Kudermetova,+130
-26,wta31,Timea Bacsinszky,-227,Svetlana Kuznetsova,+175
-27,wta33,Kristyna Pliskova,,Antonia Lottner,
+0,atp1,Gilles Simon,-250,Taro Daniel,+190
+1,atp3,Pablo Andujar,-133,Jiri Vesely,+105
+2,atp5,Jaume Munar,-167,Benoit Paire,+130
+3,atp7,Jo-Wilfried Tsonga,-222,Lorenzo Sonego,+170
+4,atp10,Christian Garin,-200,Henri Laaksonen,+155
+5,atp12,Sam Querrey,-222,Janko Tipsarevic,+170
+6,atp14,Casper Ruud,-167,Marcel Granollers,+130
+7,atp16,Jordan Thompson,-149,Daniel Elahi Galan,+115
+8,wta1,Polona Hercog,-161,Veronika Kudermetova,+125
+9,wta3,Stefanie Voegele,-182,Fiona Ferro,+140
+10,wta5,Iga Swiatek,-222,Vera Lapko,+170
+11,wta7,Svetlana Kuznetsova,-175,Kristyna Pliskova,+135
+12,wta10,Tamara Zidansek,-167,Lara Arruabarrena-Vecino,+130
+13,wta12,Beatriz Haddad Maia,-133,Sara Sorribes Tormo,+105
+14,wta14,Sara Errani,-114,Astra Sharma,-114
+15,wta16,Amanda Anisimova,-833,Maria Camila Osorio Serrano,+500
