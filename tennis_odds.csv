@@ -1,21 +1,12 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Gilles Simon,-250,Taro Daniel,+190
-1,atp3,Pablo Andujar,-133,Jiri Vesely,+105
-2,atp5,Jaume Munar,-175,Benoit Paire,+135
-3,atp7,Jo-Wilfried Tsonga,-227,Lorenzo Sonego,+175
-4,atp10,Christian Garin,-222,Henri Laaksonen,+170
-5,atp12,Sam Querrey,-250,Janko Tipsarevic,+190
-6,atp14,Casper Ruud,-154,Marcel Granollers,+120
-7,atp16,Jordan Thompson,-154,Daniel Elahi Galan,+120
-8,atp19,Gilles Simon,-133,Pablo Andujar,+105
-9,atp21,Jo-Wilfried Tsonga,-250,Benoit Paire,+190
-10,wta1,Polona Hercog,-161,Veronika Kudermetova,+125
-11,wta3,Stefanie Voegele,-182,Fiona Ferro,+140
-12,wta5,Iga Swiatek,-250,Vera Lapko,+190
-13,wta7,Svetlana Kuznetsova,-182,Kristyna Pliskova,+140
-14,wta10,Tamara Zidansek,-189,Lara Arruabarrena-Vecino,+145
-15,wta12,Beatriz Haddad Maia,-125,Sara Sorribes Tormo,+100
-16,wta14,Astra Sharma,-133,Sara Errani,+105
-17,wta16,Amanda Anisimova,-833,Maria Camila Osorio Serrano,+500
-18,wta19,Polona Hercog,-161,Fiona Ferro,+125
-19,wta21,Kristyna Pliskova,,Iga Swiatek,
+0,atp1,Gilles Simon,-118,Pablo Andujar,-111
+1,atp3,Jo-Wilfried Tsonga,-278,Benoit Paire,+210
+2,atp6,Jordan Thompson,-149,Daniel Elahi Galan,+115
+3,atp8,Daniel Elahi Galan,,Casper Ruud,
+4,atp10,Sam Querrey,-120,Christian Garin,-105
+5,atp13,Borna Coric,-182,Hubert Hurkacz,+140
+6,atp15,Grigor Dimitrov,-143,Matteo Berrettini,+110
+7,atp18,Pablo Andujar,-143,Benoit Paire,+110
+8,atp21,Stanislas Wawrinka,,Lucas Pouille,
+9,atp23,Guido Pella,,Laslo Djere,
+10,wta1,Iga Swiatek,-200,Polona Hercog,+155
