@@ -1,12 +1,18 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Gilles Simon,-118,Pablo Andujar,-111
-1,atp3,Jo-Wilfried Tsonga,-278,Benoit Paire,+210
-2,atp6,Jordan Thompson,-149,Daniel Elahi Galan,+115
-3,atp8,Daniel Elahi Galan,,Casper Ruud,
-4,atp10,Sam Querrey,-120,Christian Garin,-105
-5,atp13,Borna Coric,-182,Hubert Hurkacz,+140
-6,atp15,Grigor Dimitrov,-143,Matteo Berrettini,+110
-7,atp18,Pablo Andujar,-143,Benoit Paire,+110
-8,atp21,Stanislas Wawrinka,,Lucas Pouille,
-9,atp23,Guido Pella,,Laslo Djere,
-10,wta1,Iga Swiatek,-200,Polona Hercog,+155
+0,atp1,Daniil Medvedev,-167,Joao Sousa,+130
+1,atp3,John Millman,,Roberto Bautista-Agut,
+2,atp5,Nikoloz Basilashvili,,Marton Fucsovics,
+3,atp7,Malek Jaziri,,Dusan Lajovic,
+4,atp9,Marco Cecchinato,,Damir Dzumhur,
+5,atp11,Jan-Lennard Struff,,Denis Shapovalov,
+6,atp13,Jeremy Chardy,,Mikhail Kukushkin,
+7,atp15,Taro Daniel,,Philipp Kohlschreiber,
+8,atp17,Guido Andreozzi,,David Goffin,
+9,atp19,Fabio Fognini,,Andrey Rublev,
+10,atp21,Lucas Catarina,,Jaume Munar,
+11,atp23,Federico Del Bonis,,Martin Klizan,
+12,atp25,Lorenzo Sonego,,Andreas Seppi,
+13,atp27,Kyle Edmund,,Diego Schwartzman,
+14,atp29,Radu Albot,,Aljaz Bedene,
+15,wta1,Iga Swiatek,-227,Polona Hercog,+175
+16,wta4,Amanda Anisimova,-200,Astra Sharma,+155
