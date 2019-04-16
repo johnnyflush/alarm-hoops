@@ -1,11 +1,12 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Jo-Wilfried Tsonga,-556,Taylor Fritz,+375
-1,atp3,Fernando Verdasco,-161,Pierre-Hugues Herbert,+125
-2,atp5,Felix Auger-Aliassime,-227,Juan Ignacio Londero,+175
-3,atp7,Cameron Norrie,-161,Adrian Mannarino,+125
-4,atp9,Gilles Simon,-250,Alexei Popyrin,+190
-5,atp11,Marin Cilic,,Guido Pella,
-6,atp13,Novak Djokovic,-625,Philipp Kohlschreiber,+400
-7,atp15,Karen Khachanov,-189,Lorenzo Sonego,+145
-8,atp17,Stanislas Wawrinka,-167,Marco Cecchinato,+130
-9,atp19,Borna Coric,-154,Jaume Munar,+120
+0,atp1,Kei Nishikori,-500,Pierre-Hugues Herbert,+350
+1,atp3,Stefanos Tsitsipas,,Mikhail Kukushkin,
+2,atp5,Daniil Medvedev,,Radu Albot,
+3,atp7,Gilles Simon,-114,Fabio Fognini,-114
+4,atp9,Marton Fucsovics,-200,Cameron Norrie,+155
+5,atp11,Alexander Zverev,-200,Felix Auger-Aliassime,+155
+6,atp13,Diego Schwartzman,-625,Taylor Fritz,+400
+7,atp15,Grigor Dimitrov,-143,Jan-Lennard Struff,+110
+8,atp17,Rafael Nadal,-1667,Roberto Bautista-Agut,+750
+9,atp19,Dusan Lajovic,,David Goffin,
+10,atp21,Dominic Thiem,,Martin Klizan,
