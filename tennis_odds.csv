@@ -1,12 +1,9 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Kei Nishikori,-500,Pierre-Hugues Herbert,+350
-1,atp3,Stefanos Tsitsipas,,Mikhail Kukushkin,
-2,atp5,Daniil Medvedev,,Radu Albot,
-3,atp7,Gilles Simon,-114,Fabio Fognini,-114
-4,atp9,Marton Fucsovics,-200,Cameron Norrie,+155
-5,atp11,Alexander Zverev,-200,Felix Auger-Aliassime,+155
-6,atp13,Diego Schwartzman,-625,Taylor Fritz,+400
-7,atp15,Grigor Dimitrov,-143,Jan-Lennard Struff,+110
-8,atp17,Rafael Nadal,-1667,Roberto Bautista-Agut,+750
-9,atp19,Dusan Lajovic,,David Goffin,
-10,atp21,Dominic Thiem,,Martin Klizan,
+0,atp1,Stefanos Tsitsipas,-125,Daniil Medvedev,+100
+1,atp3,Marco Cecchinato,-154,Guido Pella,+120
+2,atp5,Novak Djokovic,-1429,Taylor Fritz,+700
+3,atp7,Lorenzo Sonego,-175,Cameron Norrie,+135
+4,atp9,Rafael Nadal,-5000,Grigor Dimitrov,+1200
+5,atp11,Dominic Thiem,,Dusan Lajovic,
+6,atp13,Alexander Zverev,-400,Fabio Fognini,+280
+7,atp15,Borna Coric,,Pierre-Hugues Herbert,
