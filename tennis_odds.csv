@@ -1,9 +1,5 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Stefanos Tsitsipas,-125,Daniil Medvedev,+100
-1,atp3,Marco Cecchinato,-154,Guido Pella,+120
-2,atp5,Novak Djokovic,-1429,Taylor Fritz,+700
-3,atp7,Lorenzo Sonego,-175,Cameron Norrie,+135
-4,atp9,Rafael Nadal,-5000,Grigor Dimitrov,+1200
-5,atp11,Dominic Thiem,,Dusan Lajovic,
-6,atp13,Alexander Zverev,-400,Fabio Fognini,+280
-7,atp15,Borna Coric,,Pierre-Hugues Herbert,
+0,atp1,Dusan Lajovic,-145,Lorenzo Sonego,+115
+1,atp3,Novak Djokovic,-450,Daniil Medvedev,+320
+2,atp5,Rafael Nadal,-5000,Guido Pella,+1400
+3,atp7,Borna Coric,-140,Fabio Fognini,+110
