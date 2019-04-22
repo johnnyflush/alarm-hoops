@@ -1,18 +1,35 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Matteo Berrettini,-160,Mikhail Kukushkin,+125
-1,atp4,Marton Fucsovics,,Denis Kudla,
-2,atp6,Leonardo Mayer,,Marius Copil,
-3,atp8,Mackenzie McDonald,,Taro Daniel,
-4,atp10,Jaume Munar,,Pedro Sousa,
-5,atp13,Aljaz Bedene,-270,Bernard Tomic,+205
-6,atp16,Reilly Opelka,,Taylor Fritz,
-7,atp18,Jan-Lennard Struff,,Hugo Dellien,
-8,atp20,Feliciano Lopez,,Fernando Verdasco,
-9,atp23,Filip Krajinovic,-270,Andreas Seppi,+205
-10,atp26,Marcel Granollers,,Nicolas Jarry,
-11,atp29,Radu Albot,-240,Adrian Mannarino,+180
-12,atp32,Yoshihito Nishioka,,Diego Schwartzman,
-13,atp34,Benoit Paire,,Juan Ignacio Londero,
-14,wta1,Pemra Ozgen,,Rebecca Peterson,
-15,wta3,Margarita Gasparyan,,Johanna Larsson,
-16,wta5,Tamara Zidansek,,Petra Martic,
+0,atp1,Nicola Kuhn,,Federico Del Bonis,
+1,atp3,Kei Nishikori,-270,Taylor Fritz,+205
+2,atp6,John Millman,,Miomir Kecmanovic,
+3,atp8,Peter Gojowczyk,,Lloyd Harris,
+4,atp10,Damir Dzumhur,,Pierre-Hugues Herbert,
+5,atp13,Guido Andreozzi,-220,Malek Jaziri,+170
+6,atp15,David Ferrer,,Mischa Zverev,
+7,atp17,Albert Ramos,-195,Cameron Norrie,+155
+8,atp20,Hubert Hurkacz,,Attila Balazs,
+9,atp22,Thomas Fabbiano,,Robin Haase,
+10,atp25,Martin Klizan,,Christian Garin,
+11,atp27,Alexander Zverev,-600,Nicolas Jarry,+400
+12,atp30,Ernests Gulbis,,Laslo Djere,
+13,atp33,Joao Sousa,,Guido Pella,
+14,atp35,Jaume Munar,-230,Francis Tiafoe,+175
+15,atp38,Mate Valkusz,,Dusan Lajovic,
+16,atp41,Dominic Thiem,,Diego Schwartzman,
+17,atp43,David Goffin,-200,Jan-Lennard Struff,+160
+18,atp45,Stefanos Tsitsipas,-260,Marton Fucsovics,+200
+19,wta1,Katerina Siniakova,,Elena Rybakina,
+20,wta3,Sorana Cirstea,-240,Irina Maria Bara,+180
+21,wta6,Elise Mertens,-240,Darya Kasatkina,+180
+22,wta9,Julia Glushko,,Mihaela Buzarnescu,
+23,wta11,Ivana Jorovic,-200,Timea Babos,+160
+24,wta14,Jelena Ostapenko,,Anastasija Sevastova,
+25,wta17,Carla Suarez Navarro,-310,Lara Arruabarrena-Vecino,+230
+26,wta19,Barbora Zahlavova Strycova,-115,Viktoria Kuzmova,-115
+27,wta22,Andrea Petkovic,-130,Sara Sorribes Tormo,+100
+28,wta25,Cagla Buyukakcay,,Svetlana Kuznetsova,
+29,wta27,Maria Sakkari,-150,Veronika Kudermetova,+120
+30,wta30,Dominika Cibulkova,-270,Greet Minnen,+205
+31,wta33,Pauline Parmentier,-220,Evgeniya Rodina,+170
+32,wta36,Laura Siegemund,-170,Lesia Tsurenko,+133
+33,wta38,Kiki Bertens,-650,Anna-Lena Friedsam,+425
