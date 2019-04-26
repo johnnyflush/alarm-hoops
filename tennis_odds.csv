@@ -1,29 +1,13 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Filip Krajinovic,-300,Radu Albot,+225
-1,atp4,Kei Nishikori,-165,Felix Auger-Aliassime,+130
-2,atp6,Daniil Medvedev,-600,Mackenzie McDonald,+400
-3,atp8,Dominic Thiem,-350,Jaume Munar,+250
-4,atp11,Borna Coric,-290,Robin Haase,+220
-5,atp13,Matteo Berrettini,-145,Aljaz Bedene,+115
-6,atp15,Marin Cilic,-165,Pablo Cuevas,+130
-7,atp18,Grigor Dimitrov,-230,Nicolas Jarry,+175
-8,atp20,Rafael Nadal,,David Ferrer,
-9,atp23,Nikoloz Basilashvili,-210,Peter Gojowczyk,+165
-10,atp26,Christian Garin,,Roberto Carballes Baena,
-11,atp29,Laslo Djere,-470,Jannik Sinner,+330
-12,atp32,Stefanos Tsitsipas,-370,Jan-Lennard Struff,+265
-13,atp34,Guido Pella,-135,Benoit Paire,+105
-14,wta1,Marketa Vondrousova,-270,Svetlana Kuznetsova,+205
-15,wta4,Anastasija Sevastova,,Laura Siegemund,
-16,wta7,Petra Martic,-400,Ana Bogdan,+285
-17,wta10,Naomi Osaka,-180,Su-Wei Hsieh,+140
-18,wta12,Darya Kasatkina,-115,Donna Vekic,-115
-19,wta14,Kiki Bertens,-230,Belinda Bencic,+175
-20,wta16,Anastasia Pavlyuchenkova,,Anett Kontaveit,
-21,wta19,Kateryna Kozlova,-120,Kristina Mladenovic,-110
-22,wta21,Veronika Kudermetova,-230,Timea Babos,+175
-23,wta24,Angelique Kerber,-230,Andrea Petkovic,+175
-24,wta26,Karolina Pliskova,-160,Victoria Azarenka,+125
-25,wta29,Elena Rybakina,,Barbora Zahlavova Strycova,
-26,wta31,Lara Arruabarrena-Vecino,,Marketa Vondrousova,
-27,wta33,Petra Martic,,Kristina Mladenovic,
+0,atp1,Kei Nishikori,-120,Daniil Medvedev,-110
+1,atp4,Filip Krajinovic,-230,Pierre-Hugues Herbert,+175
+2,atp6,Laslo Djere,,Matteo Berrettini,
+3,atp9,Dominic Thiem,,Rafael Nadal,
+4,wta1,Barbora Zahlavova Strycova,-125,Elena Rybakina,-111
+5,wta3,Marketa Vondrousova,-480,Lara Arruabarrena-Vecino,+335
+6,wta6,Petra Kvitova,-240,Anastasija Sevastova,+180
+7,wta8,Naomi Osaka,-150,Donna Vekic,+120
+8,wta11,Petra Martic,-145,Kristina Mladenovic,+115
+9,wta13,Veronika Kudermetova,-130,Margarita Gasparyan,+100
+10,wta16,Angelique Kerber,,Kiki Bertens,
+11,wta18,Anett Kontaveit,,Victoria Azarenka,
