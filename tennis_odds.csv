@@ -1,13 +1,9 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Kei Nishikori,-120,Daniil Medvedev,-110
-1,atp4,Filip Krajinovic,-230,Pierre-Hugues Herbert,+175
-2,atp6,Laslo Djere,,Matteo Berrettini,
-3,atp9,Dominic Thiem,,Rafael Nadal,
-4,wta1,Barbora Zahlavova Strycova,-125,Elena Rybakina,-111
-5,wta3,Marketa Vondrousova,-480,Lara Arruabarrena-Vecino,+335
-6,wta6,Petra Kvitova,-240,Anastasija Sevastova,+180
-7,wta8,Naomi Osaka,-150,Donna Vekic,+120
-8,wta11,Petra Martic,-145,Kristina Mladenovic,+115
-9,wta13,Veronika Kudermetova,-130,Margarita Gasparyan,+100
-10,wta16,Angelique Kerber,,Kiki Bertens,
-11,wta18,Anett Kontaveit,,Victoria Azarenka,
+0,atp1,Filip Krajinovic,-140,Matteo Berrettini,+110
+1,atp4,Dominic Thiem,-280,Daniil Medvedev,+210
+2,wta1,Marketa Vondrousova,-500,Barbora Zahlavova Strycova,+350
+3,wta4,Petra Kvitova,,Kiki Bertens,
+4,wta7,Petra Martic,,Margarita Gasparyan,
+5,wta10,Anett Kontaveit,,Naomi Osaka,
+6,wta13,Anett Kontaveit,,Petra Kvitova,
+7,wta16,Marketa Vondrousova,,Petra Martic,
