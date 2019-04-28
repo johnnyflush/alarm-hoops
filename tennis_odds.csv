@@ -1,9 +1,21 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Filip Krajinovic,-140,Matteo Berrettini,+110
-1,atp4,Dominic Thiem,-280,Daniil Medvedev,+210
-2,wta1,Marketa Vondrousova,-500,Barbora Zahlavova Strycova,+350
-3,wta4,Petra Kvitova,,Kiki Bertens,
-4,wta7,Petra Martic,,Margarita Gasparyan,
-5,wta10,Anett Kontaveit,,Naomi Osaka,
-6,wta13,Anett Kontaveit,,Petra Kvitova,
-7,wta16,Marketa Vondrousova,,Petra Martic,
+0,atp1,Taro Daniel,,Ugo Humbert,
+1,atp4,Hugo Dellien,,Guido Andreozzi,
+2,atp7,Lorenzo Sonego,,Marton Fucsovics,
+3,atp10,Yoshihito Nishioka,,Mackenzie McDonald,
+4,atp13,Thiago Monteiro,,Jan-Lennard Struff,
+5,atp16,Pedro Sousa,,Reilly Opelka,
+6,atp19,Ernests Gulbis,,Martin Klizan,
+7,atp22,Joao Domingues,,Alex De Minaur,
+8,wta1,Viktoria Kuzmova,-230,Anna Schmiedlova,+175
+9,wta3,Danielle Collins,-145,Jennifer Brady,+115
+10,wta6,Tamara Zidansek,,Yulia Putintseva,
+11,wta9,Katerina Siniakova,-320,Dalila Jakupovic,+235
+12,wta11,Jana Cepelova,,Stefanie Voegele,
+13,wta14,Tatjana Malek,,Isabella Shinikova,
+14,wta16,Viktorija Golubic,,Rebecca Peterson,
+15,wta19,Natalia Vikhlyantseva,-120,Kristyna Pliskova,-110
+16,wta21,Jessica Pegula,,Andrea Petkovic,
+17,wta24,Pauline Parmentier,,Alison Van Uytvanck,
+18,wta26,Magda Linette,,Ivana Jorovic,
+19,wta28,Ana Bogdan,,Alize Cornet,
