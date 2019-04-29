@@ -1,21 +1,39 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Taro Daniel,,Ugo Humbert,
-1,atp4,Hugo Dellien,,Guido Andreozzi,
-2,atp7,Lorenzo Sonego,,Marton Fucsovics,
-3,atp10,Yoshihito Nishioka,,Mackenzie McDonald,
-4,atp13,Thiago Monteiro,,Jan-Lennard Struff,
-5,atp16,Pedro Sousa,,Reilly Opelka,
-6,atp19,Ernests Gulbis,,Martin Klizan,
-7,atp22,Joao Domingues,,Alex De Minaur,
-8,wta1,Viktoria Kuzmova,-230,Anna Schmiedlova,+175
-9,wta3,Danielle Collins,-145,Jennifer Brady,+115
-10,wta6,Tamara Zidansek,,Yulia Putintseva,
-11,wta9,Katerina Siniakova,-320,Dalila Jakupovic,+235
-12,wta11,Jana Cepelova,,Stefanie Voegele,
-13,wta14,Tatjana Malek,,Isabella Shinikova,
-14,wta16,Viktorija Golubic,,Rebecca Peterson,
-15,wta19,Natalia Vikhlyantseva,-120,Kristyna Pliskova,-110
-16,wta21,Jessica Pegula,,Andrea Petkovic,
-17,wta24,Pauline Parmentier,,Alison Van Uytvanck,
-18,wta26,Magda Linette,,Ivana Jorovic,
-19,wta28,Ana Bogdan,,Alize Cornet,
+0,atp1,Benoit Paire,,Diego Schwartzman,
+1,atp3,Maximilian Marterer,,Juan Ignacio Londero,
+2,atp5,Jan-Lennard Struff,-330,Thiago Monteiro,+240
+3,atp7,Martin Klizan,-195,Ernests Gulbis,+155
+4,atp10,Nicolas Jarry,,Malek Jaziri,
+5,atp12,Alejandro Davidovich Fokina,,Taylor Fritz,
+6,atp15,Christian Garin,,Yannick Maden,
+7,atp18,Jeremy Chardy,,Pablo Carreno-Busta,
+8,atp20,Pablo Cuevas,-300,Salvatore Caruso,+225
+9,atp22,Bernard Tomic,,John Millman,
+10,atp25,Andreas Seppi,,Philipp Kohlschreiber,
+11,atp27,Mischa Zverev,,Guido Pella,
+12,atp29,Matteo Berrettini,-280,Denis Istomin,+210
+13,atp32,Joao Sousa,-175,Alexei Popyrin,+135
+14,atp34,Dusan Lajovic,,Leonardo Mayer,
+15,atp37,Denis Kudla,,Kyle Edmund,
+16,atp39,Rudolf Molleker,,Marius Copil,
+17,atp42,Mikhail Kukushkin,,Francis Tiafoe,
+18,wta1,Viktoria Kuzmova,-240,Anna Schmiedlova,+180
+19,wta3,Stefanie Voegele,-450,Jana Cepelova,+320
+20,wta5,Margarita Gasparyan,,Qiang Wang,
+21,wta7,Katerina Siniakova,-330,Dalila Jakupovic,+240
+22,wta9,Andrea Petkovic,-160,Jessica Pegula,+125
+23,wta12,Su-Wei Hsieh,,Daria Gavrilova,
+24,wta14,Petra Martic,,Polona Hercog,
+25,wta16,Maria Sakkari,,Olga Danilovic,
+26,wta19,Danielle Collins,-160,Jennifer Brady,+125
+27,wta21,Anastasija Sevastova,-490,Anastasia Potapova,+340
+28,wta23,Barbora Zahlavova Strycova,-210,Mona Barthel,+165
+29,wta26,Timea Bacsinszky,,Johanna Larsson,
+30,wta28,Vera Zvonareva,,Lara Arruabarrena-Vecino,
+31,wta30,Varvara Lepchenko,,Sara Sorribes Tormo,
+32,wta33,Mihaela Buzarnescu,-130,Svetlana Kuznetsova,+100
+33,wta36,Yafan Wang,,Johanna Konta,
+34,wta38,Fiona Ferro,,Ajla Tomljanovic,
+35,wta40,Magdalena Rybarikova,,Ysaline Bonaventure,
+36,wta43,Natalia Vikhlyantseva,,Kristyna Pliskova,
+37,wta46,Kirsten Flipkens,,Elise Mertens,
