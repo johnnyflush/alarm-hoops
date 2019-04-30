@@ -1,39 +1,25 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Benoit Paire,,Diego Schwartzman,
-1,atp3,Maximilian Marterer,,Juan Ignacio Londero,
-2,atp5,Jan-Lennard Struff,-330,Thiago Monteiro,+240
-3,atp7,Martin Klizan,-195,Ernests Gulbis,+155
-4,atp10,Nicolas Jarry,,Malek Jaziri,
-5,atp12,Alejandro Davidovich Fokina,,Taylor Fritz,
-6,atp15,Christian Garin,,Yannick Maden,
-7,atp18,Jeremy Chardy,,Pablo Carreno-Busta,
-8,atp20,Pablo Cuevas,-300,Salvatore Caruso,+225
-9,atp22,Bernard Tomic,,John Millman,
-10,atp25,Andreas Seppi,,Philipp Kohlschreiber,
-11,atp27,Mischa Zverev,,Guido Pella,
-12,atp29,Matteo Berrettini,-280,Denis Istomin,+210
-13,atp32,Joao Sousa,-175,Alexei Popyrin,+135
-14,atp34,Dusan Lajovic,,Leonardo Mayer,
-15,atp37,Denis Kudla,,Kyle Edmund,
-16,atp39,Rudolf Molleker,,Marius Copil,
-17,atp42,Mikhail Kukushkin,,Francis Tiafoe,
-18,wta1,Viktoria Kuzmova,-240,Anna Schmiedlova,+180
-19,wta3,Stefanie Voegele,-450,Jana Cepelova,+320
-20,wta5,Margarita Gasparyan,,Qiang Wang,
-21,wta7,Katerina Siniakova,-330,Dalila Jakupovic,+240
-22,wta9,Andrea Petkovic,-160,Jessica Pegula,+125
-23,wta12,Su-Wei Hsieh,,Daria Gavrilova,
-24,wta14,Petra Martic,,Polona Hercog,
-25,wta16,Maria Sakkari,,Olga Danilovic,
-26,wta19,Danielle Collins,-160,Jennifer Brady,+125
-27,wta21,Anastasija Sevastova,-490,Anastasia Potapova,+340
-28,wta23,Barbora Zahlavova Strycova,-210,Mona Barthel,+165
-29,wta26,Timea Bacsinszky,,Johanna Larsson,
-30,wta28,Vera Zvonareva,,Lara Arruabarrena-Vecino,
-31,wta30,Varvara Lepchenko,,Sara Sorribes Tormo,
-32,wta33,Mihaela Buzarnescu,-130,Svetlana Kuznetsova,+100
-33,wta36,Yafan Wang,,Johanna Konta,
-34,wta38,Fiona Ferro,,Ajla Tomljanovic,
-35,wta40,Magdalena Rybarikova,,Ysaline Bonaventure,
-36,wta43,Natalia Vikhlyantseva,,Kristyna Pliskova,
-37,wta46,Kirsten Flipkens,,Elise Mertens,
+0,atp1,Diego Schwartzman,-125,Christian Garin,-105
+1,atp3,Alexander Zverev,-450,Juan Ignacio Londero,+320
+2,atp6,John Millman,-210,Joao Domingues,+165
+3,atp9,Marco Cecchinato,-175,Martin Klizan,+135
+4,atp12,Gael Monfils,-170,Reilly Opelka,+133
+5,atp15,Marton Fucsovics,-145,Thiago Monteiro,+115
+6,atp18,Guido Andreozzi,,Stefanos Tsitsipas,
+7,atp20,Jeremy Chardy,,Alejandro Davidovich Fokina,
+8,wta1,Anna Schmiedlova,-175,Tamara Korpatsch,+135
+9,wta3,Qiang Wang,-195,Mandy Minella,+155
+10,wta5,Antonia Lottner,,Bernarda Pera,
+11,wta8,Lara Arruabarrena-Vecino,,Su-Wei Hsieh,
+12,wta10,Alison Van Uytvanck,-130,Varvara Lepchenko,+100
+13,wta13,Svetlana Kuznetsova,,Jill Belen Teichmann,
+14,wta16,Tamara Zidansek,,Ysaline Bonaventure,
+15,wta18,Maria Sakkari,-450,Isabella Shinikova,+320
+16,wta20,Ana Bogdan,,Johanna Konta,
+17,wta23,Jennifer Brady,,Karolina Muchova,
+18,wta25,Natalia Vikhlyantseva,,Anastasia Potapova,
+19,wta28,Ajla Tomljanovic,,Timea Bacsinszky,
+20,wta30,Polona Hercog,-130,Rebecca Peterson,+100
+21,wta33,Katerina Siniakova,-480,Jana Cepelova,+335
+22,wta36,Elise Mertens,,Ivana Jorovic,
+23,wta39,Barbora Zahlavova Strycova,,Jessica Pegula,
