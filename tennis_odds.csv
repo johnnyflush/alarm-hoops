@@ -1,25 +1,25 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Diego Schwartzman,-125,Christian Garin,-105
-1,atp3,Alexander Zverev,-450,Juan Ignacio Londero,+320
-2,atp6,John Millman,-210,Joao Domingues,+165
-3,atp9,Marco Cecchinato,-175,Martin Klizan,+135
-4,atp12,Gael Monfils,-170,Reilly Opelka,+133
-5,atp15,Marton Fucsovics,-145,Thiago Monteiro,+115
-6,atp18,Guido Andreozzi,,Stefanos Tsitsipas,
-7,atp20,Jeremy Chardy,,Alejandro Davidovich Fokina,
-8,wta1,Anna Schmiedlova,-175,Tamara Korpatsch,+135
-9,wta3,Qiang Wang,-195,Mandy Minella,+155
-10,wta5,Antonia Lottner,,Bernarda Pera,
-11,wta8,Lara Arruabarrena-Vecino,,Su-Wei Hsieh,
-12,wta10,Alison Van Uytvanck,-130,Varvara Lepchenko,+100
-13,wta13,Svetlana Kuznetsova,,Jill Belen Teichmann,
-14,wta16,Tamara Zidansek,,Ysaline Bonaventure,
-15,wta18,Maria Sakkari,-450,Isabella Shinikova,+320
-16,wta20,Ana Bogdan,,Johanna Konta,
-17,wta23,Jennifer Brady,,Karolina Muchova,
-18,wta25,Natalia Vikhlyantseva,,Anastasia Potapova,
-19,wta28,Ajla Tomljanovic,,Timea Bacsinszky,
-20,wta30,Polona Hercog,-130,Rebecca Peterson,+100
-21,wta33,Katerina Siniakova,-480,Jana Cepelova,+335
-22,wta36,Elise Mertens,,Ivana Jorovic,
-23,wta39,Barbora Zahlavova Strycova,,Jessica Pegula,
+0,atp1,Diego Schwartzman,-130,Christian Garin,+100
+1,atp3,Alexander Zverev,-550,Juan Ignacio Londero,+370
+2,atp6,John Millman,-190,Joao Domingues,+150
+3,atp9,Marco Cecchinato,-145,Martin Klizan,+115
+4,atp12,Gael Monfils,-210,Reilly Opelka,+165
+5,atp15,Marton Fucsovics,-165,Thiago Monteiro,+130
+6,atp18,Stefanos Tsitsipas,-600,Guido Andreozzi,+400
+7,atp20,Jeremy Chardy,-130,Alejandro Davidovich Fokina,+100
+8,atp23,Guido Pella,-575,Taro Daniel,+385
+9,atp25,Roberto Bautista-Agut,,Rudolf Molleker,
+10,atp27,Karen Khachanov,,Philipp Kohlschreiber,
+11,atp30,Pablo Cuevas,,Filippo Baldi,
+12,atp32,Joao Sousa,,David Goffin,
+13,atp35,Denis Kudla,,Matteo Berrettini,
+14,atp38,Leonardo Mayer,-320,Malek Jaziri,+235
+15,atp40,Yoshihito Nishioka,,Francis Tiafoe,
+16,wta1,Qiang Wang,-190,Bernarda Pera,+150
+17,wta4,Alison Van Uytvanck,-190,Ysaline Bonaventure,+150
+18,wta7,Karolina Muchova,,Natalia Vikhlyantseva,
+19,wta10,Ajla Tomljanovic,-160,Rebecca Peterson,+125
+20,wta13,Katerina Siniakova,,Barbora Zahlavova Strycova,
+21,wta16,Johanna Konta,-140,Su-Wei Hsieh,+110
+22,wta19,Jill Belen Teichmann,-160,Tamara Korpatsch,+125
+23,wta22,Elise Mertens,-260,Maria Sakkari,+200
