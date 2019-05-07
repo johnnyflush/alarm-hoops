@@ -1,27 +1,45 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Reilly Opelka,,Pablo Carreno-Busta,
-1,atp3,Jaume Munar,,Karen Khachanov,
-2,atp5,Nikoloz Basilashvili,-130,Francis Tiafoe,+100
-3,atp7,Dusan Lajovic,-140,Laslo Djere,+110
-4,atp9,Marin Cilic,-190,Martin Klizan,+150
-5,atp11,Grigor Dimitrov,-210,Taylor Fritz,+165
-6,atp13,Philipp Kohlschreiber,-280,Mikhail Kukushkin,+210
-7,atp15,Gael Monfils,-380,Andreas Seppi,+270
-8,atp17,Alejandro Davidovich Fokina,-230,Richard Gasquet,+175
-9,atp19,Fernando Verdasco,-170,Radu Albot,+133
-10,wta1,Kiki Bertens,-400,Jelena Ostapenko,+285
-11,wta3,Anastasija Sevastova,-190,Mihaela Buzarnescu,+150
-12,wta5,Sloane Stephens,-120,Victoria Azarenka,-110
-13,wta7,Petra Kvitova,-500,Kristina Mladenovic,+350
-14,wta9,Yulia Putintseva,-200,Pauline Parmentier,+160
-15,wta11,Ashleigh Barty,-625,Danielle Collins,+415
-16,wta13,Carla Suarez Navarro,-165,Viktoria Kuzmova,+130
-17,wta15,Belinda Bencic,-200,Svetlana Kuznetsova,+160
-18,wta18,Simona Halep,,Johanna Konta,
-19,wta20,Aliaksandra Sasnovich,-135,Anna Schmiedlova,+105
-20,wta22,Sara Sorribes Tormo,,Naomi Osaka,
-21,wta24,Karolina Pliskova,,Kateryna Kozlova,
-22,wta26,Saisai Zheng,,Alize Cornet,
-23,wta28,Caroline Garcia,,Sorana Cirstea,
-24,wta30,Kristyna Pliskova,,Donna Vekic,
-25,wta32,Petra Martic,,Angelique Kerber,
+0,atp1,Stanislas Wawrinka,-220,Pierre-Hugues Herbert,+170
+1,atp3,David Goffin,-170,Marton Fucsovics,+133
+2,atp5,Daniil Medvedev,-175,Guido Pella,+135
+3,atp7,Hubert Hurkacz,-270,Alex De Minaur,+205
+4,atp9,Fabio Fognini,-125,Kyle Edmund,-105
+5,atp11,Diego Schwartzman,-115,Marco Cecchinato,-115
+6,atp13,Gilles Simon,-175,Hugo Dellien,+135
+7,atp15,Joao Sousa,-220,Adrian Mannarino,+170
+8,atp17,Novak Djokovic,,Taylor Fritz,
+9,atp19,Roberto Bautista-Agut,-150,David Ferrer,+120
+10,atp21,Albert Ramos,-220,Jeremy Chardy,+170
+11,atp23,Jan-Lennard Struff,,Marin Cilic,
+12,atp25,Borna Coric,-240,Lucas Pouille,+180
+13,atp27,John Millman,-145,Steve Johnson,+115
+14,atp29,Dominic Thiem,-750,Reilly Opelka,+475
+15,atp31,Roger Federer,-1400,Richard Gasquet,+700
+16,atp34,Kei Nishikori,,Hugo Dellien,
+17,atp36,Philipp Kohlschreiber,-165,Francis Tiafoe,+130
+18,atp38,Gael Monfils,-200,Marton Fucsovics,+160
+19,atp40,Juan Martin del Potro,-125,Laslo Djere,-105
+20,atp42,Stanislas Wawrinka,,Guido Pella,
+21,atp44,Diego Schwartzman,,Jeremy Chardy,
+22,atp46,John Millman,,Fabio Fognini,
+23,atp48,Rafael Nadal,-650,Felix Auger-Aliassime,+425
+24,atp50,Stefanos Tsitsipas,,Adrian Mannarino,
+25,atp52,Lucas Pouille,,Hubert Hurkacz,
+26,atp54,Karen Khachanov,-150,Fernando Verdasco,+120
+27,atp56,David Ferrer,,Alexander Zverev,
+28,wta1,Simona Halep,-450,Johanna Konta,+320
+29,wta3,Aliaksandra Sasnovich,-140,Anna Schmiedlova,+110
+30,wta5,Sara Sorribes Tormo,,Naomi Osaka,
+31,wta7,Karolina Pliskova,-290,Kateryna Kozlova,+220
+32,wta9,Saisai Zheng,-115,Alize Cornet,-115
+33,wta11,Caroline Garcia,-360,Sorana Cirstea,+260
+34,wta13,Donna Vekic,-290,Kristyna Pliskova,+220
+35,wta15,Angelique Kerber,-150,Petra Martic,+120
+36,wta18,Simona Halep,-750,Viktoria Kuzmova,+475
+37,wta20,Kiki Bertens,-290,Anastasija Sevastova,+220
+38,wta22,Naomi Osaka,-300,Aliaksandra Sasnovich,+225
+39,wta24,Ashleigh Barty,-525,Yulia Putintseva,+360
+40,wta26,Belinda Bencic,,Kateryna Kozlova,
+41,wta28,Sloane Stephens,,Saisai Zheng,
+42,wta30,Petra Martic,,Donna Vekic,
+43,wta32,Caroline Garcia,,Petra Kvitova,
