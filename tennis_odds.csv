@@ -1,14 +1,8 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Marin Cilic,-160,Laslo Djere,+125
-1,atp3,Novak Djokovic,-1400,Jeremy Chardy,+700
-2,atp5,Dominic Thiem,-270,Fabio Fognini,+205
-3,atp7,Roger Federer,-340,Gael Monfils,+245
-4,atp9,Stanislas Wawrinka,-150,Kei Nishikori,+120
-5,atp11,Alexander Zverev,-260,Hubert Hurkacz,+200
-6,atp13,Stefanos Tsitsipas,-280,Fernando Verdasco,+210
-7,atp15,Rafael Nadal,-1800,Francis Tiafoe,+850
-8,wta1,Simona Halep,-260,Ashleigh Barty,+200
-9,wta3,Naomi Osaka,-120,Belinda Bencic,-110
-10,wta5,Sloane Stephens,-135,Petra Martic,+105
-11,wta7,Kiki Bertens,,Petra Kvitova,
-12,wta10,Simona Halep,-360,Belinda Bencic,+260
+0,atp1,Novak Djokovic,-600,Marin Cilic,+400
+1,atp3,Dominic Thiem,-220,Roger Federer,+170
+2,atp5,Stefanos Tsitsipas,-145,Alexander Zverev,+115
+3,atp7,Rafael Nadal,-490,Stanislas Wawrinka,+340
+4,wta1,Simona Halep,-290,Belinda Bencic,+220
+5,wta3,Kiki Bertens,-220,Sloane Stephens,+170
+6,wta6,Simona Halep,,Kiki Bertens,
