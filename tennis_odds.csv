@@ -1,8 +1,27 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Novak Djokovic,-600,Marin Cilic,+400
-1,atp3,Dominic Thiem,-220,Roger Federer,+170
-2,atp5,Stefanos Tsitsipas,-145,Alexander Zverev,+115
-3,atp7,Rafael Nadal,-490,Stanislas Wawrinka,+340
-4,wta1,Simona Halep,-290,Belinda Bencic,+220
-5,wta3,Kiki Bertens,-220,Sloane Stephens,+170
-6,wta6,Simona Halep,,Kiki Bertens,
+0,atp1,Stanislas Wawrinka,-190,David Goffin,+150
+1,atp3,Guido Pella,-260,Taylor Fritz,+200
+2,atp5,Benoit Paire,-220,Radu Albot,+170
+3,atp7,Jeremy Chardy,-160,Richard Gasquet,+125
+4,atp9,Daniil Medvedev,-250,Nick Kyrgios,+190
+5,atp11,Diego Schwartzman,-230,Yoshihito Nishioka,+175
+6,atp13,Francis Tiafoe,-220,Joao Sousa,+170
+7,atp15,Roberto Bautista-Agut,-140,Karen Khachanov,+110
+8,atp17,Alexander Zverev,-175,Matteo Berrettini,+135
+9,atp19,Grigor Dimitrov,-140,Jan-Lennard Struff,+110
+10,atp21,Laslo Djere,-180,Nikoloz Basilashvili,+140
+11,atp23,Borna Coric,-400,Cameron Norrie,+285
+12,atp25,Marco Cecchinato,-145,Philipp Kohlschreiber,+115
+13,wta1,Aryna Sabalenka,,Alize Cornet,
+14,wta3,Caroline Wozniacki,-150,Danielle Collins,+120
+15,wta5,Maria Sakkari,-175,Anastasia Pavlyuchenkova,+135
+16,wta7,Darya Kasatkina,-160,Irina-Camelia Begu,+125
+17,wta9,Dayana Yastremska,-130,Carla Suarez Navarro,+100
+18,wta11,Su-Wei Hsieh,-120,Julia Goerges,-110
+19,wta13,Marketa Vondrousova,-380,Barbora Zahlavova Strycova,+270
+20,wta15,Belinda Bencic,-200,Anastasija Sevastova,+160
+21,wta17,Jelena Ostapenko,-170,Mihaela Buzarnescu,+133
+22,wta19,Caroline Garcia,-150,Kristina Mladenovic,+120
+23,wta21,Ashleigh Barty,-400,Viktoria Kuzmova,+285
+24,wta23,Karolina Pliskova,-220,Ajla Tomljanovic,+170
+25,wta25,Victoria Azarenka,-140,Elina Svitolina,+110
