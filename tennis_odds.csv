@@ -1,26 +1,9 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Roger Federer,-1200,Joao Sousa,+650
-1,atp3,Dominic Thiem,-550,Fernando Verdasco,+370
-2,atp5,Diego Schwartzman,-220,Albert Ramos,+170
-3,atp7,Marco Cecchinato,-150,Philipp Kohlschreiber,+120
-4,atp9,Rafael Nadal,-2500,Jeremy Chardy,+1000
-5,atp11,Denis Shapovalov,,Novak Djokovic,
-6,atp13,Marin Cilic,-180,Jan-Lennard Struff,+140
-7,atp15,Fabio Fognini,-350,Radu Albot,+250
-8,atp17,Kei Nishikori,-330,Taylor Fritz,+240
-9,atp19,Stefanos Tsitsipas,-650,Jannik Sinner,+425
-10,atp21,Nick Kyrgios,-150,Casper Ruud,+120
-11,atp23,David Goffin,-175,Juan Martin del Potro,+135
-12,wta1,Venus Williams,,Serena Williams,
-13,wta3,Sloane Stephens,-175,Johanna Konta,+135
-14,wta5,Madison Keys,-280,Sofia Kenin,+210
-15,wta7,Garbine Muguruza Blanco,-230,Danielle Collins,+175
-16,wta9,Belinda Bencic,-145,Kristina Mladenovic,+115
-17,wta11,Kiki Bertens,-550,Amanda Anisimova,+370
-18,wta13,Simona Halep,-320,Marketa Vondrousova,+235
-19,wta15,Alize Cornet,,Carla Suarez Navarro,
-20,wta17,Darya Kasatkina,-145,Katerina Siniakova,+115
-21,wta19,Petra Kvitova,-380,Yulia Putintseva,+270
-22,wta21,Anett Kontaveit,-150,Maria Sakkari,+120
-23,wta23,Naomi Osaka,-290,Dominika Cibulkova,+220
-24,wta25,Julia Goerges,-145,Mihaela Buzarnescu,+115
+0,atp1,Kei Nishikori,-165,Diego Schwartzman,+130
+1,atp3,Rafael Nadal,-2500,Fernando Verdasco,+1000
+2,atp5,Stefanos Tsitsipas,-140,Roger Federer,+110
+3,atp7,Novak Djokovic,-650,Juan Martin del Potro,+425
+4,wta1,Naomi Osaka,-120,Kiki Bertens,-110
+5,wta3,Victoria Azarenka,-160,Karolina Pliskova,+125
+6,wta5,Marketa Vondrousova,-145,Johanna Konta,+115
+7,wta7,Kristina Mladenovic,-125,Maria Sakkari,-105
