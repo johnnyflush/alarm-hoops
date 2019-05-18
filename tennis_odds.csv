@@ -1,9 +1,17 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp1,Kei Nishikori,-165,Diego Schwartzman,+130
-1,atp3,Rafael Nadal,-2500,Fernando Verdasco,+1000
-2,atp5,Stefanos Tsitsipas,-140,Roger Federer,+110
-3,atp7,Novak Djokovic,-650,Juan Martin del Potro,+425
-4,wta1,Naomi Osaka,-120,Kiki Bertens,-110
-5,wta3,Victoria Azarenka,-160,Karolina Pliskova,+125
-6,wta5,Marketa Vondrousova,-145,Johanna Konta,+115
-7,wta7,Kristina Mladenovic,-125,Maria Sakkari,-105
+0,atp1,Rafael Nadal,-420,Stefanos Tsitsipas,+295
+1,atp3,Novak Djokovic,,Diego Schwartzman,
+2,atp6,Yoshihito Nishioka,,Ernests Gulbis,
+3,atp9,Pablo Andujar,,John Millman,
+4,atp12,Mischa Zverev,,Juan Ignacio Londero,
+5,atp15,Dusan Lajovic,,Jo-Wilfried Tsonga,
+6,wta1,Fiona Ferro,-350,Luksika Kumkhum,+250
+7,wta3,Qiang Wang,-140,Jennifer Brady,+110
+8,wta5,Rebecca Peterson,-230,Magda Linette,+175
+9,wta8,Karolina Pliskova,-170,Johanna Konta,+133
+10,wta11,Madison Brengle,-260,Evgeniya Rodina,+200
+11,wta14,Aryna Sabalenka,-525,Lin Zhu,+360
+12,wta16,Harmony Tan,,Saisai Zheng,
+13,wta19,Yulia Putintseva,-380,Dalila Jakupovic,+270
+14,wta21,Sara Sorribes Tormo,-190,Vera Lapko,+150
+15,wta24,Yafan Wang,,Amandine Hesse,
