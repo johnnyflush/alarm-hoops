@@ -1,21 +1,22 @@
-Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
-P,Amanda Anisimova (12451313),Amanda Anisimova,12451313,P,10900,Anisimova@Osorio Serrano 04/12/2019 03:30PM ET,Anisimova,53.15
-P,Sam Querrey (12451299),Sam Querrey,12451299,P,9500,Tipsarevic@Querrey 04/12/2019 02:20PM ET,Querrey,53.11
-P,Jo-Wilfried Tsonga (12451305),Jo-Wilfried Tsonga,12451305,P,9300,Sonego@Tsonga 04/12/2019 11:30AM ET,Tsonga,62.3
-P,Christian Garin (12451298),Christian Garin,12451298,P,9100,Garin@Laaksonen 04/12/2019 01:00PM ET,Garin,47.18
-P,Tamara Zidansek (12451308),Tamara Zidansek,12451308,P,8800,Arruabarrena-Vecino@Zidansek 04/12/2019 12:00PM ET,Zidansek,46.76
-P,Jordan Thompson (12451303),Jordan Thompson,12451303,P,8700,Thompson@Galan 04/12/2019 07:00PM ET,Thompson,52.67
-P,Casper Ruud (12451302),Casper Ruud,12451302,P,8600,Granollers@Ruud 04/12/2019 03:40PM ET,Ruud,54.84
-P,Svetlana Kuznetsova (12451315),Svetlana Kuznetsova,12451315,P,8500,Kuznetsova@Pliskova 04/12/2019 12:00PM ET,Kuznetsova,60.22
-P,Sara Errani (12451311),Sara Errani,12451311,P,8300,Errani@Sharma 04/12/2019 02:15PM ET,Errani,39.56
-P,Beatriz Haddad Maia (12451310),Beatriz Haddad Maia,12451310,P,8200,Sorribes Tormo@Haddad Maia 04/12/2019 01:00PM ET,Haddad Maia,52.79
-P,Astra Sharma (12451312),Astra Sharma,12451312,P,7600,Errani@Sharma 04/12/2019 02:15PM ET,Sharma,48.18
-P,Sara Sorribes Tormo (12451309),Sara Sorribes Tormo,12451309,P,7400,Sorribes Tormo@Haddad Maia 04/12/2019 01:00PM ET,Sorribes Tormo,41.51
-P,Kristyna Pliskova (12451316),Kristyna Pliskova,12451316,P,7300,Kuznetsova@Pliskova 04/12/2019 12:00PM ET,Pliskova,41.83
-P,Daniel Elahi Galan (12451304),Daniel Elahi Galan,12451304,P,7200,Thompson@Galan 04/12/2019 07:00PM ET,Galan,74.82
-P,Marcel Granollers (12451301),Marcel Granollers,12451301,P,7000,Granollers@Ruud 04/12/2019 03:40PM ET,Granollers,39.72
-P,Lara Arruabarrena-Vecino (12451307),Lara Arruabarrena-Vecino,12451307,P,6900,Arruabarrena-Vecino@Zidansek 04/12/2019 12:00PM ET,Arruabarrena-Vecino,32.24
-P,Henri Laaksonen (12451297),Henri Laaksonen,12451297,P,6600,Garin@Laaksonen 04/12/2019 01:00PM ET,Laaksonen,61.49
-P,Lorenzo Sonego (12451306),Lorenzo Sonego,12451306,P,6500,Sonego@Tsonga 04/12/2019 11:30AM ET,Sonego,46.66
-P,Janko Tipsarevic (12451300),Janko Tipsarevic,12451300,P,6300,Tipsarevic@Querrey 04/12/2019 02:20PM ET,Tipsarevic,51.89
-P,Maria Camila Osorio Serrano (12451314),Maria Camila Osorio Serrano,12451314,P,4900,Anisimova@Osorio Serrano 04/12/2019 03:30PM ET,Osorio Serrano,63.98
+Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame,ML,ProbWin,DK_Pts,ProbLose,ActualPoints,Opponent,OpponentPoints,OpponentOdds,LosePoints,ProbPoints,Value
+P,Laslo Djere (12710709),Laslo Djere,12710709,P,7400,Djere@Ramos-Vinolas 05/26/2019 08:15AM ET,Djere,49.01,-145,0.591836735,70,0.408163265,36.35,Ramos-Vinolas,#N/A,0.408163265,20,49.59183673,0.0067016
+P,Elina Svitolina (12710730),Elina Svitolina,12710730,P,8200,Svitolina@Williams 05/26/2019 08:15AM ET,Svitolina,53.47,-223,0.690402477,70,0.309597523,36.35,Williams,#N/A,0.309597523,20,54.52012384,0.006648796
+P,Jessika Ponchet (12710729),Jessika Ponchet,12710729,P,3600,Ponchet@Bencic 05/26/2019 08:15AM ET,Ponchet,11.25,,0.07751938,70,0.92248062,36.35,Bencic,#N/A,0.92248062,20,23.87596899,0.006632214
+P,Leonardo Mayer (12710718),Leonardo Mayer,12710718,P,7600,Mayer@Vesely 05/26/2019 09:30AM ET,Mayer,42.58,-151,0.601593625,70,0.398406375,36.35,Vesely,#N/A,0.398406375,20,50.07968127,0.006589432
+P,Bernarda Pera (12710733),Bernarda Pera,12710733,P,7900,Kozlova@Pera 05/26/2019 08:15AM ET,Pera,46.08,-169,0.628252788,70,0.371747212,36.35,Kozlova,#N/A,0.371747212,20,51.41263941,0.006507929
+P,Polona Hercog (12710739),Polona Hercog,12710739,P,8000,Sasnovich@Hercog 05/26/2019 10:15AM ET,Hercog,39.75,-173,0.633699634,70,0.366300366,36.35,Sasnovich,#N/A,0.366300366,20,51.68498168,0.006460623
+P,Alison van Uytvanck (12710742),Alison van Uytvanck,12710742,P,7800,van Uytvanck@Sorribes Tormo 05/26/2019 10:15AM ET,van Uytvanck,49.04,-152,0.603174603,70,0.396825397,36.35,Sorribes Tormo,#N/A,0.396825397,20,50.15873016,0.006430606
+P,Jennifer Brady (12710740),Jennifer Brady,12710740,P,8400,Jorovic@Brady 05/26/2019 10:15AM ET,Brady,54.32,-212,0.679487179,70,0.320512821,36.35,Jorovic,#N/A,0.320512821,20,53.97435897,0.006425519
+P,Svetlana Kuznetsova (12710726),Svetlana Kuznetsova,12710726,P,8600,Kucova@Kuznetsova 05/26/2019 07:00AM ET,Kuznetsova,47.74,-239,0.705014749,70,0.294985251,36.35,Kucova,#N/A,0.294985251,20,55.25073746,0.006424504
+P,Karolina Pliskova (12710736),Karolina Pliskova,12710736,P,10400,Pliskova@Brengle 05/26/2019 10:15AM ET,Pliskova,64.32,-1280,0.927536232,70,0.072463768,36.35,Brengle,#N/A,0.072463768,20,66.37681159,0.006382386
+P,David Goffin (12710716),David Goffin,12710716,P,10200,Berankis@Goffin 05/26/2019 09:30AM ET,Goffin,46.89,-880,0.897959184,70,0.102040816,36.35,Berankis,#N/A,0.102040816,20,64.89795918,0.006362545
+P,Philipp Kohlschreiber (12710720),Philipp Kohlschreiber,12710720,P,9300,Kohlschreiber@Haase 05/26/2019 09:30AM ET,Kohlschreiber,51.36,-358,0.781659389,70,0.218340611,36.35,Haase,#N/A,0.218340611,20,59.08296943,0.006353007
+P,Diego Schwartzman (12710712),Diego Schwartzman,12710712,P,9000,Schwartzman@Fucsovics 05/26/2019 08:15AM ET,Schwartzman,47.03,-289,0.742930591,70,0.257069409,36.35,Fucsovics,#N/A,0.257069409,20,57.14652956,0.006349614
+P,Hugo Dellien (12710714),Hugo Dellien,12710714,P,9600,Dellien@Gunneswaran 05/26/2019 08:15AM ET,Dellien,44.6,-432,0.812030075,70,0.187969925,36.35,Gunneswaran,#N/A,0.187969925,20,60.60150376,0.006312657
+P,Marketa Vondrousova (12710723),Marketa Vondrousova,12710723,P,10300,Vondrousova@Wang 05/26/2019 07:00AM ET,Vondrousova,59.42,-880,0.897959184,70,0.102040816,36.35,Wang,#N/A,0.102040816,20,64.89795918,0.006300773
+P,Kei Nishikori (12710706),Kei Nishikori,12710706,P,9900,Halys@Nishikori 05/26/2019 07:00AM ET,Nishikori,55.6,-540,0.84375,70,0.15625,36.35,Halys,#N/A,0.15625,20,62.1875,0.006281566
+P,Laura Siegemund (12710725),Laura Siegemund,12710725,P,8800,Zhuk@Siegemund 05/26/2019 07:00AM ET,Siegemund,30.24,-234,0.700598802,70,0.299401198,36.35,Zhuk,#N/A,0.299401198,20,55.02994012,0.006253402
+P,Sloane Stephens (12710744),Sloane Stephens,12710744,P,10500,Doi@Stephens 05/26/2019 10:15AM ET,Stephens,48.06,-1051,0.913119027,70,0.086880973,36.35,Doi,#N/A,0.086880973,20,65.65595135,0.006252948
+P,Roger Federer (12710710),Roger Federer,12710710,P,10100,Federer@Sonego 05/26/2019 08:15AM ET,Federer,69.05,-621,0.861303745,70,0.138696255,36.35,Sonego,#N/A,0.138696255,20,63.06518724,0.006244078
+P,Belinda Bencic (12710728),Belinda Bencic,12710728,P,10700,Ponchet@Bencic 05/26/2019 08:15AM ET,Bencic,54.32,-1190,0.92248062,70,0.07751938,36.35,Ponchet,#N/A,0.07751938,20,66.12403101,0.006179816
+P,Kristina Mladenovic (12710734),Kristina Mladenovic,12710734,P,9800,Mladenovic@Ferro 05/26/2019 09:00AM ET,Mladenovic,48.05,-386,0.794238683,70,0.205761317,36.35,Ferro,#N/A,0.205761317,20,59.71193416,0.006093055
