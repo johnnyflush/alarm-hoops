@@ -1,50 +1,46 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp-stuttgart-germany/0,Felix Auger Aliassime,-161,Ernests Gulbis,+116
-1,atp-stuttgart-germany/1,G. Simon,-152,Peter Gojowczyk,+110
-2,atp-stuttgart-germany/2,N. Kyrgios,-208,Matteo Berrettini,+146
-3,atp-stuttgart-germany/3,G. Monfils,-263,S. Johnson,+180
-4,atp-stuttgart-germany/4,Jo-Wilfried Tsonga,-476,Mischa Zverev,+296
-5,atp-stuttgart-germany/5,P. Kohlschreiber,-769,Miomir Kecmanovic,+416
-6,atp-stuttgart-germany/6,Denis Shapovalov,-137,J-L. Struff,+100
-7,atp-stuttgart-germany/7,Mu00e1rton Fucsovics,-303,J. Munar,+204
-8,wta-nottingham-great-britain/0,Yulia Putintseva,-192,Monica Niculescu,+136
-9,wta-nottingham-great-britain/1,Harriet Dart,-132,Vera Lapko,-105
-10,wta-nottingham-great-britain/2,Jennifer Brady,-213,Shuai Zhang,+149
-11,wta-nottingham-great-britain/3,C. Garcia,-1000,Naiktha Bains,+490
-12,wta-nottingham-great-britain/4,Bernarda Pera,-227,Katie Swan,+159
-13,wta-nottingham-great-britain/5,Donna Vekic,-625,Dalila Jakupovic,+364
-14,wta-nottingham-great-britain/6,Magdalena Rybarikova,-385,Astra Sharma,+251
-15,wta-nottingham-great-britain/7,Maria Sakkari,-200,H. Watson,+142
-16,wta-nottingham-great-britain/8,Dayana Yastremska,-435,Elena Ruse,+279
-17,wta-nottingham-great-britain/9,Viktorija Golubic,-278,Ludmilla Samsonova,+189
-18,wta-nottingham-great-britain/10,S. Rogers,-141,Sara Sorribes Tormo,+102
-19,wta-nottingham-great-britain/11,Evgeniya Rodina,-179,C. Paquet,+128
-20,wta-nottingham-great-britain/12,Kristina Mladenovic,-213,Tatjana Maria,+151
-21,wta-nottingham-great-britain/14,Tara Moore,-217,Maia Lumsden,+155
-22,wta-s-hertogenbosch-netherlands/0,Viktoria Kuzmova,-217,Margarita Gasparyan,+154
-23,wta-s-hertogenbosch-netherlands/1,Elena Rybakina,-154,V. Lepchenko,+111
-24,wta-s-hertogenbosch-netherlands/2,Arantxa Rus,-278,Bibiane Schoofs,+190
-25,wta-s-hertogenbosch-netherlands/3,Priscilla Hon,-139,Paula Badosa Gibert,+101
-26,wta-s-hertogenbosch-netherlands/4,Greet Minnen,-164,Mona Barthel,+118
-27,wta-s-hertogenbosch-netherlands/5,Ons Jabeur,-119,Veronika Kudermetova,-115
-28,wta-s-hertogenbosch-netherlands/6,Amanda Anisimova,-179,Natalia Vikhlyantseva,+127
-29,wta-s-hertogenbosch-netherlands/7,Alison Van Uytvanck,-227,Ysaline Bonaventure,+158
-30,wta-s-hertogenbosch-netherlands/8,Petra Martic,-278,Polona Hercog,+191
-31,wta-s-hertogenbosch-netherlands/9,Aryna Sabalenka,-714,Destanee Ajava,+399
-32,wta-s-hertogenbosch-netherlands/10,Elise Mertens,-286,Ekaterina Alexandrova,+196
-33,wta-s-hertogenbosch-netherlands/11,Alison Riske,-172,Karolina Muchova,+124
-34,wta-s-hertogenbosch-netherlands/12,K. Bertens,-714,J. Larsson,+390
-35,wta-s-hertogenbosch-netherlands/13,Kirsten Flipkens,-123,Aleksandra Krunic,-111
-36,wta-s-hertogenbosch-netherlands/14,L. Tsurenko,-139,Kristyna Pliskova,+101
-37,wta-s-hertogenbosch-netherlands/15,Yafan Wang,-127,Saisai Zheng,-109
-38,atp-s-hertogenbosch-netherlands/0,Taylor Harry Fritz,-476,Jurij Rodionov,+299
-39,atp-s-hertogenbosch-netherlands/1,Christian Garin,-217,Salvatore Caruso,+152
-40,atp-s-hertogenbosch-netherlands/2,R. Haase,-161,"Humbert, Ugo",+116
-41,atp-s-hertogenbosch-netherlands/3,F. Tiafoe,-250,Joao Sousa,+173
-42,atp-s-hertogenbosch-netherlands/4,Jeremy Chardy,-172,A. Seppi,+124
-43,atp-s-hertogenbosch-netherlands/5,R. Gasquet,-233,Aljaz Bedene,+162
-44,atp-s-hertogenbosch-netherlands/6,Adrian Mannarino,-588,T. De Bakker,+337
-45,atp-s-hertogenbosch-netherlands/7,Jordan Thompson,-156,Tommy Paul,+113
-46,atp-s-hertogenbosch-netherlands/8,Pierre-Hugues Herbert,-137,M. Ebden,-101
-47,atp-s-hertogenbosch-netherlands/9,D. Goffin,-357,Alejandro Davidovich Fokina,+238
-48,atp-s-hertogenbosch-netherlands/10,Mikhail Kukushkin,-179,Lorenzo Sonego,+127
+0,atp-stuttgart-germany/0,M. Raonic,-385,Alexei Popyrin,+252
+1,atp-stuttgart-germany/1,L. Pouille,-127,Feliciano Lopez,-109
+2,atp-stuttgart-germany/2,J. Millman,-139,Dustin Brown,+101
+3,atp-stuttgart-germany/3,Felix Auger Aliassime,-159,Ernests Gulbis,+115
+4,atp-stuttgart-germany/4,Denis Kudla,-435,Viktor Galovic,+271
+5,atp-stuttgart-germany/5,G. Simon,-137,Peter Gojowczyk,-101
+6,atp-stuttgart-germany/6,N. Kyrgios,-256,Matteo Berrettini,+178
+7,atp-stuttgart-germany/7,G. Monfils,-278,S. Johnson,+191
+8,wta-nottingham-great-britain/0,Harriet Dart,-135,Vera Lapko,-103
+9,wta-nottingham-great-britain/1,Donna Vekic,-769,Dalila Jakupovic,+410
+10,wta-nottingham-great-britain/2,Ajla Tomljanovic,-625,D.Lao,+367
+11,wta-nottingham-great-britain/3,Tara Moore,-222,Maia Lumsden,+156
+12,wta-nottingham-great-britain/4,Dayana Yastremska,-417,Elena Ruse,+270
+13,wta-nottingham-great-britain/5,Viktorija Golubic,-256,Ludmilla Samsonova,+178
+14,wta-nottingham-great-britain/6,C. Garcia,-1667,Naiktha Bains,+632
+15,wta-nottingham-great-britain/7,Bernarda Pera,-204,Katie Swan,+145
+16,wta-nottingham-great-britain/8,Jennifer Brady,-217,Shuai Zhang,+155
+17,wta-nottingham-great-britain/9,Evgeniya Rodina,-164,C. Paquet,+118
+18,wta-nottingham-great-britain/10,Maria Sakkari,-204,H. Watson,+144
+19,wta-nottingham-great-britain/11,Ivana Jorovic,-244,Ellen Perez,+171
+20,wta-nottingham-great-britain/12,Tatjana Maria,-208,Monica Niculescu,+147
+21,wta-nottingham-great-britain/13,Magdalena Rybarikova,-385,Astra Sharma,+251
+22,wta-nottingham-great-britain/14,S. Rogers,-128,Sara Sorribes Tormo,-108
+23,wta-nottingham-great-britain/15,Kristina Mladenovic,-303,Magdalena Frech,+206
+24,wta-s-hertogenbosch-netherlands/0,Yafan Wang,-135,Saisai Zheng,-103
+25,wta-s-hertogenbosch-netherlands/1,Alison Van Uytvanck,-204,Yafan Wang,+145
+26,wta-s-hertogenbosch-netherlands/2,Kirsten Flipkens,-149,Aleksandra Krunic,+108
+27,wta-s-hertogenbosch-netherlands/3,L. Tsurenko,-149,Kristyna Pliskova,+108
+28,wta-s-hertogenbosch-netherlands/4,Aryna Sabalenka,-833,Destanee Ajava,+440
+29,wta-s-hertogenbosch-netherlands/5,Alison Riske,-182,Karolina Muchova,+130
+30,wta-s-hertogenbosch-netherlands/6,Christina Mchale,-130,Polona Hercog,-106
+31,wta-s-hertogenbosch-netherlands/7,Ysaline Bonaventure,-204,Fiona Ferro,+144
+32,wta-s-hertogenbosch-netherlands/8,K. Bertens,-714,J. Larsson,+400
+33,wta-s-hertogenbosch-netherlands/9,Elise Mertens,-286,Ekaterina Alexandrova,+194
+34,wta-s-hertogenbosch-netherlands/10,Amanda Anisimova,-169,Natalia Vikhlyantseva,+121
+35,wta-s-hertogenbosch-netherlands/11,Margarita Gasparyan,-118,Greet Minnen,-118
+36,atp-s-hertogenbosch-netherlands/0,R. Gasquet,-286,Aljaz Bedene,+194
+37,atp-s-hertogenbosch-netherlands/1,A. Seppi,-233,Thomas Fabbiano,+162
+38,atp-s-hertogenbosch-netherlands/2,D. Goffin,-323,Alejandro Davidovich Fokina,+214
+39,atp-s-hertogenbosch-netherlands/3,Adrian Mannarino,-588,T. De Bakker,+337
+40,atp-s-hertogenbosch-netherlands/4,M. Ebden,-139,Pierre-Hugues Herbert,+100
+41,atp-s-hertogenbosch-netherlands/5,Mikhail Kukushkin,-152,Lorenzo Sonego,+109
+42,atp-s-hertogenbosch-netherlands/6,Borna Coric,-179,Taylor Harry Fritz,+128
+43,atp-s-hertogenbosch-netherlands/7,Christian Garin,-156,R. Haase,+113
+44,atp-s-hertogenbosch-netherlands/8,F. Tiafoe,-185,Jordan Thompson,+133
