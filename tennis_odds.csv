@@ -1,46 +1,23 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp-stuttgart-germany/0,M. Raonic,-385,Alexei Popyrin,+252
-1,atp-stuttgart-germany/1,L. Pouille,-127,Feliciano Lopez,-109
-2,atp-stuttgart-germany/2,J. Millman,-139,Dustin Brown,+101
-3,atp-stuttgart-germany/3,Felix Auger Aliassime,-159,Ernests Gulbis,+115
-4,atp-stuttgart-germany/4,Denis Kudla,-435,Viktor Galovic,+271
-5,atp-stuttgart-germany/5,G. Simon,-137,Peter Gojowczyk,-101
-6,atp-stuttgart-germany/6,N. Kyrgios,-256,Matteo Berrettini,+178
-7,atp-stuttgart-germany/7,G. Monfils,-278,S. Johnson,+191
-8,wta-nottingham-great-britain/0,Harriet Dart,-135,Vera Lapko,-103
-9,wta-nottingham-great-britain/1,Donna Vekic,-769,Dalila Jakupovic,+410
-10,wta-nottingham-great-britain/2,Ajla Tomljanovic,-625,D.Lao,+367
-11,wta-nottingham-great-britain/3,Tara Moore,-222,Maia Lumsden,+156
-12,wta-nottingham-great-britain/4,Dayana Yastremska,-417,Elena Ruse,+270
-13,wta-nottingham-great-britain/5,Viktorija Golubic,-256,Ludmilla Samsonova,+178
-14,wta-nottingham-great-britain/6,C. Garcia,-1667,Naiktha Bains,+632
-15,wta-nottingham-great-britain/7,Bernarda Pera,-204,Katie Swan,+145
-16,wta-nottingham-great-britain/8,Jennifer Brady,-217,Shuai Zhang,+155
-17,wta-nottingham-great-britain/9,Evgeniya Rodina,-164,C. Paquet,+118
-18,wta-nottingham-great-britain/10,Maria Sakkari,-204,H. Watson,+144
-19,wta-nottingham-great-britain/11,Ivana Jorovic,-244,Ellen Perez,+171
-20,wta-nottingham-great-britain/12,Tatjana Maria,-208,Monica Niculescu,+147
-21,wta-nottingham-great-britain/13,Magdalena Rybarikova,-385,Astra Sharma,+251
-22,wta-nottingham-great-britain/14,S. Rogers,-128,Sara Sorribes Tormo,-108
-23,wta-nottingham-great-britain/15,Kristina Mladenovic,-303,Magdalena Frech,+206
-24,wta-s-hertogenbosch-netherlands/0,Yafan Wang,-135,Saisai Zheng,-103
-25,wta-s-hertogenbosch-netherlands/1,Alison Van Uytvanck,-204,Yafan Wang,+145
-26,wta-s-hertogenbosch-netherlands/2,Kirsten Flipkens,-149,Aleksandra Krunic,+108
-27,wta-s-hertogenbosch-netherlands/3,L. Tsurenko,-149,Kristyna Pliskova,+108
-28,wta-s-hertogenbosch-netherlands/4,Aryna Sabalenka,-833,Destanee Ajava,+440
-29,wta-s-hertogenbosch-netherlands/5,Alison Riske,-182,Karolina Muchova,+130
-30,wta-s-hertogenbosch-netherlands/6,Christina Mchale,-130,Polona Hercog,-106
-31,wta-s-hertogenbosch-netherlands/7,Ysaline Bonaventure,-204,Fiona Ferro,+144
-32,wta-s-hertogenbosch-netherlands/8,K. Bertens,-714,J. Larsson,+400
-33,wta-s-hertogenbosch-netherlands/9,Elise Mertens,-286,Ekaterina Alexandrova,+194
-34,wta-s-hertogenbosch-netherlands/10,Amanda Anisimova,-169,Natalia Vikhlyantseva,+121
-35,wta-s-hertogenbosch-netherlands/11,Margarita Gasparyan,-118,Greet Minnen,-118
-36,atp-s-hertogenbosch-netherlands/0,R. Gasquet,-286,Aljaz Bedene,+194
-37,atp-s-hertogenbosch-netherlands/1,A. Seppi,-233,Thomas Fabbiano,+162
-38,atp-s-hertogenbosch-netherlands/2,D. Goffin,-323,Alejandro Davidovich Fokina,+214
-39,atp-s-hertogenbosch-netherlands/3,Adrian Mannarino,-588,T. De Bakker,+337
-40,atp-s-hertogenbosch-netherlands/4,M. Ebden,-139,Pierre-Hugues Herbert,+100
-41,atp-s-hertogenbosch-netherlands/5,Mikhail Kukushkin,-152,Lorenzo Sonego,+109
-42,atp-s-hertogenbosch-netherlands/6,Borna Coric,-179,Taylor Harry Fritz,+128
-43,atp-s-hertogenbosch-netherlands/7,Christian Garin,-156,R. Haase,+113
-44,atp-s-hertogenbosch-netherlands/8,F. Tiafoe,-185,Jordan Thompson,+133
+0,atp-stuttgart-germany/0,G. Monfils,-238,Denis Kudla,+168
+1,atp-stuttgart-germany/1,K. Khachanov,-149,Matteo Berrettini,+108
+2,atp-stuttgart-germany/2,A. Zverev,-385,Dustin Brown,+252
+3,atp-stuttgart-germany/3,Felix Auger Aliassime,-200,G. Simon,+143
+4,atp-stuttgart-germany/4,J-L. Struff,-128,L. Pouille,-108
+5,atp-stuttgart-germany/5,M. Raonic,-256,Mu00e1rton Fucsovics,+177
+6,wta-nottingham-great-britain/0,Viktorija Golubic,-185,Elena Ruse,+133
+7,wta-nottingham-great-britain/1,Ajla Tomljanovic,-357,Harriet Dart,+235
+8,wta-nottingham-great-britain/2,Tatjana Maria,-159,Bernarda Pera,+114
+9,wta-nottingham-great-britain/3,Donna Vekic,-909,C. Paquet,+456
+10,wta-nottingham-great-britain/4,C. Garcia,-2500,Maia Lumsden,+771
+11,wta-nottingham-great-britain/5,Jennifer Brady,-182,Sara Sorribes Tormo,+129
+12,wta-nottingham-great-britain/6,Maria Sakkari,-435,Ivana Jorovic,+275
+13,wta-s-hertogenbosch-netherlands/0,Ekaterina Alexandrova,-250,Ysaline Bonaventure,+173
+14,wta-s-hertogenbosch-netherlands/1,Alison Riske,-345,Polona Hercog,+231
+15,wta-s-hertogenbosch-netherlands/2,K. Bertens,-1111,Arantxa Rus,+523
+16,wta-s-hertogenbosch-netherlands/3,Natalia Vikhlyantseva,-286,Paula Badosa Gibert,+197
+17,atp-s-hertogenbosch-netherlands/0,D. Goffin,-294,Pierre-Hugues Herbert,+200
+18,atp-s-hertogenbosch-netherlands/1,Stefanos Tsitsipas,-625,Nicolas Jarry,+359
+19,atp-s-hertogenbosch-netherlands/2,Adrian Mannarino,-152,F. Verdasco,+110
+20,atp-s-hertogenbosch-netherlands/3,R. Gasquet,-185,Mikhail Kukushkin,+132
+21,atp-s-hertogenbosch-netherlands/4,Alex Di Minaur,-189,Jordan Thompson,+135
