@@ -1,23 +1,35 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp-stuttgart-germany/0,G. Monfils,-238,Denis Kudla,+168
-1,atp-stuttgart-germany/1,K. Khachanov,-149,Matteo Berrettini,+108
-2,atp-stuttgart-germany/2,A. Zverev,-385,Dustin Brown,+252
-3,atp-stuttgart-germany/3,Felix Auger Aliassime,-200,G. Simon,+143
-4,atp-stuttgart-germany/4,J-L. Struff,-128,L. Pouille,-108
-5,atp-stuttgart-germany/5,M. Raonic,-256,Mu00e1rton Fucsovics,+177
-6,wta-nottingham-great-britain/0,Viktorija Golubic,-185,Elena Ruse,+133
-7,wta-nottingham-great-britain/1,Ajla Tomljanovic,-357,Harriet Dart,+235
-8,wta-nottingham-great-britain/2,Tatjana Maria,-159,Bernarda Pera,+114
-9,wta-nottingham-great-britain/3,Donna Vekic,-909,C. Paquet,+456
-10,wta-nottingham-great-britain/4,C. Garcia,-2500,Maia Lumsden,+771
-11,wta-nottingham-great-britain/5,Jennifer Brady,-182,Sara Sorribes Tormo,+129
-12,wta-nottingham-great-britain/6,Maria Sakkari,-435,Ivana Jorovic,+275
-13,wta-s-hertogenbosch-netherlands/0,Ekaterina Alexandrova,-250,Ysaline Bonaventure,+173
-14,wta-s-hertogenbosch-netherlands/1,Alison Riske,-345,Polona Hercog,+231
-15,wta-s-hertogenbosch-netherlands/2,K. Bertens,-1111,Arantxa Rus,+523
-16,wta-s-hertogenbosch-netherlands/3,Natalia Vikhlyantseva,-286,Paula Badosa Gibert,+197
-17,atp-s-hertogenbosch-netherlands/0,D. Goffin,-294,Pierre-Hugues Herbert,+200
-18,atp-s-hertogenbosch-netherlands/1,Stefanos Tsitsipas,-625,Nicolas Jarry,+359
-19,atp-s-hertogenbosch-netherlands/2,Adrian Mannarino,-152,F. Verdasco,+110
-20,atp-s-hertogenbosch-netherlands/3,R. Gasquet,-185,Mikhail Kukushkin,+132
-21,atp-s-hertogenbosch-netherlands/4,Alex Di Minaur,-189,Jordan Thompson,+135
+0,wta-mallorca-spain/0,Saisai Zheng,-120,Sam Stosur,-114
+1,wta-mallorca-spain/1,Kaja Juvan,-130,Ons Jabeur,-105
+2,wta-mallorca-spain/2,A. Sevastova,-435,V. Lepchenko,+273
+3,wta-mallorca-spain/3,Amanda Anisimova,-294,Tereza Martincova,+202
+4,wta-mallorca-spain/4,S. Rogers,-127,Shuai Zhang,-109
+5,wta-mallorca-spain/5,Victoria Azarenka,-172,C. Garcia,+124
+6,wta-mallorca-spain/6,Alison Riske,-714,Paula Badosa Gibert,+389
+7,wta-mallorca-spain/7,Viktoria Kuzmova,-125,M. Sharapova,-110
+8,wta-mallorca-spain/8,Sara Sorribes Tormo,-233,Alize Cornet,+161
+9,wta-mallorca-spain/9,A. Kerber,-500,Ysaline Bonaventure,+302
+10,wta-mallorca-spain/10,Alison Van Uytvanck,-200,Yafan Wang,+142
+11,atp-halle-germany/0,J-L. Struff,-714,Laslo Djere,+392
+12,atp-halle-germany/1,R. Gasquet,-263,Peter Gojowczyk,+180
+13,atp-halle-germany/2,D. Goffin,-455,Guido Pella,+282
+14,atp-halle-germany/3,Borna Coric,-667,J. Munar,+368
+15,atp-halle-germany/4,R. Agut,-204,Taylor Harry Fritz,+145
+16,atp-halle-germany/5,Sergiy Stakhovsky,-204,Rudolf Molleker,+144
+17,atp-halle-germany/6,Jo-Wilfried Tsonga,-294,Benoit Paire,+200
+18,atp-halle-germany/7,A. Seppi,-286,Mats Moraing,+196
+19,atp-halle-germany/8,R. Federer,-2500,J. Millman,+721
+20,atp-halle-germany/9,Matteo Berrettini,-357,"Basilashvili, Nikoloz",+232
+21,atp-halle-germany/10,A. Zverev,-312,S. Johnson,+212
+22,atp-london-england/0,Jeremy Chardy,-135,Mikhail Kukushkin,+120
+23,atp-london-england/1,S. Wawrinka,-128,Dan Evans,+115
+24,atp-london-england/2,L. Pouille,-667,Jay Clarke,+516
+25,atp-london-england/3,Alex Di Minaur,-156,Aljaz Bedene,+139
+26,atp-london-england/4,J.M. Del Potro,-233,Denis Shapovalov,+197
+27,atp-london-england/5,Feliciano Lopez,-137,Mu00e1rton Fucsovics,+119
+28,atp-london-england/6,M. Raonic,-526,M. Cecchinato,+425
+29,atp-london-england/7,Stefanos Tsitsipas,-244,K. Edmund,+207
+30,atp-london-england/8,G. Dimitrov,-133,Felix Auger Aliassime,+117
+31,atp-london-england/9,N. Kyrgios,-196,Adrian Mannarino,+171
+32,atp-london-england/10,K. Anderson,-204,G. Simon,+180
+33,atp-london-england/11,M. Cilic,-455,D. Schwartzman,+381
