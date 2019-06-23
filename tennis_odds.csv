@@ -1,35 +1,34 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,wta-mallorca-spain/0,Saisai Zheng,-120,Sam Stosur,-114
-1,wta-mallorca-spain/1,Kaja Juvan,-130,Ons Jabeur,-105
-2,wta-mallorca-spain/2,A. Sevastova,-435,V. Lepchenko,+273
-3,wta-mallorca-spain/3,Amanda Anisimova,-294,Tereza Martincova,+202
-4,wta-mallorca-spain/4,S. Rogers,-127,Shuai Zhang,-109
-5,wta-mallorca-spain/5,Victoria Azarenka,-172,C. Garcia,+124
-6,wta-mallorca-spain/6,Alison Riske,-714,Paula Badosa Gibert,+389
-7,wta-mallorca-spain/7,Viktoria Kuzmova,-125,M. Sharapova,-110
-8,wta-mallorca-spain/8,Sara Sorribes Tormo,-233,Alize Cornet,+161
-9,wta-mallorca-spain/9,A. Kerber,-500,Ysaline Bonaventure,+302
-10,wta-mallorca-spain/10,Alison Van Uytvanck,-200,Yafan Wang,+142
-11,atp-halle-germany/0,J-L. Struff,-714,Laslo Djere,+392
-12,atp-halle-germany/1,R. Gasquet,-263,Peter Gojowczyk,+180
-13,atp-halle-germany/2,D. Goffin,-455,Guido Pella,+282
-14,atp-halle-germany/3,Borna Coric,-667,J. Munar,+368
-15,atp-halle-germany/4,R. Agut,-204,Taylor Harry Fritz,+145
-16,atp-halle-germany/5,Sergiy Stakhovsky,-204,Rudolf Molleker,+144
-17,atp-halle-germany/6,Jo-Wilfried Tsonga,-294,Benoit Paire,+200
-18,atp-halle-germany/7,A. Seppi,-286,Mats Moraing,+196
-19,atp-halle-germany/8,R. Federer,-2500,J. Millman,+721
-20,atp-halle-germany/9,Matteo Berrettini,-357,"Basilashvili, Nikoloz",+232
-21,atp-halle-germany/10,A. Zverev,-312,S. Johnson,+212
-22,atp-london-england/0,Jeremy Chardy,-135,Mikhail Kukushkin,+120
-23,atp-london-england/1,S. Wawrinka,-128,Dan Evans,+115
-24,atp-london-england/2,L. Pouille,-667,Jay Clarke,+516
-25,atp-london-england/3,Alex Di Minaur,-156,Aljaz Bedene,+139
-26,atp-london-england/4,J.M. Del Potro,-233,Denis Shapovalov,+197
-27,atp-london-england/5,Feliciano Lopez,-137,Mu00e1rton Fucsovics,+119
-28,atp-london-england/6,M. Raonic,-526,M. Cecchinato,+425
-29,atp-london-england/7,Stefanos Tsitsipas,-244,K. Edmund,+207
-30,atp-london-england/8,G. Dimitrov,-133,Felix Auger Aliassime,+117
-31,atp-london-england/9,N. Kyrgios,-196,Adrian Mannarino,+171
-32,atp-london-england/10,K. Anderson,-204,G. Simon,+180
-33,atp-london-england/11,M. Cilic,-455,D. Schwartzman,+381
+0,wta-mallorca-spain0,B. Bencic,-196,Sofia Kenin,+140
+1,wta-birmingham-great-britain/0,Ashleigh Barty,-500,J. Goerges,+300
+2,wta-eastbourne-great-britain/0,A. Kontaveit,-526,Harriet Dart,+313
+3,wta-eastbourne-great-britain/1,Shuai Zhang,-189,Katie Swan,+135
+4,wta-eastbourne-great-britain/2,Alize Cornet,-161,H. Watson,+116
+5,wta-eastbourne-great-britain/3,Katerina Siniakova,-118,Margarita Gasparyan,-116
+6,wta-eastbourne-great-britain/4,Aliaksandra Sasnovich,-167,R. Peterson,+121
+7,wta-eastbourne-great-britain/5,Ajla Tomljanovic,-152,Ekaterina Alexandrova,+110
+8,wta-eastbourne-great-britain/6,J. Konta,-208,Dayana Yastremska,+147
+9,wta-eastbourne-great-britain/7,Maria Sakkari,-204,Jessica Pegula,+144
+10,wta-eastbourne-great-britain/8,D. Kasatkina,-217,Andrea Petkovic,+152
+11,wta-eastbourne-great-britain/9,Elise Mertens,-233,Monica Puig,+163
+12,wta-eastbourne-great-britain/10,Fiona Ferro,-161,Anna-Lena Friedsam,+116
+13,wta-eastbourne-great-britain/11,Q. Wang,-244,Magda Linette,+171
+14,wta-eastbourne-great-britain/12,C. Wozniacki,-208,Kirsten Flipkens,+146
+15,wta-eastbourne-great-britain/13,Ons Jabeur,-196,Evgeniya Rodina,+141
+16,wta-eastbourne-great-britain/14,Yulia Putintseva,-175,Danielle Collins,+126
+17,wta-eastbourne-great-britain/15,C. Suarez Navarro,-244,Tamara Zidansek,+171
+18,wta-eastbourne-great-britain/16,S. Hsieh,-238,Camila Giorgi,+167
+19,wta-eastbourne-great-britain/17,J. Goerges,-217,L. Tsurenko,+155
+20,wta-eastbourne-great-britain/18,Marketa Vondrousova,-370,Saisai Zheng,+245
+21,wta-eastbourne-great-britain/19,J. Ostapenko,-250,Mihaela Buzarnescu,+174
+22,wta-eastbourne-great-britain/20,A. Sevastova,-385,Daria Gavrilova,+252
+23,wta-eastbourne-great-britain/21,B. Bencic,-233,Veronika Kudermetova,+161
+24,wta-eastbourne-great-britain/22,Barbora Strycova,-278,Polona Hercog,+191
+25,wta-eastbourne-great-britain/23,Sofia Kenin,-217,Sam Stosur,+155
+26,atp-halle-germany/0,R. Federer,-1000,D. Goffin,+482
+27,atp-london-england/0,Feliciano Lopez,-200,G. Simon,+142
+28,atp-antalya-turkey/0,Miomir Kecmanovic,-161,J. Munar,+116
+29,atp-antalya-turkey/1,Joao Sousa,-200,Lorenzo Sonego,+141
+30,atp-antalya-turkey/2,"Humbert, Ugo",-312,Federico Delbonis,+208
+31,atp-eastbourne-great-britain/0,Jeremy Chardy,-286,Cameron Norrie,+196
+32,atp-eastbourne-great-britain/1,Hubert Hurkacz,-286,M. Cecchinato,+195
