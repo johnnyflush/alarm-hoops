@@ -1,37 +1,29 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,wta-eastbourne-great-britain/0,Ons Jabeur,-189,Evgeniya Rodina,+135
-1,wta-eastbourne-great-britain/1,Yulia Putintseva,-182,Danielle Collins,+130
-2,wta-eastbourne-great-britain/2,Marketa Vondrousova,-385,Saisai Zheng,+253
-3,wta-eastbourne-great-britain/3,C. Suarez Navarro,-244,Tamara Zidansek,+171
-4,wta-eastbourne-great-britain/4,Ka. Pliskova,-400,Margarita Gasparyan,+260
-5,wta-eastbourne-great-britain/5,J. Ostapenko,-244,Mihaela Buzarnescu,+171
-6,wta-eastbourne-great-britain/6,C. Wozniacki,-185,Kirsten Flipkens,+132
-7,wta-eastbourne-great-britain/7,S. Hsieh,-233,Camila Giorgi,+163
-8,wta-eastbourne-great-britain/8,J. Goerges,-213,L. Tsurenko,+151
-9,wta-eastbourne-great-britain/9,A. Sevastova,-400,Daria Gavrilova,+261
-10,wta-eastbourne-great-britain/10,E. Svitolina,-213,Alize Cornet,+151
-11,wta-eastbourne-great-britain/11,Barbora Strycova,-323,Polona Hercog,+216
-12,wta-eastbourne-great-britain/12,B. Bencic,-172,Veronika Kudermetova,+123
-13,wta-eastbourne-great-britain/13,Sofia Kenin,-172,Sam Stosur,+124
-14,wta-eastbourne-great-britain/14,J. Konta,-312,Maria Sakkari,+208
-15,wta-eastbourne-great-britain/15,A. Kontaveit,-294,Anna-Lena Friedsam,+200
-16,atp-antalya-turkey/0,S. Darcis,-217,Bradley Klahn,+152
-17,atp-antalya-turkey/1,M. Ebden,-172,Damir Dzumhur,+124
-18,atp-antalya-turkey/2,Janko Tipsarevic,-196,Prajnesh Gunneswaran,+139
-19,atp-antalya-turkey/3,Roberto Carballes Baena,-200,"Aragone, JC",+141
-20,atp-antalya-turkey/4,"Humbert, Ugo",-286,Federico Delbonis,+195
-21,atp-antalya-turkey/5,Ernests Gulbis,-833,Altug Celikbilek,+428
-22,atp-antalya-turkey/6,Viktor Troicki,-370,J. Kovalik,+245
-23,atp-antalya-turkey/7,A. Seppi,-222,Bernard Tomic,+155
-24,atp-antalya-turkey/8,Cem Ilkel,-127,Kevin Krawietz,-109
-25,atp-eastbourne-great-britain/0,J. Millman,-125,F. Verdasco,-110
-26,atp-eastbourne-great-britain/1,Hubert Hurkacz,-250,M. Cecchinato,+172
-27,atp-eastbourne-great-britain/2,Sam Querrey,-141,Mikhail Kukushkin,+102
-28,atp-eastbourne-great-britain/3,S. Johnson,-167,Reilly Opelka,+120
-29,atp-eastbourne-great-britain/4,Nicolas Jarry,-172,Pablo Cuevas,+123
-30,atp-eastbourne-great-britain/5,Jeremy Chardy,-286,Cameron Norrie,+194
-31,atp-eastbourne-great-britain/6,L. Mayer,-345,Jay Clarke,+228
-32,atp-eastbourne-great-britain/7,Pierre-Hugues Herbert,-159,Feliciano Lopez,+115
-33,atp-eastbourne-great-britain/8,Dan Evans,-196,Radu Albot,+140
-34,atp-eastbourne-great-britain/9,James Ward,-156,Thomas Fabbiano,+113
-35,atp-eastbourne-great-britain/10,G. Simon,-192,Tennys Sandgren,+136
+0,wta-eastbourne-great-britain/0,K. Bertens,-345,Yulia Putintseva,+226
+1,wta-eastbourne-great-britain/1,Ons Jabeur,-323,Mandy Minella,+215
+2,wta-eastbourne-great-britain/2,B. Bencic,-137,Veronika Kudermetova,-101
+3,wta-eastbourne-great-britain/3,Sofia Kenin,-196,Sam Stosur,+140
+4,wta-eastbourne-great-britain/4,A. Kontaveit,-286,Anna-Lena Friedsam,+195
+5,wta-eastbourne-great-britain/5,Elise Mertens,-130,Marketa Vondrousova,-106
+6,wta-eastbourne-great-britain/6,J. Konta,-278,Maria Sakkari,+190
+7,wta-eastbourne-great-britain/7,Daria Gavrilova,-147,Shuai Zhang,+107
+8,wta-eastbourne-great-britain/8,Aryna Sabalenka,-370,Tamara Zidansek,+241
+9,wta-eastbourne-great-britain/9,J. Ostapenko,-147,S. Stephens,+106
+10,wta-eastbourne-great-britain/10,C. Wozniacki,-435,Andrea Petkovic,+271
+11,wta-eastbourne-great-britain/11,S. Halep,-227,S. Hsieh,+159
+12,atp-antalya-turkey/0,Damir Dzumhur,-1000,Altug Celikbilek,+479
+13,atp-antalya-turkey/1,Jordan Thompson,-417,Bradley Klahn,+268
+14,atp-antalya-turkey/2,Kevin Krawietz,-139,Cem Ilkel,+101
+15,atp-antalya-turkey/3,Lorenzo Sonego,-222,Prajnesh Gunneswaran,+158
+16,atp-antalya-turkey/4,Adrian Mannarino,-400,Roberto Carballes Baena,+254
+17,atp-antalya-turkey/5,Miomir Kecmanovic,-132,"Humbert, Ugo",-105
+18,atp-antalya-turkey/6,Benoit Paire,-143,Viktor Troicki,+104
+19,atp-antalya-turkey/7,Bernard Tomic,-172,Peter Gojowczyk,+124
+20,atp-eastbourne-great-britain/0,L. Mayer,-286,Jay Clarke,+196
+21,atp-eastbourne-great-britain/1,Dan Evans,-185,Radu Albot,+132
+22,atp-eastbourne-great-britain/2,James Ward,-161,Thomas Fabbiano,+117
+23,atp-eastbourne-great-britain/3,Pierre-Hugues Herbert,-164,Feliciano Lopez,+118
+24,atp-eastbourne-great-britain/4,G. Simon,-192,Tennys Sandgren,+138
+25,atp-eastbourne-great-britain/5,Sam Querrey,-370,D. Lajovic,+243
+26,atp-eastbourne-great-britain/6,S. Johnson,-182,Hubert Hurkacz,+131
+27,atp-eastbourne-great-britain/7,Taylor Harry Fritz,-303,Guido Pella,+203
