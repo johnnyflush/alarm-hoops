@@ -1,65 +1,49 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,wta-wimbledon-london/0,S. Halep,-588,Mihaela Buzarnescu,+438
-1,wta-wimbledon-london/1,E. Svitolina,-192,Margarita Gasparyan,+161
-2,wta-wimbledon-london/2,Maria Sakkari,-357,Marie Bouzkova,+283
-3,wta-wimbledon-london/3,Karolina Muchova,-200,Madison Brengle,+169
-4,wta-wimbledon-london/4,S. Hsieh,-192,Kirsten Flipkens,+162
-5,wta-wimbledon-london/5,Victoria Azarenka,-250,Ajla Tomljanovic,+207
-6,wta-wimbledon-london/6,A. Kontaveit,-250,H. Watson,+209
-7,wta-wimbledon-london/7,Ka. Pliskova,-1111,Monica Puig,+698
-8,wta-wimbledon-london/8,Yulia Putintseva,-227,Viktorija Golubic,+188
-9,wta-wimbledon-london/9,Sofia Kenin,-154,Dayana Yastremska,+131
-10,wta-wimbledon-london/10,Shuai Zhang,-149,Yanina Wickmayer,+127
-11,wta-wimbledon-london/11,C. Wozniacki,-196,Veronika Kudermetova,+164
-12,wta-wimbledon-london/12,M. Keys,-357,Polona Hercog,+286
-13,wta-wimbledon-london/13,Petra Martic,-385,Anastasia Potapova,+306
-14,wta-wimbledon-london/14,A. Sevastova,-323,Danielle Collins,+258
-15,wta-wimbledon-london/15,Magdalena Rybarikova,-175,Cori Gauff,+148
-16,wta-wimbledon-london/16,Alison Riske,-625,Ivana Jorovic,+403
-17,wta-wimbledon-london/17,Elise Mertens,-357,Monica Niculescu,+262
-18,wta-wimbledon-london/18,Ashleigh Barty,-1429,Alison Van Uytvanck,+678
-19,wta-wimbledon-london/19,A. Kerber,-1429,L. Davis,+671
-20,wta-wimbledon-london/20,B. Bencic,-417,Kaia Kanepi,+294
-21,wta-wimbledon-london/21,Barbora Strycova,-556,Laura Siegemund,+370
-22,wta-wimbledon-london/22,S. Stephens,-303,Yafan Wang,+227
-23,wta-wimbledon-london/23,Q. Wang,-312,Tamara Zidansek,+228
-24,wta-wimbledon-london/24,J. Konta,-333,Katerina Siniakova,+244
-25,wta-wimbledon-london/25,Beatriz Haddad Maia,-222,Harriet Dart,+169
-26,wta-wimbledon-london/26,Amanda Anisimova,-333,Magda Linette,+241
-27,wta-wimbledon-london/27,P. Kvitova,-323,Kristina Mladenovic,+235
-28,wta-wimbledon-london/28,J. Goerges,-909,Varvara Flink,+517
-29,wta-wimbledon-london/29,C. Suarez Navarro,-323,Pauline Parmentier,+240
-30,wta-wimbledon-london/30,S. Williams,-714,Kaja Juvan,+451
-31,wta-wimbledon-london/31,K. Bertens,-1250,Taylor Townsend,+635
-32,atp-wimbledon-london/0,R. Agut,-3333,S. Darcis,+1307
-33,atp-wimbledon-london/1,N. Djokovic,-10000,Denis Kudla,+1822
-34,atp-wimbledon-london/2,M. Raonic,-1429,R. Haase,+844
-35,atp-wimbledon-london/3,S. Wawrinka,-455,Reilly Opelka,+357
-36,atp-wimbledon-london/4,J. Vesely,-312,Pablo Cuevas,+257
-37,atp-wimbledon-london/5,Benoit Paire,-137,Miomir Kecmanovic,+116
-38,atp-wimbledon-london/6,Thomas Fabbiano,-128,Ivo Karlovic,+109
-39,atp-wimbledon-london/7,Hubert Hurkacz,-233,L. Mayer,+192
-40,atp-wimbledon-london/8,Daniil Medvedev,-435,Alexei Popyrin,+342
-41,atp-wimbledon-london/9,D. Goffin,-294,Jeremy Chardy,+243
-42,atp-wimbledon-london/10,K. Khachanov,-130,Feliciano Lopez,+110
-43,atp-wimbledon-london/11,K. Edmund,-182,F. Verdasco,+155
-44,atp-wimbledon-london/12,K. Anderson,-2000,Janko Tipsarevic,+1007
-45,atp-wimbledon-london/13,A. Seppi,-192,Guido Pella,+160
-46,atp-wimbledon-london/14,Felix Auger Aliassime,-588,Corentin Moutet,+444
-47,atp-wimbledon-london/15,Marcel Granollers,-116,"Humbert, Ugo",-101
-48,atp-wimbledon-london/16,Alex Di Minaur,-161,S. Johnson,+125
-49,atp-wimbledon-london/17,Dan Evans,-417,"Basilashvili, Nikoloz",+299
-50,atp-wimbledon-london/18,Matteo Berrettini,-714,M. Baghdatis,+447
-51,atp-wimbledon-london/19,K.  Nishikori,-1000,Cameron Norrie,+548
-52,atp-wimbledon-london/20,Sam Querrey,-476,Andrey Rublev,+334
-53,atp-wimbledon-london/21,G. Simon,-588,Tennys Sandgren,+391
-54,atp-wimbledon-london/22,R. Federer,-10000,Jay Clarke,+1411
-55,atp-wimbledon-london/23,Taylor Harry Fritz,-159,J-L. Struff,+123
-56,atp-wimbledon-london/24,D. Schwartzman,-238,Dominik Koepfer,+182
-57,atp-wimbledon-london/25,Jo-Wilfried Tsonga,-2000,R. Berankis,+824
-58,atp-wimbledon-london/26,R. Nadal,-435,N. Kyrgios,+300
-59,atp-wimbledon-london/27,F. Fognini,-149,Mu00e1rton Fucsovics,+117
-60,atp-wimbledon-london/28,L. Pouille,-556,Gregoire Barrere,+366
-61,atp-wimbledon-london/29,J. Millman,-400,Laslo Djere,+285
-62,atp-wimbledon-london/30,J. Isner,-435,Mikhail Kukushkin,+305
-63,atp-wimbledon-london/31,M. Cilic,-769,Joao Sousa,+474
+0,wta-wimbledon-london/0,Q. Wang,-294,Tamara Zidansek,+243
+1,wta-wimbledon-london/1,Beatriz Haddad Maia,-227,Harriet Dart,+189
+2,wta-wimbledon-london/2,Ashleigh Barty,-1667,Alison Van Uytvanck,+903
+3,wta-wimbledon-london/3,S. Stephens,-270,Yafan Wang,+225
+4,wta-wimbledon-london/4,P. Kvitova,-294,Kristina Mladenovic,+243
+5,wta-wimbledon-london/5,Barbora Strycova,-455,Laura Siegemund,+348
+6,wta-wimbledon-london/6,C. Suarez Navarro,-312,Pauline Parmentier,+253
+7,wta-wimbledon-london/7,Elise Mertens,-370,Monica Niculescu,+297
+8,wta-wimbledon-london/8,K. Bertens,-1111,Taylor Townsend,+719
+9,wta-wimbledon-london/9,Alison Riske,-556,Ivana Jorovic,+412
+10,wta-wimbledon-london/10,J. Konta,-303,Katerina Siniakova,+245
+11,wta-wimbledon-london/11,Amanda Anisimova,-312,Magda Linette,+258
+12,wta-wimbledon-london/12,J. Goerges,-769,Varvara Flink,+539
+13,wta-wimbledon-london/13,A. Kerber,-1111,L. Davis,+690
+14,wta-wimbledon-london/14,B. Bencic,-400,Kaia Kanepi,+321
+15,wta-wimbledon-london/15,S. Williams,-833,Kaja Juvan,+564
+16,wta-wimbledon-london/16,Dayana Yastremska,-370,Viktorija Golubic,+269
+17,wta-wimbledon-london/17,S. Halep,-127,Victoria Azarenka,+100
+18,wta-wimbledon-london/18,Maria Sakkari,-133,E. Svitolina,+105
+19,wta-wimbledon-london/19,C. Wozniacki,-286,Shuai Zhang,+216
+20,wta-wimbledon-london/20,Ka. Pliskova,-526,S. Hsieh,+357
+21,wta-wimbledon-london/21,Petra Martic,-278,Danielle Collins,+209
+22,wta-wimbledon-london/22,Cori Gauff,-141,Polona Hercog,+111
+23,wta-wimbledon-london/23,A. Kontaveit,-154,Karolina Muchova,+120
+24,atp-wimbledon-london/0,R. Federer,-10000,Jay Clarke,+1815
+25,atp-wimbledon-london/1,Sam Querrey,-455,Andrey Rublev,+360
+26,atp-wimbledon-london/2,Taylor Harry Fritz,-154,J-L. Struff,+130
+27,atp-wimbledon-london/3,Alex Di Minaur,-137,S. Johnson,+116
+28,atp-wimbledon-london/4,J. Millman,-323,Laslo Djere,+259
+29,atp-wimbledon-london/5,K.  Nishikori,-769,Cameron Norrie,+552
+30,atp-wimbledon-london/6,J. Isner,-417,Mikhail Kukushkin,+324
+31,atp-wimbledon-london/7,M. Cilic,-714,Joao Sousa,+503
+32,atp-wimbledon-london/8,Dan Evans,-333,"Basilashvili, Nikoloz",+266
+33,atp-wimbledon-london/9,Jo-Wilfried Tsonga,-1250,R. Berankis,+792
+34,atp-wimbledon-london/10,G. Simon,-588,Tennys Sandgren,+443
+35,atp-wimbledon-london/11,F. Fognini,-133,Mu00e1rton Fucsovics,+113
+36,atp-wimbledon-london/12,L. Pouille,-526,Gregoire Barrere,+406
+37,atp-wimbledon-london/13,D. Schwartzman,-238,Dominik Koepfer,+197
+38,atp-wimbledon-london/14,R. Nadal,-357,N. Kyrgios,+282
+39,atp-wimbledon-london/15,Matteo Berrettini,-667,M. Baghdatis,+493
+40,atp-wimbledon-london/16,R. Agut,-156,K. Khachanov,+122
+41,atp-wimbledon-london/17,F. Verdasco,-172,Thomas Fabbiano,+134
+42,atp-wimbledon-london/18,Felix Auger Aliassime,-588,"Humbert, Ugo",+394
+43,atp-wimbledon-london/19,K. Anderson,-833,Guido Pella,+489
+44,atp-wimbledon-london/20,N. Djokovic,-10000,Hubert Hurkacz,+1340
+45,atp-wimbledon-london/21,J. Vesely,-115,Benoit Paire,-111
+46,atp-wimbledon-london/22,Daniil Medvedev,-132,D. Goffin,+104
+47,atp-wimbledon-london/23,M. Raonic,-345,Reilly Opelka,+252
