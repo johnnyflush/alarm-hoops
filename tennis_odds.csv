@@ -1,49 +1,38 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,wta-wimbledon-london/0,Q. Wang,-294,Tamara Zidansek,+243
-1,wta-wimbledon-london/1,Beatriz Haddad Maia,-227,Harriet Dart,+189
-2,wta-wimbledon-london/2,Ashleigh Barty,-1667,Alison Van Uytvanck,+903
-3,wta-wimbledon-london/3,S. Stephens,-270,Yafan Wang,+225
-4,wta-wimbledon-london/4,P. Kvitova,-294,Kristina Mladenovic,+243
-5,wta-wimbledon-london/5,Barbora Strycova,-455,Laura Siegemund,+348
-6,wta-wimbledon-london/6,C. Suarez Navarro,-312,Pauline Parmentier,+253
-7,wta-wimbledon-london/7,Elise Mertens,-370,Monica Niculescu,+297
-8,wta-wimbledon-london/8,K. Bertens,-1111,Taylor Townsend,+719
-9,wta-wimbledon-london/9,Alison Riske,-556,Ivana Jorovic,+412
-10,wta-wimbledon-london/10,J. Konta,-303,Katerina Siniakova,+245
-11,wta-wimbledon-london/11,Amanda Anisimova,-312,Magda Linette,+258
-12,wta-wimbledon-london/12,J. Goerges,-769,Varvara Flink,+539
-13,wta-wimbledon-london/13,A. Kerber,-1111,L. Davis,+690
-14,wta-wimbledon-london/14,B. Bencic,-400,Kaia Kanepi,+321
-15,wta-wimbledon-london/15,S. Williams,-833,Kaja Juvan,+564
-16,wta-wimbledon-london/16,Dayana Yastremska,-370,Viktorija Golubic,+269
-17,wta-wimbledon-london/17,S. Halep,-127,Victoria Azarenka,+100
-18,wta-wimbledon-london/18,Maria Sakkari,-133,E. Svitolina,+105
-19,wta-wimbledon-london/19,C. Wozniacki,-286,Shuai Zhang,+216
-20,wta-wimbledon-london/20,Ka. Pliskova,-526,S. Hsieh,+357
-21,wta-wimbledon-london/21,Petra Martic,-278,Danielle Collins,+209
-22,wta-wimbledon-london/22,Cori Gauff,-141,Polona Hercog,+111
-23,wta-wimbledon-london/23,A. Kontaveit,-154,Karolina Muchova,+120
-24,atp-wimbledon-london/0,R. Federer,-10000,Jay Clarke,+1815
-25,atp-wimbledon-london/1,Sam Querrey,-455,Andrey Rublev,+360
-26,atp-wimbledon-london/2,Taylor Harry Fritz,-154,J-L. Struff,+130
-27,atp-wimbledon-london/3,Alex Di Minaur,-137,S. Johnson,+116
-28,atp-wimbledon-london/4,J. Millman,-323,Laslo Djere,+259
-29,atp-wimbledon-london/5,K.  Nishikori,-769,Cameron Norrie,+552
-30,atp-wimbledon-london/6,J. Isner,-417,Mikhail Kukushkin,+324
-31,atp-wimbledon-london/7,M. Cilic,-714,Joao Sousa,+503
-32,atp-wimbledon-london/8,Dan Evans,-333,"Basilashvili, Nikoloz",+266
-33,atp-wimbledon-london/9,Jo-Wilfried Tsonga,-1250,R. Berankis,+792
-34,atp-wimbledon-london/10,G. Simon,-588,Tennys Sandgren,+443
-35,atp-wimbledon-london/11,F. Fognini,-133,Mu00e1rton Fucsovics,+113
-36,atp-wimbledon-london/12,L. Pouille,-526,Gregoire Barrere,+406
-37,atp-wimbledon-london/13,D. Schwartzman,-238,Dominik Koepfer,+197
-38,atp-wimbledon-london/14,R. Nadal,-357,N. Kyrgios,+282
-39,atp-wimbledon-london/15,Matteo Berrettini,-667,M. Baghdatis,+493
-40,atp-wimbledon-london/16,R. Agut,-156,K. Khachanov,+122
-41,atp-wimbledon-london/17,F. Verdasco,-172,Thomas Fabbiano,+134
-42,atp-wimbledon-london/18,Felix Auger Aliassime,-588,"Humbert, Ugo",+394
-43,atp-wimbledon-london/19,K. Anderson,-833,Guido Pella,+489
-44,atp-wimbledon-london/20,N. Djokovic,-10000,Hubert Hurkacz,+1340
-45,atp-wimbledon-london/21,J. Vesely,-115,Benoit Paire,-111
-46,atp-wimbledon-london/22,Daniil Medvedev,-132,D. Goffin,+104
-47,atp-wimbledon-london/23,M. Raonic,-345,Reilly Opelka,+252
+0,wta-lausanne-switzerland/0,Pauline Parmentier,-161,Ludmilla Samsonova,+141
+1,wta-lausanne-switzerland/1,J. Goerges,-1000,Simona Waltert,+718
+2,wta-lausanne-switzerland/2,Mihaela Buzarnescu,-185,S. Voegele,+159
+3,wta-lausanne-switzerland/3,Alize Cornet,-345,Martina Trevisan,+290
+4,wta-lausanne-switzerland/4,Sam Stosur,-294,B. Haas,+246
+5,wta-lausanne-switzerland/5,Allie Kiick,-112,Tatjana Maria,-102
+6,wta-lausanne-switzerland/6,Anastasia Potapova,-312,Tamara Korpatsch,+270
+7,wta-lausanne-switzerland/7,C. Garcia,-179,Bernarda Pera,+159
+8,wta-bucharest-romania/0,Veronika Kudermetova,-233,Arantxa Rus,+163
+9,wta-bucharest-romania/1,Kristyna Pliskova,-417,Alexandra Cadantu,+270
+10,wta-bucharest-romania/2,Sorana Cirstea,-286,Jaqueline Adina Cristian,+194
+11,wta-bucharest-romania/3,Jaimee Fourlis,-122,Irina Maria Bara,-112
+12,wta-bucharest-romania/4,L. Arruabarrena,-278,Shilin Xu,+191
+13,wta-bucharest-romania/5,Irina-Camelia Begu,-152,Aleksandra Krunic,+110
+14,wta-bucharest-romania/6,P.M. Tig,-154,Anna Bondar,+112
+15,wta-bucharest-romania/7,V. Lepchenko,-132,Martina Di Giuseppe,-104
+16,wta-bucharest-romania/8,A. Sevastova,-323,Ana Bogdan,+216
+17,wta-bucharest-romania/9,Barbora Krejcikova,-233,Elena Ruse,+164
+18,atp-umag-croatia/0,Stefano Travaglia,-182,Thomas Fabbiano,+129
+19,atp-umag-croatia/1,"Klizan, Martin",-196,F. Bagnis,+139
+20,atp-umag-croatia/2,Paolo Lorenzi,-244,Peter Torebko,+171
+21,atp-umag-croatia/3,Marco Trungelliti,-185,Nino Serdarusic,+132
+22,atp-umag-croatia/4,L. Mayer,-135,Pablo Andujar,-102
+23,atp-umag-croatia/5,Attila Balazs,-400,Viktor Galovic,+259
+24,atp-umag-croatia/6,Andrey Rublev,-167,R. Haase,+121
+25,atp-umag-croatia/7,Filip Krajinovic,-769,Taro Daniel,+414
+26,atp-umag-croatia/8,Corentin Moutet,-172,Salvatore Caruso,+123
+27,atp-bastad-sweden/0,Nicolas Jarry,-204,H. Laaksonen,+144
+28,atp-bastad-sweden/1,Dennis Novak,-169,S. Darcis,+122
+29,atp-bastad-sweden/2,Albert Ramos-Vinolas,-294,Constant Lestienne,+201
+30,atp-bastad-sweden/3,Casper Ruud,-294,Damir Dzumhur,+198
+31,atp-bastad-sweden/4,P. Carreno Busta,-141,Jeremy Chardy,+102
+32,atp-bastad-sweden/5,Juan Ignacio Londero,-278,Facundo Arguello,+191
+33,atp-bastad-sweden/6,Hugo Dellien,-345,Ernests Gulbis,+229
+34,atp-bastad-sweden/7,Thiago Moura Monteiro,-175,E. Ymer,+126
+35,atp-bastad-sweden/8,Joao Sousa,-179,J. Kovalik,+128
+36,atp-bastad-sweden/9,Federico Delbonis,-500,Bernabe Zapata Miralles,+310

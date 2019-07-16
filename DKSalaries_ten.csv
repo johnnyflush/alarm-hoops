@@ -1,26 +1,47 @@
-Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame,ML,ProbWin,DK_Pts,ProbLose,ActualPoints,Opponent,OpponentPoints,OpponentOdds,LosePoints,ProbPoints,Value
-P,Karolina Pliskova (12908587),Karolina Pliskova,12908587,P,9600,Pliskova@Puig 07/03/2019 08:00AM ET,Pliskova,65.5,-914.5,0.901429276,70,0.098570724,36.35,Puig,#N/A,0.098570724,20,65.07146378,0.006778277
-P,Thomas Fabbiano (12908560),Thomas Fabbiano,12908560,P,7400,Fabbiano@Karlovic 07/03/2019 07:15AM ET,Fabbiano,38.55,-128.5,0.562363239,70,0.437636761,36.35,Karlovic,#N/A,0.437636761,20,48.11816193,0.006502454
-P,Marcel Granollers (12908579),Marcel Granollers,12908579,P,7200,Humbert@Granollers 07/03/2019 09:15AM ET,Granollers,38.8,-115,0.534883721,70,0.465116279,36.35,Humbert,#N/A,0.465116279,20,46.74418605,0.006492248
-P,Shuai Zhang (12908593),Shuai Zhang,12908593,P,7700,Zhang@Wickmayer 07/03/2019 10:00AM ET,Zhang,38.99,-148,0.596774194,70,0.403225806,36.35,Wickmayer,#N/A,0.403225806,20,49.83870968,0.00647256
-P,Milos Raonic (12908563),Milos Raonic,12908563,P,10200,Raonic@Haase 07/03/2019 07:15AM ET,Raonic,63.84,-1146.5,0.919775371,70,0.080224629,36.35,Haase,#N/A,0.080224629,20,65.98876855,0.006469487
-P,Sofia Kenin (12908591),Sofia Kenin,12908591,P,7800,Yastremska@Kenin 07/03/2019 09:15AM ET,Kenin,52.41,-152.5,0.603960396,70,0.396039604,36.35,Yastremska,#N/A,0.396039604,20,50.1980198,0.006435644
-P,Kevin Anderson (12908569),Kevin Anderson,12908569,P,10400,Tipsarevic@Anderson 07/03/2019 09:15AM ET,Anderson,61.96,-1513.5,0.938022932,70,0.061977068,36.35,Tipsarevic,#N/A,0.061977068,20,66.90114658,0.006432803
-P,Roberto Bautista-Agut (12908567),Roberto Bautista-Agut,12908567,P,10600,Bautista-Agut@Darcis 07/03/2019 08:00AM ET,Agut,56.03,-2330,0.958847737,70,0.041152263,36.35,Bautista-Agut,#N/A,0.041152263,20,67.94238683,0.006409659
-P,Felix Auger Aliassime (12908576),Felix Auger Aliassime,12908576,P,9700,Moutet@Auger Aliassime 07/03/2019 09:15AM ET,Auger Aliassime,53.8,-526,0.840255591,70,0.159744409,36.35,Moutet,#N/A,0.159744409,20,62.01277955,0.00639307
-P,Kyle Edmund (12908577),Kyle Edmund,12908577,P,8200,Verdasco@Edmund 07/03/2019 09:15AM ET,Edmund,42.32,-178.5,0.640933573,70,0.359066427,36.35,Verdasco,#N/A,0.359066427,20,52.04667864,0.006347156
-P,Simona Halep (12908585),Simona Halep,12908585,P,9800,Buzarnescu@Halep 07/03/2019 08:00AM ET,Halep,59.85,-523,0.839486356,70,0.160513644,36.35,Buzarnescu,#N/A,0.160513644,20,61.97431782,0.00632391
-P,Novak Djokovic (12908581),Novak Djokovic,12908581,P,11000,Kudla@Djokovic 07/03/2019 11:15AM ET,Djokovic,67.73,-5921,0.983391463,70,0.016608537,36.35,Kudla,#N/A,0.016608537,20,69.16957316,0.006288143
-P,Yulia Putintseva (12908589),Yulia Putintseva,12908589,P,8700,Putintseva@Golubic 07/03/2019 08:00AM ET,Putintseva,49.13,-217.5,0.68503937,70,0.31496063,36.35,Golubic,#N/A,0.31496063,20,54.2519685,0.006235858
-P,Madison Keys (12908595),Madison Keys,12908595,P,9400,Hercog@Keys 07/03/2019 11:15AM ET,Keys,60.78,-331.5,0.76825029,70,0.23174971,36.35,Hercog,#N/A,0.23174971,20,58.41251448,0.006214097
-P,Petra Martic (12908601),Petra Martic,12908601,P,9500,Potapova@Martic 07/03/2019 01:00PM ET,Martic,55.25,-355.5,0.780461032,70,0.219538968,36.35,Potapova,#N/A,0.219538968,20,59.02305159,0.006212953
-P,Hubert Hurkacz (12908562),Hubert Hurkacz,12908562,P,8800,Hurkacz@Mayer 07/03/2019 07:15AM ET,Hurkacz,46.65,-222.5,0.689922481,70,0.310077519,36.35,Mayer,#N/A,0.310077519,20,54.49612403,0.006192741
-P,Anastasija Sevastova (12908603),Anastasija Sevastova,12908603,P,9300,Sevastova@Collins 07/03/2019 01:00PM ET,Sevastova,51.73,-300.5,0.75031211,70,0.24968789,36.35,Collins,#N/A,0.24968789,20,57.51560549,0.006184474
-P,Andreas Seppi (12908573),Andreas Seppi,12908573,P,8500,Pella@Seppi 07/03/2019 09:15AM ET,Seppi,40.89,-186,0.65034965,70,0.34965035,36.35,Pella,#N/A,0.34965035,20,52.51748252,0.006178527
-P,David Goffin (12908565),David Goffin,12908565,P,9200,Goffin@Chardy 07/03/2019 07:15AM ET,Goffin,52.4,-278.5,0.735799207,70,0.264200793,36.35,Chardy,#N/A,0.264200793,20,56.78996037,0.006172822
-P,Anett Kontaveit (12908583),Anett Kontaveit,12908583,P,9000,Kontaveit@Watson 07/03/2019 08:00AM ET,Kontaveit,46.72,-239.5,0.70544919,70,0.29455081,36.35,Watson,#N/A,0.29455081,20,55.2724595,0.006141384
-P,Magdalena Rybarikova (12908597),Magdalena Rybarikova,12908597,P,8400,Rybarikova@Gauff 07/03/2019 11:15AM ET,Rybarikova,34.02,-171.5,0.631675875,70,0.368324125,36.35,Gauff,#N/A,0.368324125,20,51.58379374,0.006140928
-P,Caroline Wozniacki (12908599),Caroline Wozniacki,12908599,P,8600,Kudermetova@Wozniacki 07/03/2019 11:15AM ET,Wozniacki,54.26,-190,0.655172414,70,0.344827586,36.35,Kudermetova,#N/A,0.344827586,20,52.75862069,0.006134723
-P,Daniil Medvedev (12908557),Daniil Medvedev,12908557,P,9900,Popyrin@Medvedev 07/03/2019 07:15AM ET,Medvedev,58.05,-398.5,0.799398195,70,0.200601805,36.35,Popyrin,#N/A,0.200601805,20,59.96990973,0.006057567
-P,Karen Khachanov (12908571),Karen Khachanov,12908571,P,8000,Lopez Diaz-Guerra@Khachanov 07/03/2019 09:15AM ET,Khachanov,44.72,-130,0.565217391,70,0.434782609,36.35,Lopez Diaz-Guerra,#N/A,0.434782609,20,48.26086957,0.006032609
-P,Denis Kudla (12908582),Denis Kudla,12908582,P,2000,Kudla@Djokovic 07/03/2019 11:15AM ET,Kudla,35.64,,0.016608537,70,0.983391463,36.35,Djokovic,#N/A,0.983391463,20,20.83042684,0.010415213
+Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+P,Filip Krajinovic (12976208),Filip Krajinovic,12976208,P,10400,Krajinovic@Daniel 07/16/2019 02:20PM ET,Krajinovic,55.27
+P,Federico Delbonis (12976209),Federico Delbonis,12976209,P,10200,Zapata Miralles@Delbonis 07/16/2019 09:00AM ET,Delbonis,40.16
+P,Steve Johnson (12976210),Steve Johnson,12976210,P,10000,Johnson@Eubanks 07/16/2019 01:40PM ET,Johnson,43.2
+P,Attila Balazs (12976211),Attila Balazs,12976211,P,9800,Galovic@Balazs 07/16/2019 11:20AM ET,Balazs,45.08
+P,Anastasija Sevastova (12976212),Anastasija Sevastova,12976212,P,9600,Bogdan@Sevastova 07/16/2019 09:30AM ET,Sevastova,51.15
+P,Paolo Lorenzi (12976213),Paolo Lorenzi,12976213,P,9400,Lorenzi@Torebko 07/16/2019 10:00AM ET,Lorenzi,33.24
+P,Barbora Krejcikova (12976214),Barbora Krejcikova,12976214,P,9200,Krejcikova@Ruse 07/16/2019 01:00PM ET,Krejcikova,0
+P,Denis Kudla (12976215),Denis Kudla,12976215,P,9000,Klahn@Kudla 07/16/2019 11:00AM ET,Kudla,34.38
+P,Corentin Moutet (12976216),Corentin Moutet,12976216,P,8900,Caruso@Moutet 07/16/2019 02:00PM ET,Moutet,42.91
+P,Mihaela Buzarnescu (12976217),Mihaela Buzarnescu,12976217,P,8800,Buzarnescu@Voegele 07/16/2019 09:30AM ET,Buzarnescu,33.16
+P,Joao Sousa (12976218),Joao Sousa,12976218,P,8700,Sousa@Kovalik 07/16/2019 09:00AM ET,Sousa,40.94
+P,Viktor Troicki (12976219),Viktor Troicki,12976219,P,8600,Jung@Troicki 07/16/2019 12:20PM ET,Troicki,43.44
+P,Stefano Travaglia (12976220),Stefano Travaglia,12976220,P,8500,Fabbiano@Travaglia 07/16/2019 10:00AM ET,Travaglia,41.56
+P,Martin Klizan (12976221),Martin Klizan,12976221,P,8400,Bagnis@Klizan 07/16/2019 10:00AM ET,Klizan,36.28
+P,Andrey Rublev (12976222),Andrey Rublev,12976222,P,8300,Haase@Rublev 07/16/2019 01:00PM ET,Rublev,42.47
+P,Matthew Ebden (12976224),Matthew Ebden,12976224,P,8200,Schnur@Ebden 07/16/2019 11:00AM ET,Ebden,25.59
+P,Tim Smyczek (12976223),Tim Smyczek,12976223,P,8200,Smyczek@Zverev 07/16/2019 03:00PM ET,Smyczek,16.8
+P,Timea Bacsinszky (12976226),Timea Bacsinszky,12976226,P,8100,Teichmann@Bacsinszky 07/16/2019 11:30AM ET,Bacsinszky,48.3
+P,Marco Trungelliti (12976225),Marco Trungelliti,12976225,P,8100,Serdarusic@Trungelliti 07/16/2019 10:30AM ET,Trungelliti,43.22
+P,Leonardo Mayer (12976228),Leonardo Mayer,12976228,P,8000,Mayer@Andujar 07/16/2019 11:20AM ET,Mayer,44.37
+P,Alex Bolt (12976227),Alex Bolt,12976227,P,8000,Bolt@Bublik 07/16/2019 11:00AM ET,Bolt,42.44
+P,Ramkumar Ramanathan (12976229),Ramkumar Ramanathan,12976229,P,7900,Stakhovsky@Ramanathan 07/16/2019 12:20PM ET,Ramanathan,35.35
+P,Varvara Lepchenko (12976230),Varvara Lepchenko,12976230,P,7800,Di Giuseppe@Lepchenko 07/16/2019 09:30AM ET,Lepchenko,26.68
+P,Martina Di Giuseppe (12976231),Martina Di Giuseppe,12976231,P,7700,Di Giuseppe@Lepchenko 07/16/2019 09:30AM ET,Di Giuseppe,0
+P,Sergiy Stakhovsky (12976232),Sergiy Stakhovsky,12976232,P,7600,Stakhovsky@Ramanathan 07/16/2019 12:20PM ET,Stakhovsky,38.42
+P,Pablo Andujar (12976233),Pablo Andujar,12976233,P,7500,Mayer@Andujar 07/16/2019 11:20AM ET,Andujar,32.77
+P,Brayden Schnur (12976234),Brayden Schnur,12976234,P,7400,Schnur@Ebden 07/16/2019 11:00AM ET,Schnur,45.79
+P,Alexander Bublik (12976235),Alexander Bublik,12976235,P,7300,Bolt@Bublik 07/16/2019 11:00AM ET,Bublik,34.83
+P,Nino Serdarusic (12976236),Nino Serdarusic,12976236,P,7200,Serdarusic@Trungelliti 07/16/2019 10:30AM ET,Serdarusic,0
+P,Mischa Zverev (12976237),Mischa Zverev,12976237,P,7100,Smyczek@Zverev 07/16/2019 03:00PM ET,Zverev,14.75
+P,Jil Teichmann (12976238),Jil Teichmann,12976238,P,7000,Teichmann@Bacsinszky 07/16/2019 11:30AM ET,Teichmann,53.83
+P,Robin Haase (12976239),Robin Haase,12976239,P,6900,Haase@Rublev 07/16/2019 01:00PM ET,Haase,41.27
+P,Jozef Kovalik (12976241),Jozef Kovalik,12976241,P,6800,Sousa@Kovalik 07/16/2019 09:00AM ET,Kovalik,10.21
+P,Facundo Bagnis (12976240),Facundo Bagnis,12976240,P,6800,Bagnis@Klizan 07/16/2019 10:00AM ET,Bagnis,14.29
+P,Jason Jung (12976242),Jason Jung,12976242,P,6700,Jung@Troicki 07/16/2019 12:20PM ET,Jung,47.74
+P,Thomas Fabbiano (12976243),Thomas Fabbiano,12976243,P,6600,Fabbiano@Travaglia 07/16/2019 10:00AM ET,Fabbiano,38.99
+P,Stefanie Voegele (12976244),Stefanie Voegele,12976244,P,6500,Buzarnescu@Voegele 07/16/2019 09:30AM ET,Voegele,41.24
+P,Bradley Klahn (12976245),Bradley Klahn,12976245,P,6400,Klahn@Kudla 07/16/2019 11:00AM ET,Klahn,25.39
+P,Salvatore Caruso (12976246),Salvatore Caruso,12976246,P,6300,Caruso@Moutet 07/16/2019 02:00PM ET,Caruso,32.68
+P,Elena-Gabriela Ruse (12976247),Elena-Gabriela Ruse,12976247,P,6200,Krejcikova@Ruse 07/16/2019 01:00PM ET,Ruse,36.71
+P,Peter Torebko (12976248),Peter Torebko,12976248,P,6100,Lorenzi@Torebko 07/16/2019 10:00AM ET,Torebko,0
+P,Ana Bogdan (12976249),Ana Bogdan,12976249,P,6000,Bogdan@Sevastova 07/16/2019 09:30AM ET,Bogdan,32.31
+P,Christopher Eubanks (12976250),Christopher Eubanks,12976250,P,5700,Johnson@Eubanks 07/16/2019 01:40PM ET,Eubanks,41.64
+P,Viktor Galovic (12976251),Viktor Galovic,12976251,P,5600,Galovic@Balazs 07/16/2019 11:20AM ET,Galovic,13.45
+P,Bernabe Zapata Miralles (12976252),Bernabe Zapata Miralles,12976252,P,5500,Zapata Miralles@Delbonis 07/16/2019 09:00AM ET,Zapata Miralles,28.65
+P,Taro Daniel (12976253),Taro Daniel,12976253,P,5400,Krajinovic@Daniel 07/16/2019 02:20PM ET,Daniel,33.77
