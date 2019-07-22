@@ -1,38 +1,55 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,wta-lausanne-switzerland/0,Pauline Parmentier,-161,Ludmilla Samsonova,+141
-1,wta-lausanne-switzerland/1,J. Goerges,-1000,Simona Waltert,+718
-2,wta-lausanne-switzerland/2,Mihaela Buzarnescu,-185,S. Voegele,+159
-3,wta-lausanne-switzerland/3,Alize Cornet,-345,Martina Trevisan,+290
-4,wta-lausanne-switzerland/4,Sam Stosur,-294,B. Haas,+246
-5,wta-lausanne-switzerland/5,Allie Kiick,-112,Tatjana Maria,-102
-6,wta-lausanne-switzerland/6,Anastasia Potapova,-312,Tamara Korpatsch,+270
-7,wta-lausanne-switzerland/7,C. Garcia,-179,Bernarda Pera,+159
-8,wta-bucharest-romania/0,Veronika Kudermetova,-233,Arantxa Rus,+163
-9,wta-bucharest-romania/1,Kristyna Pliskova,-417,Alexandra Cadantu,+270
-10,wta-bucharest-romania/2,Sorana Cirstea,-286,Jaqueline Adina Cristian,+194
-11,wta-bucharest-romania/3,Jaimee Fourlis,-122,Irina Maria Bara,-112
-12,wta-bucharest-romania/4,L. Arruabarrena,-278,Shilin Xu,+191
-13,wta-bucharest-romania/5,Irina-Camelia Begu,-152,Aleksandra Krunic,+110
-14,wta-bucharest-romania/6,P.M. Tig,-154,Anna Bondar,+112
-15,wta-bucharest-romania/7,V. Lepchenko,-132,Martina Di Giuseppe,-104
-16,wta-bucharest-romania/8,A. Sevastova,-323,Ana Bogdan,+216
-17,wta-bucharest-romania/9,Barbora Krejcikova,-233,Elena Ruse,+164
-18,atp-umag-croatia/0,Stefano Travaglia,-182,Thomas Fabbiano,+129
-19,atp-umag-croatia/1,"Klizan, Martin",-196,F. Bagnis,+139
-20,atp-umag-croatia/2,Paolo Lorenzi,-244,Peter Torebko,+171
-21,atp-umag-croatia/3,Marco Trungelliti,-185,Nino Serdarusic,+132
-22,atp-umag-croatia/4,L. Mayer,-135,Pablo Andujar,-102
-23,atp-umag-croatia/5,Attila Balazs,-400,Viktor Galovic,+259
-24,atp-umag-croatia/6,Andrey Rublev,-167,R. Haase,+121
-25,atp-umag-croatia/7,Filip Krajinovic,-769,Taro Daniel,+414
-26,atp-umag-croatia/8,Corentin Moutet,-172,Salvatore Caruso,+123
-27,atp-bastad-sweden/0,Nicolas Jarry,-204,H. Laaksonen,+144
-28,atp-bastad-sweden/1,Dennis Novak,-169,S. Darcis,+122
-29,atp-bastad-sweden/2,Albert Ramos-Vinolas,-294,Constant Lestienne,+201
-30,atp-bastad-sweden/3,Casper Ruud,-294,Damir Dzumhur,+198
-31,atp-bastad-sweden/4,P. Carreno Busta,-141,Jeremy Chardy,+102
-32,atp-bastad-sweden/5,Juan Ignacio Londero,-278,Facundo Arguello,+191
-33,atp-bastad-sweden/6,Hugo Dellien,-345,Ernests Gulbis,+229
-34,atp-bastad-sweden/7,Thiago Moura Monteiro,-175,E. Ymer,+126
-35,atp-bastad-sweden/8,Joao Sousa,-179,J. Kovalik,+128
-36,atp-bastad-sweden/9,Federico Delbonis,-500,Bernabe Zapata Miralles,+310
+0,atp-atlanta-usa/0,Miomir Kecmanovic,-263,J. Sock,+182
+1,atp-atlanta-usa/1,Bradley Klahn,-222,Marius Copil,+155
+2,atp-atlanta-usa/2,Alexei Popyrin,-135,Denis Kudla,-102
+3,atp-atlanta-usa/3,Radu Albot,-135,Tennys Sandgren,-102
+4,atp-atlanta-usa/4,Jordan Thompson,-156,Cameron Norrie,+113
+5,atp-atlanta-usa/5,F. Tiafoe,-312,Bernard Tomic,+211
+6,atp-atlanta-usa/6,Reilly Opelka,-238,Alexander Bublik,+165
+7,atp-gstaad-switzerland/0,Denis Istomin,-133,Marc-Andrea Huesler,-103
+8,atp-gstaad-switzerland/1,Albert Ramos-Vinolas,-185,H. Laaksonen,+132
+9,atp-gstaad-switzerland/2,Taro Daniel,-125,Filippo Baldi,-110
+10,atp-gstaad-switzerland/3,J. Munar,-333,M. Jaziri,+220
+11,atp-gstaad-switzerland/4,Thomas Fabbiano,-154,Sandro Ehrat,+111
+12,atp-gstaad-switzerland/5,Joao Sousa,-200,S. Darcis,+141
+13,atp-gstaad-switzerland/6,T. Robredo,-128,"Moroni, Gian Marco",-108
+14,atp-gstaad-switzerland/7,Corentin Moutet,-244,Cedrik-Marcel Stebe,+171
+15,atp-gstaad-switzerland/8,J. Vesely,-208,Ernests Gulbis,+148
+16,atp-gstaad-switzerland/9,Pablo Andujar,-147,Dennis Novak,+106
+17,atp-gstaad-switzerland/10,Roberto Carballes Baena,-333,Paolo Lorenzi,+224
+18,atp-gstaad-switzerland/11,Stefano Travaglia,-185,Daniel Elahi Galan,+133
+19,atp-hamburg-germany/0,Benoit Paire,-147,Jeremy Chardy,+107
+20,atp-hamburg-germany/1,"Klizan, Martin",-217,Daniel Altmaier,+152
+21,atp-hamburg-germany/2,J-L. Struff,-152,Thiago Moura Monteiro,+109
+22,atp-hamburg-germany/3,P. Kohlschreiber,-156,Mu00e1rton Fucsovics,+113
+23,atp-hamburg-germany/4,Christian Garin,-154,Andrey Rublev,+112
+24,atp-hamburg-germany/5,L. Mayer,-333,Rudolf Molleker,+220
+25,atp-hamburg-germany/6,Filip Krajinovic,-152,Laslo Djere,+109
+26,atp-hamburg-germany/7,P. Carreno Busta,-152,Yannick Hanfmann,+109
+27,atp-hamburg-germany/8,Casper Ruud,-204,R. Haase,+145
+28,atp-hamburg-germany/9,A. Zverev,-213,Nicolas Jarry,+151
+29,atp-hamburg-germany/10,R. Gasquet,-294,Sumit Nagal,+201
+30,atp-hamburg-germany/11,F. Fognini,-345,Julian Lenz,+229
+31,atp-hamburg-germany/12,Hugo Dellien,-128,"Basilashvili, Nikoloz",-108
+32,atp-hamburg-germany/13,Federico Delbonis,-204,M. Cecchinato,+143
+33,atp-hamburg-germany/14,D. Thiem,-417,Pablo Cuevas,+267
+34,wta-palermo-italy/0,Antonia Lottner,-161,Giulia Gatto-Monticone,+116
+35,wta-palermo-italy/1,Tamara Zidansek,-263,L. Arruabarrena,+182
+36,wta-palermo-italy/2,Jil Belen Teichmann,-185,Daria Gavrilova,+132
+37,wta-palermo-italy/3,Laura Siegemund,-263,Jasmine Paolini,+181
+38,wta-palermo-italy/4,Paula Badosa Gibert,-141,Pauline Parmentier,+102
+39,wta-palermo-italy/5,Anna-Lena Friedsam,-182,S. Voegele,+130
+40,wta-palermo-italy/6,K. Bertens,-10000,Ekaterine Gorgodze,+954
+41,wta-palermo-italy/7,Martina Di Giuseppe,-141,S. Errani,+102
+42,wta-palermo-italy/8,Alize Cornet,-370,Martina Trevisan,+242
+43,wta-palermo-italy/9,Sara Sorribes Tormo,-139,Fiona Ferro,+101
+44,wta-jurmala-latvia0,Ana Bogdan,-526,Dalila Jakupovic,+311
+45,wta-jurmala-latvia1,Margarita Gasparyan,-227,Irina Maria Bara,+159
+46,wta-jurmala-latvia2,Kamilla Rakhimova,-118,Diana Marcinkevica,-118
+47,wta-jurmala-latvia3,Katerina Siniakova,-286,Anhelina Kalinina,+194
+48,wta-jurmala-latvia4,Tatjana Maria,-256,Jana Fett,+176
+49,wta-jurmala-latvia5,A. Sevastova,-588,Varvara Flink,+337
+50,wta-jurmala-latvia6,Bernarda Pera,-145,J. Ostapenko,+105
+51,wta-jurmala-latvia7,P.M. Tig,-476,Ankita Raina,+298
+52,wta-jurmala-latvia8,Elena Rybakina,-500,Xinyun Han,+300
+53,wta-jurmala-latvia9,C. Garcia,-204,Kristyna Pliskova,+145
