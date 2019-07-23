@@ -1,55 +1,49 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp-atlanta-usa/0,Miomir Kecmanovic,-263,J. Sock,+182
-1,atp-atlanta-usa/1,Bradley Klahn,-222,Marius Copil,+155
-2,atp-atlanta-usa/2,Alexei Popyrin,-135,Denis Kudla,-102
-3,atp-atlanta-usa/3,Radu Albot,-135,Tennys Sandgren,-102
-4,atp-atlanta-usa/4,Jordan Thompson,-156,Cameron Norrie,+113
-5,atp-atlanta-usa/5,F. Tiafoe,-312,Bernard Tomic,+211
-6,atp-atlanta-usa/6,Reilly Opelka,-238,Alexander Bublik,+165
-7,atp-gstaad-switzerland/0,Denis Istomin,-133,Marc-Andrea Huesler,-103
-8,atp-gstaad-switzerland/1,Albert Ramos-Vinolas,-185,H. Laaksonen,+132
-9,atp-gstaad-switzerland/2,Taro Daniel,-125,Filippo Baldi,-110
-10,atp-gstaad-switzerland/3,J. Munar,-333,M. Jaziri,+220
-11,atp-gstaad-switzerland/4,Thomas Fabbiano,-154,Sandro Ehrat,+111
-12,atp-gstaad-switzerland/5,Joao Sousa,-200,S. Darcis,+141
-13,atp-gstaad-switzerland/6,T. Robredo,-128,"Moroni, Gian Marco",-108
-14,atp-gstaad-switzerland/7,Corentin Moutet,-244,Cedrik-Marcel Stebe,+171
-15,atp-gstaad-switzerland/8,J. Vesely,-208,Ernests Gulbis,+148
-16,atp-gstaad-switzerland/9,Pablo Andujar,-147,Dennis Novak,+106
-17,atp-gstaad-switzerland/10,Roberto Carballes Baena,-333,Paolo Lorenzi,+224
-18,atp-gstaad-switzerland/11,Stefano Travaglia,-185,Daniel Elahi Galan,+133
-19,atp-hamburg-germany/0,Benoit Paire,-147,Jeremy Chardy,+107
-20,atp-hamburg-germany/1,"Klizan, Martin",-217,Daniel Altmaier,+152
-21,atp-hamburg-germany/2,J-L. Struff,-152,Thiago Moura Monteiro,+109
-22,atp-hamburg-germany/3,P. Kohlschreiber,-156,Mu00e1rton Fucsovics,+113
-23,atp-hamburg-germany/4,Christian Garin,-154,Andrey Rublev,+112
-24,atp-hamburg-germany/5,L. Mayer,-333,Rudolf Molleker,+220
-25,atp-hamburg-germany/6,Filip Krajinovic,-152,Laslo Djere,+109
-26,atp-hamburg-germany/7,P. Carreno Busta,-152,Yannick Hanfmann,+109
-27,atp-hamburg-germany/8,Casper Ruud,-204,R. Haase,+145
-28,atp-hamburg-germany/9,A. Zverev,-213,Nicolas Jarry,+151
-29,atp-hamburg-germany/10,R. Gasquet,-294,Sumit Nagal,+201
-30,atp-hamburg-germany/11,F. Fognini,-345,Julian Lenz,+229
-31,atp-hamburg-germany/12,Hugo Dellien,-128,"Basilashvili, Nikoloz",-108
-32,atp-hamburg-germany/13,Federico Delbonis,-204,M. Cecchinato,+143
-33,atp-hamburg-germany/14,D. Thiem,-417,Pablo Cuevas,+267
-34,wta-palermo-italy/0,Antonia Lottner,-161,Giulia Gatto-Monticone,+116
-35,wta-palermo-italy/1,Tamara Zidansek,-263,L. Arruabarrena,+182
-36,wta-palermo-italy/2,Jil Belen Teichmann,-185,Daria Gavrilova,+132
-37,wta-palermo-italy/3,Laura Siegemund,-263,Jasmine Paolini,+181
-38,wta-palermo-italy/4,Paula Badosa Gibert,-141,Pauline Parmentier,+102
-39,wta-palermo-italy/5,Anna-Lena Friedsam,-182,S. Voegele,+130
-40,wta-palermo-italy/6,K. Bertens,-10000,Ekaterine Gorgodze,+954
-41,wta-palermo-italy/7,Martina Di Giuseppe,-141,S. Errani,+102
-42,wta-palermo-italy/8,Alize Cornet,-370,Martina Trevisan,+242
-43,wta-palermo-italy/9,Sara Sorribes Tormo,-139,Fiona Ferro,+101
-44,wta-jurmala-latvia0,Ana Bogdan,-526,Dalila Jakupovic,+311
-45,wta-jurmala-latvia1,Margarita Gasparyan,-227,Irina Maria Bara,+159
-46,wta-jurmala-latvia2,Kamilla Rakhimova,-118,Diana Marcinkevica,-118
-47,wta-jurmala-latvia3,Katerina Siniakova,-286,Anhelina Kalinina,+194
-48,wta-jurmala-latvia4,Tatjana Maria,-256,Jana Fett,+176
-49,wta-jurmala-latvia5,A. Sevastova,-588,Varvara Flink,+337
-50,wta-jurmala-latvia6,Bernarda Pera,-145,J. Ostapenko,+105
-51,wta-jurmala-latvia7,P.M. Tig,-476,Ankita Raina,+298
-52,wta-jurmala-latvia8,Elena Rybakina,-500,Xinyun Han,+300
-53,wta-jurmala-latvia9,C. Garcia,-204,Kristyna Pliskova,+145
+0,atp-atlanta-usa/0,G. Dimitrov,-909,Kevin King,+453
+1,atp-atlanta-usa/1,Miomir Kecmanovic,-333,J. Sock,+219
+2,atp-atlanta-usa/2,Radu Albot,-139,Tennys Sandgren,+100
+3,atp-atlanta-usa/3,Kamil Majchrzak,-189,M. Ebden,+134
+4,atp-atlanta-usa/4,Soon Woo Kwon,-345,Prajnesh Gunneswaran,+226
+5,atp-atlanta-usa/5,Dan Evans,-294,Jason Jung,+199
+6,atp-atlanta-usa/6,Reilly Opelka,-233,Alexander Bublik,+164
+7,atp-atlanta-usa/7,F. Tiafoe,-312,Bernard Tomic,+211
+8,atp-atlanta-usa/8,Pierre-Hugues Herbert,-132,Alexei Popyrin,-105
+9,atp-gstaad-switzerland/0,J. Munar,-357,M. Jaziri,+238
+10,atp-gstaad-switzerland/1,Joao Sousa,-217,S. Darcis,+154
+11,atp-gstaad-switzerland/2,Albert Ramos-Vinolas,-172,H. Laaksonen,+124
+12,atp-gstaad-switzerland/3,Denis Istomin,-119,Marc-Andrea Huesler,-115
+13,atp-gstaad-switzerland/4,Lorenzo Sonego,-303,Thomas Fabbiano,+207
+14,atp-gstaad-switzerland/5,Roberto Carballes Baena,-172,Stefano Travaglia,+124
+15,atp-gstaad-switzerland/6,J. Vesely,-244,Cedrik-Marcel Stebe,+170
+16,atp-hamburg-germany/0,R. Gasquet,-270,Sumit Nagal,+185
+17,atp-hamburg-germany/1,Juan Ignacio Londero,-294,Salvatore Caruso,+201
+18,atp-hamburg-germany/2,Casper Ruud,-233,R. Haase,+164
+19,atp-hamburg-germany/3,"Basilashvili, Nikoloz",-147,Hugo Dellien,+106
+20,atp-hamburg-germany/4,J-L. Struff,-161,Thiago Moura Monteiro,+116
+21,atp-hamburg-germany/5,D. Thiem,-417,Pablo Cuevas,+267
+22,atp-hamburg-germany/6,A. Zverev,-294,Nicolas Jarry,+200
+23,atp-hamburg-germany/7,P. Carreno Busta,-167,Yannick Hanfmann,+120
+24,atp-hamburg-germany/8,Federico Delbonis,-227,M. Cecchinato,+158
+25,atp-hamburg-germany/9,Filip Krajinovic,-147,Laslo Djere,+107
+26,atp-hamburg-germany/10,F. Fognini,-345,Julian Lenz,+231
+27,wta-palermo-italy/0,Jil Belen Teichmann,-175,Daria Gavrilova,+125
+28,wta-palermo-italy/1,Laura Siegemund,-270,Jasmine Paolini,+185
+29,wta-palermo-italy/2,Viktoria Kuzmova,-769,Elisabetta Cocciaretto,+406
+30,wta-palermo-italy/3,Irina-Camelia Begu,-345,Tereza Mrdeza,+229
+31,wta-palermo-italy/4,Anna-Lena Friedsam,-175,S. Voegele,+125
+32,wta-palermo-italy/5,K. Bertens,-Infinity,Ekaterine Gorgodze,+1187
+33,wta-palermo-italy/6,Martina Di Giuseppe,-130,S. Errani,-105
+34,wta-palermo-italy/7,Alize Cornet,-370,Martina Trevisan,+245
+35,wta-palermo-italy/8,Sara Sorribes Tormo,-139,Fiona Ferro,+101
+36,wta-jurmala-latvia0,Sorana Cirstea,-233,Valentyna Ivakhnenko,+161
+37,wta-jurmala-latvia1,K. Kucova,-147,Paula Ormaechea,+107
+38,wta-jurmala-latvia2,C. Garcia,-204,Kristyna Pliskova,+145
+39,wta-jurmala-latvia3,P.M. Tig,-345,Ankita Raina,+231
+40,wta-jurmala-latvia4,Ysaline Bonaventure,-130,Katarzyna Kawa,-106
+41,wta-jurmala-latvia5,Aliaksandra Sasnovich,-189,Nina Stojanovic,+134
+42,wta-jurmala-latvia6,Tatjana Maria,-270,Jana Fett,+184
+43,wta-jurmala-latvia7,B.Eraydin,-149,C. Paquet,+108
+44,wta-jurmala-latvia8,Elena Rybakina,-588,Xinyun Han,+348
+45,wta-jurmala-latvia9,A. Sevastova,-455,Varvara Flink,+289
+46,wta-jurmala-latvia10,Bernarda Pera,-118,J. Ostapenko,-116
+47,wta-jurmala-latvia11,Anastasia Potapova,-213,B. Haas,+149
