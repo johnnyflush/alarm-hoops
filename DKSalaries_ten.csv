@@ -1,37 +1,29 @@
-Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
-P,Kiki Bertens (13008097),Kiki Bertens,13008097,P,11300,Gorgodze@Bertens 07/22/2019 10:00AM ET,Bertens,58.56
-P,Alize Cornet (13008115),Alize Cornet,13008115,P,9700,Cornet@Trevisan 07/22/2019 10:00AM ET,Cornet,50.15
-P,Leonardo Mayer (13008091),Leonardo Mayer,13008091,P,9400,Molleker@Mayer 07/22/2019 12:30PM ET,Mayer,45.2
-P,Katerina Siniakova (13008093),Katerina Siniakova,13008093,P,9300,Kalinina@Siniakova 07/22/2019 09:30AM ET,Siniakova,42.63
-P,Tamara Zidansek (13008110),Tamara Zidansek,13008110,P,9200,Zidansek@Arruabarrena-Vecino 07/22/2019 10:00AM ET,Zidansek,43
-P,Laura Siegemund (13008100),Laura Siegemund,13008100,P,9100,Siegemund@Paolini 07/22/2019 10:00AM ET,Siegemund,37.58
-P,Tatjana Maria (13008095),Tatjana Maria,13008095,P,9000,Fett@Maria 07/22/2019 10:45AM ET,Maria,38.18
-P,Anna-Lena Friedsam (13008114),Anna-Lena Friedsam,13008114,P,8700,Voegele@Friedsam 07/22/2019 10:00AM ET,Friedsam,38.3
-P,Jil Teichmann (13008112),Jil Teichmann,13008112,P,8600,Gavrilova@Teichmann 07/22/2019 10:00AM ET,Teichmann,54.74
-P,Stefano Travaglia (13008083),Stefano Travaglia,13008083,P,8500,Travaglia@Galan 07/22/2019 09:30AM ET,Travaglia,49.04
-P,Antonia Lottner (13008107),Antonia Lottner,13008107,P,8400,Lottner@Gatto-Monticone 07/22/2019 10:00AM ET,Lottner,35.16
-P,Cristian Garin (13008090),Cristian Garin,13008090,P,8200,Garin@Rublev 07/22/2019 10:30AM ET,Garin,51.98
-P,Thomas Fabbiano (13008085),Thomas Fabbiano,13008085,P,8200,Ehrat@Fabbiano 07/22/2019 11:20AM ET,Fabbiano,37.56
-P,Benoit Paire (13008088),Benoit Paire,13008088,P,8100,Chardy@Paire 07/22/2019 09:30AM ET,Paire,47.81
-P,Sara Sorribes Tormo (13008105),Sara Sorribes Tormo,13008105,P,8000,Ferro@Sorribes Tormo 07/22/2019 10:00AM ET,Sorribes Tormo,36.85
-P,Paula Badosa Gibert (13008104),Paula Badosa Gibert,13008104,P,7900,Parmentier@Badosa Gibert 07/22/2019 10:00AM ET,Badosa Gibert,29.71
-P,Martina Di Giuseppe (13008102),Martina Di Giuseppe,13008102,P,7800,Di Giuseppe@Errani 07/22/2019 10:00AM ET,Di Giuseppe,45.7
-P,Pablo Andujar (13008081),Pablo Andujar,13008081,P,7700,Novak@Andujar 07/22/2019 09:00AM ET,Andujar,30.77
-P,Fiona Ferro (13008106),Fiona Ferro,13008106,P,7400,Ferro@Sorribes Tormo 07/22/2019 10:00AM ET,Ferro,43.18
-P,Dennis Novak (13008082),Dennis Novak,13008082,P,7400,Novak@Andujar 07/22/2019 09:00AM ET,Novak,46.47
-P,Sara Errani (13008101),Sara Errani,13008101,P,7300,Di Giuseppe@Errani 07/22/2019 10:00AM ET,Errani,27.07
-P,Pauline Parmentier (13008103),Pauline Parmentier,13008103,P,7300,Parmentier@Badosa Gibert 07/22/2019 10:00AM ET,Parmentier,34.11
-P,Jeremy Chardy (13008087),Jeremy Chardy,13008087,P,7200,Chardy@Paire 07/22/2019 09:30AM ET,Chardy,44.42
-P,Sandro Ehrat (13008086),Sandro Ehrat,13008086,P,7200,Ehrat@Fabbiano 07/22/2019 11:20AM ET,Ehrat,0
-P,Andrey Rublev (13008089),Andrey Rublev,13008089,P,7100,Garin@Rublev 07/22/2019 10:30AM ET,Rublev,43.18
-P,Giulia Gatto-Monticone (13008108),Giulia Gatto-Monticone,13008108,P,6900,Lottner@Gatto-Monticone 07/22/2019 10:00AM ET,Gatto-Monticone,12.76
-P,Stefanie Voegele (13008113),Stefanie Voegele,13008113,P,6800,Voegele@Friedsam 07/22/2019 10:00AM ET,Voegele,39.82
-P,Daniel Elahi Galan (13008084),Daniel Elahi Galan,13008084,P,6800,Travaglia@Galan 07/22/2019 09:30AM ET,Galan,57.28
-P,Daria Gavrilova (13008111),Daria Gavrilova,13008111,P,6700,Gavrilova@Teichmann 07/22/2019 10:00AM ET,Gavrilova,29.78
-P,Jana Fett (13008096),Jana Fett,13008096,P,6300,Fett@Maria 07/22/2019 10:45AM ET,Fett,0
-P,Jasmine Paolini (13008099),Jasmine Paolini,13008099,P,6200,Siegemund@Paolini 07/22/2019 10:00AM ET,Paolini,27.57
-P,Lara Arruabarrena-Vecino (13008109),Lara Arruabarrena-Vecino,13008109,P,6100,Zidansek@Arruabarrena-Vecino 07/22/2019 10:00AM ET,Arruabarrena-Vecino,40.11
-P,Anhelina Kalinina (13008094),Anhelina Kalinina,13008094,P,6100,Kalinina@Siniakova 07/22/2019 09:30AM ET,Kalinina,32.25
-P,Rudolf Molleker (13008092),Rudolf Molleker,13008092,P,5900,Molleker@Mayer 07/22/2019 12:30PM ET,Molleker,26.11
-P,Martina Trevisan (13008116),Martina Trevisan,13008116,P,5600,Cornet@Trevisan 07/22/2019 10:00AM ET,Trevisan,31.38
-P,Ekaterine Gorgodze (13008098),Ekaterine Gorgodze,13008098,P,4000,Gorgodze@Bertens 07/22/2019 10:00AM ET,Gorgodze,0
+Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame,ML,ProbWin,DK_Pts,ProbLose,ActualPoints,Opponent,OpponentPoints,OpponentOdds,LosePoints,ProbPoints,Value
+P,Varvara Gracheva (13044705),Varvara Gracheva,13044705,P,4800,Gracheva@Blinkova 07/29/2019 03:35PM ET,Gracheva,25.15,,0.332225914,70,0.667774086,75.35,Blinkova,#N/A,0.667774086,20,36.61129568,0.007627353
+P,Jo-Wilfried Tsonga (13044678),Jo-Wilfried Tsonga,13044678,P,7800,Tsonga@Schnur 07/29/2019 04:30PM ET,Tsonga,56.88,-350,0.777777778,70,0.222222222,54.35,Schnur,#N/A,0.222222222,20,58.88888889,0.007549858
+P,Coco Vandeweghe (13044694),Coco Vandeweghe,13044694,P,5100,Vandeweghe@Bouzkova 07/29/2019 10:00PM ET,Vandeweghe,0,,0.321027287,70,0.678972713,74.35,Bouzkova,#N/A,0.678972713,20,36.05136437,0.007068895
+P,Ekaterina Alexandrova (13044693),Ekaterina Alexandrova,13044693,P,5600,Sakkari@Alexandrova 07/29/2019 04:45PM ET,Alexandrova,44.86,,0.348432056,70,0.651567944,73.35,Sakkari,#N/A,0.651567944,20,37.42160279,0.006682429
+P,Jennifer Brady (13044706),Jennifer Brady,13044706,P,5800,Kenin@Brady 07/29/2019 04:45PM ET,Brady,52.83,,0.350877193,70,0.649122807,72.35,Kenin,#N/A,0.649122807,20,37.54385965,0.006473079
+P,Ajla Tomljanovic (13044690),Ajla Tomljanovic,13044690,P,8200,Ahn@Tomljanovic 07/29/2019 03:30PM ET,Tomljanovic,47.18,-179,0.641577061,70,0.358422939,45.35,Ahn,#N/A,0.358422939,20,52.07885305,0.00635108
+P,Hubert Hurkacz (13044682),Hubert Hurkacz,13044682,P,9000,Young@Hurkacz 07/29/2019 06:10PM ET,Hurkacz,46.52,-279,0.736147757,70,0.263852243,36.35,Young,#N/A,0.263852243,20,56.80738786,0.006311932
+P,Marc Polmans (13044685),Marc Polmans,13044685,P,8000,Polmans@Jaziri 07/29/2019 06:20PM ET,Polmans,31.6,-150,0.6,70,0.4,49.35,Jaziri,#N/A,0.4,20,50,0.00625
+P,Tim Smyczek (13044681),Tim Smyczek,13044681,P,6800,Smyczek@Ebden 07/29/2019 05:00PM ET,Smyczek,17.75,,0.429184549,70,0.570815451,67.35,Ebden,#N/A,0.570815451,20,41.45922747,0.006096945
+P,Ricardas Berankis (13044670),Ricardas Berankis,13044670,P,7700,Berankis@Harris 07/29/2019 02:15PM ET,Berankis,42.87,-110,0.523809524,70,0.476190476,56.35,Harris,#N/A,0.476190476,20,46.19047619,0.005998763
+P,Lauren Davis (13044710),Lauren Davis,13044710,P,8500,Davis@Bouchard 07/29/2019 08:30PM ET,Davis,42.27,-163,0.619771863,70,0.380228137,39.35,Bouchard,#N/A,0.380228137,20,50.98859316,0.005998658
+P,Timea Babos (13044688),Timea Babos,13044688,P,8100,Hibi@Babos 07/29/2019 02:15PM ET,Babos,28.77,-127,0.559471366,70,0.440528634,47.35,Hibi,#N/A,0.440528634,20,47.97356828,0.005922663
+P,Katerina Siniakova (13044708),Katerina Siniakova,13044708,P,8400,Pegula@Siniakova 07/29/2019 06:00PM ET,Siniakova,42.17,-142.5,0.587628866,70,0.412371134,41.35,Pegula,#N/A,0.412371134,20,49.3814433,0.005878743
+P,Adrian Mannarino (13044674),Adrian Mannarino,13044674,P,8700,Ivashka@Mannarino 07/29/2019 03:35PM ET,Mannarino,42.37,-162,0.618320611,70,0.381679389,37.35,Ivashka,#N/A,0.381679389,20,50.91603053,0.005852417
+P,Bjorn Fratangelo (13044667),Bjorn Fratangelo,13044667,P,7900,Karlovic@Fratangelo 07/29/2019 01:00PM ET,Fratangelo,27.75,-110,0.523809524,70,0.476190476,50.35,Karlovic,#N/A,0.476190476,20,46.19047619,0.005846896
+P,Bradley Klahn (13044677),Bradley Klahn,13044677,P,8000,Klahn@Bublik 07/29/2019 03:40PM ET,Klahn,27.43,-115,0.534883721,70,0.465116279,48.35,Bublik,#N/A,0.465116279,20,46.74418605,0.005843023
+P,Tommy Paul (13044669),Tommy Paul,13044669,P,8300,Paul@Kudla 07/29/2019 02:00PM ET,Paul,33.32,-131.5,0.568034557,70,0.431965443,43.35,Kudla,#N/A,0.431965443,20,48.40172786,0.005831533
+P,Iga Swiatek (13044701),Iga Swiatek,13044701,P,8400,Swiatek@Jabeur 07/29/2019 01:00PM ET,Swiatek,48.62,-137,0.578059072,70,0.421940928,42.35,Jabeur,#N/A,0.421940928,20,48.90295359,0.00582178
+P,Anastasia Pavlyuchenkova (13044698),Anastasia Pavlyuchenkova,13044698,P,8800,Pavlyuchenkova@Mchale 07/29/2019 01:00PM ET,Pavlyuchenkova,42.38,-163.5,0.620493359,70,0.379506641,36.35,Mchale,#N/A,0.379506641,20,51.02466793,0.005798258
+P,Mihaela Buzarnescu (13044697),Mihaela Buzarnescu,13044697,P,8100,Kasatkina@Buzarnescu 07/29/2019 11:15PM ET,Buzarnescu,34.82,-111,0.526066351,70,0.473933649,46.35,Kasatkina,#N/A,0.473933649,20,46.30331754,0.005716459
+P,Marius Copil (13044672),Marius Copil,13044672,P,8500,Copil@Torpegaard 07/29/2019 02:20PM ET,Copil,29.36,-132,0.568965517,70,0.431034483,40.35,Torpegaard,#N/A,0.431034483,20,48.44827586,0.005699797
+P,Carla Suarez-Navarro (13044686),Carla Suarez-Navarro,13044686,P,9100,Linette@Suarez-Navarro 07/29/2019 01:00PM ET,Suarez-Navarro,45.49,-171.5,0.631675875,70,0.368324125,36.35,Linette,#N/A,0.368324125,20,51.58379374,0.005668549
+P,Maria Sakkari (13044692),Maria Sakkari,13044692,P,9300,Sakkari@Alexandrova 07/29/2019 04:45PM ET,Sakkari,50.14,-187,0.651567944,70,0.348432056,36.35,Alexandrova,#N/A,0.348432056,20,52.57839721,0.005653591
+P,Matthew Ebden (13044680),Matthew Ebden,13044680,P,8600,Smyczek@Ebden 07/29/2019 05:00PM ET,Ebden,31.86,-133,0.570815451,70,0.429184549,38.35,Smyczek,#N/A,0.429184549,20,48.54077253,0.005644276
+P,Marie Bouzkova (13044695),Marie Bouzkova,13044695,P,9700,Vandeweghe@Bouzkova 07/29/2019 10:00PM ET,Bouzkova,33.24,-211.5,0.678972713,70,0.321027287,36.35,Vandeweghe,#N/A,0.321027287,20,53.94863563,0.005561715
+P,Lesia Tsurenko (13044702),Lesia Tsurenko,13044702,P,8200,Tsurenko@Wang 07/29/2019 02:15PM ET,Tsurenko,43.29,-104,0.509803922,70,0.490196078,44.35,Wang,#N/A,0.490196078,20,45.49019608,0.005547585
+P,Sofia Kenin (13044707),Sofia Kenin,13044707,P,9500,Kenin@Brady 07/29/2019 04:45PM ET,Kenin,51.81,-185,0.649122807,70,0.350877193,36.35,Brady,#N/A,0.350877193,20,52.45614035,0.005521699
+P,Anna Blinkova (13044704),Anna Blinkova,13044704,P,9900,Gracheva@Blinkova 07/29/2019 03:35PM ET,Blinkova,36.81,-201,0.667774086,70,0.332225914,36.35,Gracheva,#N/A,0.332225914,20,53.38870432,0.005392798

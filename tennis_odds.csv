@@ -1,49 +1,60 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp-atlanta-usa/0,G. Dimitrov,-909,Kevin King,+453
-1,atp-atlanta-usa/1,Miomir Kecmanovic,-333,J. Sock,+219
-2,atp-atlanta-usa/2,Radu Albot,-139,Tennys Sandgren,+100
-3,atp-atlanta-usa/3,Kamil Majchrzak,-189,M. Ebden,+134
-4,atp-atlanta-usa/4,Soon Woo Kwon,-345,Prajnesh Gunneswaran,+226
-5,atp-atlanta-usa/5,Dan Evans,-294,Jason Jung,+199
-6,atp-atlanta-usa/6,Reilly Opelka,-233,Alexander Bublik,+164
-7,atp-atlanta-usa/7,F. Tiafoe,-312,Bernard Tomic,+211
-8,atp-atlanta-usa/8,Pierre-Hugues Herbert,-132,Alexei Popyrin,-105
-9,atp-gstaad-switzerland/0,J. Munar,-357,M. Jaziri,+238
-10,atp-gstaad-switzerland/1,Joao Sousa,-217,S. Darcis,+154
-11,atp-gstaad-switzerland/2,Albert Ramos-Vinolas,-172,H. Laaksonen,+124
-12,atp-gstaad-switzerland/3,Denis Istomin,-119,Marc-Andrea Huesler,-115
-13,atp-gstaad-switzerland/4,Lorenzo Sonego,-303,Thomas Fabbiano,+207
-14,atp-gstaad-switzerland/5,Roberto Carballes Baena,-172,Stefano Travaglia,+124
-15,atp-gstaad-switzerland/6,J. Vesely,-244,Cedrik-Marcel Stebe,+170
-16,atp-hamburg-germany/0,R. Gasquet,-270,Sumit Nagal,+185
-17,atp-hamburg-germany/1,Juan Ignacio Londero,-294,Salvatore Caruso,+201
-18,atp-hamburg-germany/2,Casper Ruud,-233,R. Haase,+164
-19,atp-hamburg-germany/3,"Basilashvili, Nikoloz",-147,Hugo Dellien,+106
-20,atp-hamburg-germany/4,J-L. Struff,-161,Thiago Moura Monteiro,+116
-21,atp-hamburg-germany/5,D. Thiem,-417,Pablo Cuevas,+267
-22,atp-hamburg-germany/6,A. Zverev,-294,Nicolas Jarry,+200
-23,atp-hamburg-germany/7,P. Carreno Busta,-167,Yannick Hanfmann,+120
-24,atp-hamburg-germany/8,Federico Delbonis,-227,M. Cecchinato,+158
-25,atp-hamburg-germany/9,Filip Krajinovic,-147,Laslo Djere,+107
-26,atp-hamburg-germany/10,F. Fognini,-345,Julian Lenz,+231
-27,wta-palermo-italy/0,Jil Belen Teichmann,-175,Daria Gavrilova,+125
-28,wta-palermo-italy/1,Laura Siegemund,-270,Jasmine Paolini,+185
-29,wta-palermo-italy/2,Viktoria Kuzmova,-769,Elisabetta Cocciaretto,+406
-30,wta-palermo-italy/3,Irina-Camelia Begu,-345,Tereza Mrdeza,+229
-31,wta-palermo-italy/4,Anna-Lena Friedsam,-175,S. Voegele,+125
-32,wta-palermo-italy/5,K. Bertens,-Infinity,Ekaterine Gorgodze,+1187
-33,wta-palermo-italy/6,Martina Di Giuseppe,-130,S. Errani,-105
-34,wta-palermo-italy/7,Alize Cornet,-370,Martina Trevisan,+245
-35,wta-palermo-italy/8,Sara Sorribes Tormo,-139,Fiona Ferro,+101
-36,wta-jurmala-latvia0,Sorana Cirstea,-233,Valentyna Ivakhnenko,+161
-37,wta-jurmala-latvia1,K. Kucova,-147,Paula Ormaechea,+107
-38,wta-jurmala-latvia2,C. Garcia,-204,Kristyna Pliskova,+145
-39,wta-jurmala-latvia3,P.M. Tig,-345,Ankita Raina,+231
-40,wta-jurmala-latvia4,Ysaline Bonaventure,-130,Katarzyna Kawa,-106
-41,wta-jurmala-latvia5,Aliaksandra Sasnovich,-189,Nina Stojanovic,+134
-42,wta-jurmala-latvia6,Tatjana Maria,-270,Jana Fett,+184
-43,wta-jurmala-latvia7,B.Eraydin,-149,C. Paquet,+108
-44,wta-jurmala-latvia8,Elena Rybakina,-588,Xinyun Han,+348
-45,wta-jurmala-latvia9,A. Sevastova,-455,Varvara Flink,+289
-46,wta-jurmala-latvia10,Bernarda Pera,-118,J. Ostapenko,-116
-47,wta-jurmala-latvia11,Anastasia Potapova,-213,B. Haas,+149
+0,atp-kitzbuhel-austria/0,J. Munar,-323,Thomas Fabbiano,+215
+1,atp-kitzbuhel-austria/1,L. Mayer,-147,Pablo Andujar,+106
+2,atp-kitzbuhel-austria/2,Guillermo Garcia-Lopez,-133,J. Kovalik,-103
+3,atp-kitzbuhel-austria/3,P. Carreno Busta,-169,Casper Ruud,+122
+4,atp-kitzbuhel-austria/4,R. Gasquet,-164,P. Kohlschreiber,+119
+5,atp-kitzbuhel-austria/5,Mu00e1rton Fucsovics,-156,Albert Ramos-Vinolas,+113
+6,atp-kitzbuhel-austria/6,Lucas Miedler,-141,Sebastian Ofner,+102
+7,atp-kitzbuhel-austria/7,Roberto Carballes Baena,-143,Lorenzo Sonego,+103
+8,atp-kitzbuhel-austria/8,Pablo Cuevas,-204,Dennis Novak,+146
+9,atp-kitzbuhel-austria/9,D. Lajovic,-152,Jeremy Chardy,+110
+10,wta-125k-karlsruhe-germany/0,Elena Ruse,-108,Antonia Lottner,-105
+11,wta-125k-karlsruhe-germany/1,Irina-Camelia Begu,-1667,Renata Voracova,+1080
+12,wta-125k-karlsruhe-germany/2,Daria Gavrilova,-133,Tereza Martincova,+116
+13,wta-125k-karlsruhe-germany/3,Tamara Zidansek,-625,Ekaterine Gorgodze,+482
+14,wta-125k-karlsruhe-germany/4,Barbora Krejcikova,-145,P.M. Tig,+126
+15,wta-125k-karlsruhe-germany/5,Richel Hogenkamp,-127,Tereza Mrdeza,+111
+16,wta-125k-karlsruhe-germany/6,Tatjana Maria,-167,Xinyun Han,+144
+17,wta-125k-karlsruhe-germany/7,Paula Badosa Gibert,-159,L. Arruabarrena,+139
+18,wta-125k-karlsruhe-germany/8,Laura Siegemund,-323,Dalila Jakupovic,+271
+19,wta-125k-karlsruhe-germany/9,Anna-Lena Friedsam,-112,Tamara Korpatsch,-103
+20,atp-washington-usa/0,T. Smyczek,-500,M. Ebden,+304
+21,atp-washington-usa/1,Hubert Hurkacz,-370,D. Young,+240
+22,atp-washington-usa/2,Marc Polmans,-141,M. Jaziri,+102
+23,atp-washington-usa/3,Miomir Kecmanovic,-179,Alexei Popyrin,+127
+24,atp-washington-usa/4,Dan Evans,-294,Y. Nishioka,+200
+25,atp-washington-usa/5,Reilly Opelka,-303,Christopher Eubanks,+205
+26,atp-washington-usa/6,Jordan Thompson,-172,J. Sock,+124
+27,atp-washington-usa/7,Andrey Rublev,-182,Bernard Tomic,+130
+28,atp-washington-usa/9,N. Kyrgios,-476,Thai-Son Kwiatkowski,+299
+29,wta-washington-usa/0,Jessica Pegula,-182,Katerina Siniakova,+130
+30,wta-washington-usa/1,L. Davis,-10000,E. Bouchard,+1039
+31,wta-washington-usa/2,Anna Kalinskaya,-10000,Nao Hibino,+1044
+32,wta-washington-usa/3,Monica Puig,-233,Allie Kiick,+164
+33,wta-washington-usa/4,S. Stephens,-345,R. Peterson,+231
+34,wta-washington-usa/5,Kristina Mladenovic,-179,S. Rogers,+127
+35,wta-washington-usa/6,Camila Giorgi,-161,Sachia Vickery,+117
+36,wta-washington-usa/7,Cori Gauff,-196,Z. Diyas,+139
+37,wta-washington-usa/8,Catherine McNally,-192,L. Zhu,+136
+38,wta-washington-usa/9,S. Hsieh,-323,Kirsten Flipkens,+219
+39,wta-san-jose-usa0,Marie Bouzkova,-244,C. Vandeweghe,+171
+40,wta-san-jose-usa1,Mihaela Buzarnescu,-133,D. Kasatkina,-104
+41,wta-san-jose-usa2,Madison Brengle,-135,Andrea Petkovic,-102
+42,wta-san-jose-usa3,Donna Vekic,-417,Misaki Doi,+269
+43,wta-san-jose-usa4,Saisai Zheng,-169,H. Watson,+122
+44,wta-san-jose-usa5,Danielle Collins,-130,Shuai Zhang,-106
+45,wta-san-jose-usa6,Victoria Azarenka,-1111,Harmony Tan,+512
+46,wta-san-jose-usa7,V. Williams,-769,B. Mattek-Sands,+419
+47,atp-los-cabos-mexico0,J. Millman,-164,Prajnesh Gunneswaran,+118
+48,atp-los-cabos-mexico1,Mikhail Kukushkin,-139,Damir Dzumhur,+101
+49,atp-los-cabos-mexico2,T. Kokkinakis,-263,Maxime Janvier,+180
+50,atp-los-cabos-mexico3,Marcel Granollers,-2000,Lucas Gomez,+659
+51,atp-los-cabos-mexico4,Jason Jung,-182,Ernests Gulbis,+131
+52,atp-los-cabos-mexico5,Cameron Norrie,-357,Gregoire Barrere,+231
+53,atp-los-cabos-mexico6,G. Dimitrov,-156,S. Johnson,+113
+54,atp-los-cabos-mexico7,Christian Garin,-200,Juan Ignacio Londero,+143
+55,atp-los-cabos-mexico8,Tennys Sandgren,-303,Taro Daniel,+204
+56,atp-los-cabos-mexico9,Radu Albot,-294,Janko Tipsarevic,+200
+57,atp-los-cabos-mexico10,Soon Woo Kwon,-370,Cedrik-Marcel Stebe,+239
+58,atp-los-cabos-mexico11,Taylor Harry Fritz,-345,Dominik Koepfer,+226
