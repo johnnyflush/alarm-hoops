@@ -1,45 +1,32 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp-kitzbuhel-austria/0,F. Verdasco,-250,J. Kovalik,+173
-1,atp-kitzbuhel-austria/1,D. Lajovic,-154,Jeremy Chardy,+110
-2,atp-kitzbuhel-austria/2,Casper Ruud,-435,Matthias Bachinger,+274
-3,atp-kitzbuhel-austria/3,J. Munar,-123,Albert Ramos-Vinolas,-112
-4,atp-kitzbuhel-austria/4,Pablo Cuevas,-217,Dennis Novak,+153
-5,atp-kitzbuhel-austria/5,Roberto Carballes Baena,-147,Lorenzo Sonego,+106
-6,atp-kitzbuhel-austria/6,P. Kohlschreiber,-119,Pablo Andujar,-115
-7,atp-kitzbuhel-austria/7,D. Thiem,-5000,Sebastian Ofner,+881
-8,wta-125k-karlsruhe-germany/0,Tamara Korpatsch,-133,Anna-Lena Friedsam,+117
-9,wta-125k-karlsruhe-germany/1,P.M. Tig,-143,Elena Ruse,+125
-10,wta-125k-karlsruhe-germany/2,Bibiane Schoofs,-156,Ekaterine Gorgodze,+136
-11,wta-125k-karlsruhe-germany/3,Jasmine Paolini,-127,Tereza Martincova,+110
-12,wta-125k-karlsruhe-germany/4,Tatjana Maria,-222,Stephanie Wagner,+192
-13,atp-washington-usa/0,Peter Gojowczyk,-417,Andrey Rublev,+266
-14,atp-washington-usa/1,M. Cilic,-2000,Marius Copil,+662
-15,atp-washington-usa/2,K. Khachanov,-149,Jo-Wilfried Tsonga,+108
-16,atp-washington-usa/3,N. Kyrgios,-526,Thai-Son Kwiatkowski,+323
-17,atp-washington-usa/4,K. Anderson,-294,Adrian Mannarino,+200
-18,atp-washington-usa/5,Miomir Kecmanovic,-175,Pierre-Hugues Herbert,+126
-19,atp-washington-usa/6,J. Isner,-164,Hubert Hurkacz,+118
-20,atp-washington-usa/7,Reilly Opelka,-130,Felix Auger Aliassime,-105
-21,atp-washington-usa/8,Benoit Paire,-208,Marc Polmans,+147
-22,atp-washington-usa/9,M. Raonic,-833,T. Smyczek,+424
-23,atp-washington-usa/10,D. Goffin,-323,Y. Nishioka,+219
-24,atp-washington-usa/11,Stefanos Tsitsipas,-435,Tommy Paul,+273
-25,atp-washington-usa/12,Jordan Thompson,-122,J-L. Struff,-112
-26,wta-washington-usa/0,Catherine McNally,-526,L. Zhu,+320
-27,wta-washington-usa/1,S. Hsieh,-345,Kirsten Flipkens,+225
-28,wta-washington-usa/2,Iga Swiatek,-167,Jessica Pegula,+120
-29,wta-washington-usa/3,Sofia Kenin,-294,L. Davis,+202
-30,wta-washington-usa/4,Monica Puig,-217,Anna Kalinskaya,+154
-31,wta-san-jose-usa0,Victoria Azarenka,-10000,Harmony Tan,+1083
-32,wta-san-jose-usa1,V. Williams,-1250,B. Mattek-Sands,+538
-33,wta-san-jose-usa2,Maria Sakkari,-625,Mayo Hibi,+365
-34,wta-san-jose-usa3,E. Svitolina,-385,D. Kasatkina,+249
-35,wta-san-jose-usa4,Aryna Sabalenka,-303,C. Vandeweghe,+203
-36,wta-san-jose-usa5,Elise Mertens,-588,Kristie Ahn,+346
-37,atp-los-cabos-mexico0,Christian Garin,-1111,Juan Ignacio Londero,+506
-38,atp-los-cabos-mexico1,Taro Daniel,-222,Tennys Sandgren,+158
-39,atp-los-cabos-mexico2,Radu Albot,-400,Janko Tipsarevic,+261
-40,atp-los-cabos-mexico3,Cameron Norrie,-400,Gregoire Barrere,+258
-41,atp-los-cabos-mexico4,G. Dimitrov,-159,S. Johnson,+114
-42,atp-los-cabos-mexico5,Soon Woo Kwon,-500,Cedrik-Marcel Stebe,+304
-43,atp-los-cabos-mexico6,Taylor Harry Fritz,-333,Dominik Koepfer,+221
+0,atp-montreal-canada0,Cameron Norrie,-118,Mu00e1rton Fucsovics,+105
+1,atp-montreal-canada1,M. Raonic,-238,L. Pouille,+209
+2,atp-montreal-canada2,Jo-Wilfried Tsonga,-159,J-L. Struff,+141
+3,atp-montreal-canada3,Christian Garin,-123,Laslo Djere,+110
+4,atp-montreal-canada4,"Basilashvili, Nikoloz",-161,D. Lajovic,+143
+5,atp-montreal-canada6,S. Wawrinka,-196,G. Dimitrov,+172
+6,atp-montreal-canada7,Mikhail Kukushkin,-116,Adrian Mannarino,+103
+7,atp-montreal-canada9,Benoit Paire,-133,R. Gasquet,+119
+8,atp-montreal-canada10,Denis Shapovalov,-179,Pierre-Hugues Herbert,+156
+9,atp-montreal-canada12,G. Monfils,-556,Peter Polansky,+448
+10,atp-montreal-canada13,Felix Auger Aliassime,-556,V. Pospisil,+445
+11,atp-montreal-canada14,J. Isner,-189,Jordan Thompson,+167
+12,atp-montreal-canada15,N. Kyrgios,-120,K. Edmund,+107
+13,atp-montreal-canada16,D. Goffin,-217,Guido Pella,+192
+14,atp-montreal-canada17,Hubert Hurkacz,-130,Taylor Harry Fritz,+116
+15,atp-montreal-canada18,Borna Coric,-250,Peter Gojowczyk,+215
+16,atp-montreal-canada19,D. Schwartzman,-400,M. Cecchinato,+337
+17,atp-montreal-canada20,G. Simon,-147,Radu Albot,+130
+18,wta-toronto-canada0,C. Garcia,-208,J. Ostapenko,+175
+19,wta-toronto-canada1,A. Sevastova,-161,L. Tsurenko,+137
+20,wta-toronto-canada2,Elise Mertens,-222,Aliaksandra Sasnovich,+185
+21,wta-toronto-canada3,Donna Vekic,-115,M. Keys,-102
+22,wta-toronto-canada4,Danielle Collins,-141,Katerina Siniakova,+119
+23,wta-toronto-canada5,Sofia Kenin,-128,S. Hsieh,+109
+24,wta-toronto-canada6,Bianca Vanessa Andreescu,-303,E. Bouchard,+247
+25,wta-toronto-canada7,C. Suarez Navarro,-122,V. Williams,+104
+26,wta-toronto-canada8,Victoria Azarenka,-189,Camila Giorgi,+158
+27,wta-toronto-canada9,J. Konta,-145,Dayana Yastremska,+123
+28,wta-toronto-canada10,C. Wozniacki,-217,Yulia Putintseva,+182
+29,wta-toronto-canada11,M. Sharapova,-137,A. Kontaveit,+117
+30,wta-toronto-canada12,A. Kerber,-250,D. Kasatkina,+188
