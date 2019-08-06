@@ -1,49 +1,26 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp-montreal-canada0,Cameron Norrie,-119,Mu00e1rton Fucsovics,+108
-1,atp-montreal-canada1,M. Raonic,-233,L. Pouille,+205
-2,atp-montreal-canada2,Jo-Wilfried Tsonga,-169,J-L. Struff,+152
-3,atp-montreal-canada3,Christian Garin,-127,Laslo Djere,+115
-4,atp-montreal-canada4,"Basilashvili, Nikoloz",-167,D. Lajovic,+147
-5,atp-montreal-canada5,Tommy Paul,-161,Brayden Schnur,+143
-6,atp-montreal-canada6,S. Wawrinka,-227,G. Dimitrov,+197
-7,atp-montreal-canada7,Adrian Mannarino,-106,Mikhail Kukushkin,-106
-8,atp-montreal-canada8,R. Agut,-476,Bernard Tomic,+393
-9,atp-montreal-canada9,Benoit Paire,-147,R. Gasquet,+130
-10,atp-montreal-canada10,Denis Shapovalov,-179,Pierre-Hugues Herbert,+156
-11,atp-montreal-canada11,Soon Woo Kwon,-222,Ilya Ivashka,+194
-12,atp-montreal-canada12,G. Monfils,-556,Peter Polansky,+461
-13,atp-montreal-canada13,Felix Auger Aliassime,-588,V. Pospisil,+471
-14,atp-montreal-canada14,J. Isner,-189,Jordan Thompson,+167
-15,atp-montreal-canada15,N. Kyrgios,-111,K. Edmund,-101
-16,atp-montreal-canada16,D. Goffin,-213,Guido Pella,+185
-17,atp-montreal-canada17,Hubert Hurkacz,-132,Taylor Harry Fritz,+116
-18,atp-montreal-canada18,Borna Coric,-244,Peter Gojowczyk,+214
-19,atp-montreal-canada19,D. Schwartzman,-417,M. Cecchinato,+352
-20,atp-montreal-canada20,G. Simon,-147,Radu Albot,+130
-21,atp-montreal-canada21,Matteo Berrettini,-172,Feliciano Lopez,+153
-22,atp-montreal-canada22,Alex Di Minaur,-152,Dan Evans,+134
-23,atp-montreal-canada23,M. Cilic,-303,Bradley Klahn,+261
-24,wta-toronto-canada0,Jennifer Brady,-161,Kristina Mladenovic,+137
-25,wta-toronto-canada1,Elise Mertens,-217,Aliaksandra Sasnovich,+183
-26,wta-toronto-canada2,J. Konta,-161,Dayana Yastremska,+136
-27,wta-toronto-canada3,B. Bencic,-270,Anastasia Potapova,+220
-28,wta-toronto-canada4,Marie Bouzkova,-323,Leylah Annie Fernandez,+264
-29,wta-toronto-canada5,Sofia Kenin,-156,S. Hsieh,+132
-30,wta-toronto-canada6,J. Goerges,-149,Polona Hercog,+127
-31,wta-toronto-canada7,C. Wozniacki,-222,Yulia Putintseva,+185
-32,wta-toronto-canada8,Petra Martic,-435,Francesca Di Lorenzo,+336
-33,wta-toronto-canada9,C. Garcia,-208,J. Ostapenko,+174
-34,wta-toronto-canada10,Xiyu Wang,-125,S. Kuznetsova,+107
-35,wta-toronto-canada11,M. Sharapova,-123,A. Kontaveit,+105
-36,wta-toronto-canada12,A. Kerber,-238,D. Kasatkina,+197
-37,wta-toronto-canada13,Ajla Tomljanovic,-127,Iga Swiatek,-101
-38,wta-toronto-canada14,Ekaterina Alexandrova,-154,Misaki Doi,+120
-39,wta-toronto-canada15,Maria Sakkari,-159,Alison Riske,+124
-40,wta-toronto-canada16,Saisai Zheng,-213,Tatjana Maria,+162
-41,wta-toronto-canada17,A. Sevastova,-172,L. Tsurenko,+134
-42,wta-toronto-canada18,Victoria Azarenka,-200,Camila Giorgi,+154
-43,wta-toronto-canada19,Donna Vekic,-120,M. Keys,-105
-44,wta-toronto-canada20,Danielle Collins,-147,Katerina Siniakova,+116
-45,wta-toronto-canada21,Aryna Sabalenka,-112,Amanda Anisimova,-112
-46,wta-toronto-canada22,Bianca Vanessa Andreescu,-323,E. Bouchard,+234
-47,wta-toronto-canada23,C. Suarez Navarro,-128,V. Williams,+101
+0,atp-montreal-canada0,G. Monfils,-769,Peter Polansky,+642
+1,atp-montreal-canada1,G. Simon,-145,Radu Albot,+127
+2,atp-montreal-canada2,Alex Di Minaur,-169,Dan Evans,+150
+3,atp-montreal-canada3,M. Cilic,-303,Bradley Klahn,+259
+4,atp-montreal-canada4,J. Isner,-200,Jordan Thompson,+175
+5,atp-montreal-canada5,D. Goffin,-213,Guido Pella,+185
+6,atp-montreal-canada6,D. Schwartzman,-400,M. Cecchinato,+339
+7,atp-montreal-canada7,Matteo Berrettini,-128,Feliciano Lopez,+114
+8,atp-montreal-canada8,Felix Auger Aliassime,-588,V. Pospisil,+471
+9,atp-montreal-canada9,Hubert Hurkacz,-135,Taylor Harry Fritz,+120
+10,atp-montreal-canada10,Borna Coric,-238,Peter Gojowczyk,+208
+11,atp-montreal-canada11,K. Edmund,-120,N. Kyrgios,+107
+12,wta-toronto-canada0,A. Kontaveit,-135,M. Sharapova,+106
+13,wta-toronto-canada1,A. Kerber,-238,D. Kasatkina,+196
+14,wta-toronto-canada2,Donna Vekic,-110,M. Keys,-106
+15,wta-toronto-canada3,Danielle Collins,-149,Katerina Siniakova,+127
+16,wta-toronto-canada4,Bianca Vanessa Andreescu,-294,E. Bouchard,+240
+17,wta-toronto-canada5,C. Suarez Navarro,-120,V. Williams,+103
+18,wta-toronto-canada6,Ajla Tomljanovic,-119,Iga Swiatek,+102
+19,wta-toronto-canada7,Ekaterina Alexandrova,-132,Misaki Doi,+112
+20,wta-toronto-canada8,Maria Sakkari,-152,Alison Riske,+129
+21,wta-toronto-canada9,Saisai Zheng,-182,Tatjana Maria,+153
+22,wta-toronto-canada10,Aryna Sabalenka,-238,A. Pavlyuchenkova,+197
+23,wta-toronto-canada11,A. Sevastova,-213,Shuai Zhang,+177
+24,wta-toronto-canada12,Victoria Azarenka,-204,Camila Giorgi,+171
