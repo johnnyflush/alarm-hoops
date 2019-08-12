@@ -1,32 +1,46 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp-cincinnati-usa0,J. Isner,-213,D. Lajovic,+162
-1,atp-cincinnati-usa1,D. Schwartzman,-526,Laslo Djere,+407
-2,atp-cincinnati-usa2,Matteo Berrettini,-227,Juan Ignacio Londero,+190
-3,atp-cincinnati-usa3,N. Kyrgios,-294,Lorenzo Sonego,+243
-4,atp-cincinnati-usa4,Adrian Mannarino,-127,Christian Garin,+108
-5,atp-cincinnati-usa5,Sam Querrey,-149,Pierre-Hugues Herbert,+126
-6,atp-cincinnati-usa6,D. Goffin,-132,Taylor Harry Fritz,+112
-7,atp-cincinnati-usa7,F. Tiafoe,-120,G. Monfils,+103
-8,atp-cincinnati-usa8,R. Agut,-196,Hubert Hurkacz,+163
-9,atp-cincinnati-usa9,Denis Shapovalov,-204,F. Fognini,+170
-10,atp-cincinnati-usa10,Benoit Paire,-122,F. Verdasco,+104
-11,atp-cincinnati-usa11,Reilly Opelka,-130,Borna Coric,+110
-12,atp-cincinnati-usa12,M. Cilic,-278,Radu Albot,+226
-13,atp-cincinnati-usa13,S. Wawrinka,-263,G. Dimitrov,+216
-14,atp-cincinnati-usa14,Daniil Medvedev,-189,K. Edmund,+157
-15,wta-cincinnati-usa0,Sofia Kenin,-169,J. Goerges,+143
-16,wta-cincinnati-usa1,A. Kerber,-192,A. Kontaveit,+161
-17,wta-cincinnati-usa2,Elise Mertens,-238,Catherine McNally,+197
-18,wta-cincinnati-usa3,M. Sharapova,-122,Alison Riske,+103
-19,wta-cincinnati-usa4,Maria Sakkari,-130,Camila Giorgi,+111
-20,wta-cincinnati-usa5,M. Keys,-167,G. Muguruza,+141
-21,wta-cincinnati-usa6,Q. Wang,-115,S. Hsieh,-103
-22,wta-cincinnati-usa7,Donna Vekic,-164,Katerina Siniakova,+139
-23,wta-cincinnati-usa8,Amanda Anisimova,-175,D. Kasatkina,+148
-24,wta-cincinnati-usa9,Aryna Sabalenka,-164,Petra Martic,+139
-25,wta-cincinnati-usa10,A. Sevastova,-164,S. Kuznetsova,+139
-26,wta-cincinnati-usa11,Saisai Zheng,-133,Viktoria Kuzmova,+114
-27,wta-cincinnati-usa12,C. Wozniacki,-114,Dayana Yastremska,-103
-28,wta-cincinnati-usa13,B. Bencic,-115,Victoria Azarenka,-102
-29,wta-cincinnati-usa14,Ekaterina Alexandrova,-147,C. Suarez Navarro,+125
-30,wta-cincinnati-usa15,Yulia Putintseva,-149,J. Ostapenko,+126
+0,atp-cincinnati-usa0,Adrian Mannarino,-139,Christian Garin,+119
+1,atp-cincinnati-usa1,M. Cilic,-294,Radu Albot,+240
+2,atp-cincinnati-usa2,L. Pouille,-161,Denis Kudla,+136
+3,atp-cincinnati-usa3,Y. Nishioka,-149,Jordan Thompson,+128
+4,atp-cincinnati-usa4,Felix Auger Aliassime,-182,Miomir Kecmanovic,+152
+5,atp-cincinnati-usa5,Matteo Berrettini,-250,Juan Ignacio Londero,+208
+6,atp-cincinnati-usa6,Sam Querrey,-156,Pierre-Hugues Herbert,+132
+7,atp-cincinnati-usa7,J-L. Struff,-233,Ivo Karlovic,+192
+8,atp-cincinnati-usa8,Guido Pella,-164,Casper Ruud,+139
+9,atp-cincinnati-usa9,P. Carreno Busta,-152,G. Simon,+128
+10,atp-cincinnati-usa10,N. Kyrgios,-303,Lorenzo Sonego,+247
+11,atp-cincinnati-usa11,Reilly Opelka,-132,Borna Coric,+112
+12,atp-cincinnati-usa12,D. Schwartzman,-625,Laslo Djere,+398
+13,atp-cincinnati-usa13,D. Goffin,-141,Taylor Harry Fritz,+111
+14,atp-cincinnati-usa14,F. Tiafoe,-128,G. Monfils,+101
+15,atp-cincinnati-usa15,Daniil Medvedev,-164,K. Edmund,+129
+16,atp-cincinnati-usa16,R. Agut,-204,Hubert Hurkacz,+156
+17,atp-cincinnati-usa17,Denis Shapovalov,-204,F. Fognini,+158
+18,atp-cincinnati-usa18,Benoit Paire,-127,F. Verdasco,-101
+19,atp-cincinnati-usa19,S. Wawrinka,-270,G. Dimitrov,+204
+20,atp-cincinnati-usa20,"Basilashvili, Nikoloz",-141,Andrey Rublev,+111
+21,wta-cincinnati-usa0,Elise Mertens,-222,Catherine McNally,+185
+22,wta-cincinnati-usa1,Yulia Putintseva,-128,J. Ostapenko,+109
+23,wta-cincinnati-usa2,Aliaksandra Sasnovich,-118,Astra Sharma,+100
+24,wta-cincinnati-usa3,Maria Sakkari,-147,Camila Giorgi,+125
+25,wta-cincinnati-usa4,Veronika Kudermetova,-156,Bernarda Pera,+132
+26,wta-cincinnati-usa5,L. Davis,-112,V. Williams,-105
+27,wta-cincinnati-usa6,Aryna Sabalenka,-167,Petra Martic,+140
+28,wta-cincinnati-usa7,C. Garcia,-119,Iga Swiatek,+102
+29,wta-cincinnati-usa8,J. Konta,-172,R. Peterson,+146
+30,wta-cincinnati-usa9,M. Sharapova,-119,Alison Riske,+101
+31,wta-cincinnati-usa10,A. Sevastova,-169,S. Kuznetsova,+143
+32,wta-cincinnati-usa11,Dayana Yastremska,-110,C. Wozniacki,-106
+33,wta-cincinnati-usa12,Sofia Kenin,-189,J. Goerges,+145
+34,wta-cincinnati-usa13,A. Kerber,-204,A. Kontaveit,+156
+35,wta-cincinnati-usa14,M. Keys,-175,G. Muguruza,+137
+36,wta-cincinnati-usa15,Q. Wang,-119,S. Hsieh,-106
+37,wta-cincinnati-usa16,Donna Vekic,-175,Katerina Siniakova,+136
+38,wta-cincinnati-usa17,Amanda Anisimova,-185,D. Kasatkina,+143
+39,wta-cincinnati-usa18,Saisai Zheng,-141,Viktoria Kuzmova,+111
+40,wta-cincinnati-usa19,B. Bencic,-116,Victoria Azarenka,-110
+41,wta-cincinnati-usa20,Ekaterina Alexandrova,-156,C. Suarez Navarro,+122
+42,wta-cincinnati-usa21,L. Tsurenko,-120,Monica Puig,-105
+43,wta-cincinnati-usa22,S. Williams,-385,Z. Diyas,+274
+44,wta-cincinnati-usa23,Jennifer Brady,-208,Ons Jabeur,+160
