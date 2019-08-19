@@ -1,31 +1,41 @@
 Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame,ML,ProbWin,DK_Pts,ProbLose,ActualPoints,Opponent,OpponentPoints,OpponentOdds,LosePoints,ProbPoints,Value
-P,Novak Djokovic (13140922),Novak Djokovic,13140922,P,10900,Carreno-Busta@Djokovic 08/15/2019 07:00PM ET,Djokovic,68.73,,1,70,0,36.35,Carreno-Busta,#N/A,0,20,70,0.006422018
-P,Roger Federer (13140917),Roger Federer,13140917,P,10300,Rublev@Federer 08/15/2019 02:15PM ET,Federer,69.62,,,,,,,,,,,
-P,Ashleigh Barty (13140925),Ashleigh Barty,13140925,P,9700,Kontaveit@Barty 08/15/2019 11:00AM ET,Barty,66.97,,,,,,,,,,,
-P,Karolina Pliskova (13140929),Karolina Pliskova,13140929,P,9500,Peterson@Pliskova 08/15/2019 01:40PM ET,Pliskova,64.85,,,,,,,,,,,
-P,Daniil Medvedev (13140915),Daniil Medvedev,13140915,P,9200,Struff@Medvedev 08/15/2019 01:00PM ET,Medvedev,59.83,,,,,,,,,,,
-P,Naomi Osaka (13140931),Naomi Osaka,13140931,P,9000,Osaka@Hsieh 08/15/2019 02:30PM ET,Osaka,57.7,,,,,,,,,,,
-P,Sloane Stephens (13140933),Sloane Stephens,13140933,P,8900,Stephens@Kuznetsova 08/15/2019 02:55PM ET,Stephens,48.93,,,,,,,,,,,
-P,Roberto Bautista-Agut (13140919),Roberto Bautista-Agut,13140919,P,8800,Bautista-Agut@Kecmanovic 08/15/2019 02:20PM ET,Bautista-Agut,57.79,,,,,,,,,,,
-P,David Goffin (13140913),David Goffin,13140913,P,8700,Mannarino@Goffin 08/15/2019 12:20PM ET,Goffin,51.7,,,,,,,,,,,
-P,Alex De Minaur (13140909),Alex De Minaur,13140909,P,8600,De Minaur@Nishioka 08/15/2019 11:00AM ET,De Minaur,51.9,,,,,,,,,,,
-P,Simona Halep (13140935),Simona Halep,13140935,P,8500,Halep@Keys 08/15/2019 07:00PM ET,Halep,61.51,,,,,,,,,,,
-P,Donna Vekic (13140928),Donna Vekic,13140928,P,8400,Vekic@Williams 08/15/2019 01:00PM ET,Vekic,56.61,,,,,,,,,,,
-P,Diego Schwartzman (13140911),Diego Schwartzman,13140911,P,8200,Gasquet@Schwartzman 08/15/2019 11:00AM ET,Schwartzman,50.59,,,,,,,,,,,
-P,Aryna Sabalenka (13140924),Aryna Sabalenka,13140924,P,7900,Sakkari@Sabalenka 08/15/2019 11:00AM ET,Sabalenka,48.92,,,,,,,,,,,
-P,Sofia Kenin (13140938),Sofia Kenin,13140938,P,7700,Kenin@Svitolina 08/15/2019 09:00PM ET,Kenin,53.45,,,,,,,,,,,
-P,Elina Svitolina (13140937),Elina Svitolina,13140937,P,7300,Kenin@Svitolina 08/15/2019 09:00PM ET,Svitolina,53.04
-P,Maria Sakkari (13140923),Maria Sakkari,13140923,P,7100,Sakkari@Sabalenka 08/15/2019 11:00AM ET,Sakkari,50.54
-P,Richard Gasquet (13140912),Richard Gasquet,13140912,P,6800,Gasquet@Schwartzman 08/15/2019 11:00AM ET,Gasquet,47.43
-P,Venus Williams (13140927),Venus Williams,13140927,P,6500,Vekic@Williams 08/15/2019 01:00PM ET,Williams,48
-P,Madison Keys (13140936),Madison Keys,13140936,P,6400,Halep@Keys 08/15/2019 07:00PM ET,Keys,57.37
-P,Adrian Mannarino (13140914),Adrian Mannarino,13140914,P,6300,Mannarino@Goffin 08/15/2019 12:20PM ET,Mannarino,46.3
-P,Yoshihito Nishioka (13140910),Yoshihito Nishioka,13140910,P,6200,De Minaur@Nishioka 08/15/2019 11:00AM ET,Nishioka,46.69
-P,Svetlana Kuznetsova (13140934),Svetlana Kuznetsova,13140934,P,6100,Stephens@Kuznetsova 08/15/2019 02:55PM ET,Kuznetsova,47.21
-P,Miomir Kecmanovic (13140920),Miomir Kecmanovic,13140920,P,6000,Bautista-Agut@Kecmanovic 08/15/2019 02:20PM ET,Kecmanovic,49.6
-P,Jan-Lennard Struff (13140916),Jan-Lennard Struff,13140916,P,5900,Struff@Medvedev 08/15/2019 01:00PM ET,Struff,54.17
-P,Su-Wei Hsieh (13140932),Su-Wei Hsieh,13140932,P,5700,Osaka@Hsieh 08/15/2019 02:30PM ET,Hsieh,48.76
-P,Rebecca Peterson (13140930),Rebecca Peterson,13140930,P,5400,Peterson@Pliskova 08/15/2019 01:40PM ET,Peterson,43.32
-P,Anett Kontaveit (13140926),Anett Kontaveit,13140926,P,5200,Kontaveit@Barty 08/15/2019 11:00AM ET,Kontaveit,48.05
-P,Andrey Rublev (13140918),Andrey Rublev,13140918,P,4500,Rublev@Federer 08/15/2019 02:15PM ET,Rublev,48.42
-P,Pablo Carreno-Busta (13140921),Pablo Carreno-Busta,13140921,P,3300,Carreno-Busta@Djokovic 08/15/2019 07:00PM ET,Carreno-Busta,48.61
+P,Bjorn Fratangelo (13166224),Bjorn Fratangelo,13166224,P,10800,Fratangelo@Weintraub 08/19/2019 04:20PM ET,Fratangelo,31.39,,1,70,0,36.35,Weintraub,#N/A,0,20,70,0.006481481
+P,Viktorija Golubic (13166225),Viktorija Golubic,13166225,P,10500,Golubic@Ferro 08/19/2019 03:00PM ET,Golubic,38.06,,,,,,,,,,,
+P,Jeremy Chardy (13166226),Jeremy Chardy,13166226,P,10200,Chardy@Sarmiento 08/19/2019 04:30PM ET,Chardy,44.7,,,,,,,,,,,
+P,Andrey Rublev (13166227),Andrey Rublev,13166227,P,10000,Rublev@Fabbiano 08/19/2019 05:50PM ET,Rublev,48.16,,,,,,,,,,,
+P,Nicolas Jarry (13166228),Nicolas Jarry,13166228,P,9800,Jarry@Andujar 08/19/2019 03:00PM ET,Jarry,47.44,,,,,,,,,,,
+P,Steve Johnson (13166229),Steve Johnson,13166229,P,9600,Moutet@Johnson 08/19/2019 04:20PM ET,Johnson,42.36,,,,,,,,,,,
+P,Alexei Popyrin (13166230),Alexei Popyrin,13166230,P,9300,Popyrin@Monteiro 08/19/2019 03:00PM ET,Popyrin,38.85,,,,,,,,,,,
+P,Yulia Putintseva (13166231),Yulia Putintseva,13166231,P,9000,Putintseva@Zhu 08/19/2019 11:15AM ET,Putintseva,47.69,,,,,,,,,,,
+P,Camila Giorgi (13166232),Camila Giorgi,13166232,P,8800,Gasparyan@Giorgi 08/19/2019 11:15AM ET,Giorgi,42.04,,,,,,,,,,,
+P,Marcos Giron (13166233),Marcos Giron,13166233,P,8600,Carballes Baena@Giron 08/19/2019 04:20PM ET,Giron,39.64,,,,,,,,,,,
+P,Damir Dzumhur (13166234),Damir Dzumhur,13166234,P,8500,Dzumhur@Hoang 08/19/2019 04:20PM ET,Dzumhur,33.83,,,,,,,,,,,
+P,Casper Ruud (13166235),Casper Ruud,13166235,P,8400,Harris@Ruud 08/19/2019 05:40PM ET,Ruud,50.17,,,,,,,,,,,
+P,Karolina Muchova (13166236),Karolina Muchova,13166236,P,8300,Kuzmova@Muchova 08/19/2019 12:30PM ET,Muchova,53.96,,,,,,,,,,,
+P,Alexander Bublik (13166237),Alexander Bublik,13166237,P,8200,Bublik@Cecchinato 08/19/2019 03:00PM ET,Bublik,39.63,,,,,,,,,,,
+P,Andy Murray (13166238),Andy Murray,13166238,P,8100,Murray@Sandgren 08/19/2019 07:00PM ET,Murray,36.35,,,,,,,,,,,
+P,Magda Linette (13166239),Magda Linette,13166239,P,8000,Kanepi@Linette 08/19/2019 01:45PM ET,Linette,40.3
+P,Laura Siegemund (13166240),Laura Siegemund,13166240,P,7900,Buzarnescu@Siegemund 08/19/2019 01:45PM ET,Siegemund,36.53
+P,Jil Teichmann (13166242),Jil Teichmann,13166242,P,7800,Teichmann@Ahn 08/19/2019 12:30PM ET,Teichmann,60.96
+P,Alison van Uytvanck (13166241),Alison van Uytvanck,13166241,P,7800,Potapova@van Uytvanck 08/19/2019 11:15AM ET,van Uytvanck,46.19
+P,Henri Laaksonen (13166243),Henri Laaksonen,13166243,P,7700,Laaksonen@Lee 08/19/2019 03:00PM ET,Laaksonen,42.86
+P,Duckhee Lee (13166244),Duckhee Lee,13166244,P,7500,Laaksonen@Lee 08/19/2019 03:00PM ET,Lee,0
+P,Anastasia Potapova (13166245),Anastasia Potapova,13166245,P,7400,Potapova@van Uytvanck 08/19/2019 11:15AM ET,Potapova,41.3
+P,Kristie Haerim Ahn (13166246),Kristie Haerim Ahn,13166246,P,7300,Teichmann@Ahn 08/19/2019 12:30PM ET,Ahn,41.12
+P,Mihaela Buzarnescu (13166247),Mihaela Buzarnescu,13166247,P,7200,Buzarnescu@Siegemund 08/19/2019 01:45PM ET,Buzarnescu,33.85
+P,Kaia Kanepi (13166248),Kaia Kanepi,13166248,P,7100,Kanepi@Linette 08/19/2019 01:45PM ET,Kanepi,46.09
+P,Marco Cecchinato (13166249),Marco Cecchinato,13166249,P,6900,Bublik@Cecchinato 08/19/2019 03:00PM ET,Cecchinato,38.71
+P,Tennys Sandgren (13166250),Tennys Sandgren,13166250,P,6800,Murray@Sandgren 08/19/2019 07:00PM ET,Sandgren,45.35
+P,Viktoria Kuzmova (13166251),Viktoria Kuzmova,13166251,P,6700,Kuzmova@Muchova 08/19/2019 12:30PM ET,Kuzmova,43.24
+P,Antoine Hoang (13166252),Antoine Hoang,13166252,P,6600,Dzumhur@Hoang 08/19/2019 04:20PM ET,Hoang,39.34
+P,Roberto Carballes Baena (13166253),Roberto Carballes Baena,13166253,P,6500,Carballes Baena@Giron 08/19/2019 04:20PM ET,Carballes Baena,47.31
+P,Lloyd Harris (13166254),Lloyd Harris,13166254,P,6400,Harris@Ruud 08/19/2019 05:40PM ET,Harris,32.67
+P,Margarita Gasparyan (13166255),Margarita Gasparyan,13166255,P,6300,Gasparyan@Giorgi 08/19/2019 11:15AM ET,Gasparyan,39.28
+P,Thiago Moura Monteiro (13166256),Thiago Moura Monteiro,13166256,P,6200,Popyrin@Monteiro 08/19/2019 03:00PM ET,Monteiro,31.2
+P,Pablo Andujar (13166257),Pablo Andujar,13166257,P,6100,Jarry@Andujar 08/19/2019 03:00PM ET,Andujar,38.73
+P,Corentin Moutet (13166258),Corentin Moutet,13166258,P,6000,Moutet@Johnson 08/19/2019 04:20PM ET,Moutet,36.19
+P,Lin Zhu (13166259),Lin Zhu,13166259,P,5900,Putintseva@Zhu 08/19/2019 11:15AM ET,Zhu,23.01
+P,Thomas Fabbiano (13166260),Thomas Fabbiano,13166260,P,5800,Rublev@Fabbiano 08/19/2019 05:50PM ET,Fabbiano,39.64
+P,Raymond Sarmiento (13166261),Raymond Sarmiento,13166261,P,5700,Chardy@Sarmiento 08/19/2019 04:30PM ET,Sarmiento,0
+P,Fiona Ferro (13166262),Fiona Ferro,13166262,P,5300,Golubic@Ferro 08/19/2019 03:00PM ET,Ferro,46.98
+P,Amir Weintraub (13166263),Amir Weintraub,13166263,P,4700,Fratangelo@Weintraub 08/19/2019 04:20PM ET,Weintraub,0
