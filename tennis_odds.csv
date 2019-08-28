@@ -1,52 +1,65 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,atp-us-open-new-york-usa0,M. Cecchinato,-169,H. Laaksonen,+133
-1,atp-us-open-new-york-usa1,N. Kyrgios,-208,S. Johnson,+176
-2,atp-us-open-new-york-usa2,Roger Federer,-10000,Damir Dzumhur,+1964
-3,atp-us-open-new-york-usa3,Daniil Medvedev,-10000,Hugo Dellien,+2100
-4,atp-us-open-new-york-usa4,Novak Djokovic,-5000,Juan Ignacio Londero,+1552
-5,atp-us-open-new-york-usa5,D. Goffin,-1429,Gregoire Barrere,+882
-6,atp-us-open-new-york-usa6,K.  Nishikori,-667,Bradley Klahn,+492
-7,atp-us-open-new-york-usa7,Alex Di Minaur,-357,Christian Garin,+288
-8,atp-us-open-new-york-usa8,L. Pouille,-164,Dan Evans,+138
-9,atp-us-open-new-york-usa9,Y. Nishioka,-227,Feliciano Lopez,+188
-10,atp-us-open-new-york-usa10,D. Lajovic,-159,Denis Kudla,+134
-11,atp-us-open-new-york-usa11,Miomir Kecmanovic,-909,Paolo Lorenzi,+616
-12,atp-us-open-new-york-usa12,Pablo Cuevas,-154,Kamil Majchrzak,+130
-13,atp-us-open-new-york-usa13,S. Wawrinka,-286,Jeremy Chardy,+237
-14,atp-us-open-new-york-usa14,P. Carreno Busta,-312,R. Berankis,+256
-15,atp-us-open-new-york-usa15,"Basilashvili, Nikoloz",-400,"Brooksby, Jenson",+317
-16,atp-us-open-new-york-usa16,Reilly Opelka,-250,Dominik Koepfer,+208
-17,atp-us-open-new-york-usa17,Borna Coric,-164,G. Dimitrov,+139
-18,atp-us-open-new-york-usa18,Mikhail Kukushkin,-156,Alexei Popyrin,+122
-19,atp-us-open-new-york-usa19,Matteo Berrettini,-175,Jordan Thompson,+135
-20,atp-us-open-new-york-usa20,Andrey Rublev,-303,G. Simon,+225
-21,atp-us-open-new-york-usa21,J. Isner,-143,J-L. Struff,+112
-22,atp-us-open-new-york-usa22,Thomas Fabbiano,-169,Alexander Bublik,+132
-23,atp-us-open-new-york-usa23,Lorenzo Sonego,-263,Pablo Andujar,+200
-24,wta-us-open-new-york-usa0,Aryna Sabalenka,-116,Victoria Azarenka,-109
-25,wta-us-open-new-york-usa1,"Stephens, Sloane",-278,Anna Kalinskaya,+210
-26,wta-us-open-new-york-usa2,J. Konta,-385,Margarita Gasparyan,+304
-27,wta-us-open-new-york-usa3,Kristina Mladenovic,-149,Fiona Ferro,+126
-28,wta-us-open-new-york-usa4,Aliaksandra Sasnovich,-164,Ons Jabeur,+138
-29,wta-us-open-new-york-usa5,Q. Wang,-286,Alison Van Uytvanck,+233
-30,wta-us-open-new-york-usa6,Ka. Pliskova,-1250,Mariam Bolkvadze,+802
-31,wta-us-open-new-york-usa7,Petra Martic,-208,Ana Bogdan,+175
-32,wta-us-open-new-york-usa8,E. Svitolina,-169,V. Williams,+143
-33,wta-us-open-new-york-usa9,Ekaterina Alexandrova,-156,Shuai Zhang,+132
-34,wta-us-open-new-york-usa10,Karolina Muchova,-149,S. Hsieh,+126
-35,wta-us-open-new-york-usa11,M. Keys,-909,Lin Zhu,+611
-36,wta-us-open-new-york-usa12,Dayana Yastremska,-149,R. Peterson,+126
-37,wta-us-open-new-york-usa13,A. Sevastova,-110,Iga Swiatek,-106
-38,wta-us-open-new-york-usa14,Maria Sakkari,-385,S. Peng,+307
-39,wta-us-open-new-york-usa15,Yulia Putintseva,-2000,Madison Brengle,+840
-40,wta-us-open-new-york-usa16,Sofia Kenin,-833,Laura Siegemund,+570
-41,wta-us-open-new-york-usa17,Ashleigh Barty,-588,L. Davis,+447
-42,wta-us-open-new-york-usa18,S. Williams,-1667,Catherine McNally,+943
-43,wta-us-open-new-york-usa19,B. Bencic,-250,Alize Cornet,+191
-44,wta-us-open-new-york-usa20,P. Kvitova,-500,Andrea Petkovic,+342
-45,wta-us-open-new-york-usa21,J. Goerges,-286,Francesca Di Lorenzo,+211
-46,wta-us-open-new-york-usa22,Alison Riske,-208,J. Ostapenko,+159
-47,wta-us-open-new-york-usa23,N. Osaka,-286,Magda Linette,+212
-48,wta-us-open-new-york-usa24,Bianca Vanessa Andreescu,-2500,Kirsten Flipkens,+878
-49,wta-us-open-new-york-usa25,K. Bertens,-333,A. Pavlyuchenkova,+245
-50,wta-us-open-new-york-usa26,S. Halep,-1111,Taylor Townsend,+605
+0,atp-us-open-new-york-usa0,Roger Federer,-2500,Damir Dzumhur,+1190
+1,atp-us-open-new-york-usa1,Daniil Medvedev,-10000,Hugo Dellien,+1959
+2,atp-us-open-new-york-usa2,Novak Djokovic,-5000,Juan Ignacio Londero,+1625
+3,atp-us-open-new-york-usa3,D. Goffin,-1429,Gregoire Barrere,+881
+4,atp-us-open-new-york-usa4,K.  Nishikori,-769,Bradley Klahn,+556
+5,atp-us-open-new-york-usa5,Alex Di Minaur,-435,Christian Garin,+338
+6,atp-us-open-new-york-usa7,L. Pouille,-175,Dan Evans,+149
+7,atp-us-open-new-york-usa8,Y. Nishioka,-227,Feliciano Lopez,+190
+8,atp-us-open-new-york-usa9,D. Lajovic,-172,Denis Kudla,+145
+9,atp-us-open-new-york-usa10,Miomir Kecmanovic,-1111,Paolo Lorenzi,+693
+10,atp-us-open-new-york-usa11,Pablo Cuevas,-164,Kamil Majchrzak,+138
+11,atp-us-open-new-york-usa12,S. Wawrinka,-345,Jeremy Chardy,+279
+12,atp-us-open-new-york-usa13,P. Carreno Busta,-357,R. Berankis,+287
+13,atp-us-open-new-york-usa14,"Basilashvili, Nikoloz",-385,"Brooksby, Jenson",+309
+14,atp-us-open-new-york-usa15,Reilly Opelka,-256,Dominik Koepfer,+210
+15,atp-us-open-new-york-usa16,Borna Coric,-164,G. Dimitrov,+138
+16,atp-us-open-new-york-usa17,Mikhail Kukushkin,-141,Alexei Popyrin,+110
+17,atp-us-open-new-york-usa18,Matteo Berrettini,-200,Jordan Thompson,+155
+18,atp-us-open-new-york-usa19,Andrey Rublev,-303,G. Simon,+224
+19,atp-us-open-new-york-usa20,J. Isner,-135,J-L. Struff,+107
+20,atp-us-open-new-york-usa21,Thomas Fabbiano,-192,Alexander Bublik,+148
+21,atp-us-open-new-york-usa22,Lorenzo Sonego,-333,Pablo Andujar,+241
+22,atp-us-open-new-york-usa23,M. Cilic,-1429,Cedrik-Marcel Stebe,+679
+23,atp-us-open-new-york-usa24,Hyeon Chung,-132,F. Verdasco,+104
+24,atp-us-open-new-york-usa25,A. Zverev,-192,F. Tiafoe,+148
+25,atp-us-open-new-york-usa26,Benoit Paire,-256,Aljaz Bedene,+193
+26,atp-us-open-new-york-usa27,Tennys Sandgren,-189,V. Pospisil,+145
+27,atp-us-open-new-york-usa28,D. Schwartzman,-588,Egor Gerasimov,+384
+28,atp-us-open-new-york-usa29,R. Nadal,-Infinity,T. Kokkinakis,+1604
+29,atp-us-open-new-york-usa30,G. Monfils,-714,Marius Copil,+437
+30,atp-us-open-new-york-usa31,Denis Shapovalov,-1667,H. Laaksonen,+766
+31,atp-us-open-new-york-usa32,N. Kyrgios,-1111,Antonie Hoang,+616
+32,wta-us-open-new-york-usa0,J. Konta,-400,Margarita Gasparyan,+313
+33,wta-us-open-new-york-usa1,Kristina Mladenovic,-172,Fiona Ferro,+145
+34,wta-us-open-new-york-usa2,Aliaksandra Sasnovich,-164,Ons Jabeur,+138
+35,wta-us-open-new-york-usa3,Q. Wang,-270,Alison Van Uytvanck,+223
+36,wta-us-open-new-york-usa5,Ka. Pliskova,-2000,Mariam Bolkvadze,+986
+37,wta-us-open-new-york-usa6,Petra Martic,-200,Ana Bogdan,+169
+38,wta-us-open-new-york-usa7,E. Svitolina,-159,V. Williams,+134
+39,wta-us-open-new-york-usa8,Ekaterina Alexandrova,-185,Shuai Zhang,+156
+40,wta-us-open-new-york-usa9,Karolina Muchova,-169,S. Hsieh,+143
+41,wta-us-open-new-york-usa10,M. Keys,-909,Lin Zhu,+630
+42,wta-us-open-new-york-usa11,Dayana Yastremska,-145,R. Peterson,+123
+43,wta-us-open-new-york-usa12,Iga Swiatek,-119,A. Sevastova,+101
+44,wta-us-open-new-york-usa13,Maria Sakkari,-435,S. Peng,+336
+45,wta-us-open-new-york-usa14,Sofia Kenin,-909,Laura Siegemund,+602
+46,wta-us-open-new-york-usa15,Ashleigh Barty,-667,L. Davis,+495
+47,wta-us-open-new-york-usa16,S. Williams,-1667,Catherine McNally,+953
+48,wta-us-open-new-york-usa17,B. Bencic,-278,Alize Cornet,+206
+49,wta-us-open-new-york-usa18,P. Kvitova,-435,Andrea Petkovic,+310
+50,wta-us-open-new-york-usa19,J. Goerges,-286,Francesca Di Lorenzo,+216
+51,wta-us-open-new-york-usa20,Alison Riske,-208,J. Ostapenko,+160
+52,wta-us-open-new-york-usa21,N. Osaka,-256,Magda Linette,+195
+53,wta-us-open-new-york-usa22,Bianca Vanessa Andreescu,-1250,Kirsten Flipkens,+661
+54,wta-us-open-new-york-usa23,K. Bertens,-294,A. Pavlyuchenkova,+222
+55,wta-us-open-new-york-usa24,S. Halep,-1111,Taylor Townsend,+605
+56,wta-us-open-new-york-usa25,C. Wozniacki,-200,Danielle Collins,+154
+57,wta-us-open-new-york-usa26,A. Kontaveit,-370,Ajla Tomljanovic,+269
+58,wta-us-open-new-york-usa27,Cori Gauff,-156,Timea Babos,+123
+59,wta-us-open-new-york-usa28,Elise Mertens,-400,Kristyna Pliskova,+285
+60,wta-us-open-new-york-usa29,Sorana Cirstea,-127,Aliona Bolsova,-101
+61,wta-us-open-new-york-usa30,Donna Vekic,-263,Kaia Kanepi,+196
+62,wta-us-open-new-york-usa31,Aryna Sabalenka,-256,Yulia Putintseva,+196
+63,wta-us-open-new-york-usa32,Anna Kalinskaya,-167,Kristie Ahn,+130
