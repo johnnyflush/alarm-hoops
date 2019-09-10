@@ -1,156 +1,156 @@
-Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
-G,Patrick Reed (13309638),Patrick Reed,13309638,G,11600,KLM Open,Golf,72.56
-G,Thomas Pieters (13309639),Thomas Pieters,13309639,G,11100,KLM Open,Golf,71.64
-G,Matt Wallace (13309640),Matt Wallace,13309640,G,10700,KLM Open,Golf,68.14
-G,Sergio Garcia (13309641),Sergio Garcia,13309641,G,10500,KLM Open,Golf,60.47
-G,Martin Kaymer (13309642),Martin Kaymer,13309642,G,10200,KLM Open,Golf,64.2
-G,Joost Luiten (13309643),Joost Luiten,13309643,G,9800,KLM Open,Golf,62.79
-G,Mike Lorenzo-Vera (13309644),Mike Lorenzo-Vera,13309644,G,9600,KLM Open,Golf,73.21
-G,Lee Westwood (13309645),Lee Westwood,13309645,G,9400,KLM Open,Golf,67.65
-G,Thomas Detry (13309646),Thomas Detry,13309646,G,9200,KLM Open,Golf,70
-G,Sam Horsfield (13309647),Sam Horsfield,13309647,G,9100,KLM Open,Golf,60.59
-G,Gavin Green (13309648),Gavin Green,13309648,G,9000,KLM Open,Golf,65.19
-G,Troy Merritt (13309649),Troy Merritt,13309649,G,8900,KLM Open,Golf,65.20
-G,Haydn Porteous (13309650),Haydn Porteous,13309650,G,8800,KLM Open,Golf,58.73
-G,Jorge Campillo (13309651),Jorge Campillo,13309651,G,8700,KLM Open,Golf,64.82
-G,Sebastian Soderberg (13309652),Sebastian Soderberg,13309652,G,8600,KLM Open,Golf,48.35
-G,Mikko Korhonen (13309653),Mikko Korhonen,13309653,G,8500,KLM Open,Golf,61.72
-G,Romain Langasque (13309654),Romain Langasque,13309654,G,8400,KLM Open,Golf,65.89
-G,Scott Jamieson (13309655),Scott Jamieson,13309655,G,8300,KLM Open,Golf,56.78
-G,Victor Perez (13309656),Victor Perez,13309656,G,8200,KLM Open,Golf,63.91
-G,George Coetzee (13309657),George Coetzee,13309657,G,8100,KLM Open,Golf,55.86
-G,Romain Wattel (13309658),Romain Wattel,13309658,G,8000,KLM Open,Golf,39.45
-G,Lee Slattery (13309659),Lee Slattery,13309659,G,8000,KLM Open,Golf,51
-G,Edoardo Molinari (13309660),Edoardo Molinari,13309660,G,7900,KLM Open,Golf,50.17
-G,Jeff Winther (13309661),Jeff Winther,13309661,G,7900,KLM Open,Golf,61.97
-G,Andres Romero (13309662),Andres Romero,13309662,G,7800,KLM Open,Golf,53.97
-G,Jamie Donaldson (13309663),Jamie Donaldson,13309663,G,7800,KLM Open,Golf,54.06
-G,Rikard Karlberg (13309664),Rikard Karlberg,13309664,G,7800,KLM Open,Golf,46.57
-G,Sean Crocker (13309665),Sean Crocker,13309665,G,7700,KLM Open,Golf,50.02
-G,Wu Ashun (13309666),Wu Ashun,13309666,G,7700,KLM Open,Golf,42.13
-G,Ashley Chesters (13309667),Ashley Chesters,13309667,G,7700,KLM Open,Golf,53.68
-G,Chris Wood (13309668),Chris Wood,13309668,G,7600,KLM Open,Golf,26.64
-G,Matthew Southgate (13309669),Matthew Southgate,13309669,G,7600,KLM Open,Golf,48.86
-G,Sihwan Kim (13309670),Sihwan Kim,13309670,G,7600,KLM Open,Golf,54.38
-G,Padraig Harrington (13309671),Padraig Harrington,13309671,G,7600,KLM Open,Golf,43.88
-G,Fabrizio Zanotti (13309672),Fabrizio Zanotti,13309672,G,7500,KLM Open,Golf,63.18
-G,Jaco Van Zyl (13309673),Jaco Van Zyl,13309673,G,7500,KLM Open,Golf,48.07
-G,Joakim Lagergren (13309674),Joakim Lagergren,13309674,G,7500,KLM Open,Golf,42.33
-G,Chris Paisley (13309675),Chris Paisley,13309675,G,7500,KLM Open,Golf,58.5
-G,Kurt Kitayama (13309676),Kurt Kitayama,13309676,G,7400,KLM Open,Golf,58.11
-G,David Horsey (13309677),David Horsey,13309677,G,7400,KLM Open,Golf,58.25
-G,Bernd Ritthammer (13309678),Bernd Ritthammer,13309678,G,7400,KLM Open,Golf,40.14
-G,Zander Lombard (13309679),Zander Lombard,13309679,G,7400,KLM Open,Golf,48.75
-G,Bradley Dredge (13309680),Bradley Dredge,13309680,G,7300,KLM Open,Golf,55.97
-G,Hugo Leon (13309681),Hugo Leon,13309681,G,7300,KLM Open,Golf,52.79
-G,Nino Bertasio (13309682),Nino Bertasio,13309682,G,7300,KLM Open,Golf,48.25
-G,Hideto Tanihara (13309683),Hideto Tanihara,13309683,G,7300,KLM Open,Golf,42.79
-G,Niklas Lemke (13309684),Niklas Lemke,13309684,G,7300,KLM Open,Golf,51.26
-G,Richie Ramsay (13309685),Richie Ramsay,13309685,G,7200,KLM Open,Golf,50.56
-G,Matthieu Pavon (13309686),Matthieu Pavon,13309686,G,7200,KLM Open,Golf,46.81
-G,Nicolas Colsaerts (13309687),Nicolas Colsaerts,13309687,G,7200,KLM Open,Golf,59.79
-G,Scott Hend (13309688),Scott Hend,13309688,G,7200,KLM Open,Golf,57.08
-G,Maximilian Kieffer (13309689),Maximilian Kieffer,13309689,G,7200,KLM Open,Golf,48.47
-G,Lorenzo Gagli (13309690),Lorenzo Gagli,13309690,G,7100,KLM Open,Golf,45.22
-G,Brandon Stone (13309691),Brandon Stone,13309691,G,7100,KLM Open,Golf,44.05
-G,Oliver Fisher (13309692),Oliver Fisher,13309692,G,7100,KLM Open,Golf,43.64
-G,Paul Dunne (13309693),Paul Dunne,13309693,G,7100,KLM Open,Golf,44.71
-G,Louis De Jager (13309694),Louis De Jager,13309694,G,7100,KLM Open,Golf,47.08
-G,Soren Kjeldsen (13309695),Soren Kjeldsen,13309695,G,7100,KLM Open,Golf,39.03
-G,John Catlin (13309696),John Catlin,13309696,G,7000,KLM Open,Golf,50.93
-G,Robert Karlsson (13309697),Robert Karlsson,13309697,G,7000,KLM Open,Golf,51.24
-G,Johannes Veerman (13309698),Johannes Veerman,13309698,G,7000,KLM Open,Golf,44.94
-G,Ben Evans (13309699),Ben Evans,13309699,G,7000,KLM Open,Golf,46.53
-G,Jack Singh Brar (13309700),Jack Singh Brar,13309700,G,7000,KLM Open,Golf,52.23
-G,Antoine Rozner (13309701),Antoine Rozner,13309701,G,7000,KLM Open,Golf,56.75
-G,Callum Shinkwin (13309702),Callum Shinkwin,13309702,G,6900,KLM Open,Golf,48.6
-G,Gonzalo Fernandez-Castano (13309703),Gonzalo Fernandez-Castano,13309703,G,6900,KLM Open,Golf,45.38
-G,Kim Koivu (13309704),Kim Koivu,13309704,G,6900,KLM Open,Golf,45.77
-G,Christofer Blomstrand (13309705),Christofer Blomstrand,13309705,G,6900,KLM Open,Golf,35.83
-G,James Morrison (13309706),James Morrison,13309706,G,6900,KLM Open,Golf,46.82
-G,Clement Sordet (13309707),Clement Sordet,13309707,G,6900,KLM Open,Golf,49.79
-G,David Drysdale (13309708),David Drysdale,13309708,G,6800,KLM Open,Golf,46.92
-G,Espen Kofstad (13309709),Espen Kofstad,13309709,G,6800,KLM Open,Golf,41.36
-G,Wil Besseling (13309710),Wil Besseling,13309710,G,6800,KLM Open,Golf,0
-G,Matthew Nixon (13309711),Matthew Nixon,13309711,G,6800,KLM Open,Golf,45.92
-G,Grant Forrest (13309712),Grant Forrest,13309712,G,6800,KLM Open,Golf,52.8
-G,Max Schmitt (13309713),Max Schmitt,13309713,G,6800,KLM Open,Golf,49.67
-G,Adrien Saddier (13309714),Adrien Saddier,13309714,G,6800,KLM Open,Golf,42.4
-G,Jens Dantorp (13309715),Jens Dantorp,13309715,G,6700,KLM Open,Golf,45.5
-G,Steven Brown (13309716),Steven Brown,13309716,G,6700,KLM Open,Golf,35.27
-G,Liam Johnston (13309717),Liam Johnston,13309717,G,6700,KLM Open,Golf,40.30
-G,Shubhankar Sharma (13309718),Shubhankar Sharma,13309718,G,6700,KLM Open,Golf,52.79
-G,Kristoffer Reitan (13309719),Kristoffer Reitan,13309719,G,6700,KLM Open,Golf,42.83
-G,Berry Henson (13309720),Berry Henson,13309720,G,6700,KLM Open,Golf,52.2
-G,Alejandro Canizares (13309721),Alejandro Canizares,13309721,G,6700,KLM Open,Golf,46.62
-G,Daniel Hillier (13309722),Daniel Hillier,13309722,G,6600,KLM Open,Golf,22
-G,Nicolai Hojgaard (13309723),Nicolai Hojgaard,13309723,G,6600,KLM Open,Golf,24.75
-G,Anton Karlsson (13309724),Anton Karlsson,13309724,G,6600,KLM Open,Golf,45.53
-G,Gaganjeet Bhullar (13309725),Gaganjeet Bhullar,13309725,G,6600,KLM Open,Golf,56.93
-G,Ricardo Gouveia (13309726),Ricardo Gouveia,13309726,G,6600,KLM Open,Golf,42.16
-G,Daniel Gavins (13309727),Daniel Gavins,13309727,G,6600,KLM Open,Golf,34.91
-G,Harrison Endycott (13309728),Harrison Endycott,13309728,G,6600,KLM Open,Golf,46.67
-G,Euan Walker (13309729),Euan Walker,13309729,G,6600,KLM Open,Golf,0
-G,Nick Cullen (13309730),Nick Cullen,13309730,G,6500,KLM Open,Golf,44.71
-G,Ivan Cantero Gutierrez (13309731),Ivan Cantero Gutierrez,13309731,G,6500,KLM Open,Golf,34
-G,David Law (13309732),David Law,13309732,G,6500,KLM Open,Golf,43.63
-G,Stuart Manley (13309733),Stuart Manley,13309733,G,6500,KLM Open,Golf,46.20
-G,Koen Kouwenaar (13309734),Koen Kouwenaar,13309734,G,6500,KLM Open,Golf,0
-G,Per Langfors (13309735),Per Langfors,13309735,G,6500,KLM Open,Golf,31.5
-G,Bob Geurts (13309736),Bob Geurts,13309736,G,6500,KLM Open,Golf,0
-G,Marco Penge (13309737),Marco Penge,13309737,G,6500,KLM Open,Golf,0
-G,Gavin Moynihan (13309738),Gavin Moynihan,13309738,G,6500,KLM Open,Golf,41.97
-G,Wilco Nienaber (13309739),Wilco Nienaber,13309739,G,6400,KLM Open,Golf,56.92
-G,Scott Gregory (13309740),Scott Gregory,13309740,G,6400,KLM Open,Golf,26.81
-G,Jeunghun Wang (13309741),Jeunghun Wang,13309741,G,6400,KLM Open,Golf,34.43
-G,Trevor Immelman (13309742),Trevor Immelman,13309742,G,6400,KLM Open,Golf,33.92
-G,Matteo Manassero (13309743),Matteo Manassero,13309743,G,6400,KLM Open,Golf,20.92
-G,Sami Valimaki (13309744),Sami Valimaki,13309744,G,6400,KLM Open,Golf,0
-G,Michael Hoey (13309745),Michael Hoey,13309745,G,6400,KLM Open,Golf,46.77
-G,Lasse Jensen (13309746),Lasse Jensen,13309746,G,6400,KLM Open,Golf,52.5
-G,Dimi Papadatos (13309747),Dimi Papadatos,13309747,G,6400,KLM Open,Golf,44.29
-G,Rowin Caron (13309748),Rowin Caron,13309748,G,6300,KLM Open,Golf,0
-G,Shiv Chawrasia (13309749),Shiv Chawrasia,13309749,G,6300,KLM Open,Golf,35.62
-G,Reinier Saxton (13309750),Reinier Saxton,13309750,G,6300,KLM Open,Golf,0
-G,Duncan Stewart (13309751),Duncan Stewart,13309751,G,6300,KLM Open,Golf,23.4
-G,Eduardo De La Riva (13309752),Eduardo De La Riva,13309752,G,6300,KLM Open,Golf,39.42
-G,Adam Bland (13309753),Adam Bland,13309753,G,6300,KLM Open,Golf,34.28
-G,Kristian Krogh Johannessen (13309754),Kristian Krogh Johannessen,13309754,G,6300,KLM Open,Golf,31.21
-G,Marcel Siem (13309755),Marcel Siem,13309755,G,6300,KLM Open,Golf,32.46
-G,Marc Warren (13309756),Marc Warren,13309756,G,6300,KLM Open,Golf,34.31
-G,Pedro Figueiredo (13309757),Pedro Figueiredo,13309757,G,6300,KLM Open,Golf,37.59
-G,Raphael Jacquelin (13309758),Raphael Jacquelin,13309758,G,6200,KLM Open,Golf,37.28
-G,Pedro Oriol (13309759),Pedro Oriol,13309759,G,6200,KLM Open,Golf,21.12
-G,David Howell (13309760),David Howell,13309760,G,6200,KLM Open,Golf,32.41
-G,Yusaku Miyazato (13309761),Yusaku Miyazato,13309761,G,6200,KLM Open,Golf,34.31
-G,Jurrian Van Der Vaart (13309762),Jurrian Van Der Vaart,13309762,G,6200,KLM Open,Golf,0
-G,Hyowon Park (13309763),Hyowon Park,13309763,G,6200,KLM Open,Golf,40.92
-G,Tom Murray (13309764),Tom Murray,13309764,G,6200,KLM Open,Golf,41.87
-G,Jake McLeod (13309765),Jake McLeod,13309765,G,6200,KLM Open,Golf,43.28
-G,Austin Connelly (13309766),Austin Connelly,13309766,G,6200,KLM Open,Golf,32.27
-G,Robbie Van West (13309767),Robbie Van West,13309767,G,6200,KLM Open,Golf,0
-G,David Borda (13309768),David Borda,13309768,G,6100,KLM Open,Golf,26.63
-G,Jose Maria Olazabal (13309769),Jose Maria Olazabal,13309769,G,6100,KLM Open,Golf,20.7
-G,Kiet Van Der Weele (13309770),Kiet Van Der Weele,13309770,G,6100,KLM Open,Golf,0
-G,Dario Antonisse (13309771),Dario Antonisse,13309771,G,6100,KLM Open,Golf,0
-G,Benjamin Reuter (13309772),Benjamin Reuter,13309772,G,6100,KLM Open,Golf,0
-G,Maarten Lafeber (13309773),Maarten Lafeber,13309773,G,6100,KLM Open,Golf,39.75
-G,Mike Toorop (13309774),Mike Toorop,13309774,G,6100,KLM Open,Golf,17.5
-G,Max Albertus (13309775),Max Albertus,13309775,G,6100,KLM Open,Golf,0
-G,Jinho Choi (13309776),Jinho Choi,13309776,G,6100,KLM Open,Golf,35.46
-G,Deyen Lawson (13309777),Deyen Lawson,13309777,G,6100,KLM Open,Golf,41.25
-G,Max Orrin (13309778),Max Orrin,13309778,G,6100,KLM Open,Golf,34.69
-G,Eugenio Lopez-Chacarra Coto (13309779),Eugenio Lopez-Chacarra Coto,13309779,G,6100,KLM Open,Golf,23.5
-G,Mark Reynolds (13309780),Mark Reynolds,13309780,G,6000,KLM Open,Golf,0
-G,Filippo Bergamaschi (13309781),Filippo Bergamaschi,13309781,G,6000,KLM Open,Golf,34.94
-G,Lars Keunen (13309782),Lars Keunen,13309782,G,6000,KLM Open,Golf,0
-G,Joel Girrbach (13309783),Joel Girrbach,13309783,G,6000,KLM Open,Golf,41.5
-G,Javier Ballesteros (13309784),Javier Ballesteros,13309784,G,6000,KLM Open,Golf,0
-G,Davey Porsius (13309785),Davey Porsius,13309785,G,6000,KLM Open,Golf,0
-G,Nick McCarthy (13309786),Nick McCarthy,13309786,G,6000,KLM Open,Golf,42.33
-G,David Cooke (13309787),David Cooke,13309787,G,6000,KLM Open,Golf,36.83
-G,Sven Maurits (13309788),Sven Maurits,13309788,G,6000,KLM Open,Golf,0
-G,Julian Kunzenbacher (13309789),Julian Kunzenbacher,13309789,G,6000,KLM Open,Golf,0
-G,Brett Rumford (13309790),Brett Rumford,13309790,G,6000,KLM Open,Golf,29.64
-G,Dylan Boshart (13309791),Dylan Boshart,13309791,G,6000,KLM Open,Golf,0
-G,Michael Campbell (13309792),Michael Campbell,13309792,G,6000,KLM Open,Golf,15
+Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame,AvgPointsPerGame,AvgPointsPerGame,AvgPointsPerGame,AvgPointsPerGame,AvgPointsPerGame,AvgPointsPerGame,AvgPointsPerGame,AvgPointsPerGame
+G,Patrick Reed (13309638),Patrick Reed,13309638,G,11600,KLM Open,Golf,81.84286027,Lee Westwood(13309645),Bradley Dredge(13309680),Matthew Southgate(13309669),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),Gavin Green(13309648),49900,371.227
+G,Thomas Pieters (13309639),Thomas Pieters,13309639,G,11100,KLM Open,Golf,75.23075113,Lee Westwood(13309645),Bradley Dredge(13309680),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),Gavin Green(13309648),Sean Crocker(13309665),50000,371.03
+G,Matt Wallace (13309640),Matt Wallace,13309640,G,10700,KLM Open,Golf,71.77863749,Lee Westwood(13309645),Bradley Dredge(13309680),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),Gavin Green(13309648),Ashley Chesters(13309667),50000,370.958
+G,Sergio Garcia (13309641),Sergio Garcia,13309641,G,10500,KLM Open,Golf,73.54823292,Lee Westwood(13309645),Bradley Dredge(13309680),Romain Wattel(13309658),Thomas Detry(13309646),Antoine Rozner(13309701),Gavin Green(13309648),49900,370.112
+G,Martin Kaymer (13309642),Martin Kaymer,13309642,G,10200,KLM Open,Golf,72.78510005,Lee Westwood(13309645),Bradley Dredge(13309680),Matthew Southgate(13309669),Mike Lorenzo-Vera(13309644),Louis De(13309694),Gavin Green(13309648),50000,369.967
+G,Joost Luiten (13309643),Joost Luiten,13309643,G,9800,KLM Open,Golf,71.37926105,Lee Westwood(13309645),Bradley Dredge(13309680),Thomas Detry(13309646),Antoine Rozner(13309701),Gavin Green(13309648),George Coetzee(13309657),50000,369.888
+G,Mike Lorenzo-Vera (13309644),Mike Lorenzo-Vera,13309644,G,9600,KLM Open,Golf,70.80346712,Lee Westwood(13309645),Bradley Dredge(13309680),Gavin Green(13309648),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),Wu Ashun(13309666),50000,369.884
+G,Lee Westwood (13309645),Lee Westwood,13309645,G,9400,KLM Open,Golf,70.76505295,Lee Westwood(13309645),Bradley Dredge(13309680),Romain Wattel(13309658),Matthew Southgate(13309669),Mike Lorenzo-Vera(13309644),George Coetzee(13309657),50000,369.541
+G,Thomas Detry (13309646),Thomas Detry,13309646,G,9200,KLM Open,Golf,66.65205746,Lee Westwood(13309645),Bradley Dredge(13309680),Thomas Detry(13309646),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),Chris Paisley(13309675),50000,369.479
+G,Sam Horsfield (13309647),Sam Horsfield,13309647,G,9100,KLM Open,Golf,63.18007286,Lee Westwood(13309645),Bradley Dredge(13309680),Matthew Southgate(13309669),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),Sam Horsfield(13309647),50000,369.246
+G,Gavin Green (13309648),Gavin Green,13309648,G,9000,KLM Open,Golf,65.16054769,Lee Westwood(13309645),Bradley Dredge(13309680),Romain Wattel(13309658),Thomas Detry(13309646),Louis De(13309694),Gavin Green(13309648),50000,368.852
+G,Troy Merritt (13309649),Troy Merritt,13309649,G,8900,KLM Open,Golf,61.41445554,Lee Westwood(13309645),Bradley Dredge(13309680),Romain Wattel(13309658),Jorge Campillo(13309651),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),50000,368.829
+G,Haydn Porteous (13309650),Haydn Porteous,13309650,G,8800,KLM Open,Golf,58.73841798,Joost Luiten(13309643),Bradley Dredge(13309680),Antoine Rozner(13309701),Lee Westwood(13309645),Chris Paisley(13309675),Gavin Green(13309648),50000,368.563
+G,Jorge Campillo (13309651),Jorge Campillo,13309651,G,8700,KLM Open,Golf,59.7260682,Lee Westwood(13309645),Bradley Dredge(13309680),Bernd Ritthammer(13309678),Thomas Detry(13309646),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),49900,368.365
+G,Sebastian Soderberg (13309652),Sebastian Soderberg,13309652,G,8600,KLM Open,Golf,58.25884963,Lee Westwood(13309645),Bradley Dredge(13309680),Paul Dunne(13309693),Matthew Southgate(13309669),Mike Lorenzo-Vera(13309644),Gavin Green(13309648),50000,368.358
+G,Mikko Korhonen (13309653),Mikko Korhonen,13309653,G,8500,KLM Open,Golf,58.25002805,Romain Langasque(13309654),Bradley Dredge(13309680),Matthew Southgate(13309669),Lee Westwood(13309645),Mike Lorenzo-Vera(13309644),Sean Crocker(13309665),50000,368.327
+G,Romain Langasque (13309654),Romain Langasque,13309654,G,8400,KLM Open,Golf,58.35116358,Lee Slattery(13309659),Bradley Dredge(13309680),Thomas Detry(13309646),Lee Westwood(13309645),Antoine Rozner(13309701),Gavin Green(13309648),49900,368.292
+G,Scott Jamieson (13309655),Scott Jamieson,13309655,G,8300,KLM Open,Golf,48.05069873,Romain Langasque(13309654),Bradley Dredge(13309680),Matthew Southgate(13309669),Ashley Chesters(13309667),Lee Westwood(13309645),Mike Lorenzo-Vera(13309644),50000,368.255
+G,Victor Perez (13309656),Victor Perez,13309656,G,8200,KLM Open,Golf,53.53976098,Lee Westwood(13309645),Bradley Dredge(13309680),Romain Wattel(13309658),Thomas Detry(13309646),Antoine Rozner(13309701),Sam Horsfield(13309647),50000,368.132
+G,George Coetzee (13309657),George Coetzee,13309657,G,8100,KLM Open,Golf,56.33158039,Joost Luiten(13309643),Bradley Dredge(13309680),Matthew Southgate(13309669),Antoine Rozner(13309701),Troy Merritt(13309649),Lee Westwood(13309645),50000,368.057
+G,Romain Wattel (13309658),Romain Wattel,13309658,G,8000,KLM Open,Golf,56.55562558,Romain Langasque(13309654),Bradley Dredge(13309680),Romain Wattel(13309658),Antoine Rozner(13309701),Lee Westwood(13309645),Joost Luiten(13309643),49900,368.03
+G,Lee Slattery (13309659),Lee Slattery,13309659,G,8000,KLM Open,Golf,54.73565045,Lee Westwood(13309645),Bradley Dredge(13309680),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),Chris Paisley(13309675),Gavin Green(13309648),49800,367.987
+G,Edoardo Molinari (13309660),Edoardo Molinari,13309660,G,7900,KLM Open,Golf,53.09110235,Joost Luiten(13309643),Bradley Dredge(13309680),Thomas Detry(13309646),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),Louis De(13309694),50000,367.966
+G,Jeff Winther (13309661),Jeff Winther,13309661,G,7900,KLM Open,Golf,53.39374883,Lee Slattery(13309659),Bradley Dredge(13309680),Romain Wattel(13309658),Matthew Southgate(13309669),Lee Westwood(13309645),Mike Lorenzo-Vera(13309644),49900,367.945
+G,Andres Romero (13309662),Andres Romero,13309662,G,7800,KLM Open,Golf,53.35891327,Lee Westwood(13309645),Bradley Dredge(13309680),Matthew Southgate(13309669),Thomas Detry(13309646),Chris Paisley(13309675),Gavin Green(13309648),50000,367.943
+G,Jamie Donaldson (13309663),Jamie Donaldson,13309663,G,7800,KLM Open,Golf,53.46494836,Joost Luiten(13309643),Bradley Dredge(13309680),Romain Wattel(13309658),Antoine Rozner(13309701),Mikko Korhonen(13309653),Lee Westwood(13309645),50000,367.929
+G,Rikard Karlberg (13309664),Rikard Karlberg,13309664,G,7800,KLM Open,Golf,53.54996593,Joost Luiten(13309643),Bradley Dredge(13309680),Thomas Detry(13309646),Lee Westwood(13309645),Antoine Rozner(13309701),Louis De(13309694),49800,367.927
+G,Sean Crocker (13309665),Sean Crocker,13309665,G,7700,KLM Open,Golf,53.32201659,Martin Kaymer(13309642),Lee Westwood(13309645),Bradley Dredge(13309680),Antoine Rozner(13309701),Louis De(13309694),Gavin Green(13309648),50000,367.841
+G,Wu Ashun (13309666),Wu Ashun,13309666,G,7700,KLM Open,Golf,52.17589979,Romain Langasque(13309654),Bradley Dredge(13309680),Joost Luiten(13309643),Antoine Rozner(13309701),Lee Westwood(13309645),George Coetzee(13309657),50000,367.806
+G,Ashley Chesters (13309667),Ashley Chesters,13309667,G,7700,KLM Open,Golf,53.25008752,Lee Slattery(13309659),Bradley Dredge(13309680),Romain Wattel(13309658),Lee Westwood(13309645),Mike Lorenzo-Vera(13309644),Sean Crocker(13309665),50000,367.748
+G,Chris Wood (13309668),Chris Wood,13309668,G,7600,KLM Open,Golf,49.99617605,Lee Slattery(13309659),Bradley Dredge(13309680),Matthew Southgate(13309669),Lee Westwood(13309645),Mike Lorenzo-Vera(13309644),George Coetzee(13309657),50000,367.721
+G,Matthew Southgate (13309669),Matthew Southgate,13309669,G,7600,KLM Open,Golf,53.51903602,Lee Westwood(13309645),Bradley Dredge(13309680),Chris Wood(13309668),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),Gavin Green(13309648),49900,367.704
+G,Sihwan Kim (13309670),Sihwan Kim,13309670,G,7600,KLM Open,Golf,49.70685702,Joost Luiten(13309643),Bradley Dredge(13309680),Matthew Southgate(13309669),Thomas Detry(13309646),Antoine Rozner(13309701),Gavin Green(13309648),49900,367.69
+G,Padraig Harrington (13309671),Padraig Harrington,13309671,G,7600,KLM Open,Golf,49.45248928,Lee Slattery(13309659),Bradley Dredge(13309680),Romain Wattel(13309658),Ashley Chesters(13309667),Lee Westwood(13309645),Mike Lorenzo-Vera(13309644),50000,367.676
+G,Fabrizio Zanotti (13309672),Fabrizio Zanotti,13309672,G,7500,KLM Open,Golf,47.96980295,Lee Westwood(13309645),Bradley Dredge(13309680),Antoine Rozner(13309701),Rikard Karlberg(13309664),Troy Merritt(13309649),Mike Lorenzo-Vera(13309644),50000,367.512
+G,Jaco Van Zyl (13309673),Jaco Van Zyl,13309673,G,7500,KLM Open,Golf,43.84164895,Joost Luiten(13309643),Bradley Dredge(13309680),Thomas Detry(13309646),Antoine Rozner(13309701),Gavin Green(13309648),Sean Crocker(13309665),50000,367.493
+G,Joakim Lagergren (13309674),Joakim Lagergren,13309674,G,7500,KLM Open,Golf,46.08823018,Lee Westwood(13309645),Bradley Dredge(13309680),Matthew Southgate(13309669),Antoine Rozner(13309701),Troy Merritt(13309649),Mike Lorenzo-Vera(13309644),49800,367.481
+G,Chris Paisley (13309675),Chris Paisley,13309675,G,7500,KLM Open,Golf,50.27931136,Romain Langasque(13309654),Bradley Dredge(13309680),Romain Wattel(13309658),Antoine Rozner(13309701),Lee Westwood(13309645),Mike Lorenzo-Vera(13309644),49700,367.454
+G,Kurt Kitayama (13309676),Kurt Kitayama,13309676,G,7400,KLM Open,Golf,44.09204166,Joost Luiten(13309643),Bradley Dredge(13309680),Bernd Ritthammer(13309678),Antoine Rozner(13309701),Lee Westwood(13309645),Gavin Green(13309648),49900,367.449
+G,David Horsey (13309677),David Horsey,13309677,G,7400,KLM Open,Golf,39.04086572,Lee Westwood(13309645),Bradley Dredge(13309680),Jamie Donaldson(13309663),Antoine Rozner(13309701),Troy Merritt(13309649),Mike Lorenzo-Vera(13309644),50000,367.427
+G,Bernd Ritthammer (13309678),Bernd Ritthammer,13309678,G,7400,KLM Open,Golf,49.1652842,Joost Luiten(13309643),Bradley Dredge(13309680),Thomas Detry(13309646),Antoine Rozner(13309701),Ashley Chesters(13309667),Gavin Green(13309648),50000,367.421
+G,Zander Lombard (13309679),Zander Lombard,13309679,G,7400,KLM Open,Golf,40.76491267,Martin Kaymer(13309642),Lee Westwood(13309645),Bradley Dredge(13309680),Romain Wattel(13309658),Antoine Rozner(13309701),George Coetzee(13309657),50000,367.416
+G,Bradley Dredge (13309680),Bradley Dredge,13309680,G,7300,KLM Open,Golf,61.56651931,Lee Westwood(13309645),Bradley Dredge(13309680),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),Sihwan Kim(13309670),Gavin Green(13309648),49900,367.415
+G,Hugo Leon (13309681),Hugo Leon,13309681,G,7300,KLM Open,Golf,34.40893146,Romain Langasque(13309654),Bradley Dredge(13309680),Romain Wattel(13309658),Matthew Southgate(13309669),Thomas Detry(13309646),Lee Westwood(13309645),49900,367.409
+G,Nino Bertasio (13309682),Nino Bertasio,13309682,G,7300,KLM Open,Golf,33.50851409,Joost Luiten(13309643),Bradley Dredge(13309680),Thomas Detry(13309646),Lee Westwood(13309645),Antoine Rozner(13309701),Hideto Tanihara(13309683),50000,367.388
+G,Hideto Tanihara (13309683),Hideto Tanihara,13309683,G,7300,KLM Open,Golf,47.61313561,Lee Westwood(13309645),Bradley Dredge(13309680),Romain Wattel(13309658),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),Sebastian Soderberg(13309652),49900,367.362
+G,Niklas Lemke (13309684),Niklas Lemke,13309684,G,7300,KLM Open,Golf,42.90118663,Lee Westwood(13309645),Bradley Dredge(13309680),Romain Wattel(13309658),Antoine Rozner(13309701),Mikko Korhonen(13309653),Mike Lorenzo-Vera(13309644),49800,367.353
+G,Richie Ramsay (13309685),Richie Ramsay,13309685,G,7200,KLM Open,Golf,37.69628546,Lee Westwood(13309645),Bradley Dredge(13309680),Thomas Detry(13309646),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),Louis De(13309694),49600,367.351
+G,Matthieu Pavon (13309686),Matthieu Pavon,13309686,G,7200,KLM Open,Golf,33.41655651,Joost Luiten(13309643),Bradley Dredge(13309680),Romain Wattel(13309658),Matthew Southgate(13309669),Lee Westwood(13309645),Rikard Karlberg(13309664),49900,367.335
+G,Nicolas Colsaerts (13309687),Nicolas Colsaerts,13309687,G,7200,KLM Open,Golf,39.04086572,Lee Westwood(13309645),Andres Romero(13309662),Antoine Rozner(13309701),Troy Merritt(13309649),Mike Lorenzo-Vera(13309644),Bradley Dredge(13309680),50000,367.321
+G,Scott Hend (13309688),Scott Hend,13309688,G,7200,KLM Open,Golf,36.66058943,Lee Westwood(13309645),Bradley Dredge(13309680),Romain Wattel(13309658),Matthew Southgate(13309669),Thomas Detry(13309646),Mikko Korhonen(13309653),50000,367.308
+G,Maximilian Kieffer (13309689),Maximilian Kieffer,13309689,G,7200,KLM Open,Golf,35.37634295,Lee Westwood(13309645),Bradley Dredge(13309680),Romain Wattel(13309658),Jorge Campillo(13309651),Gavin Green(13309648),Matthew Southgate(13309669),50000,367.293
+G,Lorenzo Gagli (13309690),Lorenzo Gagli,13309690,G,7100,KLM Open,Golf,43.39297738,Lee Westwood(13309645),Bradley Dredge(13309680),Antoine Rozner(13309701),Troy Merritt(13309649),Mike Lorenzo-Vera(13309644),Sean Crocker(13309665),49900,367.284
+G,Brandon Stone (13309691),Brandon Stone,13309691,G,7100,KLM Open,Golf,32.52547728,Joost Luiten(13309643),Bradley Dredge(13309680),Jamie Donaldson(13309663),Matthew Southgate(13309669),Lee Westwood(13309645),Romain Wattel(13309658),49900,367.25
+G,Oliver Fisher (13309692),Oliver Fisher,13309692,G,7100,KLM Open,Golf,37.79665225,Lee Westwood(13309645),Bradley Dredge(13309680),Romain Wattel(13309658),Thomas Detry(13309646),Paul Dunne(13309693),Gavin Green(13309648),50000,367.243
+G,Paul Dunne (13309693),Paul Dunne,13309693,G,7100,KLM Open,Golf,46.54313356,Romain Langasque(13309654),Bradley Dredge(13309680),Antoine Rozner(13309701),Lee Westwood(13309645),Mike Lorenzo-Vera(13309644),George Coetzee(13309657),49800,367.23
+G,Louis De Jager (13309694),Louis De Jager,13309694,G,7100,KLM Open,Golf,48.15202042,Romain Langasque(13309654),Bradley Dredge(13309680),Romain Wattel(13309658),Thomas Detry(13309646),Lee Westwood(13309645),Sean Crocker(13309665),50000,367.212
+G,Soren Kjeldsen (13309695),Soren Kjeldsen,13309695,G,7100,KLM Open,Golf,36.53962456,Lee Westwood(13309645),Bradley Dredge(13309680),Antoine Rozner(13309701),Troy Merritt(13309649),Mike Lorenzo-Vera(13309644),Ashley Chesters(13309667),49900,367.212
+G,John Catlin (13309696),John Catlin,13309696,G,7000,KLM Open,Golf,36.51327113,Romain Langasque(13309654),Bradley Dredge(13309680),Matthew Southgate(13309669),Thomas Detry(13309646),Lee Westwood(13309645),George Coetzee(13309657),50000,367.185
+G,Robert Karlsson (13309697),Robert Karlsson,13309697,G,7000,KLM Open,Golf,33.50851409,Romain Langasque(13309654),Bradley Dredge(13309680),Matthew Southgate(13309669),Lee Westwood(13309645),Mike Lorenzo-Vera(13309644),Wu Ashun(13309666),50000,367.181
+G,Johannes Veerman (13309698),Johannes Veerman,13309698,G,7000,KLM Open,Golf,32.52547728,Joost Luiten(13309643),Bradley Dredge(13309680),Romain Wattel(13309658),Matthew Southgate(13309669),Lee Westwood(13309645),Jeff Winther(13309661),50000,367.179
+G,Ben Evans (13309699),Ben Evans,13309699,G,7000,KLM Open,Golf,32.57452872,Lee Westwood(13309645),Bradley Dredge(13309680),Thomas Detry(13309646),Antoine Rozner(13309701),Fabrizio Zanotti(13309672),Mike Lorenzo-Vera(13309644),50000,367.169
+G,Jack Singh Brar (13309700),Jack Singh Brar,13309700,G,7000,KLM Open,Golf,35.39147177,Lee Westwood(13309645),Bradley Dredge(13309680),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),Gavin Green(13309648),Padraig Harrington(13309671),49900,367.16
+G,Antoine Rozner (13309701),Antoine Rozner,13309701,G,7000,KLM Open,Golf,49.41220867,Joost Luiten(13309643),Bradley Dredge(13309680),Romain Wattel(13309658),Matthew Southgate(13309669),Mike Lorenzo-Vera(13309644),Sean Crocker(13309665),50000,367.146
+G,Callum Shinkwin (13309702),Callum Shinkwin,13309702,G,6900,KLM Open,Golf,32.52547728,Bradley Dredge(13309680),Thomas Detry(13309646),Antoine Rozner(13309701),Rikard Karlberg(13309664),Mike Lorenzo-Vera(13309644),Gavin Green(13309648),49900,367.145
+G,Gonzalo Fernandez-Castano (13309703),Gonzalo Fernandez-Castano,13309703,G,6900,KLM Open,Golf,33.41655651,Joost Luiten(13309643),Andres Romero(13309662),Romain Wattel(13309658),Matthew Southgate(13309669),Lee Westwood(13309645),Bradley Dredge(13309680),49900,367.144
+G,Kim Koivu (13309704),Kim Koivu,13309704,G,6900,KLM Open,Golf,30.96502603,Romain Langasque(13309654),Bradley Dredge(13309680),Romain Wattel(13309658),Thomas Detry(13309646),Lee Westwood(13309645),Ashley Chesters(13309667),50000,367.141
+G,Christofer Blomstrand (13309705),Christofer Blomstrand,13309705,G,6900,KLM Open,Golf,29.45303851,Joost Luiten(13309643),Bradley Dredge(13309680),Romain Wattel(13309658),Lee Westwood(13309645),Rikard Karlberg(13309664),Sean Crocker(13309665),50000,367.138
+G,James Morrison (13309706),James Morrison,13309706,G,6900,KLM Open,Golf,35.46822284,Lee Westwood(13309645),Bradley Dredge(13309680),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),Sebastian Soderberg(13309652),George Coetzee(13309657),50000,367.138
+G,Clement Sordet (13309707),Clement Sordet,13309707,G,6900,KLM Open,Golf,35.49457627,Lee Westwood(13309645),Bradley Dredge(13309680),Mikko Korhonen(13309653),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),George Coetzee(13309657),49900,367.129
+G,David Drysdale (13309708),David Drysdale,13309708,G,6800,KLM Open,Golf,32.50093105,Bradley Dredge(13309680),Matthew Southgate(13309669),Thomas Detry(13309646),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),Gavin Green(13309648),49700,367.114
+G,Espen Kofstad (13309709),Espen Kofstad,13309709,G,6800,KLM Open,Golf,27.09354666,Joost Luiten(13309643),Bradley Dredge(13309680),Matthew Southgate(13309669),Lee Westwood(13309645),Rikard Karlberg(13309664),George Coetzee(13309657),50000,367.111
+G,Wil Besseling (13309710),Wil Besseling,13309710,G,6800,KLM Open,Golf,29.45303851,Joost Luiten(13309643),Bradley Dredge(13309680),Romain Wattel(13309658),Matthew Southgate(13309669),Lee Westwood(13309645),Sean Crocker(13309665),49800,367.108
+G,Matthew Nixon (13309711),Matthew Nixon,13309711,G,6800,KLM Open,Golf,26.98933137,Lee Westwood(13309645),Bradley Dredge(13309680),Thomas Detry(13309646),Antoine Rozner(13309701),Rikard Karlberg(13309664),Gavin Green(13309648),49700,367.106
+G,Grant Forrest (13309712),Grant Forrest,13309712,G,6800,KLM Open,Golf,32.57452872,Lee Westwood(13309645),Bradley Dredge(13309680),Bernd Ritthammer(13309678),Thomas Detry(13309646),Mike Lorenzo-Vera(13309644),Louis De(13309694),50000,367.104
+G,Max Schmitt (13309713),Max Schmitt,13309713,G,6800,KLM Open,Golf,32.52547728,Lee Westwood(13309645),Bradley Dredge(13309680),Matthew Southgate(13309669),Thomas Detry(13309646),Antoine Rozner(13309701),Gavin Green(13309648),49500,367.075
+G,Adrien Saddier (13309714),Adrien Saddier,13309714,G,6800,KLM Open,Golf,30.88856258,Joost Luiten(13309643),Bradley Dredge(13309680),Romain Wattel(13309658),Matthew Southgate(13309669),Ashley Chesters(13309667),Mike Lorenzo-Vera(13309644),50000,367.074
+G,Jens Dantorp (13309715),Jens Dantorp,13309715,G,6700,KLM Open,Golf,28.15953989,Joost Luiten(13309643),Bradley Dredge(13309680),Romain Wattel(13309658),Ashley Chesters(13309667),Rikard Karlberg(13309664),Lee Westwood(13309645),50000,367.067
+G,Steven Brown (13309716),Steven Brown,13309716,G,6700,KLM Open,Golf,28.15953989,Bradley Dredge(13309680),Jamie Donaldson(13309663),Thomas Detry(13309646),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),Gavin Green(13309648),49900,367.06
+G,Liam Johnston (13309717),Liam Johnston,13309717,G,6700,KLM Open,Golf,29.55162582,Joost Luiten(13309643),Bradley Dredge(13309680),Jamie Donaldson(13309663),Lee Westwood(13309645),Romain Wattel(13309658),Sean Crocker(13309665),50000,367.053
+G,Shubhankar Sharma (13309718),Shubhankar Sharma,13309718,G,6700,KLM Open,Golf,32.50093105,Joost Luiten(13309643),Bradley Dredge(13309680),Romain Wattel(13309658),Matthew Southgate(13309669),Ashley Chesters(13309667),Lee Westwood(13309645),49800,367.036
+G,Kristoffer Reitan (13309719),Kristoffer Reitan,13309719,G,6700,KLM Open,Golf,33.47714946,Lee Slattery(13309659),Bradley Dredge(13309680),Thomas Detry(13309646),Lee Westwood(13309645),Louis De(13309694),Gavin Green(13309648),50000,367.032
+G,Berry Henson (13309720),Berry Henson,13309720,G,6700,KLM Open,Golf,32.57452872,Joost Luiten(13309643),Bradley Dredge(13309680),Jamie Donaldson(13309663),Matthew Southgate(13309669),Lee Westwood(13309645),George Coetzee(13309657),50000,367.026
+G,Alejandro Canizares (13309721),Alejandro Canizares,13309721,G,6700,KLM Open,Golf,32.57452872,Lee Westwood(13309645),Bradley Dredge(13309680),Jamie Donaldson(13309663),Thomas Detry(13309646),Antoine Rozner(13309701),Gavin Green(13309648),49700,367.021
+G,Daniel Hillier (13309722),Daniel Hillier,13309722,G,6600,KLM Open,Golf,29.45303851,Lee Slattery(13309659),Bradley Dredge(13309680),Jorge Campillo(13309651),Antoine Rozner(13309701),Lee Westwood(13309645),Mike Lorenzo-Vera(13309644),50000,367.009
+G,Nicolai Hojgaard (13309723),Nicolai Hojgaard,13309723,G,6600,KLM Open,Golf,24.95042742,Bradley Dredge(13309680),Thomas Detry(13309646),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),Gavin Green(13309648),Jeff Winther(13309661),50000,366.989
+G,Anton Karlsson (13309724),Anton Karlsson,13309724,G,6600,KLM Open,Golf,27.02746649,Joost Luiten(13309643),Bradley Dredge(13309680),Jamie Donaldson(13309663),Ashley Chesters(13309667),Romain Wattel(13309658),Lee Westwood(13309645),50000,366.981
+G,Gaganjeet Bhullar (13309725),Gaganjeet Bhullar,13309725,G,6600,KLM Open,Golf,33.44792114,Andres Romero(13309662),Thomas Detry(13309646),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),Bradley Dredge(13309680),Gavin Green(13309648),49900,366.954
+G,Ricardo Gouveia (13309726),Ricardo Gouveia,13309726,G,6600,KLM Open,Golf,29.46659068,Lee Westwood(13309645),Bradley Dredge(13309680),Thomas Detry(13309646),Antoine Rozner(13309701),Gavin Green(13309648),Jeff Winther(13309661),49800,366.95
+G,Daniel Gavins (13309727),Daniel Gavins,13309727,G,6600,KLM Open,Golf,27.02746649,Joost Luiten(13309643),Andres Romero(13309662),Romain Wattel(13309658),Lee Westwood(13309645),Bradley Dredge(13309680),Sean Crocker(13309665),50000,366.947
+G,Harrison Endycott (13309728),Harrison Endycott,13309728,G,6600,KLM Open,Golf,32.60589335,Joost Luiten(13309643),Andres Romero(13309662),Matthew Southgate(13309669),Lee Westwood(13309645),Bradley Dredge(13309680),George Coetzee(13309657),50000,366.92
+G,Euan Walker (13309729),Euan Walker,13309729,G,6600,KLM Open,Golf,29.46659068,Bradley Dredge(13309680),Thomas Detry(13309646),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),Gavin Green(13309648),Sean Crocker(13309665),49800,366.917
+G,Nick Cullen (13309730),Nick Cullen,13309730,G,6500,KLM Open,Golf,26.98933137,Lee Westwood(13309645),Andres Romero(13309662),Thomas Detry(13309646),Antoine Rozner(13309701),Bradley Dredge(13309680),Gavin Green(13309648),49700,366.915
+G,Ivan Cantero Gutierrez (13309731),Ivan Cantero Gutierrez,13309731,G,6500,KLM Open,Golf,26.97784295,Joost Luiten(13309643),Bradley Dredge(13309680),Matthew Southgate(13309669),Lee Westwood(13309645),George Coetzee(13309657),Sean Crocker(13309665),49900,366.883
+G,David Law (13309732),David Law,13309732,G,6500,KLM Open,Golf,26.98933137,Lee Westwood(13309645),Bradley Dredge(13309680),Thomas Detry(13309646),Antoine Rozner(13309701),Gavin Green(13309648),Sean Crocker(13309665),49600,366.878
+G,Stuart Manley (13309733),Stuart Manley,13309733,G,6500,KLM Open,Golf,32.57452872,Joost Luiten(13309643),Bradley Dredge(13309680),Romain Wattel(13309658),Matthew Southgate(13309669),Lee Westwood(13309645),Edoardo Molinari(13309660),50000,366.877
+G,Koen Kouwenaar (13309734),Koen Kouwenaar,13309734,G,6500,KLM Open,Golf,25.0021656,Joost Luiten(13309643),Andres Romero(13309662),Romain Wattel(13309658),Ashley Chesters(13309667),Lee Westwood(13309645),Bradley Dredge(13309680),50000,366.875
+G,Per Langfors (13309735),Per Langfors,13309735,G,6500,KLM Open,Golf,27.04105911,Lee Westwood(13309645),Bradley Dredge(13309680),Bernd Ritthammer(13309678),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),Gavin Green(13309648),49700,366.873
+G,Bob Geurts (13309736),Bob Geurts,13309736,G,6500,KLM Open,Golf,23.19443182,Bradley Dredge(13309680),Thomas Detry(13309646),Antoine Rozner(13309701),Mike Lorenzo-Vera(13309644),Gavin Green(13309648),Ashley Chesters(13309667),49800,366.845
+G,Marco Penge (13309737),Marco Penge,13309737,G,6500,KLM Open,Golf,29.41410312,Joost Luiten(13309643),Bradley Dredge(13309680),Romain Wattel(13309658),Ashley Chesters(13309667),Lee Westwood(13309645),Sean Crocker(13309665),49900,366.839
+G,Gavin Moynihan (13309738),Gavin Moynihan,13309738,G,6500,KLM Open,Golf,32.50093105,,,,,,,,
+G,Wilco Nienaber (13309739),Wilco Nienaber,13309739,G,6400,KLM Open,Golf,32.57452872,,,,,,,,
+G,Scott Gregory (13309740),Scott Gregory,13309740,G,6400,KLM Open,Golf,23.21042106,,,,,,,,
+G,Jeunghun Wang (13309741),Jeunghun Wang,13309741,G,6400,KLM Open,Golf,28.17313251,,,,,,,,
+G,Trevor Immelman (13309742),Trevor Immelman,13309742,G,6400,KLM Open,Golf,24.95794759,,,,,,,,
+G,Matteo Manassero (13309743),Matteo Manassero,13309743,G,6400,KLM Open,Golf,27.02746649,,,,,,,,
+G,Sami Valimaki (13309744),Sami Valimaki,13309744,G,6400,KLM Open,Golf,30.96502603,,,,,,,,
+G,Michael Hoey (13309745),Michael Hoey,13309745,G,6400,KLM Open,Golf,30.92450527,,,,,,,,
+G,Lasse Jensen (13309746),Lasse Jensen,13309746,G,6400,KLM Open,Golf,32.50093105,,,,,,,,
+G,Dimi Papadatos (13309747),Dimi Papadatos,13309747,G,6400,KLM Open,Golf,29.48280013,,,,,,,,
+G,Rowin Caron (13309748),Rowin Caron,13309748,G,6300,KLM Open,Golf,29.59214657,,,,,,,,
+G,Shiv Chawrasia (13309749),Shiv Chawrasia,13309749,G,6300,KLM Open,Golf,27.02746649
+G,Reinier Saxton (13309750),Reinier Saxton,13309750,G,6300,KLM Open,Golf,23.19443182
+G,Duncan Stewart (13309751),Duncan Stewart,13309751,G,6300,KLM Open,Golf,24.95794759
+G,Eduardo De La Riva (13309752),Eduardo De La Riva,13309752,G,6300,KLM Open,Golf,27.04105911
+G,Adam Bland (13309753),Adam Bland,13309753,G,6300,KLM Open,Golf,27.00569616
+G,Kristian Krogh Johannessen (13309754),Kristian Krogh Johannessen,13309754,G,6300,KLM Open,Golf,27.00569616
+G,Marcel Siem (13309755),Marcel Siem,13309755,G,6300,KLM Open,Golf,24.95042742
+G,Marc Warren (13309756),Marc Warren,13309756,G,6300,KLM Open,Golf,28.22562006
+G,Pedro Figueiredo (13309757),Pedro Figueiredo,13309757,G,6300,KLM Open,Golf,27.00358152
+G,Raphael Jacquelin (13309758),Raphael Jacquelin,13309758,G,6200,KLM Open,Golf,24.97828063
+G,Pedro Oriol (13309759),Pedro Oriol,13309759,G,6200,KLM Open,Golf,24.95042742
+G,David Howell (13309760),David Howell,13309760,G,6200,KLM Open,Golf,28.15953989
+G,Yusaku Miyazato (13309761),Yusaku Miyazato,13309761,G,6200,KLM Open,Golf,26.98181119
+G,Jurrian Van Der Vaart (13309762),Jurrian Van Der Vaart,13309762,G,6200,KLM Open,Golf,23.19443182
+G,Hyowon Park (13309763),Hyowon Park,13309763,G,6200,KLM Open,Golf,23.19920638
+G,Tom Murray (13309764),Tom Murray,13309764,G,6200,KLM Open,Golf,24.95042742
+G,Jake McLeod (13309765),Jake McLeod,13309765,G,6200,KLM Open,Golf,26.98181119
+G,Austin Connelly (13309766),Austin Connelly,13309766,G,6200,KLM Open,Golf,27.04105911
+G,Robbie Van West (13309767),Robbie Van West,13309767,G,6200,KLM Open,Golf,26.98181119
+G,David Borda (13309768),David Borda,13309768,G,6100,KLM Open,Golf,23.19443182
+G,Jose Maria Olazabal (13309769),Jose Maria Olazabal,13309769,G,6100,KLM Open,Golf,23.19920638
+G,Kiet Van Der Weele (13309770),Kiet Van Der Weele,13309770,G,6100,KLM Open,Golf,26.98933137
+G,Dario Antonisse (13309771),Dario Antonisse,13309771,G,6100,KLM Open,Golf,23.19443182
+G,Benjamin Reuter (13309772),Benjamin Reuter,13309772,G,6100,KLM Open,Golf,23.19443182
+G,Maarten Lafeber (13309773),Maarten Lafeber,13309773,G,6100,KLM Open,Golf,23.19920638
+G,Mike Toorop (13309774),Mike Toorop,13309774,G,6100,KLM Open,Golf,24.95042742
+G,Max Albertus (13309775),Max Albertus,13309775,G,6100,KLM Open,Golf,23.19443182
+G,Jinho Choi (13309776),Jinho Choi,13309776,G,6100,KLM Open,Golf,26.98933137
+G,Deyen Lawson (13309777),Deyen Lawson,13309777,G,6100,KLM Open,Golf,24.98580081
+G,Max Orrin (13309778),Max Orrin,13309778,G,6100,KLM Open,Golf,26.96147815
+G,Eugenio Lopez-Chacarra Coto (13309779),Eugenio Lopez-Chacarra Coto,13309779,G,6100,KLM Open,Golf,24.95794759
+G,Mark Reynolds (13309780),Mark Reynolds,13309780,G,6000,KLM Open,Golf,23.19443182
+G,Filippo Bergamaschi (13309781),Filippo Bergamaschi,13309781,G,6000,KLM Open,Golf,24.97431239
+G,Lars Keunen (13309782),Lars Keunen,13309782,G,6000,KLM Open,Golf,23.19443182
+G,Joel Girrbach (13309783),Joel Girrbach,13309783,G,6000,KLM Open,Golf,27.00569616
+G,Javier Ballesteros (13309784),Javier Ballesteros,13309784,G,6000,KLM Open,Golf,23.19443182
+G,Davey Porsius (13309785),Davey Porsius,13309785,G,6000,KLM Open,Golf,23.19443182
+G,Nick McCarthy (13309786),Nick McCarthy,13309786,G,6000,KLM Open,Golf,24.95042742
+G,David Cooke (13309787),David Cooke,13309787,G,6000,KLM Open,Golf,23.19443182
+G,Sven Maurits (13309788),Sven Maurits,13309788,G,6000,KLM Open,Golf,23.19443182
+G,Julian Kunzenbacher (13309789),Julian Kunzenbacher,13309789,G,6000,KLM Open,Golf,23.19443182
+G,Brett Rumford (13309790),Brett Rumford,13309790,G,6000,KLM Open,Golf,24.95794759
+G,Dylan Boshart (13309791),Dylan Boshart,13309791,G,6000,KLM Open,Golf,26.98181119
+G,Michael Campbell (13309792),Michael Campbell,13309792,G,6000,KLM Open,Golf,28.24182951
