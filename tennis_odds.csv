@@ -1,21 +1,50 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,wta-wuhan-china0,Donna Vekic,-141,Victoria Azarenka,+119
-1,wta-wuhan-china1,Alison Riske,-175,Kateryna Kozlova,+147
-2,wta-wuhan-china2,A. Sevastova,-154,Christina Mchale,+130
-3,wta-wuhan-china3,S. Kuznetsova,-179,Yulia Putintseva,+150
-4,wta-wuhan-china4,C. Wozniacki,-130,S. Hsieh,+111
-5,wta-wuhan-china5,Petra Martic,-303,Kristina Mladenovic,+245
-6,wta-wuhan-china6,Ekaterina Alexandrova,-115,Veronika Kudermetova,-102
-7,wta-wuhan-china7,Yafan Wang,-116,L. Davis,-101
-8,wta-wuhan-china8,Amanda Anisimova,-278,Sam Stosur,+226
-9,wta-wuhan-china9,M. Keys,-189,Camila Giorgi,+158
-10,wta-wuhan-china10,A. Kerber,-303,Monica Puig,+245
-11,wta-wuhan-china11,Elise Mertens,-250,Katerina Siniakova,+206
-12,wta-wuhan-china12,G. Muguruza,-185,Shuai Peng,+156
-13,wta-wuhan-china13,Sofia Kenin,-250,A. Pavlyuchenkova,+207
-14,wta-wuhan-china14,P. Kvitova,-278,Polona Hercog,+231
-15,wta-wuhan-china15,Karolina Muchova,-164,Marie Bouzkova,+139
-16,wta-wuhan-china16,Aryna Sabalenka,-323,Danielle Collins,+258
-17,wta-wuhan-china17,K. Bertens,-213,Bernarda Pera,+162
-18,wta-wuhan-china18,Ashleigh Barty,-417,C. Garcia,+293
-19,wta-wuhan-china19,S. Halep,-526,Barbora Strycova,+359
+0,wta-beijing-china0,Amanda Anisimova,-156,Jennifer Brady,+132
+1,wta-beijing-china1,Petra Martic,-109,Elise Mertens,-109
+2,wta-beijing-china2,Karolina Muchova,-135,M. Keys,+115
+3,wta-beijing-china3,A. Pavlyuchenkova,-154,Veronika Kudermetova,+130
+4,wta-beijing-china4,Bianca Vanessa Andreescu,-476,Aliaksandra Sasnovich,+361
+5,wta-beijing-china5,Katerina Siniakova,-143,J. Ostapenko,+121
+6,wta-beijing-china6,Dayana Yastremska,-132,K. Bertens,+112
+7,wta-beijing-china7,S. Halep,-385,Ekaterina Alexandrova,+301
+8,wta-beijing-china8,C. Wozniacki,-189,L. Davis,+158
+9,wta-beijing-china9,Elina Svitolina,-312,Yafan Wang,+256
+10,wta-beijing-china10,Belinda Bencic,-185,V. Williams,+156
+11,wta-beijing-china11,Alison Riske,-156,Ajla Tomljanovic,+123
+12,wta-beijing-china12,"Stephens, Sloane",-200,Saisai Zheng,+153
+13,wta-beijing-china13,P. Kvitova,-400,Kristina Mladenovic,+280
+14,wta-beijing-china14,N. Osaka,-769,Andrea Petkovic,+471
+15,wta-beijing-china15,Ashleigh Barty,-400,Yulia Putintseva,+281
+16,wta-beijing-china16,A. Kerber,-213,Polona Hercog,+163
+17,wta-beijing-china17,Aryna Sabalenka,-476,D. Kasatkina,+326
+18,atp-beijing-china0,Grigor Dimitrov,-123,Andrey Rublev,-111
+19,atp-beijing-china1,Jeremy Chardy,-370,M. Cecchinato,+241
+20,atp-beijing-china2,K. Khachanov,-204,Pablo Cuevas,+143
+21,atp-beijing-china3,K. Edmund,-278,Zhizhen Zhang,+190
+22,atp-beijing-china4,Cameron Norrie,-130,Christian Garin,-106
+23,atp-beijing-china5,A. Zverev,-270,F. Tiafoe,+187
+24,atp-beijing-china6,Dan Evans,-1000,Zhe Li,+472
+25,atp-beijing-china7,Felix Auger Aliassime,-179,Albert Ramos-Vinolas,+128
+26,atp-beijing-china8,"Basilashvili, Nikoloz",-167,Guido Pella,+121
+27,atp-beijing-china9,F. Fognini,-130,Mikhail Kukushkin,-106
+28,atp-beijing-china10,Stefanos Tsitsipas,-385,D. Lajovic,+247
+29,atp-beijing-china11,Gael Monfils,-156,J. Isner,+113
+30,atp-beijing-china12,D. Schwartzman,-204,F. Verdasco,+143
+31,atp-beijing-china13,D. Thiem,-169,R. Gasquet,+121
+32,atp-beijing-china14,R. Agut,-385,Sam Querrey,+247
+33,atp-tokyo-japan0,J-L. Struff,-385,Go Soeda,+251
+34,atp-tokyo-japan1,L. Pouille,-127,Hubert Hurkacz,-109
+35,atp-tokyo-japan2,M. Cilic,-625,Yuichi Sugita,+361
+36,atp-tokyo-japan3,Y. Nishioka,-139,Joao Sousa,+101
+37,atp-tokyo-japan4,Hyeon Chung,-208,Lorenzo Sonego,+146
+38,atp-tokyo-japan5,J. Millman,-143,Adrian Mannarino,+104
+39,atp-tokyo-japan6,Jordan Thompson,-233,Juan Ignacio Londero,+162
+40,atp-tokyo-japan7,Denis Shapovalov,-294,Miomir Kecmanovic,+200
+41,atp-tokyo-japan8,D. Goffin,-185,P. Carreno Busta,+131
+42,atp-tokyo-japan9,Taylor Harry Fritz,-172,Reilly Opelka,+124
+43,atp-tokyo-japan10,Alex Di Minaur,-476,Lloyd George Harris,+291
+44,atp-tokyo-japan11,Borna Coric,-500,Taro Daniel,+307
+45,atp-tokyo-japan12,Filip Krajinovic,-175,Radu Albot,+126
+46,atp-tokyo-japan13,Benoit Paire,-159,Yasutaka Uchiyama,+115
+47,atp-tokyo-japan14,G. Simon,-119,Pablo Andujar,-115
+48,atp-tokyo-japan15,Novak Djokovic,-1429,Alexei Popyrin,+594
