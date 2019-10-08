@@ -1,50 +1,41 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,wta-beijing-china0,Amanda Anisimova,-156,Jennifer Brady,+132
-1,wta-beijing-china1,Petra Martic,-109,Elise Mertens,-109
-2,wta-beijing-china2,Karolina Muchova,-135,M. Keys,+115
-3,wta-beijing-china3,A. Pavlyuchenkova,-154,Veronika Kudermetova,+130
-4,wta-beijing-china4,Bianca Vanessa Andreescu,-476,Aliaksandra Sasnovich,+361
-5,wta-beijing-china5,Katerina Siniakova,-143,J. Ostapenko,+121
-6,wta-beijing-china6,Dayana Yastremska,-132,K. Bertens,+112
-7,wta-beijing-china7,S. Halep,-385,Ekaterina Alexandrova,+301
-8,wta-beijing-china8,C. Wozniacki,-189,L. Davis,+158
-9,wta-beijing-china9,Elina Svitolina,-312,Yafan Wang,+256
-10,wta-beijing-china10,Belinda Bencic,-185,V. Williams,+156
-11,wta-beijing-china11,Alison Riske,-156,Ajla Tomljanovic,+123
-12,wta-beijing-china12,"Stephens, Sloane",-200,Saisai Zheng,+153
-13,wta-beijing-china13,P. Kvitova,-400,Kristina Mladenovic,+280
-14,wta-beijing-china14,N. Osaka,-769,Andrea Petkovic,+471
-15,wta-beijing-china15,Ashleigh Barty,-400,Yulia Putintseva,+281
-16,wta-beijing-china16,A. Kerber,-213,Polona Hercog,+163
-17,wta-beijing-china17,Aryna Sabalenka,-476,D. Kasatkina,+326
-18,atp-beijing-china0,Grigor Dimitrov,-123,Andrey Rublev,-111
-19,atp-beijing-china1,Jeremy Chardy,-370,M. Cecchinato,+241
-20,atp-beijing-china2,K. Khachanov,-204,Pablo Cuevas,+143
-21,atp-beijing-china3,K. Edmund,-278,Zhizhen Zhang,+190
-22,atp-beijing-china4,Cameron Norrie,-130,Christian Garin,-106
-23,atp-beijing-china5,A. Zverev,-270,F. Tiafoe,+187
-24,atp-beijing-china6,Dan Evans,-1000,Zhe Li,+472
-25,atp-beijing-china7,Felix Auger Aliassime,-179,Albert Ramos-Vinolas,+128
-26,atp-beijing-china8,"Basilashvili, Nikoloz",-167,Guido Pella,+121
-27,atp-beijing-china9,F. Fognini,-130,Mikhail Kukushkin,-106
-28,atp-beijing-china10,Stefanos Tsitsipas,-385,D. Lajovic,+247
-29,atp-beijing-china11,Gael Monfils,-156,J. Isner,+113
-30,atp-beijing-china12,D. Schwartzman,-204,F. Verdasco,+143
-31,atp-beijing-china13,D. Thiem,-169,R. Gasquet,+121
-32,atp-beijing-china14,R. Agut,-385,Sam Querrey,+247
-33,atp-tokyo-japan0,J-L. Struff,-385,Go Soeda,+251
-34,atp-tokyo-japan1,L. Pouille,-127,Hubert Hurkacz,-109
-35,atp-tokyo-japan2,M. Cilic,-625,Yuichi Sugita,+361
-36,atp-tokyo-japan3,Y. Nishioka,-139,Joao Sousa,+101
-37,atp-tokyo-japan4,Hyeon Chung,-208,Lorenzo Sonego,+146
-38,atp-tokyo-japan5,J. Millman,-143,Adrian Mannarino,+104
-39,atp-tokyo-japan6,Jordan Thompson,-233,Juan Ignacio Londero,+162
-40,atp-tokyo-japan7,Denis Shapovalov,-294,Miomir Kecmanovic,+200
-41,atp-tokyo-japan8,D. Goffin,-185,P. Carreno Busta,+131
-42,atp-tokyo-japan9,Taylor Harry Fritz,-172,Reilly Opelka,+124
-43,atp-tokyo-japan10,Alex Di Minaur,-476,Lloyd George Harris,+291
-44,atp-tokyo-japan11,Borna Coric,-500,Taro Daniel,+307
-45,atp-tokyo-japan12,Filip Krajinovic,-175,Radu Albot,+126
-46,atp-tokyo-japan13,Benoit Paire,-159,Yasutaka Uchiyama,+115
-47,atp-tokyo-japan14,G. Simon,-119,Pablo Andujar,-115
-48,atp-tokyo-japan15,Novak Djokovic,-1429,Alexei Popyrin,+594
+0,wta-tianjin-china0,Sofia Kenin,-588,Kristie Ahn,+343
+1,wta-tianjin-china1,K. Nara,-189,Harriet Dart,+133
+2,wta-tianjin-china2,Shuai Zhang,-323,Xinyu Wang,+217
+3,wta-tianjin-china3,Magda Linette,-217,Christina Mchale,+154
+4,wta-tianjin-china4,Kristie Ahn,-139,Xiyu Wang,+100
+5,wta-tianjin-china5,Shuai Peng,-625,Xiaodi You,+366
+6,wta-tianjin-china6,Jennifer Brady,-250,Ons Jabeur,+173
+7,wta-tianjin-china7,Veronika Kudermetova,-128,Ajla Tomljanovic,-108
+8,wta-tianjin-china8,Dayana Yastremska,-476,Lin Zhu,+295
+9,wta-tianjin-china9,Saisai Zheng,-833,Ying-Ying Duan,+443
+10,wta-tianjin-china10,Qiang Wang,-909,Arina Rodionova,+465
+11,atp-shanghai-china0,Reilly Opelka,-222,D. Lajovic,+186
+12,atp-shanghai-china1,Alex Di Minaur,-139,J. Isner,+118
+13,atp-shanghai-china2,Andrey Rublev,-159,Borna Coric,+135
+14,atp-shanghai-china3,L. Pouille,-909,Zhe Li,+622
+15,atp-shanghai-china5,J. Millman,-116,Guido Pella,-101
+16,atp-shanghai-china6,Matteo Berrettini,-189,J-L. Struff,+159
+17,atp-shanghai-china7,Felix Auger Aliassime,-115,Alexander Bublik,-102
+18,atp-shanghai-china8,"Basilashvili, Nikoloz",-130,Benoit Paire,+110
+19,atp-shanghai-china9,Gael Monfils,-204,Hubert Hurkacz,+172
+20,atp-shanghai-china10,D. Goffin,-294,R. Gasquet,+241
+21,atp-shanghai-china11,V. Pospisil,-139,Joao Sousa,+118
+22,atp-shanghai-china12,Roger Federer,-1000,Albert Ramos-Vinolas,+644
+23,atp-shanghai-china13,Daniil Medvedev,-833,Cameron Norrie,+564
+24,atp-shanghai-china14,A. Zverev,-323,Jeremy Chardy,+237
+25,atp-shanghai-china15,K. Khachanov,-270,Taylor Harry Fritz,+202
+26,atp-shanghai-china17,Novak Djokovic,-1111,Denis Shapovalov,+608
+27,wta-linz-austria0,Katerina Siniakova,-132,Kristina Mladenovic,-105
+28,wta-linz-austria1,Elena Rybakina,-189,Nina Stojanovic,+134
+29,wta-linz-austria2,Barbora Strycova,-152,Alize Cornet,+110
+30,wta-linz-austria3,Laura Siegemund,-169,Fiona Ferro,+122
+31,wta-linz-austria4,Maria Sakkari,-303,S. Voegele,+206
+32,wta-linz-austria5,J. Goerges,-263,Margarita Gasparyan,+182
+33,wta-linz-austria6,Alison Van Uytvanck,-370,Ysaline Bonaventure,+241
+34,wta-linz-austria7,Belinda Bencic,-385,Anna-Lena Friedsam,+247
+35,wta-linz-austria8,Donna Vekic,-250,Polona Hercog,+172
+36,wta-linz-austria9,A. Pavlyuchenkova,-667,B. Haas,+380
+37,wta-linz-austria10,Ekaterina Alexandrova,-222,Kristyna Pliskova,+156
+38,wta-linz-austria11,K. Bertens,-625,Misaki Doi,+362
+39,wta-linz-austria12,J. Ostapenko,-233,Tamara Korpatsch,+163
