@@ -1,26 +1,49 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,wta-tianjin-china0,Ons Jabeur,-167,Xiyu Wang,+119
-1,wta-tianjin-china1,R. Peterson,-625,Xinyu Wang,+359
-2,wta-tianjin-china3,Yulia Putintseva,-227,Sam Stosur,+160
-3,wta-tianjin-china4,Yafan Wang,-130,C. Garcia,-105
-4,wta-tianjin-china5,Magda Linette,-385,K. Nara,+246
-5,wta-tianjin-china6,Veronika Kudermetova,-159,Saisai Zheng,+114
-6,wta-tianjin-china7,Qiang Wang,-625,H. Watson,+355
-7,wta-tianjin-china8,Dayana Yastremska,-357,Shuai Peng,+238
-8,atp-shanghai-china0,J. Isner,-189,L. Pouille,+158
-9,atp-shanghai-china1,Matteo Berrettini,-370,Christian Garin,+298
-10,atp-shanghai-china2,Stefanos Tsitsipas,-217,Felix Auger Aliassime,+183
-11,atp-shanghai-china4,R. Agut,-147,Reilly Opelka,+126
-12,atp-shanghai-china5,K. Khachanov,-204,Taylor Harry Fritz,+172
-13,atp-shanghai-china6,A. Zverev,-323,Jeremy Chardy,+262
-14,atp-shanghai-china7,Andrey Rublev,-172,J. Millman,+145
-15,atp-shanghai-china8,Novak Djokovic,-1000,Denis Shapovalov,+666
-16,atp-shanghai-china9,D. Goffin,-417,Mikhail Kukushkin,+323
-17,atp-shanghai-china10,D. Thiem,-222,P. Carreno Busta,+185
-18,atp-shanghai-china11,Daniil Medvedev,-1111,V. Pospisil,+589
-19,wta-linz-austria0,J. Ostapenko,-244,Tamara Korpatsch,+171
-20,wta-linz-austria1,Ekaterina Alexandrova,-263,Kristyna Pliskova,+182
-21,wta-linz-austria2,Kateryna Kozlova,-145,Cori Gauff,+104
-22,wta-linz-austria3,A. Pavlyuchenkova,-667,B. Haas,+381
-23,wta-linz-austria4,K. Bertens,-625,Misaki Doi,+365
-24,wta-linz-austria5,J. Goerges,-217,Andrea Petkovic,+154
+0,wta-luxembourg-luxembourg0,Andrea Petkovic,-135,Camila Giorgi,-102
+1,wta-luxembourg-luxembourg1,Elise Mertens,-526,Kateryna Kozlova,+314
+2,wta-luxembourg-luxembourg2,Monica Puig,-169,Fiona Ferro,+122
+3,wta-luxembourg-luxembourg3,J. Goerges,-435,Misaki Doi,+272
+4,wta-luxembourg-luxembourg4,Anna Blinkova,-169,Cori Gauff,+121
+5,wta-luxembourg-luxembourg5,Marta Kostyuk,-125,Laura Siegemund,-110
+6,wta-luxembourg-luxembourg6,Sorana Cirstea,-132,Pauline Parmentier,-105
+7,wta-luxembourg-luxembourg7,Antonia Lottner,-164,Tamara Korpatsch,+118
+8,wta-luxembourg-luxembourg8,Elena Rybakina,-500,C. Paquet,+301
+9,wta-luxembourg-luxembourg9,Alison Van Uytvanck,-270,Monica Niculescu,+187
+10,wta-luxembourg-luxembourg10,J. Ostapenko,-204,Catherine McNally,+143
+11,wta-moscow-russia0,Kaia Kanepi,-270,Timea Babos,+187
+12,wta-moscow-russia1,Ekaterina Alexandrova,-476,J. Cepelova,+289
+13,wta-moscow-russia2,Natalia Vikhlyantseva,-135,Kirsten Flipkens,-102
+14,wta-moscow-russia3,Katerina Siniakova,-172,Polona Hercog,+124
+15,wta-moscow-russia4,Dayana Yastremska,-127,D. Kasatkina,-109
+16,wta-moscow-russia5,Veronika Kudermetova,-137,Ons Jabeur,+100
+17,wta-moscow-russia6,Yulia Putintseva,-119,Kristina Mladenovic,-115
+18,wta-moscow-russia7,A. Pavlyuchenkova,-208,Maria Sakkari,+146
+19,wta-moscow-russia8,Karolina Muchova,-149,Donna Vekic,+108
+20,atp-moscow-russia0,R. Berankis,-303,Roberto Carballes Baena,+204
+21,atp-moscow-russia1,Miomir Kecmanovic,-588,Artem Dubrivnyy,+342
+22,atp-moscow-russia2,Mikhail Kukushkin,-200,Evgeny Donskoy,+143
+23,atp-moscow-russia3,P. Kohlschreiber,-172,Pierre-Hugues Herbert,+124
+24,atp-moscow-russia4,Jeremy Chardy,-278,Nicolas Jarry,+190
+25,atp-moscow-russia5,Andrey Rublev,-303,Alexander Bublik,+205
+26,atp-moscow-russia6,Aljaz Bedene,-294,Ivo Karlovic,+200
+27,atp-moscow-russia7,D. Lajovic,-192,L. Rosol,+137
+28,atp-moscow-russia8,Egor Gerasimov,-400,Thomas Fabbiano,+256
+29,atp-stockholm-sweden0,Filip Krajinovic,-263,Casper Ruud,+181
+30,atp-stockholm-sweden1,Radu Albot,-143,Y. Nishioka,+103
+31,atp-stockholm-sweden2,P. Carreno Busta,-185,J. Millman,+132
+32,atp-stockholm-sweden3,Tommy Paul,-227,Pablo Andujar,+160
+33,atp-stockholm-sweden4,Sam Querrey,-175,Dennis Novak,+125
+34,atp-stockholm-sweden5,Cedrik-Marcel Stebe,-400,Brayden Schnur,+260
+35,atp-stockholm-sweden6,Yuichi Sugita,-139,E. Ymer,+101
+36,atp-stockholm-sweden7,Alexei Popyrin,-238,Oscar Otte,+165
+37,atp-stockholm-sweden8,Mikael Ymer,-139,Joao Sousa,+101
+38,atp-stockholm-sweden9,F. Fognini,-500,Janko Tipsarevic,+305
+39,atp-antwerp-belgium0,G. Simon,-435,S. Darcis,+278
+40,atp-antwerp-belgium1,Pablo Cuevas,-400,Hugo Dellien,+261
+41,atp-antwerp-belgium2,J-L. Struff,-172,Gregoire Barrere,+123
+42,atp-antwerp-belgium3,Cameron Norrie,-169,Feliciano Lopez,+122
+43,atp-antwerp-belgium4,Marius Copil,-294,Federico Delbonis,+198
+44,atp-antwerp-belgium5,R. Gasquet,-185,Soon Woo Kwon,+132
+45,atp-antwerp-belgium6,"Sinner, Jannik",-128,Kamil Majchrzak,-108
+46,atp-antwerp-belgium7,"Humbert, Ugo",-417,J. Kovalik,+269
+47,atp-antwerp-belgium8,F. Tiafoe,-154,Yannick Maden,+111
