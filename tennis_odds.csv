@@ -1,49 +1,39 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,wta-luxembourg-luxembourg0,Andrea Petkovic,-135,Camila Giorgi,-102
-1,wta-luxembourg-luxembourg1,Elise Mertens,-526,Kateryna Kozlova,+314
-2,wta-luxembourg-luxembourg2,Monica Puig,-169,Fiona Ferro,+122
-3,wta-luxembourg-luxembourg3,J. Goerges,-435,Misaki Doi,+272
-4,wta-luxembourg-luxembourg4,Anna Blinkova,-169,Cori Gauff,+121
-5,wta-luxembourg-luxembourg5,Marta Kostyuk,-125,Laura Siegemund,-110
-6,wta-luxembourg-luxembourg6,Sorana Cirstea,-132,Pauline Parmentier,-105
-7,wta-luxembourg-luxembourg7,Antonia Lottner,-164,Tamara Korpatsch,+118
-8,wta-luxembourg-luxembourg8,Elena Rybakina,-500,C. Paquet,+301
-9,wta-luxembourg-luxembourg9,Alison Van Uytvanck,-270,Monica Niculescu,+187
-10,wta-luxembourg-luxembourg10,J. Ostapenko,-204,Catherine McNally,+143
-11,wta-moscow-russia0,Kaia Kanepi,-270,Timea Babos,+187
-12,wta-moscow-russia1,Ekaterina Alexandrova,-476,J. Cepelova,+289
-13,wta-moscow-russia2,Natalia Vikhlyantseva,-135,Kirsten Flipkens,-102
-14,wta-moscow-russia3,Katerina Siniakova,-172,Polona Hercog,+124
-15,wta-moscow-russia4,Dayana Yastremska,-127,D. Kasatkina,-109
-16,wta-moscow-russia5,Veronika Kudermetova,-137,Ons Jabeur,+100
-17,wta-moscow-russia6,Yulia Putintseva,-119,Kristina Mladenovic,-115
-18,wta-moscow-russia7,A. Pavlyuchenkova,-208,Maria Sakkari,+146
-19,wta-moscow-russia8,Karolina Muchova,-149,Donna Vekic,+108
-20,atp-moscow-russia0,R. Berankis,-303,Roberto Carballes Baena,+204
-21,atp-moscow-russia1,Miomir Kecmanovic,-588,Artem Dubrivnyy,+342
-22,atp-moscow-russia2,Mikhail Kukushkin,-200,Evgeny Donskoy,+143
-23,atp-moscow-russia3,P. Kohlschreiber,-172,Pierre-Hugues Herbert,+124
-24,atp-moscow-russia4,Jeremy Chardy,-278,Nicolas Jarry,+190
-25,atp-moscow-russia5,Andrey Rublev,-303,Alexander Bublik,+205
-26,atp-moscow-russia6,Aljaz Bedene,-294,Ivo Karlovic,+200
-27,atp-moscow-russia7,D. Lajovic,-192,L. Rosol,+137
-28,atp-moscow-russia8,Egor Gerasimov,-400,Thomas Fabbiano,+256
-29,atp-stockholm-sweden0,Filip Krajinovic,-263,Casper Ruud,+181
-30,atp-stockholm-sweden1,Radu Albot,-143,Y. Nishioka,+103
-31,atp-stockholm-sweden2,P. Carreno Busta,-185,J. Millman,+132
-32,atp-stockholm-sweden3,Tommy Paul,-227,Pablo Andujar,+160
-33,atp-stockholm-sweden4,Sam Querrey,-175,Dennis Novak,+125
-34,atp-stockholm-sweden5,Cedrik-Marcel Stebe,-400,Brayden Schnur,+260
-35,atp-stockholm-sweden6,Yuichi Sugita,-139,E. Ymer,+101
-36,atp-stockholm-sweden7,Alexei Popyrin,-238,Oscar Otte,+165
-37,atp-stockholm-sweden8,Mikael Ymer,-139,Joao Sousa,+101
-38,atp-stockholm-sweden9,F. Fognini,-500,Janko Tipsarevic,+305
-39,atp-antwerp-belgium0,G. Simon,-435,S. Darcis,+278
-40,atp-antwerp-belgium1,Pablo Cuevas,-400,Hugo Dellien,+261
-41,atp-antwerp-belgium2,J-L. Struff,-172,Gregoire Barrere,+123
-42,atp-antwerp-belgium3,Cameron Norrie,-169,Feliciano Lopez,+122
-43,atp-antwerp-belgium4,Marius Copil,-294,Federico Delbonis,+198
-44,atp-antwerp-belgium5,R. Gasquet,-185,Soon Woo Kwon,+132
-45,atp-antwerp-belgium6,"Sinner, Jannik",-128,Kamil Majchrzak,-108
-46,atp-antwerp-belgium7,"Humbert, Ugo",-417,J. Kovalik,+269
-47,atp-antwerp-belgium8,F. Tiafoe,-154,Yannick Maden,+111
+0,wta-luxembourg-luxembourg0,Elena Rybakina,-667,Denisa Allertova,+380
+1,wta-luxembourg-luxembourg1,Margarita Gasparyan,-135,Monica Niculescu,-102
+2,wta-luxembourg-luxembourg2,Viktoria Kuzmova,-149,Laura Siegemund,+108
+3,wta-luxembourg-luxembourg3,Anna Blinkova,-149,Cori Gauff,+107
+4,wta-luxembourg-luxembourg4,J. Goerges,-417,Misaki Doi,+262
+5,wta-luxembourg-luxembourg5,J. Ostapenko,-189,Catherine McNally,+134
+6,wta-luxembourg-luxembourg6,Monica Puig,-164,Kristyna Pliskova,+119
+7,wta-luxembourg-luxembourg7,Andrea Petkovic,-435,Antonia Lottner,+273
+8,wta-moscow-russia0,Belinda Bencic,-312,Polona Hercog,+211
+9,wta-moscow-russia1,Ekaterina Alexandrova,-476,Anna Kalinskaya,+294
+10,wta-moscow-russia2,Dayana Yastremska,-400,Kirsten Flipkens,+258
+11,wta-moscow-russia3,Karolina Muchova,-200,Donna Vekic,+141
+12,wta-moscow-russia4,K. Bertens,-233,Kaia Kanepi,+164
+13,wta-moscow-russia5,Elina Svitolina,-238,Veronika Kudermetova,+167
+14,wta-moscow-russia6,A. Sevastova,-130,Kristina Mladenovic,-106
+15,atp-moscow-russia0,Egor Gerasimov,-435,Thomas Fabbiano,+275
+16,atp-moscow-russia1,A. Seppi,-294,Roberto Carballes Baena,+202
+17,atp-moscow-russia2,Adrian Mannarino,-196,Mikhail Kukushkin,+140
+18,atp-moscow-russia3,D. Lajovic,-161,L. Rosol,+116
+19,atp-moscow-russia4,K. Khachanov,-345,P. Kohlschreiber,+231
+20,atp-moscow-russia5,Jeremy Chardy,-164,Miomir Kecmanovic,+119
+21,atp-moscow-russia6,M. Cilic,-385,Ivo Karlovic,+249
+22,atp-stockholm-sweden0,Taylor Harry Fritz,-172,Y. Nishioka,+124
+23,atp-stockholm-sweden1,Mikael Ymer,-161,Joao Sousa,+117
+24,atp-stockholm-sweden2,Grigor Dimitrov,-167,Sam Querrey,+119
+25,atp-stockholm-sweden3,Filip Krajinovic,-133,Dan Evans,-104
+26,atp-stockholm-sweden4,P. Carreno Busta,-1250,Gianluca Mager,+555
+27,atp-stockholm-sweden5,Denis Shapovalov,-303,Alexei Popyrin,+204
+28,atp-stockholm-sweden6,F. Fognini,-455,Janko Tipsarevic,+288
+29,atp-stockholm-sweden7,Stefano Travaglia,-161,Yuichi Sugita,+116
+30,atp-antwerp-belgium0,F. Tiafoe,-156,Yannick Maden,+113
+31,atp-antwerp-belgium1,Stan Wawrinka,-244,Feliciano Lopez,+168
+32,atp-antwerp-belgium2,Pablo Cuevas,-435,Hugo Dellien,+275
+33,atp-antwerp-belgium3,Guido Pella,-119,Soon Woo Kwon,-115
+34,atp-antwerp-belgium4,Jo-Wilfried Tsonga,-357,G. Simon,+238
+35,atp-antwerp-belgium5,D. Goffin,-294,"Humbert, Ugo",+198
+36,atp-antwerp-belgium6,D. Schwartzman,-312,Marius Copil,+211
+37,atp-antwerp-belgium7,Gael Monfils,-294,"Sinner, Jannik",+198
