@@ -1,39 +1,27 @@
 ,Match,Favorite,Odds,Opponent,Opponent_Odds
-0,wta-luxembourg-luxembourg0,Elena Rybakina,-667,Denisa Allertova,+380
-1,wta-luxembourg-luxembourg1,Margarita Gasparyan,-135,Monica Niculescu,-102
-2,wta-luxembourg-luxembourg2,Viktoria Kuzmova,-149,Laura Siegemund,+108
-3,wta-luxembourg-luxembourg3,Anna Blinkova,-149,Cori Gauff,+107
-4,wta-luxembourg-luxembourg4,J. Goerges,-417,Misaki Doi,+262
-5,wta-luxembourg-luxembourg5,J. Ostapenko,-189,Catherine McNally,+134
-6,wta-luxembourg-luxembourg6,Monica Puig,-164,Kristyna Pliskova,+119
-7,wta-luxembourg-luxembourg7,Andrea Petkovic,-435,Antonia Lottner,+273
-8,wta-moscow-russia0,Belinda Bencic,-312,Polona Hercog,+211
-9,wta-moscow-russia1,Ekaterina Alexandrova,-476,Anna Kalinskaya,+294
-10,wta-moscow-russia2,Dayana Yastremska,-400,Kirsten Flipkens,+258
-11,wta-moscow-russia3,Karolina Muchova,-200,Donna Vekic,+141
-12,wta-moscow-russia4,K. Bertens,-233,Kaia Kanepi,+164
-13,wta-moscow-russia5,Elina Svitolina,-238,Veronika Kudermetova,+167
-14,wta-moscow-russia6,A. Sevastova,-130,Kristina Mladenovic,-106
-15,atp-moscow-russia0,Egor Gerasimov,-435,Thomas Fabbiano,+275
-16,atp-moscow-russia1,A. Seppi,-294,Roberto Carballes Baena,+202
-17,atp-moscow-russia2,Adrian Mannarino,-196,Mikhail Kukushkin,+140
-18,atp-moscow-russia3,D. Lajovic,-161,L. Rosol,+116
-19,atp-moscow-russia4,K. Khachanov,-345,P. Kohlschreiber,+231
-20,atp-moscow-russia5,Jeremy Chardy,-164,Miomir Kecmanovic,+119
-21,atp-moscow-russia6,M. Cilic,-385,Ivo Karlovic,+249
-22,atp-stockholm-sweden0,Taylor Harry Fritz,-172,Y. Nishioka,+124
-23,atp-stockholm-sweden1,Mikael Ymer,-161,Joao Sousa,+117
-24,atp-stockholm-sweden2,Grigor Dimitrov,-167,Sam Querrey,+119
-25,atp-stockholm-sweden3,Filip Krajinovic,-133,Dan Evans,-104
-26,atp-stockholm-sweden4,P. Carreno Busta,-1250,Gianluca Mager,+555
-27,atp-stockholm-sweden5,Denis Shapovalov,-303,Alexei Popyrin,+204
-28,atp-stockholm-sweden6,F. Fognini,-455,Janko Tipsarevic,+288
-29,atp-stockholm-sweden7,Stefano Travaglia,-161,Yuichi Sugita,+116
-30,atp-antwerp-belgium0,F. Tiafoe,-156,Yannick Maden,+113
-31,atp-antwerp-belgium1,Stan Wawrinka,-244,Feliciano Lopez,+168
-32,atp-antwerp-belgium2,Pablo Cuevas,-435,Hugo Dellien,+275
-33,atp-antwerp-belgium3,Guido Pella,-119,Soon Woo Kwon,-115
-34,atp-antwerp-belgium4,Jo-Wilfried Tsonga,-357,G. Simon,+238
-35,atp-antwerp-belgium5,D. Goffin,-294,"Humbert, Ugo",+198
-36,atp-antwerp-belgium6,D. Schwartzman,-312,Marius Copil,+211
-37,atp-antwerp-belgium7,Gael Monfils,-294,"Sinner, Jannik",+198
+0,wta-luxembourg-luxembourg0,Monica Puig,-179,Kristyna Pliskova,+128
+1,wta-luxembourg-luxembourg1,Anna Blinkova,-333,Tatjana Maria,+224
+2,wta-luxembourg-luxembourg2,Elise Mertens,-233,J. Ostapenko,+164
+3,wta-luxembourg-luxembourg3,Andrea Petkovic,-435,Antonia Lottner,+272
+4,wta-luxembourg-luxembourg4,J. Goerges,-303,Sorana Cirstea,+204
+5,wta-luxembourg-luxembourg5,Elena Rybakina,-192,Laura Siegemund,+138
+6,wta-moscow-russia0,K. Bertens,-204,Kaia Kanepi,+145
+7,wta-moscow-russia1,Elina Svitolina,-227,Veronika Kudermetova,+161
+8,wta-moscow-russia2,A. Sevastova,-141,Kristina Mladenovic,+102
+9,wta-moscow-russia3,Karolina Muchova,-130,Ekaterina Alexandrova,-105
+10,wta-moscow-russia4,Belinda Bencic,-312,Kirsten Flipkens,+212
+11,atp-moscow-russia0,Nikola Milojevic,-435,"Avidzba, Alen",+278
+12,atp-moscow-russia1,Andrey Rublev,-227,Egor Gerasimov,+159
+13,atp-moscow-russia2,Jeremy Chardy,-167,Miomir Kecmanovic,+119
+14,atp-moscow-russia3,M. Cilic,-345,Ivo Karlovic,+230
+15,atp-moscow-russia4,Adrian Mannarino,-213,D. Lajovic,+150
+16,atp-moscow-russia5,K. Khachanov,-476,A. Seppi,+289
+17,atp-stockholm-sweden0,Denis Shapovalov,-294,Alexei Popyrin,+197
+18,atp-stockholm-sweden1,P. Carreno Busta,-1429,Gianluca Mager,+569
+19,atp-stockholm-sweden2,Stefano Travaglia,-139,Yuichi Sugita,+101
+20,atp-stockholm-sweden3,F. Fognini,-476,Janko Tipsarevic,+292
+21,atp-stockholm-sweden4,Mikael Ymer,-400,Cedrik-Marcel Stebe,+258
+22,atp-antwerp-belgium0,J-L. Struff,-167,F. Tiafoe,+120
+23,atp-antwerp-belgium1,D. Schwartzman,-333,Marius Copil,+220
+24,atp-antwerp-belgium2,Gael Monfils,-357,"Sinner, Jannik",+238
+25,atp-antwerp-belgium3,D. Goffin,-312,"Humbert, Ugo",+209
