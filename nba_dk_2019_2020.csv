@@ -8583,7 +8583,7 @@ DK_Pts,DK_Salary,Date,GID,H_A,Minutes,Name,OUT,Oppt,Oppt_Score,PaidSalary,Pos,St
 49.75,11200.0,20191129,0,H,24.6,"James, LeBron","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",was,103,0.0,PG/SF,1, 23pt 3rb 11as 2st 1bl 6to 4trey 9-16fg 1-2ft,lal,125
 21.75,4900.0,20191129,0,H,11.2,"Rondo, Rajon","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",was,103,0.0,PG,0, 13pt 1rb 4as 3trey 5-7fg,lal,125
 21.5,3000.0,20191129,0,H,22.73333333333333,"Cook, Quinn","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",was,103,1.0,PG,0, 17pt 2rb 1as 2to 3trey 7-11fg,lal,125
-11.75,3000.0,20191129,0,H,19.28333333333333,"Caruso, Alex","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",was,103,0.0,PG/SG,0, 2pt 3rb 3as 1st 1to 0-3fg 2-4ft,lal,125
+11.75,3000.0,20191129,0,H,19.283333333333328,"Caruso, Alex","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",was,103,0.0,PG/SG,0, 2pt 3rb 3as 1st 1to 0-3fg 2-4ft,lal,125
 4.5,3300.0,20191129,0,H,13.183333333333335,"Daniels, Troy","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",was,103,0.0,SG,0, 0pt 2rb 1st 0-4fg,lal,125
 0.0,4000.0,20191129,0,H,0.0,"Bradley, Avery","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",was,103,0.0,PG/SG,0,,lal,125
 0.0,3000.0,20191129,0,H,0.0,"Norvell Jr., Zach","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",was,103,0.0,PG,0,,lal,125
@@ -8902,7 +8902,7 @@ DK_Pts,DK_Salary,Date,GID,H_A,Minutes,Name,OUT,Oppt,Oppt_Score,PaidSalary,Pos,St
 0.0,3000.0,20191129,0,H,0.0,"Allen, Kadeem","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Knox, Kevin|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",phi,101,0.0,PG/SG,0,,nyk,95
 0.0,4800.0,20191129,0,H,0.0,"Payton, Elfrid","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Knox, Kevin|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",phi,101,0.0,PG,0,,nyk,95
 31.75,6200.0,20191129,0,H,33.666666666666664,"Morris, Marcus","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Knox, Kevin|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",phi,101,1.0,SF/PF,1, 20pt 7rb 1bl 1to 3trey 6-12fg 5-6ft,nyk,95
-14.5,3300.0,20191129,0,H,19.53333333333333,"Dotson, Damyean","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Knox, Kevin|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",phi,101,0.0,SG/SF,0, 10pt 1as 1st 2trey 3-8fg 2-2ft,nyk,95
+14.5,3300.0,20191129,0,H,19.533333333333328,"Dotson, Damyean","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Knox, Kevin|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",phi,101,0.0,SG/SF,0, 10pt 1as 1st 2trey 3-8fg 2-2ft,nyk,95
 2.75,3900.0,20191129,0,H,12.216666666666667,"Ellington, Wayne","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Knox, Kevin|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",phi,101,0.0,SG/SF,0, 0pt 1rb 1as 0-3fg,nyk,95
 0.0,3500.0,20191129,0,H,0.0,"Knox, Kevin","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Knox, Kevin|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",phi,101,0.0,SF/PF,0,,nyk,95
 0.0,3000.0,20191129,0,H,0.0,"Brazdeikis, Ignas","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Knox, Kevin|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",phi,101,0.0,SF/PF,0,,nyk,95
@@ -8946,104 +8946,640 @@ DK_Pts,DK_Salary,Date,GID,H_A,Minutes,Name,OUT,Oppt,Oppt_Score,PaidSalary,Pos,St
 3.5,3000.0,20191129,0,A,2.8,"Patterson, Patrick","Coffey, Amir|McGruder, Rodney|Shamet, Landry|Motley, Johnathan|Kabengele, Mfiondu",sas,107,0.0,PF/C,0, 3pt 1trey 1-1fg,lac,97
 0.0,3000.0,20191129,0,A,0.0,"Motley, Johnathan","Coffey, Amir|McGruder, Rodney|Shamet, Landry|Motley, Johnathan|Kabengele, Mfiondu",sas,107,0.0,PF/C,0,,lac,97
 0.0,3000.0,20191129,0,A,0.0,"Kabengele, Mfiondu","Coffey, Amir|McGruder, Rodney|Shamet, Landry|Motley, Johnathan|Kabengele, Mfiondu",sas,107,0.0,PF/C,0,,lac,97
-85.25,12000,20191130,0,H,30.683333333333334,"Harden, James","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,1.0,PG/SG,1, 60pt 3rb 8as 3st 1bl 5to 8trey 16-24fg 20-23ft,hou,158
-35.5,9300,20191130,0,H,26.683333333333334,"Westbrook, Russell","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,0.0,PG,1, 15pt 8rb 8as 4to 1trey 6-11fg 2-2ft,hou,158
-30.5,3200,20191130,0,H,31.816666666666666,"Rivers, Austin","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,1.0,PG/SG,0, 14pt 6rb 4as 1st 2trey 5-12fg 2-3ft,hou,158
-17.5,3100,20191130,0,H,15.366666666666667,"Clemons, Chris","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,1.0,PG,0, 16pt 1to 4trey 6-10fg,hou,158
-0,3000,20191130,0,H,0.0,"Frazier, Michael","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,0.0,PG/SG,0,,hou,158
-47.75,3500,20191130,0,H,33.86666666666667,"McLemore, Ben","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,1.0,SG/SF,1, 24pt 13rb 1as 1st 1to 6trey 9-14fg,hou,158
-23.25,5100,20191130,0,H,29.733333333333334,"Tucker, P.J.","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,0.0,SF/PF,1, 10pt 7rb 3as 2to 2trey 2-3fg 4-4ft,hou,158
-16.75,3000,20191130,0,H,17.05,"Sefolosha, Thabo","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,1.0,SF/PF,0, 7pt 3rb 1as 2st 1trey 3-4fg,hou,158
-0,3600,20191130,0,H,0.0,"Gordon, Eric","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,0.0,SG/SF,0,,hou,158
-0,3000,20191130,0,H,0.0,"Green, Gerald","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,0.0,SG/SF,0,,hou,158
-0,5000,20191130,0,H,0.0,"House, Danuel","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,0.0,SF/PF,0,,hou,158
-19.25,3200,20191130,0,H,20.783333333333335,"Hartenstein, Isaiah","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,1.0,PF/C,0, 7pt 5rb 2as 1st 1bl 2to 3-5fg 1-2ft,hou,158
-15.5,3500,20191130,0,H,24.416666666666668,"Clark, Gary","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,0.0,PF/C,0, 3pt 6rb 3as 1trey 1-5fg,hou,158
-5.25,3500,20191130,0,H,9.6,"Chandler, Tyson","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,0.0,C,1, 2pt 1rb 1st 1-1fg,hou,158
-0,8400,20191130,0,H,0.0,"Capela, Clint","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,0.0,C,0,,hou,158
-0,3000,20191130,0,H,0.0,"Hilario, Nene","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,0.0,C,0,,hou,158
-52.25,8900,20191130,0,A,31.383333333333333,"Young, Trae","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,1.0,PG,1, 37pt 3rb 7as 3to 5trey 10-16fg 12-13ft,atl,111
-15.75,4000,20191130,0,A,23.2,"Bembry, DeAndre","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,PG/SG,0, 5pt 5rb 4as 3to 1-9fg 3-4ft,atl,111
-11.25,3000,20191130,0,A,16.616666666666667,"Wallace, Tyrone","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,PG/SG,0, 5pt 3rb 1bl 1trey 2-7fg,atl,111
-10.75,3400,20191130,0,A,15.583333333333334,"Turner, Evan","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,PG/SF,0, 0pt 1rb 4as 1st 1bl 1to 0-4fg,atl,111
-0,3700,20191130,0,A,0.0,"Reddish, Cam","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,PG/SG,0,,atl,111
-0,3000,20191130,0,A,0.0,"Goodwin, Brandon","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,PG/SG,0,,atl,111
-25.25,4700,20191130,0,A,29.05,"Hunter, De'Andre","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,1.0,SF/PF,1, 14pt 5rb 1as 1st 3trey 5-15fg 1-1ft,atl,111
-19.25,6700,20191130,0,A,20.133333333333333,"Parker, Jabari","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,SF/PF,1, 11pt 3rb 2as 1st 2to 1trey 5-8fg,atl,111
-13.25,3800,20191130,0,A,23.966666666666665,"Crabbe, Allen","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,SG/SF,1, 6pt 1rb 2as 1st 2trey 2-5fg,atl,111
-9.75,3100,20191130,0,A,16.333333333333332,"Parsons, Chandler","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,SF/PF,0, 3pt 1rb 2as 1st 1trey 1-5fg,atl,111
-9.5,3100,20191130,0,A,18.566666666666666,"Carter, Vince","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,SF/PF,0, 4pt 2rb 2as 1to 1trey 1-5fg 1-2ft,atl,111
-0,3000,20191130,0,A,0.0,"Brown, Charlie","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,SG/SF,0,,atl,111
-0,4300,20191130,0,A,0.0,"Huerter, Kevin","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,SG/SF,0,,atl,111
-12.75,3100,20191130,0,A,15.316666666666666,"Len, Alex","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,C,0, 12pt 1rb 1to 6-7fg,atl,111
-10.75,3800,20191130,0,A,15.45,"Fernando, Bruno","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,C,0, 6pt 3rb 1as 2to 1trey 2-4fg 1-2ft,atl,111
-10.75,3700,20191130,0,A,14.4,"Jones, Damian","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,C,1, 8pt 1rb 1as 3-4fg 2-3ft,atl,111
-0,3100,20191130,0,A,0.0,"Collins, John","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,PF/C,0,,atl,111
-52,8300,20191130,0,H,37.766666666666666,"Simmons, Ben","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,1.0,PG/SF,1, 15pt 6rb 13as 4st 1bl 3to 4-13fg 7-7ft,phi,119
-10.5,3200,20191130,0,H,10.233333333333333,"Neto, Raul","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,PG,0, 5pt 2rb 2as 2-3fg 1-2ft,phi,119
-0,3300,20191130,0,H,0.0,"Burke, Trey","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,PG/SG,0,,phi,119
-0,3000,20191130,0,H,0.0,"Milton, Shake","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,PG/SG,0,,phi,119
-31.5,6400,20191130,0,H,36.36666666666667,"Harris, Tobias","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,SF/PF,1, 22pt 4rb 2as 1bl 2to 1trey 8-16fg 5-6ft,phi,119
-23,3300,20191130,0,H,26.666666666666668,"Ennis, James","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,1.0,SF/PF,0, 9pt 4rb 2as 2st 1bl 2to 2trey 3-7fg 1-2ft,phi,119
-17.5,4200,20191130,0,H,22.216666666666665,"Korkmaz, Furkan","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,SG/SF,1, 12pt 2st 3trey 4-9fg 1-2ft,phi,119
-6.75,3900,20191130,0,H,19.866666666666667,"Thybulle, Matisse","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,SG/SF,0, 5pt 1rb 1trey 2-3fg,phi,119
-5.75,4000,20191130,0,H,21.6,"Scott, Mike","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,SF/PF,0, 4pt 1rb 1as 2to 1-3fg 2-2ft,phi,119
-0,3000,20191130,0,H,0.0,"Smith, Zhaire","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,SG/SF,0,,phi,119
-0,5800,20191130,0,H,0.0,"Richardson, Josh","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,SG/SF,0,,phi,119
-0,3200,20191130,0,H,0.0,"Shayok, Marial","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,SG/SF,0,,phi,119
-58.75,9500,20191130,0,H,33.266666666666666,"Embiid, Joel","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,1.0,C,1, 32pt 11rb 4as 2st 1bl 2to 1trey 8-15fg 15-15ft,phi,119
-30.25,6800,20191130,0,H,32.016666666666666,"Horford, Al","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,PF/C,1, 15pt 3rb 3as 2st 1bl 1to 3trey 6-8fg,phi,119
-0,3200,20191130,0,H,0.0,"Pelle, Norvel","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,C,0,,phi,119
-0,3500,20191130,0,H,0.0,"O'Quinn, Kyle","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,PF/C,0,,phi,119
-0,3200,20191130,0,H,0.0,"Bolden, Jonah","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,PF/C,0,,phi,119
-43,7300,20191130,0,A,37.766666666666666,"Brogdon, Malcolm","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,1.0,PG/SG,1, 28pt 4rb 6as 1st 4to 2trey 9-15fg 8-8ft,ind,116
-12.5,4400,20191130,0,A,11.266666666666667,"McConnell, T.J.","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,PG,0, 6pt 2rb 3as 1to 3-5fg,ind,116
-3,3900,20191130,0,A,12.316666666666666,"Holiday, Aaron","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,PG/SG,0, 4pt 2to 2-3fg,ind,116
-0,3000,20191130,0,A,0.0,"Oladipo, Victor","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,PG/SG,0,,ind,116
-0,3000,20191130,0,A,0.0,"Mitrou-Long, Nazareth","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,PG/SG,0,,ind,116
-38,4800,20191130,0,A,32.03333333333333,"Warren, T.J.","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,1.0,SF/PF,1, 29pt 4rb 1as 1st 3to 4trey 11-19fg 3-3ft,ind,116
-30,6100,20191130,0,A,33.8,"Lamb, Jeremy","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,SG/SF,1, 15pt 4rb 5as 1st 1bl 4to 1trey 5-9fg 4-6ft,ind,116
-21.75,4400,20191130,0,A,27.533333333333335,"Holiday, Justin","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,SG/SF,0, 10pt 1rb 1as 2st 2bl 2trey 4-5fg,ind,116
-10.25,3300,20191130,0,A,18.7,"McDermott, Doug","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,SF/PF,0, 8pt 1rb 2trey 3-4fg,ind,116
-0,3000,20191130,0,A,0.0,"Johnson, Alize","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,PF,0,,ind,116
-0,3000,20191130,0,A,0.0,"Bowen II, Brian","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,SG/SF,0,,ind,116
-0,3000,20191130,0,A,0.0,"Sumner, Edmond","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,SG/SF,0,,ind,116
-0,3000,20191130,0,A,0.0,"Sampson, JaKarr","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,SF/PF,0,,ind,116
-32,7700,20191130,0,A,32.31666666666667,"Sabonis, Domantas","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,PF/C,1, 13pt 10rb 5as 5to 4-7fg 5-6ft,ind,116
-12.25,5700,20191130,0,A,28.916666666666668,"Turner, Myles","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,C,1, 3pt 3rb 1as 2st 1-8fg 1-2ft,ind,116
-2.5,3000,20191130,0,A,5.35,"Bitadze, Goga","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,PF/C,0, 0pt 2rb 0-1fg,ind,116
-0,3000,20191130,0,A,0.0,"Leaf, TJ","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,PF/C,0,,ind,116
-38,6500,20191130,0,A,28.533333333333335,"Graham, Devonte'","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,1.0,PG/SG,1, 24pt 4rb 5as 1to 4trey 10-18fg,cha,96
-36,6300,20191130,0,A,30.3,"Rozier, Terry","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,1.0,PG,1, 19pt 6rb 2as 2st 5trey 7-17fg,cha,96
-9,3600,20191130,0,A,24.016666666666666,"Monk, Malik","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,PG/SG,0, 5pt 2rb 1as 1to 1trey 2-7fg,cha,96
-0,3000,20191130,0,A,0.0,"Simmons, Kobi","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,SG,0,,cha,96
-28,5300,20191130,0,A,34.35,"Bridges, Miles","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,1.0,SF/PF,1, 15pt 8rb 2as 1to 1trey 5-16fg 4-4ft,cha,96
-23,3400,20191130,0,A,18.633333333333333,"Williams, Marvin","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,1.0,SF/PF,0, 6pt 6rb 3as 1st 1bl 2trey 2-6fg,cha,96
-10,3000,20191130,0,A,19.7,"Bacon, Dwayne","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,SG/SF,0, 2pt 4rb 1as 1st 1to 1-6fg,cha,96
-6,4100,20191130,0,A,13.1,"Batum, Nicolas","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,SG/SF,0, 2pt 2rb 2as 3to 1-5fg,cha,96
-0,3000,20191130,0,A,0.0,"Kidd-Gilchrist, Michael","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,SF/PF,0,,cha,96
-0,3000,20191130,0,A,0.0,"McDaniels, Jalen","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,SF/PF,0,,cha,96
-0,3000,20191130,0,A,0.0,"Franks, Robert","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,SF/PF,0,,cha,96
-0,3000,20191130,0,A,0.0,"Martin, Caleb","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,SG/SF,0,,cha,96
-0,3000,20191130,0,A,0.0,"Martin, Cody","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,SG/SF,0,,cha,96
-17.75,4600,20191130,0,A,32.516666666666666,"Washington, P.J.","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,PF/C,1, 7pt 5rb 3as 1to 1trey 3-12fg,cha,96
-17.25,4300,20191130,0,A,19.966666666666665,"Zeller, Cody","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,C,0, 11pt 5rb 1to 1trey 4-8fg 2-2ft,cha,96
-15.25,3000,20191130,0,A,8.883333333333333,"Hernangomez, Guillermo","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,1.0,C,0, 5pt 9rb 2to 2-3fg 1-2ft,cha,96
-5,4500,20191130,0,A,10.0,"Biyombo, Bismack","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,C,1, 0pt 2rb 2as 1to 0-3fg,cha,96
-24,6600,20191130,0,H,22.616666666666667,"Bledsoe, Eric","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,PG,1, 2pt 4rb 10as 1st 1-2fg,mil,137
-20,4400,20191130,0,H,19.733333333333334,"DiVincenzo, Donte","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,PG/SF,1, 10pt 6rb 1st 1to 2trey 4-6fg,mil,137
-19,3700,20191130,0,H,15.35,"Hill, George","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,1.0,PG/SG,0, 10pt 4as 1st 2trey 4-5fg,mil,137
-7.5,3000,20191130,0,H,10.033333333333333,"Mason III, Frank","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,PG/SG,0, 4pt 2as 1trey 1-4fg 1-2ft,mil,137
-45.25,11800,20191130,0,H,19.616666666666667,"Antetokounmpo, Giannis","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,SF/PF,1, 26pt 9rb 4as 1st 1to 1trey 11-19fg 3-7ft,mil,137
-27.5,4100,20191130,0,H,19.483333333333334,"Connaughton, Pat","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,1.0,SG/SF,0, 6pt 10rb 6as 3-4fg,mil,137
-25.5,6000,20191130,0,H,16.1,"Middleton, Khris","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,SG/SF,0, 15pt 4rb 3as 1st 2to 7-14fg 1-1ft,mil,137
-19.25,4300,20191130,0,H,21.333333333333332,"Matthews, Wes","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,SG/SF,1, 14pt 3rb 3trey 5-9fg 1-1ft,mil,137
-16.5,3000,20191130,0,H,19.35,"Korver, Kyle","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,1.0,SG/SF,0, 3pt 4rb 3as 2st 1to 1trey 1-5fg,mil,137
-0,3000,20191130,0,H,0.0,"Antetokounmpo, Thanasis","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,SF/PF,0,,mil,137
-0,3000,20191130,0,H,0.0,"Reynolds, Cameron","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,SG/SF,0,,mil,137
-0,3500,20191130,0,H,0.0,"Brown, Sterling","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,SG/SF,0,,mil,137
-33,3000,20191130,0,H,23.533333333333335,"Lopez, Robin","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,1.0,C,1, 13pt 6rb 4as 3bl 2to 3trey 5-9fg,mil,137
-20.75,3200,20191130,0,H,23.75,"Wilson, D.J.","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,1.0,PF/C,0, 11pt 3rb 3as 3trey 4-9fg,mil,137
-17.25,3700,20191130,0,H,15.583333333333334,"Ilyasova, Ersan","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,PF/C,0, 11pt 3rb 1as 2trey 3-3fg 3-4ft,mil,137
-15.75,3200,20191130,0,H,13.516666666666667,"Bender, Dragan","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,PF/C,0, 12pt 1rb 1as 2trey 5-7fg,mil,137
-0,5500,20191130,0,H,0.0,"Lopez, Brook","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,C,0,,mil,137
+85.25,12000.0,20191130,0,H,30.68333333333333,"Harden, James","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,1.0,PG/SG,1, 60pt 3rb 8as 3st 1bl 5to 8trey 16-24fg 20-23ft,hou,158
+35.5,9300.0,20191130,0,H,26.68333333333333,"Westbrook, Russell","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,0.0,PG,1, 15pt 8rb 8as 4to 1trey 6-11fg 2-2ft,hou,158
+30.5,3200.0,20191130,0,H,31.816666666666666,"Rivers, Austin","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,1.0,PG/SG,0, 14pt 6rb 4as 1st 2trey 5-12fg 2-3ft,hou,158
+17.5,3100.0,20191130,0,H,15.366666666666667,"Clemons, Chris","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,1.0,PG,0, 16pt 1to 4trey 6-10fg,hou,158
+0.0,3000.0,20191130,0,H,0.0,"Frazier, Michael","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,0.0,PG/SG,0,,hou,158
+47.75,3500.0,20191130,0,H,33.86666666666667,"McLemore, Ben","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,1.0,SG/SF,1, 24pt 13rb 1as 1st 1to 6trey 9-14fg,hou,158
+23.25,5100.0,20191130,0,H,29.73333333333333,"Tucker, P.J.","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,0.0,SF/PF,1, 10pt 7rb 3as 2to 2trey 2-3fg 4-4ft,hou,158
+16.75,3000.0,20191130,0,H,17.05,"Sefolosha, Thabo","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,1.0,SF/PF,0, 7pt 3rb 1as 2st 1trey 3-4fg,hou,158
+0.0,3600.0,20191130,0,H,0.0,"Gordon, Eric","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,0.0,SG/SF,0,,hou,158
+0.0,3000.0,20191130,0,H,0.0,"Green, Gerald","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,0.0,SG/SF,0,,hou,158
+0.0,5000.0,20191130,0,H,0.0,"House, Danuel","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,0.0,SF/PF,0,,hou,158
+19.25,3200.0,20191130,0,H,20.783333333333328,"Hartenstein, Isaiah","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,1.0,PF/C,0, 7pt 5rb 2as 1st 1bl 2to 3-5fg 1-2ft,hou,158
+15.5,3500.0,20191130,0,H,24.41666666666667,"Clark, Gary","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,0.0,PF/C,0, 3pt 6rb 3as 1trey 1-5fg,hou,158
+5.25,3500.0,20191130,0,H,9.6,"Chandler, Tyson","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,0.0,C,1, 2pt 1rb 1st 1-1fg,hou,158
+0.0,8400.0,20191130,0,H,0.0,"Capela, Clint","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,0.0,C,0,,hou,158
+0.0,3000.0,20191130,0,H,0.0,"Hilario, Nene","Frazier, Michael|Gordon, Eric|Green, Gerald|House, Danuel|Capela, Clint|Hilario, Nene",atl,111,0.0,C,0,,hou,158
+52.25,8900.0,20191130,0,A,31.38333333333333,"Young, Trae","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,1.0,PG,1, 37pt 3rb 7as 3to 5trey 10-16fg 12-13ft,atl,111
+15.75,4000.0,20191130,0,A,23.2,"Bembry, DeAndre","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,PG/SG,0, 5pt 5rb 4as 3to 1-9fg 3-4ft,atl,111
+11.25,3000.0,20191130,0,A,16.616666666666667,"Wallace, Tyrone","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,PG/SG,0, 5pt 3rb 1bl 1trey 2-7fg,atl,111
+10.75,3400.0,20191130,0,A,15.583333333333336,"Turner, Evan","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,PG/SF,0, 0pt 1rb 4as 1st 1bl 1to 0-4fg,atl,111
+0.0,3700.0,20191130,0,A,0.0,"Reddish, Cam","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,PG/SG,0,,atl,111
+0.0,3000.0,20191130,0,A,0.0,"Goodwin, Brandon","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,PG/SG,0,,atl,111
+25.25,4700.0,20191130,0,A,29.05,"Hunter, De'Andre","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,1.0,SF/PF,1, 14pt 5rb 1as 1st 3trey 5-15fg 1-1ft,atl,111
+19.25,6700.0,20191130,0,A,20.133333333333333,"Parker, Jabari","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,SF/PF,1, 11pt 3rb 2as 1st 2to 1trey 5-8fg,atl,111
+13.25,3800.0,20191130,0,A,23.966666666666665,"Crabbe, Allen","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,SG/SF,1, 6pt 1rb 2as 1st 2trey 2-5fg,atl,111
+9.75,3100.0,20191130,0,A,16.333333333333332,"Parsons, Chandler","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,SF/PF,0, 3pt 1rb 2as 1st 1trey 1-5fg,atl,111
+9.5,3100.0,20191130,0,A,18.566666666666666,"Carter, Vince","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,SF/PF,0, 4pt 2rb 2as 1to 1trey 1-5fg 1-2ft,atl,111
+0.0,3000.0,20191130,0,A,0.0,"Brown, Charlie","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,SG/SF,0,,atl,111
+0.0,4300.0,20191130,0,A,0.0,"Huerter, Kevin","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,SG/SF,0,,atl,111
+12.75,3100.0,20191130,0,A,15.316666666666665,"Len, Alex","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,C,0, 12pt 1rb 1to 6-7fg,atl,111
+10.75,3800.0,20191130,0,A,15.45,"Fernando, Bruno","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,C,0, 6pt 3rb 1as 2to 1trey 2-4fg 1-2ft,atl,111
+10.75,3700.0,20191130,0,A,14.4,"Jones, Damian","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,C,1, 8pt 1rb 1as 3-4fg 2-3ft,atl,111
+0.0,3100.0,20191130,0,A,0.0,"Collins, John","Reddish, Cam|Goodwin, Brandon|Brown, Charlie|Huerter, Kevin|Collins, John",hou,158,0.0,PF/C,0,,atl,111
+52.0,8300.0,20191130,0,H,37.766666666666666,"Simmons, Ben","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,1.0,PG/SF,1, 15pt 6rb 13as 4st 1bl 3to 4-13fg 7-7ft,phi,119
+10.5,3200.0,20191130,0,H,10.233333333333333,"Neto, Raul","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,PG,0, 5pt 2rb 2as 2-3fg 1-2ft,phi,119
+0.0,3300.0,20191130,0,H,0.0,"Burke, Trey","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,PG/SG,0,,phi,119
+0.0,3000.0,20191130,0,H,0.0,"Milton, Shake","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,PG/SG,0,,phi,119
+31.5,6400.0,20191130,0,H,36.36666666666667,"Harris, Tobias","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,SF/PF,1, 22pt 4rb 2as 1bl 2to 1trey 8-16fg 5-6ft,phi,119
+23.0,3300.0,20191130,0,H,26.66666666666667,"Ennis, James","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,1.0,SF/PF,0, 9pt 4rb 2as 2st 1bl 2to 2trey 3-7fg 1-2ft,phi,119
+17.5,4200.0,20191130,0,H,22.216666666666665,"Korkmaz, Furkan","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,SG/SF,1, 12pt 2st 3trey 4-9fg 1-2ft,phi,119
+6.75,3900.0,20191130,0,H,19.866666666666667,"Thybulle, Matisse","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,SG/SF,0, 5pt 1rb 1trey 2-3fg,phi,119
+5.75,4000.0,20191130,0,H,21.6,"Scott, Mike","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,SF/PF,0, 4pt 1rb 1as 2to 1-3fg 2-2ft,phi,119
+0.0,3000.0,20191130,0,H,0.0,"Smith, Zhaire","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,SG/SF,0,,phi,119
+0.0,5800.0,20191130,0,H,0.0,"Richardson, Josh","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,SG/SF,0,,phi,119
+0.0,3200.0,20191130,0,H,0.0,"Shayok, Marial","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,SG/SF,0,,phi,119
+58.75,9500.0,20191130,0,H,33.266666666666666,"Embiid, Joel","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,1.0,C,1, 32pt 11rb 4as 2st 1bl 2to 1trey 8-15fg 15-15ft,phi,119
+30.25,6800.0,20191130,0,H,32.016666666666666,"Horford, Al","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,PF/C,1, 15pt 3rb 3as 2st 1bl 1to 3trey 6-8fg,phi,119
+0.0,3200.0,20191130,0,H,0.0,"Pelle, Norvel","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,C,0,,phi,119
+0.0,3500.0,20191130,0,H,0.0,"O'Quinn, Kyle","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,PF/C,0,,phi,119
+0.0,3200.0,20191130,0,H,0.0,"Bolden, Jonah","Burke, Trey|Milton, Shake|Smith, Zhaire|Richardson, Josh|Shayok, Marial|Pelle, Norvel|O'Quinn, Kyle|Bolden, Jonah",ind,116,0.0,PF/C,0,,phi,119
+43.0,7300.0,20191130,0,A,37.766666666666666,"Brogdon, Malcolm","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,1.0,PG/SG,1, 28pt 4rb 6as 1st 4to 2trey 9-15fg 8-8ft,ind,116
+12.5,4400.0,20191130,0,A,11.266666666666667,"McConnell, T.J.","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,PG,0, 6pt 2rb 3as 1to 3-5fg,ind,116
+3.0,3900.0,20191130,0,A,12.316666666666665,"Holiday, Aaron","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,PG/SG,0, 4pt 2to 2-3fg,ind,116
+0.0,3000.0,20191130,0,A,0.0,"Oladipo, Victor","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,PG/SG,0,,ind,116
+0.0,3000.0,20191130,0,A,0.0,"Mitrou-Long, Nazareth","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,PG/SG,0,,ind,116
+38.0,4800.0,20191130,0,A,32.03333333333333,"Warren, T.J.","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,1.0,SF/PF,1, 29pt 4rb 1as 1st 3to 4trey 11-19fg 3-3ft,ind,116
+30.0,6100.0,20191130,0,A,33.8,"Lamb, Jeremy","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,SG/SF,1, 15pt 4rb 5as 1st 1bl 4to 1trey 5-9fg 4-6ft,ind,116
+21.75,4400.0,20191130,0,A,27.53333333333333,"Holiday, Justin","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,SG/SF,0, 10pt 1rb 1as 2st 2bl 2trey 4-5fg,ind,116
+10.25,3300.0,20191130,0,A,18.7,"McDermott, Doug","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,SF/PF,0, 8pt 1rb 2trey 3-4fg,ind,116
+0.0,3000.0,20191130,0,A,0.0,"Johnson, Alize","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,PF,0,,ind,116
+0.0,3000.0,20191130,0,A,0.0,"Bowen II, Brian","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,SG/SF,0,,ind,116
+0.0,3000.0,20191130,0,A,0.0,"Sumner, Edmond","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,SG/SF,0,,ind,116
+0.0,3000.0,20191130,0,A,0.0,"Sampson, JaKarr","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,SF/PF,0,,ind,116
+32.0,7700.0,20191130,0,A,32.31666666666667,"Sabonis, Domantas","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,PF/C,1, 13pt 10rb 5as 5to 4-7fg 5-6ft,ind,116
+12.25,5700.0,20191130,0,A,28.91666666666667,"Turner, Myles","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,C,1, 3pt 3rb 1as 2st 1-8fg 1-2ft,ind,116
+2.5,3000.0,20191130,0,A,5.35,"Bitadze, Goga","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,PF/C,0, 0pt 2rb 0-1fg,ind,116
+0.0,3000.0,20191130,0,A,0.0,"Leaf, TJ","Oladipo, Victor|Mitrou-Long, Nazareth|Johnson, Alize|Bowen II, Brian|Sumner, Edmond|Sampson, JaKarr|Leaf, TJ",phi,119,0.0,PF/C,0,,ind,116
+38.0,6500.0,20191130,0,A,28.53333333333333,"Graham, Devonte'","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,1.0,PG/SG,1, 24pt 4rb 5as 1to 4trey 10-18fg,cha,96
+36.0,6300.0,20191130,0,A,30.3,"Rozier, Terry","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,1.0,PG,1, 19pt 6rb 2as 2st 5trey 7-17fg,cha,96
+9.0,3600.0,20191130,0,A,24.016666666666666,"Monk, Malik","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,PG/SG,0, 5pt 2rb 1as 1to 1trey 2-7fg,cha,96
+0.0,3000.0,20191130,0,A,0.0,"Simmons, Kobi","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,SG,0,,cha,96
+28.0,5300.0,20191130,0,A,34.35,"Bridges, Miles","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,1.0,SF/PF,1, 15pt 8rb 2as 1to 1trey 5-16fg 4-4ft,cha,96
+23.0,3400.0,20191130,0,A,18.633333333333333,"Williams, Marvin","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,1.0,SF/PF,0, 6pt 6rb 3as 1st 1bl 2trey 2-6fg,cha,96
+10.0,3000.0,20191130,0,A,19.7,"Bacon, Dwayne","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,SG/SF,0, 2pt 4rb 1as 1st 1to 1-6fg,cha,96
+6.0,4100.0,20191130,0,A,13.1,"Batum, Nicolas","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,SG/SF,0, 2pt 2rb 2as 3to 1-5fg,cha,96
+0.0,3000.0,20191130,0,A,0.0,"Kidd-Gilchrist, Michael","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,SF/PF,0,,cha,96
+0.0,3000.0,20191130,0,A,0.0,"McDaniels, Jalen","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,SF/PF,0,,cha,96
+0.0,3000.0,20191130,0,A,0.0,"Franks, Robert","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,SF/PF,0,,cha,96
+0.0,3000.0,20191130,0,A,0.0,"Martin, Caleb","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,SG/SF,0,,cha,96
+0.0,3000.0,20191130,0,A,0.0,"Martin, Cody","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,SG/SF,0,,cha,96
+17.75,4600.0,20191130,0,A,32.516666666666666,"Washington, P.J.","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,PF/C,1, 7pt 5rb 3as 1to 1trey 3-12fg,cha,96
+17.25,4300.0,20191130,0,A,19.966666666666665,"Zeller, Cody","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,C,0, 11pt 5rb 1to 1trey 4-8fg 2-2ft,cha,96
+15.25,3000.0,20191130,0,A,8.883333333333333,"Hernangomez, Guillermo","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,1.0,C,0, 5pt 9rb 2to 2-3fg 1-2ft,cha,96
+5.0,4500.0,20191130,0,A,10.0,"Biyombo, Bismack","Simmons, Kobi|Kidd-Gilchrist, Michael|McDaniels, Jalen|Franks, Robert|Martin, Caleb|Martin, Cody",mil,137,0.0,C,1, 0pt 2rb 2as 1to 0-3fg,cha,96
+24.0,6600.0,20191130,0,H,22.61666666666667,"Bledsoe, Eric","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,PG,1, 2pt 4rb 10as 1st 1-2fg,mil,137
+20.0,4400.0,20191130,0,H,19.733333333333334,"DiVincenzo, Donte","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,PG/SF,1, 10pt 6rb 1st 1to 2trey 4-6fg,mil,137
+19.0,3700.0,20191130,0,H,15.35,"Hill, George","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,1.0,PG/SG,0, 10pt 4as 1st 2trey 4-5fg,mil,137
+7.5,3000.0,20191130,0,H,10.033333333333333,"Mason III, Frank","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,PG/SG,0, 4pt 2as 1trey 1-4fg 1-2ft,mil,137
+45.25,11800.0,20191130,0,H,19.616666666666667,"Antetokounmpo, Giannis","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,SF/PF,1, 26pt 9rb 4as 1st 1to 1trey 11-19fg 3-7ft,mil,137
+27.5,4100.0,20191130,0,H,19.483333333333334,"Connaughton, Pat","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,1.0,SG/SF,0, 6pt 10rb 6as 3-4fg,mil,137
+25.5,6000.0,20191130,0,H,16.1,"Middleton, Khris","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,SG/SF,0, 15pt 4rb 3as 1st 2to 7-14fg 1-1ft,mil,137
+19.25,4300.0,20191130,0,H,21.33333333333333,"Matthews, Wes","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,SG/SF,1, 14pt 3rb 3trey 5-9fg 1-1ft,mil,137
+16.5,3000.0,20191130,0,H,19.35,"Korver, Kyle","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,1.0,SG/SF,0, 3pt 4rb 3as 2st 1to 1trey 1-5fg,mil,137
+0.0,3000.0,20191130,0,H,0.0,"Antetokounmpo, Thanasis","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,SF/PF,0,,mil,137
+0.0,3000.0,20191130,0,H,0.0,"Reynolds, Cameron","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,SG/SF,0,,mil,137
+0.0,3500.0,20191130,0,H,0.0,"Brown, Sterling","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,SG/SF,0,,mil,137
+33.0,3000.0,20191130,0,H,23.53333333333333,"Lopez, Robin","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,1.0,C,1, 13pt 6rb 4as 3bl 2to 3trey 5-9fg,mil,137
+20.75,3200.0,20191130,0,H,23.75,"Wilson, D.J.","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,1.0,PF/C,0, 11pt 3rb 3as 3trey 4-9fg,mil,137
+17.25,3700.0,20191130,0,H,15.583333333333336,"Ilyasova, Ersan","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,PF/C,0, 11pt 3rb 1as 2trey 3-3fg 3-4ft,mil,137
+15.75,3200.0,20191130,0,H,13.516666666666667,"Bender, Dragan","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,PF/C,0, 12pt 1rb 1as 2trey 5-7fg,mil,137
+0.0,5500.0,20191130,0,H,0.0,"Lopez, Brook","Antetokounmpo, Thanasis|Reynolds, Cameron|Brown, Sterling|Lopez, Brook",cha,96,0.0,C,0,,mil,137
+59.25,11600.0,20191201,0,A,32.68333333333333,"Doncic, Luka","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,1.0,PG/SF,1, 27pt 9rb 10as 3st 7to 4trey 10-23fg 3-3ft,dal,114
+46.25,4000.0,20191201,0,A,27.55,"Wright, Delon","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,1.0,PG/SG,0, 17pt 5rb 9as 4st 3trey 7-12fg,dal,114
+5.5,3000.0,20191201,0,A,10.5,"Brunson, Jalen","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,PG/SG,0, 0pt 2rb 2as 0-3fg,dal,114
+4.25,3200.0,20191201,0,A,15.55,"Curry, Seth","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,PG/SG,0, 3pt 1rb 1to 1trey 1-5fg,dal,114
+0.0,3000.0,20191201,0,A,0.0,"Barea, Jose","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,PG/SG,0,,dal,114
+0.0,3000.0,20191201,0,A,0.0,"Cleveland, Antonius","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,SG,0,,dal,114
+0.0,3000.0,20191201,0,A,0.0,"Reaves, Josh","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,SG,0,,dal,114
+17.75,3100.0,20191201,0,A,15.433333333333335,"Jackson, Justin","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,1.0,SF/PF,0, 15pt 1rb 3trey 6-10fg,dal,114
+15.25,3800.0,20191201,0,A,21.383333333333333,"Finney-Smith, Dorian","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,SF/PF,1, 6pt 5rb 1bl 2trey 2-7fg,dal,114
+15.0,4900.0,20191201,0,A,30.516666666666666,"Hardaway Jr., Tim","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,SG/SF,1, 8pt 2rb 1as 2st 2to 3-10fg 2-2ft,dal,114
+0.0,3000.0,20191201,0,A,0.0,"Lee, Courtney","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,SG/SF,0,,dal,114
+0.0,3000.0,20191201,0,A,0.0,"Broekhoff, Ryan","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,SG/SF,0,,dal,114
+0.0,3000.0,20191201,0,A,0.0,"Roby, Isaiah","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,SF/PF,0,,dal,114
+27.75,3800.0,20191201,0,A,32.416666666666664,"Powell, Dwight","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,1.0,C,1, 15pt 9rb 1st 1to 6-11fg 3-5ft,dal,114
+25.0,7100.0,20191201,0,A,27.816666666666666,"Porzingis, Kristaps","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,PF/C,1, 15pt 6rb 1st 2to 3trey 5-11fg 2-4ft,dal,114
+20.75,4000.0,20191201,0,A,22.11666666666667,"Kleber, Maxi","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,1.0,PF/C,0, 6pt 9rb 2as 1trey 1-4fg 3-4ft,dal,114
+4.5,3000.0,20191201,0,A,4.033333333333333,"Marjanovic, Boban","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,C,0, 2pt 2rb 1-1fg,dal,114
+53.25,10600.0,20191201,0,H,36.41666666666666,"James, LeBron","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,1.0,PG/SF,1, 25pt 9rb 8as 4st 6to 11-20fg 3-3ft,lal,100
+16.5,3200.0,20191201,0,H,25.016666666666666,"Caruso, Alex","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,1.0,PG/SG,0, 10pt 4rb 1as 2to 2trey 4-5fg,lal,100
+14.25,5000.0,20191201,0,H,18.03333333333333,"Rondo, Rajon","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,PG,0, 4pt 1rb 7as 3to 2-3fg,lal,100
+6.25,3000.0,20191201,0,H,17.4,"Daniels, Troy","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,SG,0, 5pt 1rb 1to 1trey 2-4fg,lal,100
+2.0,3500.0,20191201,0,H,3.1666666666666665,"Cook, Quinn","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,PG,0, 2pt 0-1fg 2-2ft,lal,100
+0.0,4200.0,20191201,0,H,0.0,"Bradley, Avery","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,PG/SG,0,,lal,100
+0.0,3000.0,20191201,0,H,0.0,"Norvell Jr., Zach","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,PG,0,,lal,100
+15.75,4200.0,20191201,0,H,23.65,"Caldwell-Pope, Kentavious","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,SG/SF,1, 7pt 3rb 2as 1st 1to 1trey 3-7fg,lal,100
+14.5,4300.0,20191201,0,H,27.88333333333333,"Green, Danny","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,SG/SF,1, 8pt 2rb 1as 1st 1to 2trey 3-10fg,lal,100
+6.25,4800.0,20191201,0,H,21.4,"Kuzma, Kyle","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,SF/PF,0, 4pt 1rb 1as 1to 1-8fg 2-3ft,lal,100
+4.75,3000.0,20191201,0,H,3.1666666666666665,"Dudley, Jared","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,SF/PF,0, 0pt 1rb 1as 1st,lal,100
+0.0,3000.0,20191201,0,H,0.0,"Antetokounmpo, Kostas","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,SF/PF,0,,lal,100
+0.0,3000.0,20191201,0,H,0.0,"Horton-Tucker, Talen","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,SG/SF,0,,lal,100
+0.0,3000.0,20191201,0,H,0.0,"Cousins, DeMarcus","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,PF,0,,lal,100
+49.5,10400.0,20191201,0,H,35.833333333333336,"Davis, Anthony","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,PF/C,1, 27pt 10rb 2as 1st 2bl 2to 1trey 10-21fg 6-6ft,lal,100
+20.5,4600.0,20191201,0,H,15.666666666666664,"McGee, JaVale","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,C,1, 4pt 10rb 1st 1bl 2-5fg,lal,100
+10.75,4400.0,20191201,0,H,12.366666666666667,"Howard, Dwight","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,C,0, 4pt 3rb 2as 2-3fg 0-2ft,lal,100
+49.75,7400.0,20191201,0,H,32.45,"VanVleet, Fred","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,1.0,PG/SG,1, 21pt 5rb 11as 1st 5trey 6-10fg 4-4ft,tor,130
+24.0,4000.0,20191201,0,H,23.03333333333333,"Davis, Terence","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,1.0,PG/SG,0, 13pt 4rb 3as 1bl 3to 2trey 5-7fg 1-2ft,tor,130
+2.0,3000.0,20191201,0,H,1.6833333333333331,"Ponds, Shamorie","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,0.0,PG,0, 0pt 1bl 0-1fg,tor,130
+0.0,3000.0,20191201,0,H,0.0,"McCaw, Patrick","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,0.0,PG/SG,0,,tor,130
+0.0,7600.0,20191201,0,H,0.0,"Lowry, Kyle","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,0.0,PG,0,,tor,130
+0.0,3000.0,20191201,0,H,0.0,"Thomas, Matt","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,0.0,SG,0,,tor,130
+34.75,5300.0,20191201,0,H,32.81666666666667,"Powell, Norman","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,1.0,SG/SF,1, 15pt 5rb 3as 4st 2trey 6-12fg 1-1ft,tor,130
+28.25,4900.0,20191201,0,H,29.93333333333333,"Anunoby, OG","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,1.0,SF/PF,1, 10pt 5rb 2as 4st 1bl 2to 3-5fg 4-7ft,tor,130
+26.5,4800.0,20191201,0,H,23.5,"Hollis-Jefferson, Rondae","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,1.0,SF/PF,0, 10pt 6rb 2as 1st 2bl 4-7fg 2-2ft,tor,130
+3.5,3000.0,20191201,0,H,4.516666666666667,"Miller, Malcolm","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,0.0,SG/SF,0, 0pt 1as 1bl,tor,130
+0.0,3000.0,20191201,0,H,0.0,"Johnson, Stanley","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,0.0,SF/PF,0,,tor,130
+0.5,3000.0,20191201,0,H,4.516666666666667,"Brissett, Oshae ","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,0.0,SF/PF,0, 0pt 1to,tor,130
+53.25,8700.0,20191201,0,H,34.6,"Siakam, Pascal","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,1.0,PF/C,1, 35pt 5rb 5as 2st 4to 5trey 14-22fg 2-2ft,tor,130
+31.25,5000.0,20191201,0,H,25.45,"Gasol, Marc","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,1.0,C,1, 11pt 5rb 6as 2bl 1to 3trey 4-8fg,tor,130
+24.0,5400.0,20191201,0,H,20.866666666666667,"Ibaka, Serge","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,0.0,PF/C,0, 13pt 4rb 3as 1st 3to 2trey 5-14fg 1-1ft,tor,130
+5.75,3000.0,20191201,0,H,1.6833333333333331,"Hernandez, Dewan","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,0.0,PF/C,0, 2pt 3rb 0-3fg 2-2ft,tor,130
+3.25,4000.0,20191201,0,H,4.95,"Boucher, Chris","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,0.0,PF/C,0, 0pt 1rb 1st 0-1fg,tor,130
+44.5,7700.0,20191201,0,H,34.18333333333333,"Dinwiddie, Spencer","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,1.0,PG/SG,1, 29pt 6rb 4as 1st 4to 4trey 10-21fg 5-5ft,bkn,106
+9.75,3000.0,20191201,0,H,13.816666666666665,"Pinson, Theo","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,PG/SG,0, 5pt 3rb 1as 2to 1trey 2-4fg,bkn,106
+0.0,9300.0,20191201,0,H,0.0,"Irving, Kyrie","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,PG,0,,bkn,106
+0.0,5200.0,20191201,0,H,0.0,"LeVert, Caris","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,PG/SF,0,,bkn,106
+33.5,5500.0,20191201,0,H,31.1,"Harris, Joe","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,1.0,SG/SF,1, 25pt 4rb 1as 1to 5trey 9-16fg 2-2ft,bkn,106
+32.75,6000.0,20191201,0,H,31.566666666666666,"Prince, Taurean","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,1.0,SF/PF,1, 9pt 7rb 5as 1st 3bl 3to 2trey 3-14fg 1-2ft,bkn,106
+22.0,4900.0,20191201,0,H,34.166666666666664,"Temple, Garrett","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,SG/SF,1, 7pt 6rb 5as 1to 1trey 3-12fg,bkn,106
+15.0,3000.0,20191201,0,H,18.25,"Nwaba, David","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,SG/SF,0, 10pt 2rb 1bl 1trey 4-7fg 1-2ft,bkn,106
+5.5,3200.0,20191201,0,H,16.9,"Shumpert, Iman","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,SG/SF,0, 2pt 1as 1bl 1-5fg,bkn,106
+4.5,3700.0,20191201,0,H,12.016666666666667,"Musa, Dzanan","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,SF/PF,0, 0pt 3as 0-1fg,bkn,106
+0.0,3000.0,20191201,0,H,0.0,"Kurucs, Rodions","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,SF/PF,0,,bkn,106
+0.0,3000.0,20191201,0,H,0.0,"Durant, Kevin","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,SF/PF,0,,bkn,106
+0.0,3000.0,20191201,0,H,0.0,"Luwawu, Timothe","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,SG/SF,0,,bkn,106
+0.0,3000.0,20191201,0,H,0.0,"Chandler, Wilson","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,SF/PF,0,,bkn,106
+29.5,4700.0,20191201,0,H,23.63333333333333,"Jordan, DeAndre","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,1.0,C,0, 15pt 8rb 2as 1st 1to 7-8fg 1-3ft,bkn,106
+22.0,6200.0,20191201,0,H,24.36666666666667,"Allen, Jarrett","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,C,1, 4pt 12rb 2as 1-3fg 2-2ft,bkn,106
+0.0,3100.0,20191201,0,H,0.0,"Claxton, Nicolas","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,PF/C,0,,bkn,106
+0.0,3000.0,20191201,0,H,0.0,"Ellenson, Henry","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,PF/C,0,,bkn,106
+40.25,8100.0,20191201,0,A,33.3,"Walker, Kemba","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,PG,1, 16pt 5rb 10as 1st 4to 3trey 6-18fg 1-2ft,bos,113
+20.0,4000.0,20191201,0,A,18.45,"Wanamaker, Brad","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,PG/SG,0, 11pt 2rb 3as 1st 1to 1trey 3-5fg 4-4ft,bos,113
+6.0,3000.0,20191201,0,A,8.266666666666667,"Green, Javonte","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,SG,0, 3pt 2rb 1trey 1-2fg,bos,113
+2.75,6100.0,20191201,0,A,19.65,"Smart, Marcus","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,PG/SG,1, 0pt 3rb 2to 0-6fg,bos,113
+1.25,3000.0,20191201,0,A,6.683333333333334,"Edwards, Carsen","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,PG,0, 0pt 1rb 0-2fg,bos,113
+0.0,3000.0,20191201,0,A,0.0,"Waters, Tremont","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,PG,0,,bos,113
+58.0,7800.0,20191201,0,A,37.4,"Tatum, Jayson","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,1.0,SF/PF,1, 30pt 6rb 7as 2st 2bl 1to 5trey 10-23fg 5-6ft,bos,113
+41.25,6500.0,20191201,0,A,34.93333333333333,"Brown, Jaylen","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,1.0,SG/SF,1, 28pt 5rb 1as 1st 1bl 1to 4trey 11-18fg 2-4ft,bos,113
+10.75,3200.0,20191201,0,A,19.416666666666668,"Ojeleye, Semi","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,SF/PF,0, 5pt 3rb 1as 1trey 2-3fg,bos,113
+8.0,3000.0,20191201,0,A,22.466666666666665,"Williams, Grant","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,SF/PF,0, 4pt 2rb 1as 2-5fg,bos,113
+0.0,3000.0,20191201,0,A,0.0,"Hayward, Gordon","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,SF/PF,0,,bos,113
+0.0,3000.0,20191201,0,A,0.0,"Langford, Romeo","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,SG/SF,0,,bos,113
+27.75,4800.0,20191201,0,A,15.666666666666664,"Kanter, Enes","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,1.0,C,0, 11pt 11rb 1bl 1to 4-7fg 3-5ft,bos,113
+9.0,4500.0,20191201,0,A,16.95,"Theis, Daniel","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,PF/C,1, 2pt 2rb 2as 1bl 1to 1-1fg,bos,113
+8.5,4000.0,20191201,0,A,6.816666666666666,"Williams, Robert","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,PF/C,0, 3pt 2rb 2bl 2to 1-3fg 1-1ft,bos,113
+0.0,3000.0,20191201,0,A,0.0,"Poirier, Vincent","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,C,0,,bos,113
+0.0,3000.0,20191201,0,A,0.0,"Fall, Tacko","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,C,0,,bos,113
+37.25,8100.0,20191201,0,H,35.8,"Holiday, Jrue","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,PG/SG,1, 26pt 3rb 4as 3trey 10-19fg 3-3ft,nor,104
+31.5,5400.0,20191201,0,H,32.78333333333333,"Ball, Lonzo","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,1.0,PG,1, 14pt 4rb 7as 1bl 4to 4trey 5-11fg,nor,104
+0.0,3000.0,20191201,0,H,0.0,"Alexander-Walker, Nickeil","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,PG/SG,0,,nor,104
+0.0,3200.0,20191201,0,H,0.0,"Jackson, Frank","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,PG/SG,0,,nor,104
+0.0,3000.0,20191201,0,H,0.0,"Gray, Josh","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,PG,0,,nor,104
+39.25,9200.0,20191201,0,H,40.45,"Ingram, Brandon","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,SF/PF,1, 20pt 7rb 4as 2bl 1to 2trey 8-18fg 2-2ft,nor,104
+38.25,4800.0,20191201,0,H,33.13333333333333,"Hart, Josh","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,1.0,SG/SF,0, 11pt 11rb 2as 2st 2bl 1to 3trey 4-8fg,nor,104
+21.75,5300.0,20191201,0,H,29.316666666666666,"Redick, J.J.","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,SG/SF,1, 13pt 3rb 1as 1st 3trey 5-7fg,nor,104
+12.0,4200.0,20191201,0,H,17.75,"Moore, E'Twaun","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,SG/SF,0, 1pt 4rb 2as 2st 2to 0-6fg 1-2ft,nor,104
+0.0,4500.0,20191201,0,H,0.0,"Williams, Kenrich","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,SF/PF,0,,nor,104
+0.0,3000.0,20191201,0,H,0.0,"Cheatham, Zylan","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,SF/PF,0,,nor,104
+0.0,3000.0,20191201,0,H,0.0,"Miller, Darius","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,SF/PF,0,,nor,104
+25.25,4400.0,20191201,0,H,26.41666666666667,"Hayes, Jaxson","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,1.0,C,0, 9pt 7rb 1as 1st 2bl 3-6fg 3-3ft,nor,104
+7.0,4600.0,20191201,0,H,9.05,"Okafor, Jahlil","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,C,1, 4pt 2rb 1as 2to 2-4fg,nor,104
+6.5,3200.0,20191201,0,H,15.3,"Melli, Nicolo","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,PF/C,0, 6pt 1to 2trey 2-8fg,nor,104
+0.0,5600.0,20191201,0,H,0.0,"Favors, Derrick","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,PF/C,0,,nor,104
+0.0,3000.0,20191201,0,H,0.0,"Williamson, Zion","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,PF/C,0,,nor,104
+36.5,5700.0,20191201,0,A,30.75,"Dragic, Goran","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,1.0,PG,0, 24pt 2rb 6as 1to 3trey 9-18fg 3-4ft,mia,109
+20.75,5300.0,20191201,0,A,29.65,"Winslow, Justise","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,PG/SF,0, 10pt 5rb 3as 1to 1trey 3-12fg 3-4ft,mia,109
+17.25,5400.0,20191201,0,A,24.9,"Nunn, Kendrick","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,PG/SG,1, 11pt 1rb 3as 1trey 5-15fg,mia,109
+5.25,5100.0,20191201,0,A,20.883333333333333,"Herro, Tyler","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,SG,0, 4pt 1rb 2-6fg,mia,109
+0.0,3000.0,20191201,0,A,0.0,"Macon, Daryl","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,PG/SG,0,,mia,109
+35.25,7600.0,20191201,0,A,35.25,"Butler, Jimmy","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,SG/SF,1, 20pt 7rb 2as 1st 1bl 2to 1trey 5-17fg 9-10ft,mia,109
+25.5,4400.0,20191201,0,A,33.11666666666667,"Robinson, Duncan","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,1.0,SG/SF,1, 10pt 10rb 3trey 3-6fg 1-1ft,mia,109
+0.0,3000.0,20191201,0,A,0.16666666666666666,"Jones, Derrick","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,SF/PF,0, 0pt,mia,109
+0.0,3000.0,20191201,0,A,0.0,"Johnson, James","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,SF/PF,0,,mia,109
+0.0,3000.0,20191201,0,A,0.0,"Haslem, Udonis","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,PF,0,,mia,109
+0.0,3900.0,20191201,0,A,0.0,"Waiters, Dion","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,SG/SF,0,,mia,109
+0.0,3000.0,20191201,0,A,0.0,"Okpala, KZ","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,SF/PF,0,,mia,109
+42.0,7300.0,20191201,0,A,33.45,"Adebayo, Bam","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,1.0,C,1, 17pt 16rb 1as 1st 1bl 4to 6-14fg 5-7ft,mia,109
+21.0,3100.0,20191201,0,A,18.85,"Leonard, Meyers","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,1.0,PF/C,1, 9pt 6rb 1as 1st 1to 3trey 3-5fg,mia,109
+7.75,3500.0,20191201,0,A,6.966666666666668,"Silva, Chris","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,C,0, 4pt 3rb 1-1fg 2-2ft,mia,109
+0.0,4800.0,20191201,0,A,6.0166666666666675,"Olynyk, Kelly","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,PF/C,0, 0pt 0-1fg,mia,109
+35.75,3000.0,20191201,0,A,22.58333333333333,"Melton, De'Anthony","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,1.0,PG/SG,0, 9pt 7rb 8as 2st 1bl 1to 1trey 2-10fg 4-4ft,mem,115
+31.0,3100.0,20191201,0,A,25.41666666666667,"Jones, Tyus","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,1.0,PG/SG,1, 12pt 4rb 7as 1st 1bl 2to 1trey 5-9fg 1-2ft,mem,115
+22.75,3000.0,20191201,0,A,30.066666666666666,"Allen, Grayson","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,1.0,PG/SG,0, 13pt 5rb 1st 3trey 4-9fg 2-2ft,mem,115
+0.0,3000.0,20191201,0,A,0.0,"Konchar, John","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,0.0,SG,0,,mem,115
+0.0,7500.0,20191201,0,A,0.0,"Morant, Ja","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,0.0,PG,0,,mem,115
+34.5,4500.0,20191201,0,A,31.9,"Brooks, Dillon","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,1.0,SG/SF,1, 26pt 2rb 3as 1to 4trey 9-18fg 4-4ft,mem,115
+31.0,5100.0,20191201,0,A,33.166666666666664,"Crowder, Jae","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,1.0,SF/PF,1, 12pt 10rb 3as 1to 2trey 4-11fg 2-3ft,mem,115
+21.75,3000.0,20191201,0,A,25.83333333333333,"Hill, Solomon","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,1.0,SF/PF,0, 11pt 5rb 1as 1st 2trey 4-10fg 1-2ft,mem,115
+11.75,3000.0,20191201,0,A,12.633333333333333,"Guduric, Marko","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,0.0,SG/SF,0, 8pt 1rb 2as 2to 1trey 3-6fg 1-1ft,mem,115
+0.0,3000.0,20191201,0,A,0.0,"Watanabe, Yuta","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,0.0,SF/PF,0,,mem,115
+0.0,3500.0,20191201,0,A,0.0,"Anderson, Kyle","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,0.0,SF/PF,0,,mem,115
+0.0,3000.0,20191201,0,A,0.0,"Iguodala, Andre","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,0.0,SG/SF,0,,mem,115
+0.0,3000.0,20191201,0,A,0.0,"Jackson, Josh","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,0.0,SF/PF,0,,mem,115
+36.25,3000.0,20191201,0,A,28.716666666666665,"Caboclo, Bruno","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,1.0,PF/C,0, 12pt 13rb 1as 3st 2to 5-14fg 2-3ft,mem,115
+18.0,5600.0,20191201,0,A,19.28333333333333,"Jackson, Jaren","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,0.0,PF/C,1, 12pt 2rb 1as 1bl 2to 2trey 5-10fg,mem,115
+2.75,4800.0,20191201,0,A,10.4,"Clarke, Brandon","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,0.0,PF/C,1, 0pt 1rb 1as 0-3fg,mem,115
+0.0,6900.0,20191201,0,A,0.0,"Valanciunas, Jonas","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,0.0,C,0,,mem,115
+34.5,5300.0,20191201,0,H,30.0,"Fultz, Markelle","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,1.0,PG/SG,1, 14pt 4rb 9as 1st 6-12fg 2-3ft,orl,100
+11.25,4600.0,20191201,0,H,24.23333333333333,"Augustin, D.J.","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,0.0,PG,0, 0pt 5rb 4as 2to 0-5fg,orl,100
+0.0,3000.0,20191201,0,H,0.0,"Magette, Josh","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,0.0,PG,0,,orl,100
+0.0,3000.0,20191201,0,H,0.0,"Carter-Williams, Michael","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,0.0,PG,0,,orl,100
+39.75,6400.0,20191201,0,H,34.56666666666667,"Fournier, Evan","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,1.0,SG/SF,1, 32pt 3rb 1st 2to 6trey 13-21fg,orl,100
+39.75,7000.0,20191201,0,H,33.31666666666667,"Isaac, Jonathan","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,1.0,SF/PF,1, 14pt 11rb 1st 5bl 4to 1trey 4-9fg 5-6ft,orl,100
+31.0,4300.0,20191201,0,H,28.93333333333333,"Ross, Terrence","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,1.0,SG/SF,0, 19pt 4rb 1as 1st 1bl 3trey 8-15fg 0-1ft,orl,100
+21.75,6000.0,20191201,0,H,30.1,"Gordon, Aaron","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,0.0,SF/PF,1, 8pt 7rb 4as 3to 1trey 2-11fg 3-4ft,orl,100
+5.25,3000.0,20191201,0,H,10.183333333333334,"Iwundu, Wes","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,0.0,SG/SF,0, 2pt 1rb 1st 0-2fg 2-2ft,orl,100
+0.0,3000.0,20191201,0,H,0.7666666666666667,"Frazier, Melvin","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,0.0,SG/SF,0, 0pt,orl,100
+0.0,3600.0,20191201,0,H,0.0,"Aminu, Al-Farouq","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,0.0,SF/PF,0,,orl,100
+29.5,4700.0,20191201,0,H,30.45,"Birch, Khem","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,1.0,C,1, 7pt 10rb 3as 2st 1bl 1to 2-5fg 3-6ft,orl,100
+9.75,5000.0,20191201,0,H,17.45,"Bamba, Mohamed","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,0.0,C,0, 4pt 3rb 1bl 2-7fg,orl,100
+0.0,3000.0,20191201,0,H,0.0,"Jefferson, Amile","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,0.0,PF/C,0,,orl,100
+0.0,3300.0,20191201,0,H,0.0,"Vucevic, Nikola","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,0.0,C,0,,orl,100
+33.25,6600.0,20191201,0,A,33.083333333333336,"Gilgeous-Alexander, Shai","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,1.0,PG/SG,1, 17pt 9rb 2as 1st 2to 2trey 5-17fg 5-6ft,okc,107
+33.0,7200.0,20191201,0,A,33.1,"Paul, Chris","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,PG,1, 16pt 4rb 8as 2to 2trey 6-9fg 2-2ft,okc,107
+25.25,5700.0,20191201,0,A,24.86666666666667,"Schroder, Dennis","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,PG/SG,0, 17pt 3rb 2as 1st 3to 2trey 6-12fg 3-3ft,okc,107
+0.0,3000.0,20191201,0,A,0.0,"Hall, Devon","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,SG,0,,okc,107
+0.0,3000.0,20191201,0,A,0.0,"Dort, Luguentz","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,PG,0,,okc,107
+44.75,7100.0,20191201,0,A,32.03333333333333,"Gallinari, Danilo","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,1.0,SF/PF,1, 23pt 11rb 3as 4trey 8-14fg 3-4ft,okc,107
+7.5,3100.0,20191201,0,A,30.316666666666666,"Ferguson, Terrance","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,SG/SF,1, 3pt 2rb 1st 1to 1trey 1-5fg,okc,107
+5.0,3600.0,20191201,0,A,16.316666666666666,"Nader, Abdel","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,PF,0, 4pt 1as 1to 2-6fg 0-1ft,okc,107
+4.75,3000.0,20191201,0,A,8.433333333333334,"Burton, Deonte","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,SG/SF,0, 2pt 1rb 1as 1-2fg,okc,107
+2.0,3000.0,20191201,0,A,14.366666666666667,"Bazley, Darius","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,SF/PF,0, 0pt 2rb 1to 0-3fg,okc,107
+0.0,3000.0,20191201,0,A,0.0,"Roberson, Andre","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,SG/SF,0,,okc,107
+0.0,3600.0,20191201,0,A,0.0,"Diallo, Hamidou","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,SG/SF,0,,okc,107
+39.5,5800.0,20191201,0,A,28.0,"Adams, Steven","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,1.0,C,1, 17pt 10rb 2as 1st 2bl 1to 6-7fg 5-6ft,okc,107
+18.25,4500.0,20191201,0,A,19.483333333333334,"Noel, Nerlens","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,C,0, 8pt 5rb 1st 1bl 3-6fg 2-4ft,okc,107
+0.0,3000.0,20191201,0,A,0.0,"Muscala, Mike","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,PF/C,0,,okc,107
+0.0,3000.0,20191201,0,A,0.0,"Patton, Justin","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,C,0,,okc,107
+32.75,3500.0,20191201,0,H,38.36666666666667,"Smith Jr., Dennis","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,1.0,PG,0, 17pt 1rb 7as 2bl 2to 2trey 6-11fg 3-6ft,nyk,104
+28.75,5800.0,20191201,0,H,35.13333333333333,"Barrett, RJ","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,PG/SG,1, 16pt 7rb 1st 1bl 4-13fg 8-13ft,nyk,104
+4.0,4500.0,20191201,0,H,6.883333333333333,"Ntilikina, Frank","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,PG/SG,1, 3pt 1as 2to 1trey 1-3fg,nyk,104
+0.0,3000.0,20191201,0,H,0.0,"Trier, Allonzo","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,PG/SG,0,,nyk,104
+0.0,3000.0,20191201,0,H,0.0,"Allen, Kadeem","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,PG/SG,0,,nyk,104
+0.0,4900.0,20191201,0,H,0.0,"Payton, Elfrid","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,PG,0,,nyk,104
+24.0,3200.0,20191201,0,H,31.55,"Dotson, Damyean","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,1.0,SG/SF,0, 10pt 4rb 3as 1st 1bl 1to 2trey 4-6fg,nyk,104
+21.75,3300.0,20191201,0,H,21.66666666666667,"Knox, Kevin","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,1.0,SF/PF,1, 11pt 5rb 2bl 1to 2trey 4-9fg 1-1ft,nyk,104
+6.75,3500.0,20191201,0,H,12.866666666666667,"Ellington, Wayne","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,SG/SF,0, 2pt 3rb 1as 1to 1-2fg,nyk,104
+0.0,5900.0,20191201,0,H,0.0,"Morris, Marcus","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,SF/PF,0,,nyk,104
+0.0,3000.0,20191201,0,H,0.0,"Brazdeikis, Ignas","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,SF/PF,0,,nyk,104
+0.0,3000.0,20191201,0,H,0.0,"Bullock, Reggie","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,SG/SF,0,,nyk,104
+33.25,6800.0,20191201,0,H,33.68333333333333,"Randle, Julius","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,PF/C,1, 26pt 5rb 2as 4to 8-16fg 10-13ft,nyk,104
+20.0,3600.0,20191201,0,H,20.7,"Portis, Bobby","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,1.0,PF/C,0, 9pt 6rb 1as 1st 1to 1trey 3-8fg 2-2ft,nyk,104
+15.75,3700.0,20191201,0,H,19.633333333333333,"Gibson, Taj","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,PF/C,1, 4pt 3rb 4st 2-6fg,nyk,104
+11.25,4800.0,20191201,0,H,19.516666666666666,"Robinson, Mitchell","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,C,0, 6pt 5rb 2to 2-2fg 2-2ft,nyk,104
+0.0,3000.0,20191201,0,H,0.0,"Rabb, Ivan","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,PF/C,0,,nyk,104
+31.5,5400.0,20191201,0,H,18.883333333333333,"Rose, Derrick","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,1.0,PG/SG,0, 10pt 10as 2st 1bl 3to 1trey 3-8fg 3-3ft,det,132
+15.75,4100.0,20191201,0,H,20.516666666666666,"Galloway, Langston","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,PG/SG,0, 8pt 3rb 1as 1st 1to 2trey 3-5fg,det,132
+5.75,3000.0,20191201,0,H,4.783333333333333,"Frazier, Tim","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,PG,0, 0pt 1rb 3as 0-1fg,det,132
+0.0,3900.0,20191201,0,H,0.0,"Jackson, Reggie","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,PG/SG,0,,det,132
+0.0,3000.0,20191201,0,H,0.0,"Thomas, Khyri","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,SG,0,,det,132
+0.0,3000.0,20191201,0,H,0.0,"Bone, Jordan","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,PG,0,,det,132
+31.0,5900.0,20191201,0,H,30.83333333333333,"Kennard, Luke","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,1.0,SG/SF,1, 20pt 4rb 3as 1to 4trey 8-12fg,det,132
+26.25,4100.0,20191201,0,H,26.53333333333333,"Brown, Bruce","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,1.0,SG/SF,1, 13pt 7rb 3as 1to 1trey 5-8fg 2-2ft,det,132
+20.5,8000.0,20191201,0,H,21.93333333333333,"Griffin, Blake","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,PF,1, 10pt 2rb 6as 2to 4-12fg 2-2ft,det,132
+16.5,3200.0,20191201,0,H,22.53333333333333,"Mykhailiuk, Sviatoslav","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,1.0,SG/SF,0, 13pt 2rb 2trey 5-6fg 1-2ft,det,132
+8.25,3400.0,20191201,0,H,17.333333333333332,"Snell, Tony","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,SG/SF,1, 5pt 1rb 1as 1trey 2-5fg,det,132
+4.0,3000.0,20191201,0,H,2.583333333333333,"Doumbouya, Sekou","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,SF/PF,0, 4pt 2-2fg 0-1ft,det,132
+0.0,3000.0,20191201,0,H,0.0,"King, Louis","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,SF/PF,0,,det,132
+49.0,3500.0,20191201,0,H,22.016666666666666,"Wood, Christian","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,1.0,PF/C,0, 28pt 10rb 2as 1st 1bl 2to 2trey 11-14fg 4-4ft,det,132
+38.0,9400.0,20191201,0,H,25.98333333333333,"Drummond, Andre","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,C,1, 9pt 16rb 2as 1st 3bl 4to 4-8fg 1-4ft,det,132
+18.5,3800.0,20191201,0,H,21.28333333333333,"Morris, Markieff","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,PF/C,0, 10pt 4rb 2as 1to 2trey 4-6fg,det,132
+2.0,3000.0,20191201,0,H,4.783333333333333,"Maker, Thon","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,PF/C,0, 2pt 1-1fg,det,132
+31.25,5800.0,20191201,0,A,36.21666666666667,"Burks, Alec","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,1.0,PG/SG,1, 15pt 5rb 3as 3st 2to 1trey 6-16fg 2-3ft,gsw,96
+30.0,5500.0,20191201,0,A,23.38333333333333,"Green, Draymond","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,1.0,PG/SF,1, 11pt 4rb 7as 2st 2to 1trey 4-6fg 2-2ft,gsw,96
+21.25,5300.0,20191201,0,A,28.566666666666666,"Bowman, Ky","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,PG,0, 12pt 3rb 4as 2to 1trey 4-12fg 3-3ft,gsw,96
+0.0,8400.0,20191201,0,A,0.0,"Russell, D'Angelo","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,PG/SG,0,,gsw,96
+0.0,3000.0,20191201,0,A,0.0,"Curry, Stephen","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,PG,0,,gsw,96
+27.25,5100.0,20191201,0,A,37.46666666666667,"Robinson III, Glenn","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,1.0,SG/SF,1, 19pt 3rb 1as 1bl 1to 3trey 8-16fg,gsw,96
+27.0,5400.0,20191201,0,A,35.083333333333336,"Paschall, Eric","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,SF/PF,1, 17pt 6rb 2as 1to 6-14fg 5-6ft,gsw,96
+3.0,4000.0,20191201,0,A,15.8,"Poole, Jordan","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,SG/SF,0, 1pt 1bl 0-8fg 1-2ft,gsw,96
+0.0,3000.0,20191201,0,A,0.0,"Evans III, Jacob","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,SG/SF,0,,gsw,96
+0.0,3500.0,20191201,0,A,0.0,"Lee, Damion","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,SG/SF,0,,gsw,96
+0.0,3000.0,20191201,0,A,0.0,"Thompson, Klay","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,SG/SF,0,,gsw,96
+35.5,5200.0,20191201,0,A,24.05,"Cauley-Stein, Willie","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,1.0,C,1, 11pt 12rb 3as 1st 1bl 1to 5-10fg 1-2ft,gsw,96
+16.0,4900.0,20191201,0,A,22.73333333333333,"Chriss, Marquese","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,PF/C,0, 3pt 6rb 1as 2bl 0-2fg 3-4ft,gsw,96
+15.25,4400.0,20191201,0,A,16.7,"Spellman, Omari","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,PF/C,0, 7pt 7rb 1to 3-7fg 1-1ft,gsw,96
+0.0,3500.0,20191201,0,A,0.0,"Looney, Kevon","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,PF/C,0,,gsw,96
+0.0,3000.0,20191201,0,A,0.0,"Smailagic, Alen","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,PF/C,0,,gsw,96
+30.25,5800.0,20191201,0,A,25.1,"Conley, Mike","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,1.0,PG,1, 20pt 3rb 2as 1bl 1to 4trey 7-13fg 2-2ft,uta,110
+26.25,8200.0,20191201,0,A,30.75,"Mitchell, Donovan","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,PG/SG,1, 16pt 1rb 4as 1st 2trey 6-16fg 2-3ft,uta,110
+10.5,3000.0,20191201,0,A,11.466666666666667,"Exum, Dante","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,PG/SG,0, 9pt 2rb 3to 1trey 3-4fg 2-2ft,uta,110
+6.25,3500.0,20191201,0,A,17.05,"Mudiay, Emmanuel","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,PG,0, 2pt 1rb 3as 3to 1-7fg,uta,110
+4.5,3000.0,20191201,0,A,6.566666666666666,"Williams-Goss, Nigel","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,PG,0, 2pt 2rb 0-2fg 2-2ft,uta,110
+0.0,3000.0,20191201,0,A,0.0,"Wright-Foreman, Justin","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,PG,0,,uta,110
+26.75,3400.0,20191201,0,A,14.516666666666667,"Green, Jeff","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,1.0,SF/PF,0, 19pt 3rb 2st 1to 1trey 6-11fg 6-6ft,uta,110
+23.75,6800.0,20191201,0,A,29.58333333333333,"Bogdanovic, Bojan","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,SF/PF,1, 11pt 7rb 2as 1st 3to 1trey 5-14fg 0-1ft,uta,110
+23.5,4200.0,20191201,0,A,19.4,"O'Neale, Royce","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,1.0,SF,1, 6pt 6rb 5as 1st 1to 2trey 2-5fg,uta,110
+16.75,4100.0,20191201,0,A,25.566666666666666,"Ingles, Joe","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,SG/SF,0, 6pt 3rb 4as 2trey 2-5fg 0-1ft,uta,110
+4.25,3400.0,20191201,0,A,12.0,"Niang, Georges","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,SF/PF,0, 1pt 3rb 1to 0-2fg 1-2ft,uta,110
+0.0,3000.0,20191201,0,A,0.0,"Oni, Miye","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,SG/SF,0,,uta,110
+0.0,3000.0,20191201,0,A,0.0,"Morgan, Juwan","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,PF,0,,uta,110
+0.0,3000.0,20191201,0,A,0.0,"Brantley, Jarrell","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,SF/PF,0,,uta,110
+29.25,7800.0,20191201,0,A,28.43333333333333,"Gobert, Rudy","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,C,1, 12pt 11rb 1as 1bl 3to 4-7fg 4-8ft,uta,110
+11.75,3000.0,20191201,0,A,13.0,"Davis, Ed","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,PF/C,0, 2pt 7rb 1bl 2to 1-2fg,uta,110
+6.5,4600.0,20191201,0,A,6.566666666666666,"Bradley, Tony","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,C,0, 4pt 2rb 1-2fg 2-2ft,uta,110
+26.25,5000.0,20191201,0,H,25.6,"Culver, Jarrett","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,1.0,PG/SG,1, 14pt 7rb 1as 1st 1to 1trey 6-12fg 1-4ft,min,107
+26.0,5600.0,20191201,0,H,25.98333333333333,"Teague, Jeff","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,PG,0, 13pt 4rb 6as 3to 1trey 2-4fg 8-8ft,min,107
+7.25,3300.0,20191201,0,H,8.866666666666667,"Napier, Shabazz","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,PG/SG,0, 4pt 1rb 1st 1to 1trey 1-1fg 1-2ft,min,107
+0.0,3000.0,20191201,0,H,0.0,"McLaughlin, Jordan","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,PG,0,,min,107
+0.0,3000.0,20191201,0,H,0.0,"Nowell, Jaylen","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,PG/SG,0,,min,107
+41.0,7900.0,20191201,0,H,35.03333333333333,"Wiggins, Andrew","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,1.0,SG/SF,1, 18pt 6rb 7as 1st 2bl 3to 1trey 6-17fg 5-5ft,min,107
+22.75,5100.0,20191201,0,H,31.23333333333333,"Covington, Robert","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,SF/PF,1, 13pt 3rb 1as 1st 1bl 2to 3trey 4-9fg 2-2ft,min,107
+19.75,4400.0,20191201,0,H,25.016666666666666,"Bates-Diop, Keita","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,SF/PF,0, 10pt 5rb 1as 1st 2to 2trey 4-7fg,min,107
+16.75,4200.0,20191201,0,H,18.65,"Okogie, Josh","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,SG/SF,0, 5pt 5rb 1as 1st 1bl 1-6fg 3-4ft,min,107
+11.75,3400.0,20191201,0,H,21.61666666666667,"Graham, Treveon","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,SG/SF,1, 6pt 5rb 1to 1-5fg 4-4ft,min,107
+0.0,4000.0,20191201,0,H,0.0,"Layman, Jake","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,SF/PF,0,,min,107
+0.0,3000.0,20191201,0,H,0.0,"Martin, Kelan","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,SF,0,,min,107
+44.5,10800.0,20191201,0,H,35.71666666666667,"Towns, Karl-Anthony","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,C,1, 21pt 12rb 5as 2to 1trey 7-20fg 6-6ft,min,107
+15.25,3800.0,20191201,0,H,12.283333333333333,"Dieng, Gorgui","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,C,0, 3pt 5rb 1st 2bl 1to 1trey 1-4fg,min,107
+0.0,3000.0,20191201,0,H,0.0,"Vonleh, Noah","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,PF/C,0,,min,107
+0.0,3000.0,20191201,0,H,0.0,"Reid, Naz","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,PF/C,0,,min,107
+0.0,3000.0,20191201,0,H,0.0,"Bell, Jordan","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,PF/C,0,,min,107
+23.75,5200.0,20191201,0,A,22.13333333333333,"Murray, Dejounte","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,PG,0, 5pt 3rb 6as 3st 1to 1trey 1-6fg 2-2ft,sas,98
+21.0,3000.0,20191201,0,A,16.266666666666666,"Walker, Lonnie","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,1.0,PG/SF,0, 13pt 2rb 2as 1st 1trey 6-12fg,sas,98
+16.75,4600.0,20191201,0,A,22.65,"White, Derrick","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,PG/SG,1, 7pt 1rb 3as 1st 1bl 1to 1trey 3-6fg,sas,98
+10.0,4400.0,20191201,0,A,22.85,"Forbes, Bryn","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,PG/SG,1, 5pt 2as 1st 1to 1trey 2-7fg,sas,98
+5.5,4000.0,20191201,0,A,16.366666666666667,"Mills, Patty","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,PG/SG,0, 4pt 1as 2-8fg,sas,98
+0.0,3000.0,20191201,0,A,0.0,"Weatherspoon, Quinndary","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,PG,0,,sas,98
+30.5,7300.0,20191201,0,A,25.066666666666666,"DeRozan, DeMar","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,SG/SF,1, 20pt 4rb 2as 1st 1trey 6-12fg 7-8ft,sas,98
+20.75,4900.0,20191201,0,A,22.78333333333333,"Gay, Rudy","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,SF/PF,1, 12pt 3rb 1st 2bl 2to 5-12fg 2-2ft,sas,98
+9.25,3300.0,20191201,0,A,15.35,"Belinelli, Marco","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,SG/SF,0, 6pt 1rb 1as 1trey 1-2fg 3-3ft,sas,98
+6.75,3000.0,20191201,0,A,12.0,"Carroll, DeMarre","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,SF/PF,0, 4pt 1rb 1as 0-3fg 4-6ft,sas,98
+0.0,3000.0,20191201,0,A,0.0,"Samanic, Luka","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,SF/PF,0,,sas,98
+0.0,3000.0,20191201,0,A,0.0,"Johnson, Keldon","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,SG/SF,0,,sas,98
+23.75,4300.0,20191201,0,A,26.18333333333333,"Poeltl, Jakob","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,1.0,C,1, 8pt 5rb 1as 3st 1bl 4-6fg,sas,98
+21.5,3000.0,20191201,0,A,21.816666666666666,"Eubanks, Drew","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,1.0,PF/C,0, 9pt 8rb 1as 1bl 2to 4-6fg 1-1ft,sas,98
+10.75,3500.0,20191201,0,A,16.533333333333335,"Lyles, Trey","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,PF/C,0, 5pt 3rb 1bl 1to 1trey 2-8fg,sas,98
+0.0,3000.0,20191201,0,A,0.0,"Metu, Chimezie","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,PF/C,0,,sas,98
+0.0,7500.0,20191201,0,A,0.0,"Aldridge, LaMarcus","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,PF/C,0,,sas,98
+59.25,11600,20191201,0,A,32.68333333333333,"Doncic, Luka","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,1.0,PG/SF,1, 27pt 9rb 10as 3st 7to 4trey 10-23fg 3-3ft,dal,114
+46.25,4000,20191201,0,A,27.55,"Wright, Delon","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,1.0,PG/SG,0, 17pt 5rb 9as 4st 3trey 7-12fg,dal,114
+5.5,3000,20191201,0,A,10.5,"Brunson, Jalen","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,PG/SG,0, 0pt 2rb 2as 0-3fg,dal,114
+4.25,3200,20191201,0,A,15.55,"Curry, Seth","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,PG/SG,0, 3pt 1rb 1to 1trey 1-5fg,dal,114
+0,3000,20191201,0,A,0.0,"Barea, Jose","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,PG/SG,0,,dal,114
+0,3000,20191201,0,A,0.0,"Cleveland, Antonius","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,SG,0,,dal,114
+0,3000,20191201,0,A,0.0,"Reaves, Josh","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,SG,0,,dal,114
+17.75,3100,20191201,0,A,15.433333333333334,"Jackson, Justin","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,1.0,SF/PF,0, 15pt 1rb 3trey 6-10fg,dal,114
+15.25,3800,20191201,0,A,21.383333333333333,"Finney-Smith, Dorian","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,SF/PF,1, 6pt 5rb 1bl 2trey 2-7fg,dal,114
+15,4900,20191201,0,A,30.516666666666666,"Hardaway Jr., Tim","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,SG/SF,1, 8pt 2rb 1as 2st 2to 3-10fg 2-2ft,dal,114
+0,3000,20191201,0,A,0.0,"Lee, Courtney","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,SG/SF,0,,dal,114
+0,3000,20191201,0,A,0.0,"Broekhoff, Ryan","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,SG/SF,0,,dal,114
+0,3000,20191201,0,A,0.0,"Roby, Isaiah","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,SF/PF,0,,dal,114
+27.75,3800,20191201,0,A,32.416666666666664,"Powell, Dwight","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,1.0,C,1, 15pt 9rb 1st 1to 6-11fg 3-5ft,dal,114
+25,7100,20191201,0,A,27.816666666666666,"Porzingis, Kristaps","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,PF/C,1, 15pt 6rb 1st 2to 3trey 5-11fg 2-4ft,dal,114
+20.75,4000,20191201,0,A,22.116666666666667,"Kleber, Maxi","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,1.0,PF/C,0, 6pt 9rb 2as 1trey 1-4fg 3-4ft,dal,114
+4.5,3000,20191201,0,A,4.033333333333333,"Marjanovic, Boban","Barea, Jose|Cleveland, Antonius|Reaves, Josh|Lee, Courtney|Broekhoff, Ryan|Roby, Isaiah",lal,100,0.0,C,0, 2pt 2rb 1-1fg,dal,114
+53.25,10600,20191201,0,H,36.416666666666664,"James, LeBron","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,1.0,PG/SF,1, 25pt 9rb 8as 4st 6to 11-20fg 3-3ft,lal,100
+16.5,3200,20191201,0,H,25.016666666666666,"Caruso, Alex","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,1.0,PG/SG,0, 10pt 4rb 1as 2to 2trey 4-5fg,lal,100
+14.25,5000,20191201,0,H,18.033333333333335,"Rondo, Rajon","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,PG,0, 4pt 1rb 7as 3to 2-3fg,lal,100
+6.25,3000,20191201,0,H,17.4,"Daniels, Troy","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,SG,0, 5pt 1rb 1to 1trey 2-4fg,lal,100
+2,3500,20191201,0,H,3.1666666666666665,"Cook, Quinn","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,PG,0, 2pt 0-1fg 2-2ft,lal,100
+0,4200,20191201,0,H,0.0,"Bradley, Avery","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,PG/SG,0,,lal,100
+0,3000,20191201,0,H,0.0,"Norvell Jr., Zach","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,PG,0,,lal,100
+15.75,4200,20191201,0,H,23.65,"Caldwell-Pope, Kentavious","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,SG/SF,1, 7pt 3rb 2as 1st 1to 1trey 3-7fg,lal,100
+14.5,4300,20191201,0,H,27.883333333333333,"Green, Danny","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,SG/SF,1, 8pt 2rb 1as 1st 1to 2trey 3-10fg,lal,100
+6.25,4800,20191201,0,H,21.4,"Kuzma, Kyle","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,SF/PF,0, 4pt 1rb 1as 1to 1-8fg 2-3ft,lal,100
+4.75,3000,20191201,0,H,3.1666666666666665,"Dudley, Jared","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,SF/PF,0, 0pt 1rb 1as 1st,lal,100
+0,3000,20191201,0,H,0.0,"Antetokounmpo, Kostas","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,SF/PF,0,,lal,100
+0,3000,20191201,0,H,0.0,"Horton-Tucker, Talen","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,SG/SF,0,,lal,100
+0,3000,20191201,0,H,0.0,"Cousins, DeMarcus","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,PF,0,,lal,100
+49.5,10400,20191201,0,H,35.833333333333336,"Davis, Anthony","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,PF/C,1, 27pt 10rb 2as 1st 2bl 2to 1trey 10-21fg 6-6ft,lal,100
+20.5,4600,20191201,0,H,15.666666666666666,"McGee, JaVale","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,C,1, 4pt 10rb 1st 1bl 2-5fg,lal,100
+10.75,4400,20191201,0,H,12.366666666666667,"Howard, Dwight","Bradley, Avery|Norvell Jr., Zach|Antetokounmpo, Kostas|Horton-Tucker, Talen|Cousins, DeMarcus",dal,114,0.0,C,0, 4pt 3rb 2as 2-3fg 0-2ft,lal,100
+49.75,7400,20191201,0,H,32.45,"VanVleet, Fred","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,1.0,PG/SG,1, 21pt 5rb 11as 1st 5trey 6-10fg 4-4ft,tor,130
+24,4000,20191201,0,H,23.033333333333335,"Davis, Terence","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,1.0,PG/SG,0, 13pt 4rb 3as 1bl 3to 2trey 5-7fg 1-2ft,tor,130
+2,3000,20191201,0,H,1.6833333333333333,"Ponds, Shamorie","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,0.0,PG,0, 0pt 1bl 0-1fg,tor,130
+0,3000,20191201,0,H,0.0,"McCaw, Patrick","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,0.0,PG/SG,0,,tor,130
+0,7600,20191201,0,H,0.0,"Lowry, Kyle","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,0.0,PG,0,,tor,130
+0,3000,20191201,0,H,0.0,"Thomas, Matt","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,0.0,SG,0,,tor,130
+34.75,5300,20191201,0,H,32.81666666666667,"Powell, Norman","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,1.0,SG/SF,1, 15pt 5rb 3as 4st 2trey 6-12fg 1-1ft,tor,130
+28.25,4900,20191201,0,H,29.933333333333334,"Anunoby, OG","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,1.0,SF/PF,1, 10pt 5rb 2as 4st 1bl 2to 3-5fg 4-7ft,tor,130
+26.5,4800,20191201,0,H,23.5,"Hollis-Jefferson, Rondae","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,1.0,SF/PF,0, 10pt 6rb 2as 1st 2bl 4-7fg 2-2ft,tor,130
+3.5,3000,20191201,0,H,4.516666666666667,"Miller, Malcolm","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,0.0,SG/SF,0, 0pt 1as 1bl,tor,130
+0,3000,20191201,0,H,0.0,"Johnson, Stanley","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,0.0,SF/PF,0,,tor,130
+0.5,3000,20191201,0,H,4.516666666666667,"Brissett, Oshae ","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,0.0,SF/PF,0, 0pt 1to,tor,130
+53.25,8700,20191201,0,H,34.6,"Siakam, Pascal","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,1.0,PF/C,1, 35pt 5rb 5as 2st 4to 5trey 14-22fg 2-2ft,tor,130
+31.25,5000,20191201,0,H,25.45,"Gasol, Marc","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,1.0,C,1, 11pt 5rb 6as 2bl 1to 3trey 4-8fg,tor,130
+24,5400,20191201,0,H,20.866666666666667,"Ibaka, Serge","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,0.0,PF/C,0, 13pt 4rb 3as 1st 3to 2trey 5-14fg 1-1ft,tor,130
+5.75,3000,20191201,0,H,1.6833333333333333,"Hernandez, Dewan","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,0.0,PF/C,0, 2pt 3rb 0-3fg 2-2ft,tor,130
+3.25,4000,20191201,0,H,4.95,"Boucher, Chris","McCaw, Patrick|Lowry, Kyle|Thomas, Matt|Johnson, Stanley",uta,110,0.0,PF/C,0, 0pt 1rb 1st 0-1fg,tor,130
+44.5,7700,20191201,0,H,34.18333333333333,"Dinwiddie, Spencer","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,1.0,PG/SG,1, 29pt 6rb 4as 1st 4to 4trey 10-21fg 5-5ft,bkn,106
+9.75,3000,20191201,0,H,13.816666666666666,"Pinson, Theo","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,PG/SG,0, 5pt 3rb 1as 2to 1trey 2-4fg,bkn,106
+0,9300,20191201,0,H,0.0,"Irving, Kyrie","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,PG,0,,bkn,106
+0,5200,20191201,0,H,0.0,"LeVert, Caris","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,PG/SF,0,,bkn,106
+33.5,5500,20191201,0,H,31.1,"Harris, Joe","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,1.0,SG/SF,1, 25pt 4rb 1as 1to 5trey 9-16fg 2-2ft,bkn,106
+32.75,6000,20191201,0,H,31.566666666666666,"Prince, Taurean","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,1.0,SF/PF,1, 9pt 7rb 5as 1st 3bl 3to 2trey 3-14fg 1-2ft,bkn,106
+22,4900,20191201,0,H,34.166666666666664,"Temple, Garrett","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,SG/SF,1, 7pt 6rb 5as 1to 1trey 3-12fg,bkn,106
+15,3000,20191201,0,H,18.25,"Nwaba, David","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,SG/SF,0, 10pt 2rb 1bl 1trey 4-7fg 1-2ft,bkn,106
+5.5,3200,20191201,0,H,16.9,"Shumpert, Iman","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,SG/SF,0, 2pt 1as 1bl 1-5fg,bkn,106
+4.5,3700,20191201,0,H,12.016666666666667,"Musa, Dzanan","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,SF/PF,0, 0pt 3as 0-1fg,bkn,106
+0,3000,20191201,0,H,0.0,"Kurucs, Rodions","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,SF/PF,0,,bkn,106
+0,3000,20191201,0,H,0.0,"Durant, Kevin","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,SF/PF,0,,bkn,106
+0,3000,20191201,0,H,0.0,"Luwawu, Timothe","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,SG/SF,0,,bkn,106
+0,3000,20191201,0,H,0.0,"Chandler, Wilson","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,SF/PF,0,,bkn,106
+29.5,4700,20191201,0,H,23.633333333333333,"Jordan, DeAndre","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,1.0,C,0, 15pt 8rb 2as 1st 1to 7-8fg 1-3ft,bkn,106
+22,6200,20191201,0,H,24.366666666666667,"Allen, Jarrett","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,C,1, 4pt 12rb 2as 1-3fg 2-2ft,bkn,106
+0,3100,20191201,0,H,0.0,"Claxton, Nicolas","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,PF/C,0,,bkn,106
+0,3000,20191201,0,H,0.0,"Ellenson, Henry","Irving, Kyrie|LeVert, Caris|Kurucs, Rodions|Durant, Kevin|Luwawu, Timothe|Chandler, Wilson|Claxton, Nicolas|Ellenson, Henry",mia,109,0.0,PF/C,0,,bkn,106
+40.25,8100,20191201,0,A,33.3,"Walker, Kemba","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,PG,1, 16pt 5rb 10as 1st 4to 3trey 6-18fg 1-2ft,bos,113
+20,4000,20191201,0,A,18.45,"Wanamaker, Brad","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,PG/SG,0, 11pt 2rb 3as 1st 1to 1trey 3-5fg 4-4ft,bos,113
+6,3000,20191201,0,A,8.266666666666667,"Green, Javonte","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,SG,0, 3pt 2rb 1trey 1-2fg,bos,113
+2.75,6100,20191201,0,A,19.65,"Smart, Marcus","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,PG/SG,1, 0pt 3rb 2to 0-6fg,bos,113
+1.25,3000,20191201,0,A,6.683333333333334,"Edwards, Carsen","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,PG,0, 0pt 1rb 0-2fg,bos,113
+0,3000,20191201,0,A,0.0,"Waters, Tremont","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,PG,0,,bos,113
+58,7800,20191201,0,A,37.4,"Tatum, Jayson","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,1.0,SF/PF,1, 30pt 6rb 7as 2st 2bl 1to 5trey 10-23fg 5-6ft,bos,113
+41.25,6500,20191201,0,A,34.93333333333333,"Brown, Jaylen","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,1.0,SG/SF,1, 28pt 5rb 1as 1st 1bl 1to 4trey 11-18fg 2-4ft,bos,113
+10.75,3200,20191201,0,A,19.416666666666668,"Ojeleye, Semi","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,SF/PF,0, 5pt 3rb 1as 1trey 2-3fg,bos,113
+8,3000,20191201,0,A,22.466666666666665,"Williams, Grant","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,SF/PF,0, 4pt 2rb 1as 2-5fg,bos,113
+0,3000,20191201,0,A,0.0,"Hayward, Gordon","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,SF/PF,0,,bos,113
+0,3000,20191201,0,A,0.0,"Langford, Romeo","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,SG/SF,0,,bos,113
+27.75,4800,20191201,0,A,15.666666666666666,"Kanter, Enes","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,1.0,C,0, 11pt 11rb 1bl 1to 4-7fg 3-5ft,bos,113
+9,4500,20191201,0,A,16.95,"Theis, Daniel","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,PF/C,1, 2pt 2rb 2as 1bl 1to 1-1fg,bos,113
+8.5,4000,20191201,0,A,6.816666666666666,"Williams, Robert","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,PF/C,0, 3pt 2rb 2bl 2to 1-3fg 1-1ft,bos,113
+0,3000,20191201,0,A,0.0,"Poirier, Vincent","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,C,0,,bos,113
+0,3000,20191201,0,A,0.0,"Fall, Tacko","Waters, Tremont|Hayward, Gordon|Langford, Romeo|Poirier, Vincent|Fall, Tacko",nyk,104,0.0,C,0,,bos,113
+37.25,8100,20191201,0,H,35.8,"Holiday, Jrue","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,PG/SG,1, 26pt 3rb 4as 3trey 10-19fg 3-3ft,nor,104
+31.5,5400,20191201,0,H,32.78333333333333,"Ball, Lonzo","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,1.0,PG,1, 14pt 4rb 7as 1bl 4to 4trey 5-11fg,nor,104
+0,3000,20191201,0,H,0.0,"Alexander-Walker, Nickeil","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,PG/SG,0,,nor,104
+0,3200,20191201,0,H,0.0,"Jackson, Frank","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,PG/SG,0,,nor,104
+0,3000,20191201,0,H,0.0,"Gray, Josh","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,PG,0,,nor,104
+39.25,9200,20191201,0,H,40.45,"Ingram, Brandon","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,SF/PF,1, 20pt 7rb 4as 2bl 1to 2trey 8-18fg 2-2ft,nor,104
+38.25,4800,20191201,0,H,33.13333333333333,"Hart, Josh","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,1.0,SG/SF,0, 11pt 11rb 2as 2st 2bl 1to 3trey 4-8fg,nor,104
+21.75,5300,20191201,0,H,29.316666666666666,"Redick, J.J.","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,SG/SF,1, 13pt 3rb 1as 1st 3trey 5-7fg,nor,104
+12,4200,20191201,0,H,17.75,"Moore, E'Twaun","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,SG/SF,0, 1pt 4rb 2as 2st 2to 0-6fg 1-2ft,nor,104
+0,4500,20191201,0,H,0.0,"Williams, Kenrich","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,SF/PF,0,,nor,104
+0,3000,20191201,0,H,0.0,"Cheatham, Zylan","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,SF/PF,0,,nor,104
+0,3000,20191201,0,H,0.0,"Miller, Darius","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,SF/PF,0,,nor,104
+25.25,4400,20191201,0,H,26.416666666666668,"Hayes, Jaxson","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,1.0,C,0, 9pt 7rb 1as 1st 2bl 3-6fg 3-3ft,nor,104
+7,4600,20191201,0,H,9.05,"Okafor, Jahlil","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,C,1, 4pt 2rb 1as 2to 2-4fg,nor,104
+6.5,3200,20191201,0,H,15.3,"Melli, Nicolo","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,PF/C,0, 6pt 1to 2trey 2-8fg,nor,104
+0,5600,20191201,0,H,0.0,"Favors, Derrick","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,PF/C,0,,nor,104
+0,3000,20191201,0,H,0.0,"Williamson, Zion","Alexander-Walker, Nickeil|Jackson, Frank|Gray, Josh|Williams, Kenrich|Cheatham, Zylan|Miller, Darius|Favors, Derrick|Williamson, Zion",okc,107,0.0,PF/C,0,,nor,104
+36.5,5700,20191201,0,A,30.75,"Dragic, Goran","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,1.0,PG,0, 24pt 2rb 6as 1to 3trey 9-18fg 3-4ft,mia,109
+20.75,5300,20191201,0,A,29.65,"Winslow, Justise","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,PG/SF,0, 10pt 5rb 3as 1to 1trey 3-12fg 3-4ft,mia,109
+17.25,5400,20191201,0,A,24.9,"Nunn, Kendrick","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,PG/SG,1, 11pt 1rb 3as 1trey 5-15fg,mia,109
+5.25,5100,20191201,0,A,20.883333333333333,"Herro, Tyler","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,SG,0, 4pt 1rb 2-6fg,mia,109
+0,3000,20191201,0,A,0.0,"Macon, Daryl","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,PG/SG,0,,mia,109
+35.25,7600,20191201,0,A,35.25,"Butler, Jimmy","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,SG/SF,1, 20pt 7rb 2as 1st 1bl 2to 1trey 5-17fg 9-10ft,mia,109
+25.5,4400,20191201,0,A,33.11666666666667,"Robinson, Duncan","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,1.0,SG/SF,1, 10pt 10rb 3trey 3-6fg 1-1ft,mia,109
+0,3000,20191201,0,A,0.16666666666666666,"Jones, Derrick","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,SF/PF,0, 0pt,mia,109
+0,3000,20191201,0,A,0.0,"Johnson, James","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,SF/PF,0,,mia,109
+0,3000,20191201,0,A,0.0,"Haslem, Udonis","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,PF,0,,mia,109
+0,3900,20191201,0,A,0.0,"Waiters, Dion","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,SG/SF,0,,mia,109
+0,3000,20191201,0,A,0.0,"Okpala, KZ","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,SF/PF,0,,mia,109
+42,7300,20191201,0,A,33.45,"Adebayo, Bam","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,1.0,C,1, 17pt 16rb 1as 1st 1bl 4to 6-14fg 5-7ft,mia,109
+21,3100,20191201,0,A,18.85,"Leonard, Meyers","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,1.0,PF/C,1, 9pt 6rb 1as 1st 1to 3trey 3-5fg,mia,109
+7.75,3500,20191201,0,A,6.966666666666667,"Silva, Chris","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,C,0, 4pt 3rb 1-1fg 2-2ft,mia,109
+0,4800,20191201,0,A,6.016666666666667,"Olynyk, Kelly","Macon, Daryl|Johnson, James|Haslem, Udonis|Waiters, Dion|Okpala, KZ",bkn,106,0.0,PF/C,0, 0pt 0-1fg,mia,109
+35.75,3000,20191201,0,A,22.583333333333332,"Melton, De'Anthony","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,1.0,PG/SG,0, 9pt 7rb 8as 2st 1bl 1to 1trey 2-10fg 4-4ft,mem,115
+31,3100,20191201,0,A,25.416666666666668,"Jones, Tyus","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,1.0,PG/SG,1, 12pt 4rb 7as 1st 1bl 2to 1trey 5-9fg 1-2ft,mem,115
+22.75,3000,20191201,0,A,30.066666666666666,"Allen, Grayson","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,1.0,PG/SG,0, 13pt 5rb 1st 3trey 4-9fg 2-2ft,mem,115
+0,3000,20191201,0,A,0.0,"Konchar, John","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,0.0,SG,0,,mem,115
+0,7500,20191201,0,A,0.0,"Morant, Ja","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,0.0,PG,0,,mem,115
+34.5,4500,20191201,0,A,31.9,"Brooks, Dillon","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,1.0,SG/SF,1, 26pt 2rb 3as 1to 4trey 9-18fg 4-4ft,mem,115
+31,5100,20191201,0,A,33.166666666666664,"Crowder, Jae","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,1.0,SF/PF,1, 12pt 10rb 3as 1to 2trey 4-11fg 2-3ft,mem,115
+21.75,3000,20191201,0,A,25.833333333333332,"Hill, Solomon","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,1.0,SF/PF,0, 11pt 5rb 1as 1st 2trey 4-10fg 1-2ft,mem,115
+11.75,3000,20191201,0,A,12.633333333333333,"Guduric, Marko","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,0.0,SG/SF,0, 8pt 1rb 2as 2to 1trey 3-6fg 1-1ft,mem,115
+0,3000,20191201,0,A,0.0,"Watanabe, Yuta","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,0.0,SF/PF,0,,mem,115
+0,3500,20191201,0,A,0.0,"Anderson, Kyle","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,0.0,SF/PF,0,,mem,115
+0,3000,20191201,0,A,0.0,"Iguodala, Andre","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,0.0,SG/SF,0,,mem,115
+0,3000,20191201,0,A,0.0,"Jackson, Josh","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,0.0,SF/PF,0,,mem,115
+36.25,3000,20191201,0,A,28.716666666666665,"Caboclo, Bruno","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,1.0,PF/C,0, 12pt 13rb 1as 3st 2to 5-14fg 2-3ft,mem,115
+18,5600,20191201,0,A,19.283333333333335,"Jackson, Jaren","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,0.0,PF/C,1, 12pt 2rb 1as 1bl 2to 2trey 5-10fg,mem,115
+2.75,4800,20191201,0,A,10.4,"Clarke, Brandon","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,0.0,PF/C,1, 0pt 1rb 1as 0-3fg,mem,115
+0,6900,20191201,0,A,0.0,"Valanciunas, Jonas","Konchar, John|Morant, Ja|Watanabe, Yuta|Anderson, Kyle|Iguodala, Andre|Jackson, Josh|Valanciunas, Jonas",min,107,0.0,C,0,,mem,115
+34.5,5300,20191201,0,H,30.0,"Fultz, Markelle","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,1.0,PG/SG,1, 14pt 4rb 9as 1st 6-12fg 2-3ft,orl,100
+11.25,4600,20191201,0,H,24.233333333333334,"Augustin, D.J.","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,0.0,PG,0, 0pt 5rb 4as 2to 0-5fg,orl,100
+0,3000,20191201,0,H,0.0,"Magette, Josh","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,0.0,PG,0,,orl,100
+0,3000,20191201,0,H,0.0,"Carter-Williams, Michael","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,0.0,PG,0,,orl,100
+39.75,6400,20191201,0,H,34.56666666666667,"Fournier, Evan","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,1.0,SG/SF,1, 32pt 3rb 1st 2to 6trey 13-21fg,orl,100
+39.75,7000,20191201,0,H,33.31666666666667,"Isaac, Jonathan","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,1.0,SF/PF,1, 14pt 11rb 1st 5bl 4to 1trey 4-9fg 5-6ft,orl,100
+31,4300,20191201,0,H,28.933333333333334,"Ross, Terrence","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,1.0,SG/SF,0, 19pt 4rb 1as 1st 1bl 3trey 8-15fg 0-1ft,orl,100
+21.75,6000,20191201,0,H,30.1,"Gordon, Aaron","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,0.0,SF/PF,1, 8pt 7rb 4as 3to 1trey 2-11fg 3-4ft,orl,100
+5.25,3000,20191201,0,H,10.183333333333334,"Iwundu, Wes","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,0.0,SG/SF,0, 2pt 1rb 1st 0-2fg 2-2ft,orl,100
+0,3000,20191201,0,H,0.7666666666666667,"Frazier, Melvin","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,0.0,SG/SF,0, 0pt,orl,100
+0,3600,20191201,0,H,0.0,"Aminu, Al-Farouq","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,0.0,SF/PF,0,,orl,100
+29.5,4700,20191201,0,H,30.45,"Birch, Khem","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,1.0,C,1, 7pt 10rb 3as 2st 1bl 1to 2-5fg 3-6ft,orl,100
+9.75,5000,20191201,0,H,17.45,"Bamba, Mohamed","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,0.0,C,0, 4pt 3rb 1bl 2-7fg,orl,100
+0,3000,20191201,0,H,0.0,"Jefferson, Amile","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,0.0,PF/C,0,,orl,100
+0,3300,20191201,0,H,0.0,"Vucevic, Nikola","Magette, Josh|Carter-Williams, Michael|Aminu, Al-Farouq|Jefferson, Amile|Vucevic, Nikola",gsw,96,0.0,C,0,,orl,100
+33.25,6600,20191201,0,A,33.083333333333336,"Gilgeous-Alexander, Shai","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,1.0,PG/SG,1, 17pt 9rb 2as 1st 2to 2trey 5-17fg 5-6ft,okc,107
+33,7200,20191201,0,A,33.1,"Paul, Chris","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,PG,1, 16pt 4rb 8as 2to 2trey 6-9fg 2-2ft,okc,107
+25.25,5700,20191201,0,A,24.866666666666667,"Schroder, Dennis","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,PG/SG,0, 17pt 3rb 2as 1st 3to 2trey 6-12fg 3-3ft,okc,107
+0,3000,20191201,0,A,0.0,"Hall, Devon","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,SG,0,,okc,107
+0,3000,20191201,0,A,0.0,"Dort, Luguentz","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,PG,0,,okc,107
+44.75,7100,20191201,0,A,32.03333333333333,"Gallinari, Danilo","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,1.0,SF/PF,1, 23pt 11rb 3as 4trey 8-14fg 3-4ft,okc,107
+7.5,3100,20191201,0,A,30.316666666666666,"Ferguson, Terrance","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,SG/SF,1, 3pt 2rb 1st 1to 1trey 1-5fg,okc,107
+5,3600,20191201,0,A,16.316666666666666,"Nader, Abdel","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,PF,0, 4pt 1as 1to 2-6fg 0-1ft,okc,107
+4.75,3000,20191201,0,A,8.433333333333334,"Burton, Deonte","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,SG/SF,0, 2pt 1rb 1as 1-2fg,okc,107
+2,3000,20191201,0,A,14.366666666666667,"Bazley, Darius","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,SF/PF,0, 0pt 2rb 1to 0-3fg,okc,107
+0,3000,20191201,0,A,0.0,"Roberson, Andre","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,SG/SF,0,,okc,107
+0,3600,20191201,0,A,0.0,"Diallo, Hamidou","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,SG/SF,0,,okc,107
+39.5,5800,20191201,0,A,28.0,"Adams, Steven","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,1.0,C,1, 17pt 10rb 2as 1st 2bl 1to 6-7fg 5-6ft,okc,107
+18.25,4500,20191201,0,A,19.483333333333334,"Noel, Nerlens","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,C,0, 8pt 5rb 1st 1bl 3-6fg 2-4ft,okc,107
+0,3000,20191201,0,A,0.0,"Muscala, Mike","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,PF/C,0,,okc,107
+0,3000,20191201,0,A,0.0,"Patton, Justin","Hall, Devon|Dort, Luguentz|Roberson, Andre|Diallo, Hamidou|Muscala, Mike|Patton, Justin",nor,104,0.0,C,0,,okc,107
+32.75,3500,20191201,0,H,38.36666666666667,"Smith Jr., Dennis","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,1.0,PG,0, 17pt 1rb 7as 2bl 2to 2trey 6-11fg 3-6ft,nyk,104
+28.75,5800,20191201,0,H,35.13333333333333,"Barrett, RJ","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,PG/SG,1, 16pt 7rb 1st 1bl 4-13fg 8-13ft,nyk,104
+4,4500,20191201,0,H,6.883333333333333,"Ntilikina, Frank","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,PG/SG,1, 3pt 1as 2to 1trey 1-3fg,nyk,104
+0,3000,20191201,0,H,0.0,"Trier, Allonzo","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,PG/SG,0,,nyk,104
+0,3000,20191201,0,H,0.0,"Allen, Kadeem","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,PG/SG,0,,nyk,104
+0,4900,20191201,0,H,0.0,"Payton, Elfrid","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,PG,0,,nyk,104
+24,3200,20191201,0,H,31.55,"Dotson, Damyean","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,1.0,SG/SF,0, 10pt 4rb 3as 1st 1bl 1to 2trey 4-6fg,nyk,104
+21.75,3300,20191201,0,H,21.666666666666668,"Knox, Kevin","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,1.0,SF/PF,1, 11pt 5rb 2bl 1to 2trey 4-9fg 1-1ft,nyk,104
+6.75,3500,20191201,0,H,12.866666666666667,"Ellington, Wayne","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,SG/SF,0, 2pt 3rb 1as 1to 1-2fg,nyk,104
+0,5900,20191201,0,H,0.0,"Morris, Marcus","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,SF/PF,0,,nyk,104
+0,3000,20191201,0,H,0.0,"Brazdeikis, Ignas","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,SF/PF,0,,nyk,104
+0,3000,20191201,0,H,0.0,"Bullock, Reggie","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,SG/SF,0,,nyk,104
+33.25,6800,20191201,0,H,33.68333333333333,"Randle, Julius","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,PF/C,1, 26pt 5rb 2as 4to 8-16fg 10-13ft,nyk,104
+20,3600,20191201,0,H,20.7,"Portis, Bobby","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,1.0,PF/C,0, 9pt 6rb 1as 1st 1to 1trey 3-8fg 2-2ft,nyk,104
+15.75,3700,20191201,0,H,19.633333333333333,"Gibson, Taj","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,PF/C,1, 4pt 3rb 4st 2-6fg,nyk,104
+11.25,4800,20191201,0,H,19.516666666666666,"Robinson, Mitchell","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,C,0, 6pt 5rb 2to 2-2fg 2-2ft,nyk,104
+0,3000,20191201,0,H,0.0,"Rabb, Ivan","Trier, Allonzo|Allen, Kadeem|Payton, Elfrid|Morris, Marcus|Brazdeikis, Ignas|Bullock, Reggie|Rabb, Ivan",bos,113,0.0,PF/C,0,,nyk,104
+31.5,5400,20191201,0,H,18.883333333333333,"Rose, Derrick","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,1.0,PG/SG,0, 10pt 10as 2st 1bl 3to 1trey 3-8fg 3-3ft,det,132
+15.75,4100,20191201,0,H,20.516666666666666,"Galloway, Langston","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,PG/SG,0, 8pt 3rb 1as 1st 1to 2trey 3-5fg,det,132
+5.75,3000,20191201,0,H,4.783333333333333,"Frazier, Tim","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,PG,0, 0pt 1rb 3as 0-1fg,det,132
+0,3900,20191201,0,H,0.0,"Jackson, Reggie","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,PG/SG,0,,det,132
+0,3000,20191201,0,H,0.0,"Thomas, Khyri","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,SG,0,,det,132
+0,3000,20191201,0,H,0.0,"Bone, Jordan","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,PG,0,,det,132
+31,5900,20191201,0,H,30.833333333333332,"Kennard, Luke","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,1.0,SG/SF,1, 20pt 4rb 3as 1to 4trey 8-12fg,det,132
+26.25,4100,20191201,0,H,26.533333333333335,"Brown, Bruce","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,1.0,SG/SF,1, 13pt 7rb 3as 1to 1trey 5-8fg 2-2ft,det,132
+20.5,8000,20191201,0,H,21.933333333333334,"Griffin, Blake","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,PF,1, 10pt 2rb 6as 2to 4-12fg 2-2ft,det,132
+16.5,3200,20191201,0,H,22.533333333333335,"Mykhailiuk, Sviatoslav","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,1.0,SG/SF,0, 13pt 2rb 2trey 5-6fg 1-2ft,det,132
+8.25,3400,20191201,0,H,17.333333333333332,"Snell, Tony","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,SG/SF,1, 5pt 1rb 1as 1trey 2-5fg,det,132
+4,3000,20191201,0,H,2.5833333333333335,"Doumbouya, Sekou","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,SF/PF,0, 4pt 2-2fg 0-1ft,det,132
+0,3000,20191201,0,H,0.0,"King, Louis","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,SF/PF,0,,det,132
+49,3500,20191201,0,H,22.016666666666666,"Wood, Christian","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,1.0,PF/C,0, 28pt 10rb 2as 1st 1bl 2to 2trey 11-14fg 4-4ft,det,132
+38,9400,20191201,0,H,25.983333333333334,"Drummond, Andre","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,C,1, 9pt 16rb 2as 1st 3bl 4to 4-8fg 1-4ft,det,132
+18.5,3800,20191201,0,H,21.283333333333335,"Morris, Markieff","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,PF/C,0, 10pt 4rb 2as 1to 2trey 4-6fg,det,132
+2,3000,20191201,0,H,4.783333333333333,"Maker, Thon","Jackson, Reggie|Thomas, Khyri|Bone, Jordan|King, Louis",sas,98,0.0,PF/C,0, 2pt 1-1fg,det,132
+31.25,5800,20191201,0,A,36.21666666666667,"Burks, Alec","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,1.0,PG/SG,1, 15pt 5rb 3as 3st 2to 1trey 6-16fg 2-3ft,gsw,96
+30,5500,20191201,0,A,23.383333333333333,"Green, Draymond","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,1.0,PG/SF,1, 11pt 4rb 7as 2st 2to 1trey 4-6fg 2-2ft,gsw,96
+21.25,5300,20191201,0,A,28.566666666666666,"Bowman, Ky","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,PG,0, 12pt 3rb 4as 2to 1trey 4-12fg 3-3ft,gsw,96
+0,8400,20191201,0,A,0.0,"Russell, D'Angelo","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,PG/SG,0,,gsw,96
+0,3000,20191201,0,A,0.0,"Curry, Stephen","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,PG,0,,gsw,96
+27.25,5100,20191201,0,A,37.46666666666667,"Robinson III, Glenn","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,1.0,SG/SF,1, 19pt 3rb 1as 1bl 1to 3trey 8-16fg,gsw,96
+27,5400,20191201,0,A,35.083333333333336,"Paschall, Eric","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,SF/PF,1, 17pt 6rb 2as 1to 6-14fg 5-6ft,gsw,96
+3,4000,20191201,0,A,15.8,"Poole, Jordan","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,SG/SF,0, 1pt 1bl 0-8fg 1-2ft,gsw,96
+0,3000,20191201,0,A,0.0,"Evans III, Jacob","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,SG/SF,0,,gsw,96
+0,3500,20191201,0,A,0.0,"Lee, Damion","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,SG/SF,0,,gsw,96
+0,3000,20191201,0,A,0.0,"Thompson, Klay","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,SG/SF,0,,gsw,96
+35.5,5200,20191201,0,A,24.05,"Cauley-Stein, Willie","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,1.0,C,1, 11pt 12rb 3as 1st 1bl 1to 5-10fg 1-2ft,gsw,96
+16,4900,20191201,0,A,22.733333333333334,"Chriss, Marquese","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,PF/C,0, 3pt 6rb 1as 2bl 0-2fg 3-4ft,gsw,96
+15.25,4400,20191201,0,A,16.7,"Spellman, Omari","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,PF/C,0, 7pt 7rb 1to 3-7fg 1-1ft,gsw,96
+0,3500,20191201,0,A,0.0,"Looney, Kevon","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,PF/C,0,,gsw,96
+0,3000,20191201,0,A,0.0,"Smailagic, Alen","Russell, D'Angelo|Curry, Stephen|Evans III, Jacob|Lee, Damion|Thompson, Klay|Looney, Kevon|Smailagic, Alen",orl,100,0.0,PF/C,0,,gsw,96
+30.25,5800,20191201,0,A,25.1,"Conley, Mike","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,1.0,PG,1, 20pt 3rb 2as 1bl 1to 4trey 7-13fg 2-2ft,uta,110
+26.25,8200,20191201,0,A,30.75,"Mitchell, Donovan","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,PG/SG,1, 16pt 1rb 4as 1st 2trey 6-16fg 2-3ft,uta,110
+10.5,3000,20191201,0,A,11.466666666666667,"Exum, Dante","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,PG/SG,0, 9pt 2rb 3to 1trey 3-4fg 2-2ft,uta,110
+6.25,3500,20191201,0,A,17.05,"Mudiay, Emmanuel","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,PG,0, 2pt 1rb 3as 3to 1-7fg,uta,110
+4.5,3000,20191201,0,A,6.566666666666666,"Williams-Goss, Nigel","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,PG,0, 2pt 2rb 0-2fg 2-2ft,uta,110
+0,3000,20191201,0,A,0.0,"Wright-Foreman, Justin","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,PG,0,,uta,110
+26.75,3400,20191201,0,A,14.516666666666667,"Green, Jeff","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,1.0,SF/PF,0, 19pt 3rb 2st 1to 1trey 6-11fg 6-6ft,uta,110
+23.75,6800,20191201,0,A,29.583333333333332,"Bogdanovic, Bojan","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,SF/PF,1, 11pt 7rb 2as 1st 3to 1trey 5-14fg 0-1ft,uta,110
+23.5,4200,20191201,0,A,19.4,"O'Neale, Royce","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,1.0,SF,1, 6pt 6rb 5as 1st 1to 2trey 2-5fg,uta,110
+16.75,4100,20191201,0,A,25.566666666666666,"Ingles, Joe","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,SG/SF,0, 6pt 3rb 4as 2trey 2-5fg 0-1ft,uta,110
+4.25,3400,20191201,0,A,12.0,"Niang, Georges","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,SF/PF,0, 1pt 3rb 1to 0-2fg 1-2ft,uta,110
+0,3000,20191201,0,A,0.0,"Oni, Miye","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,SG/SF,0,,uta,110
+0,3000,20191201,0,A,0.0,"Morgan, Juwan","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,PF,0,,uta,110
+0,3000,20191201,0,A,0.0,"Brantley, Jarrell","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,SF/PF,0,,uta,110
+29.25,7800,20191201,0,A,28.433333333333334,"Gobert, Rudy","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,C,1, 12pt 11rb 1as 1bl 3to 4-7fg 4-8ft,uta,110
+11.75,3000,20191201,0,A,13.0,"Davis, Ed","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,PF/C,0, 2pt 7rb 1bl 2to 1-2fg,uta,110
+6.5,4600,20191201,0,A,6.566666666666666,"Bradley, Tony","Wright-Foreman, Justin|Oni, Miye|Morgan, Juwan|Brantley, Jarrell",tor,130,0.0,C,0, 4pt 2rb 1-2fg 2-2ft,uta,110
+26.25,5000,20191201,0,H,25.6,"Culver, Jarrett","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,1.0,PG/SG,1, 14pt 7rb 1as 1st 1to 1trey 6-12fg 1-4ft,min,107
+26,5600,20191201,0,H,25.983333333333334,"Teague, Jeff","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,PG,0, 13pt 4rb 6as 3to 1trey 2-4fg 8-8ft,min,107
+7.25,3300,20191201,0,H,8.866666666666667,"Napier, Shabazz","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,PG/SG,0, 4pt 1rb 1st 1to 1trey 1-1fg 1-2ft,min,107
+0,3000,20191201,0,H,0.0,"McLaughlin, Jordan","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,PG,0,,min,107
+0,3000,20191201,0,H,0.0,"Nowell, Jaylen","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,PG/SG,0,,min,107
+41,7900,20191201,0,H,35.03333333333333,"Wiggins, Andrew","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,1.0,SG/SF,1, 18pt 6rb 7as 1st 2bl 3to 1trey 6-17fg 5-5ft,min,107
+22.75,5100,20191201,0,H,31.233333333333334,"Covington, Robert","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,SF/PF,1, 13pt 3rb 1as 1st 1bl 2to 3trey 4-9fg 2-2ft,min,107
+19.75,4400,20191201,0,H,25.016666666666666,"Bates-Diop, Keita","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,SF/PF,0, 10pt 5rb 1as 1st 2to 2trey 4-7fg,min,107
+16.75,4200,20191201,0,H,18.65,"Okogie, Josh","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,SG/SF,0, 5pt 5rb 1as 1st 1bl 1-6fg 3-4ft,min,107
+11.75,3400,20191201,0,H,21.616666666666667,"Graham, Treveon","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,SG/SF,1, 6pt 5rb 1to 1-5fg 4-4ft,min,107
+0,4000,20191201,0,H,0.0,"Layman, Jake","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,SF/PF,0,,min,107
+0,3000,20191201,0,H,0.0,"Martin, Kelan","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,SF,0,,min,107
+44.5,10800,20191201,0,H,35.71666666666667,"Towns, Karl-Anthony","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,C,1, 21pt 12rb 5as 2to 1trey 7-20fg 6-6ft,min,107
+15.25,3800,20191201,0,H,12.283333333333333,"Dieng, Gorgui","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,C,0, 3pt 5rb 1st 2bl 1to 1trey 1-4fg,min,107
+0,3000,20191201,0,H,0.0,"Vonleh, Noah","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,PF/C,0,,min,107
+0,3000,20191201,0,H,0.0,"Reid, Naz","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,PF/C,0,,min,107
+0,3000,20191201,0,H,0.0,"Bell, Jordan","McLaughlin, Jordan|Nowell, Jaylen|Layman, Jake|Martin, Kelan|Vonleh, Noah|Reid, Naz|Bell, Jordan",mem,115,0.0,PF/C,0,,min,107
+23.75,5200,20191201,0,A,22.133333333333333,"Murray, Dejounte","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,PG,0, 5pt 3rb 6as 3st 1to 1trey 1-6fg 2-2ft,sas,98
+21,3000,20191201,0,A,16.266666666666666,"Walker, Lonnie","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,1.0,PG/SF,0, 13pt 2rb 2as 1st 1trey 6-12fg,sas,98
+16.75,4600,20191201,0,A,22.65,"White, Derrick","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,PG/SG,1, 7pt 1rb 3as 1st 1bl 1to 1trey 3-6fg,sas,98
+10,4400,20191201,0,A,22.85,"Forbes, Bryn","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,PG/SG,1, 5pt 2as 1st 1to 1trey 2-7fg,sas,98
+5.5,4000,20191201,0,A,16.366666666666667,"Mills, Patty","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,PG/SG,0, 4pt 1as 2-8fg,sas,98
+0,3000,20191201,0,A,0.0,"Weatherspoon, Quinndary","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,PG,0,,sas,98
+30.5,7300,20191201,0,A,25.066666666666666,"DeRozan, DeMar","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,SG/SF,1, 20pt 4rb 2as 1st 1trey 6-12fg 7-8ft,sas,98
+20.75,4900,20191201,0,A,22.783333333333335,"Gay, Rudy","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,SF/PF,1, 12pt 3rb 1st 2bl 2to 5-12fg 2-2ft,sas,98
+9.25,3300,20191201,0,A,15.35,"Belinelli, Marco","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,SG/SF,0, 6pt 1rb 1as 1trey 1-2fg 3-3ft,sas,98
+6.75,3000,20191201,0,A,12.0,"Carroll, DeMarre","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,SF/PF,0, 4pt 1rb 1as 0-3fg 4-6ft,sas,98
+0,3000,20191201,0,A,0.0,"Samanic, Luka","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,SF/PF,0,,sas,98
+0,3000,20191201,0,A,0.0,"Johnson, Keldon","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,SG/SF,0,,sas,98
+23.75,4300,20191201,0,A,26.183333333333334,"Poeltl, Jakob","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,1.0,C,1, 8pt 5rb 1as 3st 1bl 4-6fg,sas,98
+21.5,3000,20191201,0,A,21.816666666666666,"Eubanks, Drew","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,1.0,PF/C,0, 9pt 8rb 1as 1bl 2to 4-6fg 1-1ft,sas,98
+10.75,3500,20191201,0,A,16.533333333333335,"Lyles, Trey","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,PF/C,0, 5pt 3rb 1bl 1to 1trey 2-8fg,sas,98
+0,3000,20191201,0,A,0.0,"Metu, Chimezie","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,PF/C,0,,sas,98
+0,7500,20191201,0,A,0.0,"Aldridge, LaMarcus","Weatherspoon, Quinndary|Samanic, Luka|Johnson, Keldon|Metu, Chimezie|Aldridge, LaMarcus",det,132,0.0,PF/C,0,,sas,98
