@@ -1,141 +1,31 @@
-Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
-G,Henrik Stenson (13528291),Henrik Stenson,13528291,G,11400,Houston Open,Golf,77.02848298
-G,Cameron Champ (13528292),Cameron Champ,13528292,G,10800,Houston Open,Golf,66.69650932
-G,Brian Harman (13528293),Brian Harman,13528293,G,10600,Houston Open,Golf,63.94770631
-G,Daniel Berger (13528294),Daniel Berger,13528294,G,10400,Houston Open,Golf,63.72064743
-G,Russell Henley (13528295),Russell Henley,13528295,G,10100,Houston Open,Golf,63.71927766
-G,Scottie Scheffler (13528296),Scottie Scheffler,13528296,G,9900,Houston Open,Golf,64.44241577
-G,Pat Perez (13528297),Pat Perez,13528297,G,9700,Houston Open,Golf,62.41288334
-G,Denny McCarthy (13528298),Denny McCarthy,13528298,G,9500,Houston Open,Golf,61.20324658
-G,Sebastian Munoz (13528299),Sebastian Munoz,13528299,G,9400,Houston Open,Golf,57.52311405
-G,Kyle Stanley (13528300),Kyle Stanley,13528300,G,9300,Houston Open,Golf,58.28990096
-G,Russell Knox (13528301),Russell Knox,13528301,G,9200,Houston Open,Golf,60.86711226
-G,Matt Jones (13528302),Matt Jones,13528302,G,9100,Houston Open,Golf,57.02270754
-G,Keegan Bradley (13528303),Keegan Bradley,13528303,G,9000,Houston Open,Golf,59.59022444
-G,Harris English (13528304),Harris English,13528304,G,8900,Houston Open,Golf,58.54108978
-G,Sam Ryder (13528305),Sam Ryder,13528305,G,8800,Houston Open,Golf,56.895229
-G,Cameron Tringale (13528306),Cameron Tringale,13528306,G,8700,Houston Open,Golf,56.4046989
-G,Bud Cauley (13528307),Bud Cauley,13528307,G,8600,Houston Open,Golf,57.50736947
-G,Luke List (13528308),Luke List,13528308,G,8500,Houston Open,Golf,57.05065525
-G,Bronson Burgoon (13528309),Bronson Burgoon,13528309,G,8400,Houston Open,Golf,56.86287978
-G,Beau Hossler (13528310),Beau Hossler,13528310,G,8300,Houston Open,Golf,55.6051316
-G,Carlos Ortiz (13528311),Carlos Ortiz,13528311,G,8200,Houston Open,Golf,55.90710023
-G,Aaron Baddeley (13528312),Aaron Baddeley,13528312,G,8100,Houston Open,Golf,54.18589174
-G,Lanto Griffin (13528313),Lanto Griffin,13528313,G,8000,Houston Open,Golf,57.16049009
-G,Xinjun Zhang (13528314),Xinjun Zhang,13528314,G,8000,Houston Open,Golf,53.83168065
-G,Robby Shelton (13528315),Robby Shelton,13528315,G,7900,Houston Open,Golf,51.73933706
-G,Kevin Chappell (13528316),Kevin Chappell,13528316,G,7900,Houston Open,Golf,56.84312478
-G,Nick Watney (13528317),Nick Watney,13528317,G,7800,Houston Open,Golf,50.48640815
-G,Martin Laird (13528318),Martin Laird,13528318,G,7800,Houston Open,Golf,54.05880605
-G,Richy Werenski (13528319),Richy Werenski,13528319,G,7700,Houston Open,Golf,56.57936277
-G,Brice Garnett (13528320),Brice Garnett,13528320,G,7700,Houston Open,Golf,52.32079439
-G,Andrew Landry (13528321),Andrew Landry,13528321,G,7600,Houston Open,Golf,54.32087382
-G,Brian Gay (13528322),Brian Gay,13528322,G,7600,Houston Open,Golf,52.01200014
-G,Jhonattan Vegas (13528323),Jhonattan Vegas,13528323,G,7600,Houston Open,Golf,54.30340264
-G,Tom Lewis (13528324),Tom Lewis,13528324,G,7500,Houston Open,Golf,51.93277094
-G,Lucas Bjerregaard (13528325),Lucas Bjerregaard,13528325,G,7500,Houston Open,Golf,54.09891515
-G,Austin Cook (13528326),Austin Cook,13528326,G,7500,Houston Open,Golf,52.43003789
-G,Harry Higgs (13528327),Harry Higgs,13528327,G,7400,Houston Open,Golf,63.25428904
-G,Tom Hoge (13528328),Tom Hoge,13528328,G,7400,Houston Open,Golf,44.01095346
-G,Brendan Steele (13528329),Brendan Steele,13528329,G,7400,Houston Open,Golf,50.61747686
-G,Sam Burns (13528330),Sam Burns,13528330,G,7400,Houston Open,Golf,44.01095346
-G,Michael Thompson (13528331),Michael Thompson,13528331,G,7300,Houston Open,Golf,44.12053905
-G,Matt Every (13528332),Matt Every,13528332,G,7300,Houston Open,Golf,48.45126604
-G,Kramer Hickok (13528333),Kramer Hickok,13528333,G,7300,Houston Open,Golf,50.2508028
-G,Scott Stallings (13528334),Scott Stallings,13528334,G,7300,Houston Open,Golf,47.81450644
-G,Zac Blair (13528335),Zac Blair,13528335,G,7200,Houston Open,Golf,44.01095346
-G,Roger Sloan (13528336),Roger Sloan,13528336,G,7200,Houston Open,Golf,39.21149993
-G,Doc Redman (13528337),Doc Redman,13528337,G,7200,Houston Open,Golf,47.32120536
-G,Peter Uihlein (13528338),Peter Uihlein,13528338,G,7200,Houston Open,Golf,49.57521726
-G,Patrick Rodgers (13528339),Patrick Rodgers,13528339,G,7100,Houston Open,Golf,39.07306196
-G,J.J. Spaun (13528340),J.J. Spaun,13528340,G,7100,Houston Open,Golf,51.69955261
-G,Matthew NeSmith (13528341),Matthew NeSmith,13528341,G,7100,Houston Open,Golf,47.89031342
-G,Sepp Straka (13528342),Sepp Straka,13528342,G,7100,Houston Open,Golf,32.54201435
-G,Mark Hubbard (13528343),Mark Hubbard,13528343,G,7100,Houston Open,Golf,39.0098395
-G,Cameron Davis (13528344),Cameron Davis,13528344,G,7000,Houston Open,Golf,39.07306196
-G,David Hearn (13528345),David Hearn,13528345,G,7000,Houston Open,Golf,39.07306196
-G,Patton Kizzire (13528346),Patton Kizzire,13528346,G,7000,Houston Open,Golf,40.62651448
-G,Jason Dufner (13528347),Jason Dufner,13528347,G,7000,Houston Open,Golf,50.91244737
-G,Kristoffer Ventura (13528348),Kristoffer Ventura,13528348,G,7000,Houston Open,Golf,42.27429304
-G,Robert Streb (13528349),Robert Streb,13528349,G,7000,Houston Open,Golf,40.56708816
-G,Johnson Wagner (13528350),Johnson Wagner,13528350,G,6900,Houston Open,Golf,42.16065306
-G,Ryan Armour (13528351),Ryan Armour,13528351,G,6900,Houston Open,Golf,39.19349196
-G,Scott Harrington (13528352),Scott Harrington,13528352,G,6900,Houston Open,Golf,37.73038258
-G,Grayson Murray (13528353),Grayson Murray,13528353,G,6900,Houston Open,Golf,36.63142968
-G,Joseph Bramlett (13528354),Joseph Bramlett,13528354,G,6900,Houston Open,Golf,37.6761919
-G,Stewart Cink (13528355),Stewart Cink,13528355,G,6900,Houston Open,Golf,39.07306196
-G,D.J. Trahan (13528356),D.J. Trahan,13528356,G,6800,Houston Open,Golf,39.19349196
-G,Chris Stroud (13528357),Chris Stroud,13528357,G,6800,Houston Open,Golf,36.59517489
-G,Doug Ghim (13528358),Doug Ghim,13528358,G,6800,Houston Open,Golf,33.44461856
-G,Shawn Stefani (13528359),Shawn Stefani,13528359,G,6800,Houston Open,Golf,34.28340891
-G,Hank Lebioda (13528360),Hank Lebioda,13528360,G,6800,Houston Open,Golf,36.47374747
-G,Dominic Bozzelli (13528361),Dominic Bozzelli,13528361,G,6800,Houston Open,Golf,45.80557477
-G,Peter Malnati (13528362),Peter Malnati,13528362,G,6700,Houston Open,Golf,36.63142968
-G,Rob Oppenheim (13528363),Rob Oppenheim,13528363,G,6700,Houston Open,Golf,32.54201435
-G,Talor Gooch (13528364),Talor Gooch,13528364,G,6700,Houston Open,Golf,39.19349196
-G,Bo Hoag (13528365),Bo Hoag,13528365,G,6700,Houston Open,Golf,32.48519254
-G,Roberto Castro (13528366),Roberto Castro,13528366,G,6700,Houston Open,Golf,32.51114702
-G,Brandon Wu (13528367),Brandon Wu,13528367,G,6700,Houston Open,Golf,37.6761919
-G,Rhein Gibson (13528368),Rhein Gibson,13528368,G,6600,Houston Open,Golf,30.9052896
-G,Bill Haas (13528369),Bill Haas,13528369,G,6600,Houston Open,Golf,36.49401896
-G,Zack Sucher (13528370),Zack Sucher,13528370,G,6600,Houston Open,Golf,39.19349196
-G,Ted Potter Jr. (13528371),Ted Potter Jr.,13528371,G,6600,Houston Open,Golf,33.4854431
-G,George McNeill (13528372),George McNeill,13528372,G,6600,Houston Open,Golf,32.51114702
-G,James Hahn (13528373),James Hahn,13528373,G,6600,Houston Open,Golf,35.31125345
-G,Mackenzie Hughes (13528374),Mackenzie Hughes,13528374,G,6600,Houston Open,Golf,36.43265288
-G,Seamus Power (13528375),Seamus Power,13528375,G,6500,Houston Open,Golf,30.9052896
-G,Henrik Norlander (13528376),Henrik Norlander,13528376,G,6500,Houston Open,Golf,32.51114702
-G,Tyler Duncan (13528377),Tyler Duncan,13528377,G,6500,Houston Open,Golf,32.51114702
-G,Maverick McNealy (13528378),Maverick McNealy,13528378,G,6500,Houston Open,Golf,37.76663736
-G,Rafael Campos (13528379),Rafael Campos,13528379,G,6500,Houston Open,Golf,34.34447828
-G,Mark Anderson (13528380),Mark Anderson,13528380,G,6500,Houston Open,Golf,30.86164105
-G,Scott Brown (13528381),Scott Brown,13528381,G,6500,Houston Open,Golf,29.42053934
-G,Ryan Brehm (13528382),Ryan Brehm,13528382,G,6500,Houston Open,Golf,29.4045869
-G,Ben Taylor (13528383),Ben Taylor,13528383,G,6400,Houston Open,Golf,26.99333502
-G,Jim Herman (13528384),Jim Herman,13528384,G,6400,Houston Open,Golf,33.23824836
-G,Ben Crane (13528385),Ben Crane,13528385,G,6400,Houston Open,Golf,29.48943815
-G,Cole Hammer (13528386),Cole Hammer,13528386,G,6400,Houston Open,Golf,25.9044158
-G,Tyler McCumber (13528387),Tyler McCumber,13528387,G,6400,Houston Open,Golf,30.9052896
-G,Vincent Whaley (13528388),Vincent Whaley,13528388,G,6400,Houston Open,Golf,28.12493568
-G,Brendon Todd (13528389),Brendon Todd,13528389,G,6400,Houston Open,Golf,29.42053934
-G,Josh Teater (13528390),Josh Teater,13528390,G,6400,Houston Open,Golf,33.38354919
-G,Wes Roach (13528391),Wes Roach,13528391,G,6300,Houston Open,Golf,28.18012965
-G,David Lingmerth (13528392),David Lingmerth,13528392,G,6300,Houston Open,Golf,30.92663744
-G,Hunter Mahan (13528393),Hunter Mahan,13528393,G,6300,Houston Open,Golf,28.11159839
-G,Chase Seiffert (13528394),Chase Seiffert,13528394,G,6300,Houston Open,Golf,29.43995971
-G,Michael Gligic (13528395),Michael Gligic,13528395,G,6300,Houston Open,Golf,26.97999773
-G,Jonathan Byrd (13528396),Jonathan Byrd,13528396,G,6300,Houston Open,Golf,30.95012007
-G,John Huh (13528397),John Huh,13528397,G,6300,Houston Open,Golf,30.86164105
-G,Graham DeLaet (13528398),Graham DeLaet,13528398,G,6300,Houston Open,Golf,26.97999773
-G,Chris Baker (13528399),Chris Baker,13528399,G,6300,Houston Open,Golf,30.84222069
-G,Robert Garrigus (13528400),Robert Garrigus,13528400,G,6200,Houston Open,Golf,26.97999773
-G,Chandler Phillips (13528401),Chandler Phillips,13528401,G,6200,Houston Open,Golf,23.98824412
-G,Brandon Hagy (13528402),Brandon Hagy,13528402,G,6200,Houston Open,Golf,29.48943815
-G,Dawie Van der Walt (13528403),Dawie Van der Walt,13528403,G,6200,Houston Open,Golf,23.1399588
-G,Sebastian Cappelen (13528404),Sebastian Cappelen,13528404,G,6200,Houston Open,Golf,26.97999773
-G,D.A. Points (13528405),D.A. Points,13528405,G,6200,Houston Open,Golf,29.43995971
-G,Derek Ernst (13528406),Derek Ernst,13528406,G,6200,Houston Open,Golf,23.97720725
-G,Sang-Moon Bae (13528407),Sang-Moon Bae,13528407,G,6200,Houston Open,Golf,28.19955001
-G,Nelson Ledesma (13528408),Nelson Ledesma,13528408,G,6200,Houston Open,Golf,26.89310066
-G,John Senden (13528409),John Senden,13528409,G,6100,Houston Open,Golf,26.95805624
-G,Chad Campbell (13528410),Chad Campbell,13528410,G,6100,Houston Open,Golf,24.87274599
-G,Michael Kim (13528411),Michael Kim,13528411,G,6100,Houston Open,Golf,24.88378285
-G,Tim Herron (13528412),Tim Herron,13528412,G,6100,Houston Open,Golf,23.15099566
-G,Vince Covello (13528413),Vince Covello,13528413,G,6100,Houston Open,Golf,28.1641772
-G,Boo Weekley (13528414),Boo Weekley,13528414,G,6100,Houston Open,Golf,24.88378285
-G,Bo Van Pelt (13528415),Bo Van Pelt,13528415,G,6100,Houston Open,Golf,26.97999773
-G,Ricky Barnes (13528416),Ricky Barnes,13528416,G,6100,Houston Open,Golf,25.85283733
-G,J.J. Henry (13528417),J.J. Henry,13528417,G,6100,Houston Open,Golf,26.97999773
-G,Alex Cejka (13528418),Alex Cejka,13528418,G,6100,Houston Open,Golf,24.03025763
-G,Tommy Gainey (13528419),Tommy Gainey,13528419,G,6000,Houston Open,Golf,23.15099566
-G,John Rollins (13528420),John Rollins,13528420,G,6000,Houston Open,Golf,24.89772416
-G,Daniel Chopra (13528421),Daniel Chopra,13528421,G,6000,Houston Open,Golf,23.15099566
-G,Braden Bailey (13528422),Braden Bailey,13528422,G,6000,Houston Open,Golf,24.00218542
-G,Martin Trainer (13528423),Martin Trainer,13528423,G,6000,Houston Open,Golf,23.97250839
-G,Omar Uresti (13528424),Omar Uresti,13528424,G,6000,Houston Open,Golf,23.1399588
-G,John Merrick (13528425),John Merrick,13528425,G,6000,Houston Open,Golf,24.89772416
-G,Michael Gellerman (13528426),Michael Gellerman,13528426,G,6000,Houston Open,Golf,25.85283733
-G,Michael Perras (13528427),Michael Perras,13528427,G,6000,Houston Open,Golf,24.00218542
-G,Arjun Atwal (13528428),Arjun Atwal,13528428,G,6000,Houston Open,Golf,23.1399588
-G,Rich Beem (13528429),Rich Beem,13528429,G,6000,Houston Open,Golf,24.00218542
-G,Kevin Stadler (13528430),Kevin Stadler,13528430,G,6000,Houston Open,Golf,23.1399588
+Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame,ML,ProbWin,DK_Pts,ProbLose,ActualPoints,Opponent,OpponentPoints,OpponentOdds,LosePoints,ProbPoints,Value
+P,Qiang Wang (14086419),Qiang Wang,14086419,P,8600,Jabeur@Wang 01/06/2020 01:00AM ET,Wang,48.3,-172,0.632352941,70,0.367647059,36.35,Jabeur,#N/A,0.367647059,20,51.61764706,0.006002052
+P,Rebecca Peterson (14086416),Rebecca Peterson,14086416,P,9500,Zidansek@Peterson 01/05/2020 09:15PM ET,Peterson,48.17,-283,0.738903394,70,0.261096606,36.35,Zidansek,#N/A,0.261096606,20,56.94516971,0.005994228
+P,Carla Suarez Navarro (14086435),Carla Suarez Navarro,14086435,P,6800,Kasatkina@Suarez Navarro 01/05/2020 08:00PM ET,Suarez Navarro,45.11,,0.414937759,70,0.585062241,36.35,Kasatkina,#N/A,0.585062241,20,40.74688797,0.005992189
+P,Jessica Pegula (14086437),Jessica Pegula,14086437,P,6600,Pegula@Bellis 01/05/2020 08:00PM ET,Pegula,39.2,,0.386100386,70,0.613899614,36.35,Bellis,#N/A,0.613899614,20,39.30501931,0.005955306
+P,Irina-Camelia Begu (14086430),Irina-Camelia Begu,14086430,P,7400,Begu@Pliskova 01/05/2020 11:15PM ET,Begu,41.32,,0.480769231,70,0.519230769,36.35,Pliskova,#N/A,0.519230769,20,44.03846154,0.005951143
+P,Shelby Rogers (14086433),Shelby Rogers,14086433,P,7000,Gibbs@Rogers 01/05/2020 10:00PM ET,Rogers,41.45,,0.432900433,70,0.567099567,36.35,Gibbs,#N/A,0.567099567,20,41.64502165,0.005949289
+P,Caroline Garcia (14086429),Caroline Garcia,14086429,P,7500,Garcia@Townsend 01/05/2020 09:00PM ET,Garcia,45.14,,0.490196078,70,0.509803922,36.35,Townsend,#N/A,0.509803922,20,44.50980392,0.005934641
+P,Kirsten Flipkens (14086417),Kirsten Flipkens,14086417,P,8900,Flipkens@Bouchard 01/06/2020 12:45AM ET,Flipkens,40.22,-185,0.649122807,70,0.350877193,36.35,Bouchard,#N/A,0.350877193,20,52.45614035,0.005893948
+P,Viktoria Kuzmova (14086434),Viktoria Kuzmova,14086434,P,6900,Kuzmova@Gauff 01/05/2020 10:15PM ET,Kuzmova,42.46,,0.41322314,70,0.58677686,36.35,Gauff,#N/A,0.58677686,20,40.66115702,0.005892921
+P,Lin Zhu (14086428),Lin Zhu,14086428,P,7600,Zhu@Peng 01/06/2020 12:30AM ET,Zhu,33.33,,0.495049505,70,0.504950495,36.35,Peng,#N/A,0.504950495,20,44.75247525,0.005888484
+P,Garbine Muguruza (14086415),Garbine Muguruza,14086415,P,10000,Muguruza@Wang 01/05/2020 11:15PM ET,Muguruza,50.97,-345,0.775280899,70,0.224719101,36.35,Wang,#N/A,0.224719101,20,58.76404494,0.005876404
+P,Cori Gauff (14086421),Cori Gauff,14086421,P,8400,Kuzmova@Gauff 01/05/2020 10:15PM ET,Gauff,46.03,-142,0.58677686,70,0.41322314,36.35,Kuzmova,#N/A,0.41322314,20,49.33884298,0.005873672
+P,Aliaksandra Sasnovich (14086432),Aliaksandra Sasnovich,14086432,P,7200,Friedsam@Sasnovich 01/05/2020 11:15PM ET,Sasnovich,35.95,,0.444444444,70,0.555555556,36.35,Friedsam,#N/A,0.555555556,20,42.22222222,0.005864198
+P,Saisai Zheng (14086424),Saisai Zheng,14086424,P,8100,Zheng@Rybakina 01/05/2020 10:00PM ET,Zheng,42.64,-121,0.547511312,70,0.452488688,36.35,Rybakina,#N/A,0.452488688,20,47.37556561,0.005848835
+P,Elena Rybakina (14086431),Elena Rybakina,14086431,P,7300,Zheng@Rybakina 01/05/2020 10:00PM ET,Rybakina,56.3,,0.452488688,70,0.547511312,36.35,Zheng,#N/A,0.547511312,20,42.62443439,0.005838964
+P,Catherine Cartan Bellis (14086418),Catherine Cartan Bellis,14086418,P,8700,Pegula@Bellis 01/05/2020 08:00PM ET,Bellis,0,-159,0.613899614,70,0.386100386,36.35,Pegula,#N/A,0.386100386,20,50.69498069,0.005827009
+P,Anna-Lena Friedsam (14086423),Anna-Lena Friedsam,14086423,P,8200,Friedsam@Sasnovich 01/05/2020 11:15PM ET,Friedsam,41.37,-125,0.555555556,70,0.444444444,36.35,Sasnovich,#N/A,0.444444444,20,47.77777778,0.005826558
+P,Nicole Gibbs (14086422),Nicole Gibbs,14086422,P,8300,Gibbs@Rogers 01/05/2020 10:00PM ET,Gibbs,37.77,-131,0.567099567,70,0.432900433,36.35,Rogers,#N/A,0.432900433,20,48.35497835,0.005825901
+P,Aryna Sabalenka (14086414),Aryna Sabalenka,14086414,P,10200,Sabalenka@Gasparyan 01/05/2020 10:00PM ET,Sabalenka,51.2,-370,0.787234043,70,0.212765957,36.35,Gasparyan,#N/A,0.212765957,20,59.36170213,0.005819775
+P,Jil Teichmann (14086413),Jil Teichmann,14086413,P,11300,Ivanov@Teichmann 01/05/2020 09:15PM ET,Teichmann,49.5,-1070,0.914529915,70,0.085470085,36.35,Ivanov,#N/A,0.085470085,20,65.72649573,0.005816504
+P,Shuai Peng (14086427),Shuai Peng,14086427,P,7800,Zhu@Peng 01/06/2020 12:30AM ET,Peng,44.38,-102,0.504950495,70,0.495049505,36.35,Zhu,#N/A,0.495049505,20,45.24752475,0.005800965
+P,Daria Kasatkina (14086420),Daria Kasatkina,14086420,P,8500,Kasatkina@Suarez Navarro 01/05/2020 08:00PM ET,Kasatkina,32.2,-141,0.585062241,70,0.414937759,36.35,Suarez Navarro,#N/A,0.414937759,20,49.25311203,0.005794484
+P,Xinyu Wang (14086441),Xinyu Wang,14086441,P,5400,Muguruza@Wang 01/05/2020 11:15PM ET,Wang,36.92,,0.224719101,70,0.775280899,36.35,Muguruza,#N/A,0.775280899,20,31.23595506,0.005784436
+P,Eugenie Bouchard (14086438),Eugenie Bouchard,14086438,P,6500,Flipkens@Bouchard 01/06/2020 12:45AM ET,Bouchard,36.41,,0.350877193,70,0.649122807,36.35,Flipkens,#N/A,0.649122807,20,37.54385965,0.005775978
+P,Taylor Townsend (14086426),Taylor Townsend,14086426,P,7900,Garcia@Townsend 01/05/2020 09:00PM ET,Townsend,43.57,-104,0.509803922,70,0.490196078,36.35,Garcia,#N/A,0.490196078,20,45.49019608,0.005758253
+P,Kristyna Pliskova (14086425),Kristyna Pliskova,14086425,P,8000,Begu@Pliskova 01/05/2020 11:15PM ET,Pliskova,45.03,-108,0.519230769,70,0.480769231,36.35,Begu,#N/A,0.480769231,20,45.96153846,0.005745192
+P,Ons Jabeur (14086436),Ons Jabeur,14086436,P,6700,Jabeur@Wang 01/06/2020 01:00AM ET,Jabeur,41.92,,0.367647059,70,0.632352941,36.35,Wang,#N/A,0.632352941,20,38.38235294,0.005728709
+P,Tamara Zidansek (14086439),Tamara Zidansek,14086439,P,6000,Zidansek@Peterson 01/05/2020 09:15PM ET,Zidansek,40.44,,0.261096606,70,0.738903394,36.35,Peterson,#N/A,0.738903394,20,33.05483029,0.005509138
+P,Margarita Gasparyan (14086440),Margarita Gasparyan,14086440,P,5600,Sabalenka@Gasparyan 01/05/2020 10:00PM ET,Gasparyan,38.25,,0.212765957,70,0.787234043,36.35,Sabalenka,#N/A,0.787234043,20,30.63829787,0.005471125
+P,Valentina Ivanov (14086442),Valentina Ivanov,14086442,P,4500,Ivanov@Teichmann 01/05/2020 09:15PM ET,Ivanov,0,,0.085470085,70,0.914529915,36.35,Teichmann,#N/A,0.914529915,20,24.27350427,0.005394112
